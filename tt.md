@@ -1,64 +1,49 @@
-1. Spłaszczone tabele finansowe (Wszystkie liczby w jednej kolumnie)
+W nowym pliku tt2.jsonl widać bardzo duży postęp w niektórych miejscach, ale niestety błędy nie zniknęły całkowicie z całego zbioru danych. Dataset w obecnej formie ma charakter „hybrydowy” – część wpisów została naprawiona idealnie, podczas gdy inne wciąż cierpią na dokładnie te same problemy, co wcześniej.
 
-To obecnie najpoważniejszy problem w raportach finansowych. Skrypt generuje tabele Markdown, które mają strukturę dwukolumnową (|---|---|), mimo że oryginalnie zawierają one dane dla 4 różnych okresów. W efekcie wszystkie liczby zlewają się w jeden ciąg znaków rozdzielony spacjami.
+Oto szczegółowa analiza przesłanej wersji:
+👍 Co działa świetnie (Gdzie widać poprawę)?
 
-    Przykład (XTB, Jednostkowe sprawozdanie z dochodów całkowitych):
-    Markdown
+Początkowe sekcje (np. opisy modeli biznesowych, ryzyka deweloperskie Dom Development) są wzorcowe. Tekst jest w pełni czytelny, poprawny gramatycznie, zawiera wszystkie samogłoski i nie ma tam żadnych błędów strukturalnych.
+Przykład dobrego tekstu: „Realizowane projekty deweloperskie wymagają znacznych nakładów w fazie przygotowania, a następnie budowy...” – tutaj wszystko zadziałało bez zarzutu.
+⚠️ Co wciąż wymaga naprawy (Błędy, które zostały)?
+1. Powrót błędu „Gubienie samogłosek” (Dropped Vowels)
 
-    |**całkowitych**||
-    |---|---|
-    |**(w tys. PLN)**|**OKRES 3 MIESIĘCY ZAKOŃCZONY OKRES 9 MIESIĘCY ZAKOŃCZONY...**|
-    |Wynik z operacji na instrumentach finansowych|296 209 1 306 985 421 599 1 248 988|
+W dalszych częściach pliku (szczególnie przy notach księgowych i bardziej skomplikowanych opisach finansowych) skrypt ponownie wygenerował tekst z uszkodzonym kodowaniem czcionek.
+Oto bezpośrednie przykłady wyciągnięte z Twojego pliku tt2.jsonl:
 
-    Dlaczego to błąd? Liczby 296 209, 1 306 985, 421 599 i 1 248 988 znajdują się wewnątrz jednej komórki. Ponieważ w tabelach finansowych spacje służą jako separatory tysięczne, model LLM nie będzie w stanie poprawnie zmapować, gdzie kończy się jedna kwota, a zaczyna druga (np. czy 296 209 1 to jedna liczba, czy dwie). Każdy okres musi bezwzględnie posiadać własną kolumnę Markdown (np. | Wynik... | 296 209 | 1 306 985 | ... |).
+    wartścią pdatkwą aktywow i zbwiązan a ich wartścią bilaswą wykazaą (powinno być: wartością podatkową aktywów i zobowiązań a ich wartością bilansową wykazaną)
 
-2. Rozbite tabele tekstowe i iniekcja separatorów (Inne układy kolumn)
+    stswać w disiiu dtrasakcji dkaych pjj wjściu w życiraz dtrasakcji, ktorzstały przprwadzprzd (powinno być: stosować w odniesieniu do transakcji dokonanych po jej wejściu w życie oraz transakcji, które zostały przeprowadzone przed...)
 
-W tabelach opisowych (np. przy analizie ryzyk) skrypt gubi się na granicach stron i potrafi wstrzyknąć nagłówek lub separator tabeli wewnątrz wierszy z danymi, zmieniając przy tym losowo liczbę kolumn.
+    Nalżści iwymagalrazprztrmiwad3 misiecy (powinno być: Należności niewymagalne oraz przeterminowane do 3 miesięcy)
 
-    Przykład (XTB, Istotne czynniki ryzyka):
-    W środku opisu ryzyka nagle pojawia się linia separatora z zupełnie inną liczbą kolumn (najpierw 4, potem nagle 8):
-    Markdown
+2. Nowy problem: Całkowicie rozjechana struktura nagłówków w dużych tabelach
 
-    |...stabilność głównej platformy transakcyjnej ulokowanej w bezpiecznych strefach. plany i ćwiczenia BCP/DR.|...|
-    |---|---|---|---|---|---|---|---|
-    |czasowe, lokalne zakłócenia w obsłudze klienta...|...|
+W przypadku szerokich i skomplikowanych tabel (np. analiz wrażliwości na ryzyko walutowe), parser pogubił się w dopasowywaniu wierszy. W rezultacie losowe liczby i kwoty z tabeli zostały wrzucone do nagłówka Markdown jako nazwy kolumn, a tekst komórek został ucięty.
 
-    Taki zapis całkowicie niszczy strukturę tabeli dla parsera Markdown.
+Spójrz na ten fragment tabeli w Twoim pliku tt2.jsonl:
+Markdown
 
-3. Zdania urwane i rozcięte strukturą tabeli
+| **adku wzrostu** | **Razem** | **333** | **167 787** | **7 257** | **(110 482)** | **(1 793)** | **63 102** | ...
+| --- | --- | --- | --- | --- | --- | --- | --- | ...
+| **30.06.2025** | **Analiza wrażliwości ekspozycji na ryzyko walutowe w przyp** **kursu walut +10%** | **CZK** | - 748 4 - - | 752 | 30 | ...
 
-Z powodu złego parsowania wierszy, zdania, które powinny stanowić jeden ciągły tekst wewnątrz komórki, zostają fizycznie rozcięte na dwa osobne wiersze tabeli.
+    Dlaczego to zaszkodzi modelowi?
 
-    Przykład (XTB, Ryzyko fizyczne i zmian klimatu):
-    Tekst w jednej komórce urywa się słowami:
+        Słowo adku wzrostu jest urwane (prawdopodobnie z frazy w przypadku wzrostu).
 
-        "...Zdarzenia te mogą powodować Spółka stosuje dywersyfikację geograficzną biur..."
+        Kwoty takie jak 167 787 czy (110 482) stały się technicznymi nagłówkami kolumn. Model LLM podczas treningu zacznie uczyć się, że nagłówek kolumny to po prostu zmienna liczba, co zniszczy jego zdolność do poprawnego rozumienia tabel finansowych.
 
-    A dopiero w kolejnym wierszu tabeli (pod separatorem) pojawia się dokończenie myśli:
+        Wartości wewnątrz wierszy danych zamieniły się w ciągi kresek i urwanych cyfr, np. - 748 4 - -.
 
-        "|czasowe, lokalne zakłócenia w obsłudze klienta i wzrost kosztów..."
+🛠️ Gdzie tkwi błąd w Twoim skrypcie i jak go rozwiązać?
 
-    W efekcie zdanie logiczne brzmiące: "Zdarzenia te mogą powodować czasowe, lokalne zakłócenia..." zostało przerwane w połowie i przedzielone składnią tabeli.
+Wszystko wskazuje na to, że Twoja poprawka (np. selektywne użycie OCR lub alternatywnego parsera) zadziałała, ale nie została zaaplikowana do całego pliku wejściowego albo wyłożyła się na najbardziej skomplikowanych stronach.
 
-4. Problem gubienia samogłosek (Dropped Vowels) – nadal występuje
+    Weryfikacja zakresu skryptu: Upewnij się, czy funkcja wykrywająca błędy w czcionkach (lub wymuszająca OCR dla uszkodzonych stron) nie przestała działać po przetworzeniu określonej liczby linii lub dokumentów. Zniekształcony tekst bez samogłosek pojawia się falowo – jedna sekcja jest czysta, a kolejna całkowicie uszkodzona.
 
-Mimo poprawek, w niektórych sekcjach dokumentów (prawdopodobnie w specyficznych plikach PDF o uszkodzonym mapowaniu czcionek) tekst wciąż traci litery.
+    Problem szerokich tabel (Multi-line Headers): Tabele, w których nagłówki zajmują 2-3 linijki tekstu w pionie, a kolumn jest bardzo dużo, kompletnie dezorientują standardowe narzędzia tekstowe. Kiedy parser czyta je liniami od lewej do prawej, miesza tekst z liczbami z sąsiednich kolumn.
 
-    Przykład (Fragment z losowego chunk-u tekstowego):
-    W danych pojawiają się deformacje takie jak:
+        Rozwiązanie: Dla stron zawierających sprawozdania tabelaryczne (możesz je wykryć np. po dużej gęstości znaków | lub cyfr), użyj dedykowanego narzędzia do wyciągania tabel wizualnych (np. Camelot z parametrem flavor='lattice' lub biblioteki pdfplumber z odpowiednio ustawionym table_settings), zamiast traktować je domyślnym parserem tekstowym.
 
-        "...zaichaa, w związku z tym zysk a akcje z działalści ktyuwaj jst rowy zyskwi a akcje..."
-
-    Parser zniekształcił tutaj kluczowe pojęcia finansowe i gramatyczne: zaichaa (zaniechanej), działalści (działalności), ktyuwaj (kontynuowanej), jst (jest), rowy (równy), zyskwi (zyskowi), a akcje (na akcję).
-
-Jak to ostatecznie rozwiązać w kodzie?
-
-    Dedykowany ekstraktor tabel finansowych:
-    Zamiast przetwarzać całą stronę PDF jako jeden wielki blok tekstu zamieniany na Markdown, musisz podejść do tabel modularnie. Wykorzystaj bibliotekę pdfplumber (funkcja .extract_tables()) lub wbudowany moduł wykrywania tabel w PyMuPDF (page.find_tables()). Wyciągaj tabele jako czyste macierze (listy list w Pythonie), usuwaj z nich zbędne spacje tysięczne wewnątrz liczb na czas formatowania i dopiero wtedy programistycznie buduj z nich poprawny Markdown z odpowiednią liczbą kolumn.
-
-    Łączenie tekstu rozbitego na wiersze:
-    Jeśli komórka w tabeli tekstowej kończy się małą literą lub spójnikiem (np. powodować), a następny wiersz zaczyna się od małej litery, Twój skrypt powinien automatycznie scalać te komórki w jeden tekst przed wstawieniem znaków | Markdownu.
-
-    Problem z czcionkami (Dropped Vowels):
-    Jeżeli standardowy silnik PDF (np. pdfminer / PyMuPDF) wypluwa słowa typu ktyuwaj, oznacza to wadę struktury ToUnicode w samym pliku PDF. Jedynym w 100% skutecznym rozwiązaniem dla takich stron jest zastosowanie warstwy OCR (np. Tesseract lub silnik EasyOCR/PaddleOCR), która przeczyta ten fragment jak obraz, zamiast pobierać uszkodzone mapowanie znaków bezpośrednio z pliku.
+Podsumowując: kierunek zmian w kodzie jest bardzo dobry (co potwierdzają idealnie czyste fragmenty), ale skrypt wymaga uszczelnienia, aby poprawnie obsłużył gęste tabele finansowe oraz nie pomijał trudniejszych stron przy naprawianiu samogłosek.

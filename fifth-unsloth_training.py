@@ -142,10 +142,10 @@ trainer.train()
 
 print('--- Trening zakończony. Rozpoczynam eksport ---')
 model.save_pretrained_merged(
-    "model_ollama_repo",
-    tokenizer,
-    save_method = "merged_16bit" # Najwyższa jakość
+   "model_ollama_repo",
+   tokenizer,
+   save_method = "merged_16bit" # Najwyższa jakość
 )
-#python llama.cpp/convert_hf_to_gguf.py model_ollama_repo --outfile model.gguf
-#./llama.cpp/llama-quantize model.gguf model-q4_k_m.gguf Q4_K_M
+# python llama.cpp/convert_hf_to_gguf.py model_ollama_repo --outfile model.gguf
+# ./llama.cpp/llama-quantize model.gguf model-q4_k_m.gguf Q4_K_M
 print('--- GOTOWE! Model w folderze model_ollama_repo ---')

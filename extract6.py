@@ -54,11 +54,30 @@ _PAGE_HEADER_BARE = re.compile(
     re.MULTILINE,
 )
 
+# Pattern 3: page-number + URL footer interrupting text, e.g.  "43\nxtb.com\n"
+# (both orders). The number+domain combo is an unambiguous running footer.
+_PAGE_FOOTER_NUM_URL = re.compile(
+    r"\n\s*\d{1,4}\s*\n\s*(?:www\.)?[a-z0-9-]+\.(?:com|pl|eu|net|org)\s*\n",
+    re.MULTILINE | re.IGNORECASE,
+)
+_PAGE_FOOTER_URL_NUM = re.compile(
+    r"\n\s*(?:www\.)?[a-z0-9-]+\.(?:com|pl|eu|net|org)\s*\n\s*\d{1,4}\s*\n",
+    re.MULTILINE | re.IGNORECASE,
+)
+# standalone domain-only line (running footer like "xtb.com" on its own line)
+_BARE_URL_LINE = re.compile(
+    r"\n\s*(?:www\.)?[a-z0-9-]{2,}\.(?:com|pl|eu|net|org)\s*\n",
+    re.MULTILINE | re.IGNORECASE,
+)
+
 
 def remove_page_headers(text: str) -> str:
     """Strip repeating page headers / footers that interrupt running text."""
     cleaned = _PAGE_HEADER_SOFT.sub(" ", text)
     cleaned = _PAGE_HEADER_BARE.sub("\n", cleaned)
+    cleaned = _PAGE_FOOTER_NUM_URL.sub(" ", cleaned)   # FIX 1b (issue 3 / page artifacts)
+    cleaned = _PAGE_FOOTER_URL_NUM.sub(" ", cleaned)
+    cleaned = _BARE_URL_LINE.sub("\n", cleaned)
     cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
     return cleaned
 
@@ -95,14 +114,41 @@ def _is_value_stack(cell: str) -> bool:
     return numeric >= max(2, int(len(segs) * 0.6))
 
 
+# --- Expand a numeric/date <br>-stack cell into SEPARATE Markdown columns ---
+# Better than joining with " ; " inside one cell: each period's value lands in
+# its own | column, so the table is valid Markdown AND value↔header alignment
+# is explicit. The <br> already marks the boundaries, so no PDF geometry needed.
+# Runs as its own pass (expand_value_columns) BEFORE fix_br_in_tables; the block
+# is then width-normalised in sanitize_tables.
+def _expand_row_value_columns(line: str) -> str:
+    if not _is_table_row(line):
+        return line
+    cells = line.strip().strip("|").split("|")
+    out = []
+    for c in cells:
+        c2 = c.strip()
+        if "<br>" in c2 and _is_value_stack(c2):
+            out.extend(p.strip() for p in c2.split("<br>"))
+        else:
+            out.append(c2)
+    return "| " + " | ".join(out) + " |"
+
+
+def expand_value_columns(text: str) -> str:
+    return "\n".join(
+        _expand_row_value_columns(l) if ("<br>" in l and _is_table_row(l)) else l
+        for l in text.split("\n")
+    )
+
+
 def _replace_br_in_cell(cell: str) -> str:
     if not cell:
         return cell
     # Bullet cell – handled at row level
     if re.match(r"[▪•]\s*<br>", cell):
         return cell
-    # Numeric/date stack (multi-period financial column) → explicit separator,
-    # NEVER a plain space (that is what was flattening the figures).
+    # Fallback: any numeric/date stack that survived expansion → explicit ' ; '
+    # (never a plain space — that flattens figures).
     if "<br>" in cell and _is_value_stack(cell):
         return re.sub(r"\s*<br>\s*", " ; ", cell)
     # Bold multi-line header: **A**<br>**B**  →  **A B**
@@ -197,39 +243,18 @@ def _join_cells(cells) -> str:
 
 
 def _process_table_block(block):
-    # ── 1) separator hygiene: dominant data-column count, keep one valid sep ──
-    data_cols = [len(_split_cells(l)) for l in block if not _is_sep_line(l)]
-    dom = max(set(data_cols), key=data_cols.count) if data_cols else None
-    cleaned, seen_sep = [], False
-    for l in block:
-        if _is_sep_line(l):
-            if seen_sep:
-                continue                          # drop duplicate separators
-            if dom and len(_split_cells(l)) != dom:
-                continue                          # drop column-count mismatch
-            seen_sep = True
-        cleaned.append(l)
+    # Drop ALL separators up front; a single correct one is re-inserted after
+    # width-normalisation (this also removes injected mid-table separators).
+    rows = [l for l in block if not _is_sep_line(l)]
 
-    # ── 2) merge word-wrapped label-only fragments into data rows ─────────────
+    # ── merge word-wrapped label-only fragments into data rows ────────────────
     def _append_backward(txt):
         pc = _split_cells(result[last_data])
         pc[0] = f"{pc[0]} {txt}".strip()
         result[last_data] = _join_cells(pc)
 
-    def _flush_pending():
-        nonlocal pending_fwd
-        if pending_fwd:
-            # no data row followed → attach to previous data row if any, else keep
-            if last_data is not None:
-                _append_backward(pending_fwd)
-            else:
-                result.append(_join_cells([pending_fwd]))
-            pending_fwd = None
-
     result, pending_fwd, last_data = [], None, None
-    for l in cleaned:
-        if _is_sep_line(l):
-            _flush_pending(); result.append(l); continue
+    for l in rows:
         cells = _split_cells(l)
         multi_empty = len(cells) > 1 and all(c == "" for c in cells[1:])
         # single-cell row starting lowercase = unambiguous wrap continuation.
@@ -248,14 +273,56 @@ def _process_table_block(block):
         if single_cont and last_data is not None and not pending_fwd:
             _append_backward(cells[0]); continue
 
-        # normal data / header row
         if pending_fwd:
             cells[0] = f"{pending_fwd} {cells[0]}".strip()
             pending_fwd = None
         result.append(_join_cells(cells))
         last_data = len(result) - 1
-    _flush_pending()
-    return result
+    if pending_fwd:
+        if last_data is not None:
+            _append_backward(pending_fwd)
+        else:
+            result.append(_join_cells([pending_fwd]))
+
+    # ── normalise column widths + re-insert ONE valid separator ───────────────
+    if not result:
+        return result
+    counts = [len(_split_cells(r)) for r in result]
+    # target width = the DATA width (most common count), not the max — otherwise a
+    # single messy multi-fragment header row inflates the whole table with empties.
+    width = max(set(counts), key=counts.count)
+    grid = []
+    for r in result:
+        c = _split_cells(r)
+        if len(c) > width:          # over-wide row (usually a split header) → fold overflow into last cell
+            c = c[:width - 1] + [" ".join(x for x in c[width - 1:] if x).strip()]
+        elif len(c) < width:
+            c = c + [""] * (width - len(c))
+        grid.append(c)
+    norm = [_join_cells(c) for c in grid]
+    if width >= 2:                                # only real tables get a separator
+        sep = "| " + " | ".join(["---"] * width) + " |"
+        norm = [norm[0], sep] + norm[1:]
+    return norm
+
+
+def clean_loose_semicolons(text: str) -> str:
+    """Tidy ' ; ' artefacts on NON-table lines (chart residue / stray punctuation).
+
+    The ' ; ' separator is only meaningful inside table value cells. On a plain
+    line it is leftover noise: a pure-number line is bar-chart residue (drop it);
+    prose with a stray '; ' just gets the marker collapsed to a space.
+    """
+    out = []
+    for ln in text.split("\n"):
+        if " ; " in ln and not ln.strip().startswith("|"):
+            toks = ln.split()
+            numish = sum(1 for t in toks if re.fullmatch(r"\(?-?[\d.,%)]+;?", t))
+            if toks and numish / len(toks) >= 0.6:
+                continue                       # chart-residue number line → drop
+            ln = ln.replace(" ; ", " ")        # prose stray ';' → space
+        out.append(ln)
+    return "\n".join(out)
 
 
 def sanitize_tables(text: str) -> str:
@@ -428,8 +495,10 @@ def process_pdf_to_clean_dataset(
         # ── Step 2: all cleaning passes in order ────────────────────────────
         markdown_content = clean_markdown_artifacts(raw_markdown)  # picture noise
         markdown_content = remove_page_headers(markdown_content)   # FIX 1
+        markdown_content = expand_value_columns(markdown_content)  # FIX 2a: <br>-stack → real columns
         markdown_content = fix_br_in_tables(markdown_content)      # FIX 2
-        markdown_content = sanitize_tables(markdown_content)       # FIX 2b (issues 2 & 3)
+        markdown_content = sanitize_tables(markdown_content)       # FIX 2b (issues 2 & 3) + width-normalise
+        markdown_content = clean_loose_semicolons(markdown_content) # FIX 2c: tidy loose ' ; ' artefacts
 
         # ── Step 3: split by Markdown headings ──────────────────────────────
         sections = md_splitter.split_text(markdown_content)

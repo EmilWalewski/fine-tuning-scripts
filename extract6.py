@@ -3,6 +3,7 @@ import json
 import re
 import tiktoken
 import pymupdf4llm
+import fitz  # PyMuPDF — for Tier-2 positional table rescue
 from langchain_text_splitters import MarkdownHeaderTextSplitter, RecursiveCharacterTextSplitter
 
 INSTRUCTION_TEMPLATE = (
@@ -461,6 +462,246 @@ def save_chunk_to_jsonl(parts, contexts, out_file_handle, chunk_id, max_garbled_
 
 
 # ---------------------------------------------------------------------------
+# FIX 5 – Two-tier table extraction with positional rescue (issue: jammed tables)
+#
+# pymupdf4llm sometimes renders dense, borderless financial tables catastrophically:
+# row labels jammed into one cell and the numbers jammed into a SEPARATE row, so
+# the figures cannot be mapped to their line items (e.g. Cognor balance sheet).
+# The Tier-1 cleaning passes above don't help (there is no <br> to expand).
+#
+#   Tier 1 (cheap):  pymupdf4llm + cleaning passes — used for everything.
+#   Detector:        _has_value_jam() on the cleaned text — fires only on real
+#                    value-jams (>=4 financial figures crammed into one cell).
+#   Tier 2 (costly): _positional_rows() — reconstruct the table from word x/y
+#                    coordinates (PyMuPDF), which recovers label+aligned-columns.
+#   Guard:           _validate_rescue() — accept the rescue ONLY if it looks like
+#                    a real table (labelled rows, well-formed balanced numbers,
+#                    consistent column count). On complex layouts (multi-level
+#                    headers, KRUK/XTB-annual) positional reading scrambles the
+#                    numbers; the guard rejects those so we NEVER emit garbage —
+#                    the jammed table is simply dropped instead.
+# ---------------------------------------------------------------------------
+
+_FINVAL = re.compile(r"\(\s*\d[\d  ]*\d\s*\)|\d{1,3}(?:[  ]\d{3})+|\d{5,}")
+
+def _has_value_jam(text: str, thr: int = 4) -> bool:
+    """True if any table cell crams >= thr financial values (years excluded)."""
+    for line in text.split("\n"):
+        if not _is_table_row(line):
+            continue
+        for cell in line.split("|"):
+            vals = [v for v in _FINVAL.findall(cell)
+                    if not re.fullmatch(r"(?:19|20)\d{2}", v.strip())]
+            if len(vals) >= thr:
+                return True
+    return False
+
+
+def _positional_rows(page, x_gap_merge: int = 6):
+    """Tier 2: cluster a page's words into rows by Y, merging thousand-groups of a
+    single number by small X-gap. Returns list[list[str]] (cells per row)."""
+    rows = {}
+    for x0, y0, x1, y1, wd, *_ in page.get_text("words"):
+        yc = round((y0 + y1) / 2)
+        k = next((k for k in rows if abs(k - yc) <= 3), None)
+        rows.setdefault(k if k is not None else yc, []).append((x0, x1, wd))
+    out = []
+    for y in sorted(rows):
+        ws = sorted(rows[y]); toks = []
+        for x0, x1, wd in ws:
+            if toks:
+                px0, px1, pw = toks[-1]
+                if x0 - px1 < x_gap_merge and re.search(r"[\d)]$", pw) and re.match(r"[\d(]", wd):
+                    toks[-1] = (px0, x1, pw + " " + wd); continue
+            toks.append((x0, x1, wd))
+        out.append([t[2] for t in toks])
+    return out
+
+
+_NUMCELL = re.compile(r"^[\d  .,()%-]+$")
+_WELL = re.compile(r"^\(?-?\d{1,3}(?:[  ]\d{3})*\)?$|^\(?-?\d+\)?$|^-$|^\d+,\d+$")
+
+def _is_numcell(c: str) -> bool:
+    return bool(re.search(r"\d", c)) and bool(_NUMCELL.match(c))
+
+def _well_formed(c: str) -> bool:
+    return bool(_WELL.match(c)) and c.count("(") == c.count(")")
+
+def _row_has_label(cells) -> bool:
+    return any(re.search(r"[A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż]{4,}", c) and not _is_numcell(c) for c in cells)
+
+
+def _validate_rescue(rows) -> bool:
+    """Accept positional rescue only if it looks like a real table: >=3 labelled
+    rows with >=2 well-formed numbers, low ill-formed ratio, consistent widths."""
+    good, widths, ill, numtot = 0, [], 0, 0
+    for cells in rows:
+        nums = [c for c in cells if _is_numcell(c)]
+        numtot += len(nums)
+        ill += sum(1 for n in nums if not _well_formed(n))
+        wf = [n for n in nums if _well_formed(n) and len(re.sub(r"\D", "", n)) >= 3]
+        if len(wf) >= 2 and _row_has_label(cells):
+            good += 1; widths.append(len(wf))
+    if good < 3:
+        return False
+    if numtot and ill / numtot > 0.12:        # scrambled numbers (KRUK/XTB-annual)
+        return False
+    from statistics import mode
+    m = mode(widths)
+    cons = sum(1 for w in widths if abs(w - m) <= 1) / len(widths)
+    return cons >= 0.6
+
+
+def _rows_to_markdown(rows) -> str:
+    """Render rescued rows as a clean Markdown table. Leading non-numeric tokens
+    become the label cell; numeric tokens become columns. Pure-prose rows (no
+    numbers) are skipped — they remain in the Tier-1 prose."""
+    md_rows = []
+    for cells in rows:
+        if not any(_is_numcell(c) for c in cells):
+            continue
+        label, vals = [], []
+        for c in cells:
+            (vals if (_is_numcell(c) or c == "-") else label).append(c)
+        row = [" ".join(label).strip()] + vals
+        md_rows.append(row)
+    if not md_rows:
+        return ""
+    width = max(len(r) for r in md_rows)
+    out = []
+    for i, r in enumerate(md_rows):
+        r = r + [""] * (width - len(r))
+        out.append("| " + " | ".join(r) + " |")
+        if i == 0 and width >= 2:
+            out.append("| " + " | ".join(["---"] * width) + " |")
+    return "\n".join(out)
+
+
+def _strip_table_blocks(md: str, only_jammed: bool) -> str:
+    """Remove table-row blocks. If only_jammed, drop only blocks containing a
+    value-jam (keep good tables); otherwise drop all table blocks."""
+    lines = md.split("\n"); out = []; i = 0; n = len(lines)
+    while i < n:
+        if not _is_table_row(lines[i]):
+            out.append(lines[i]); i += 1; continue
+        blk = []
+        while i < n and _is_table_row(lines[i]):
+            blk.append(lines[i]); i += 1
+        if only_jammed and not _has_value_jam("\n".join(blk)):
+            out.extend(blk)        # keep non-jammed tables
+        # else drop
+    return "\n".join(out)
+
+
+def _clean_page(md: str) -> str:
+    md = clean_markdown_artifacts(md)
+    md = remove_page_headers(md)
+    md = expand_value_columns(md)
+    md = fix_br_in_tables(md)
+    md = sanitize_tables(md)
+    md = clean_loose_semicolons(md)
+    return md
+
+
+def extract_clean_markdown(pdf_path: str) -> str:
+    """Page-aware extraction with two-tier table rescue. Returns the full cleaned
+    Markdown for the document (consumed by the chunker)."""
+    pages = pymupdf4llm.to_markdown(pdf_path, page_chunks=True, show_progress=False)
+    doc = fitz.open(pdf_path)
+    out_pages = []
+    rescued_n = dropped_n = 0
+    for i, pg in enumerate(pages):
+        md = _clean_page(pg["text"])
+        if _has_value_jam(md):
+            rows = _positional_rows(doc[i])
+            if _validate_rescue(rows):
+                prose = _strip_table_blocks(md, only_jammed=False)   # drop jammed garbage tables
+                rescued = _rows_to_markdown(rows)
+                md = (prose.rstrip() + "\n\n" + rescued).strip()
+                rescued_n += 1
+            else:
+                md = _strip_table_blocks(md, only_jammed=True)       # drop only jammed; keep rest
+                dropped_n += 1
+        out_pages.append(md)
+    if rescued_n or dropped_n:
+        print(f"    [tier-2] strony z jamem: rescue={rescued_n}, pominięte_tabele={dropped_n}")
+    return "\n\n".join(out_pages)
+
+
+# ---------------------------------------------------------------------------
+# Shared extraction adapter — used BOTH for dataset creation and by
+# report_analyzer.py for a single uploaded file (guarantees train↔inference parity).
+# ---------------------------------------------------------------------------
+
+def extract_inputs_from_pdf(
+    pdf_path: str,
+    max_tokens: int = 3700,
+    min_characters: int = 800,
+    max_garbled_risk: float = 0.05,
+):
+    """Extract a PDF into the list of final 'input' strings (the exact text fed to
+    the model under '### Input:'). Applies Tier-1+Tier-2 extraction, chunking and
+    the garbled-risk filter. Returns list[str]."""
+    md_splitter = MarkdownHeaderTextSplitter(headers_to_split_on=[
+        ("#", "Naglowek_Glowny"), ("##", "Sekcja"), ("###", "Podsekcja")])
+    markdown_content = extract_clean_markdown(pdf_path)
+    sections = md_splitter.split_text(markdown_content)
+
+    inputs = []
+    buffer_parts, buffer_tokens, buffer_contexts = [], 0, set()
+
+    def _emit(parts, contexts):
+        combined = "\n\n".join(parts)
+        if max_garbled_risk is not None and compute_garbled_score(combined) > max_garbled_risk:
+            return
+        ctx = " | ".join(sorted(list(contexts)))
+        inputs.append(f"DOKUMENT SEKCJA: {ctx}\n\n{combined}")
+
+    for doc in sections:
+        context_hierarchy = [doc.metadata[h] for h in ("Naglowek_Glowny", "Sekcja", "Podsekcja")
+                             if h in doc.metadata]
+        context_string = " > ".join(context_hierarchy) if context_hierarchy else "Główny Dokument"
+        reconstructed_text = ""
+        if "Naglowek_Glowny" in doc.metadata: reconstructed_text += f"# {doc.metadata['Naglowek_Glowny']}\n"
+        if "Sekcja" in doc.metadata:          reconstructed_text += f"## {doc.metadata['Sekcja']}\n"
+        if "Podsekcja" in doc.metadata:       reconstructed_text += f"### {doc.metadata['Podsekcja']}\n"
+        reconstructed_text += doc.page_content
+        if len(reconstructed_text.strip()) < 100:
+            continue
+        doc_tokens = count_tokens(reconstructed_text)
+
+        if doc_tokens > max_tokens:
+            if buffer_parts:
+                _emit(buffer_parts, buffer_contexts)
+                buffer_parts, buffer_tokens, buffer_contexts = [], 0, set()
+            token_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
+                encoding_name="cl100k_base", chunk_size=max_tokens, chunk_overlap=400,
+                separators=["\n\n", "\n|", "\n", ". ", "? ", "! ", " "])
+            current_table_header = None
+            for sub_text in token_splitter.split_text(reconstructed_text):
+                detected_header = extract_table_header(sub_text)
+                if detected_header:
+                    current_table_header = detected_header
+                elif "|" in sub_text and "|---" not in sub_text.replace(" ", "") and current_table_header:
+                    sub_text = current_table_header + "\n" + sub_text
+                if len(sub_text) >= min_characters and not is_toc_chunk(sub_text):
+                    _emit([sub_text], {context_string})
+            continue
+
+        if buffer_tokens + doc_tokens > max_tokens:
+            if buffer_parts and buffer_parts[0].strip():
+                _emit(buffer_parts, buffer_contexts)
+            buffer_parts, buffer_tokens, buffer_contexts = [], 0, set()
+        buffer_parts.append(reconstructed_text)
+        buffer_tokens += doc_tokens
+        buffer_contexts.add(context_string)
+
+    if buffer_parts:
+        _emit(buffer_parts, buffer_contexts)
+    return inputs
+
+
+# ---------------------------------------------------------------------------
 # Main processing pipeline
 # ---------------------------------------------------------------------------
 
@@ -469,129 +710,37 @@ def process_pdf_to_clean_dataset(
     out_dir: str,
     max_tokens: int = 3700,
     min_characters: int = 800,
-    max_garbled_risk: float = None,   # issue 4: drop chunks with OCR-corruption above this (e.g. 0.05)
+    max_garbled_risk: float = None,
 ):
     os.makedirs(out_dir, exist_ok=True)
+    src = os.path.abspath(pdf_dir)
+    if os.path.isfile(src):
+        base_dir, pdf_files = os.path.dirname(src), [os.path.basename(src)]
+    else:
+        base_dir, pdf_files = src, sorted(f for f in os.listdir(src) if f.endswith(".pdf"))
 
-    headers_to_split_on = [
-        ("#", "Naglowek_Glowny"),
-        ("##", "Sekcja"),
-        ("###", "Podsekcja"),
-    ]
-    md_splitter = MarkdownHeaderTextSplitter(headers_to_split_on=headers_to_split_on)
-
-    for pdf_file in sorted(os.listdir(pdf_dir)):
+    for pdf_file in pdf_files:
         if not pdf_file.endswith(".pdf"):
             continue
-
-        pdf_path = os.path.join(pdf_dir, pdf_file)
+        pdf_path = os.path.join(base_dir, pdf_file)
         name_only = os.path.splitext(pdf_file)[0]
         output_file = os.path.join(out_dir, f"{name_only}-clean.jsonl")
         print(f"\nProcesowanie: {pdf_file} → {output_file}")
 
-        # ── Step 1: extract raw Markdown ────────────────────────────────────
-        raw_markdown = pymupdf4llm.to_markdown(pdf_path)
-
-        # ── Step 2: all cleaning passes in order ────────────────────────────
-        markdown_content = clean_markdown_artifacts(raw_markdown)  # picture noise
-        markdown_content = remove_page_headers(markdown_content)   # FIX 1
-        markdown_content = expand_value_columns(markdown_content)  # FIX 2a: <br>-stack → real columns
-        markdown_content = fix_br_in_tables(markdown_content)      # FIX 2
-        markdown_content = sanitize_tables(markdown_content)       # FIX 2b (issues 2 & 3) + width-normalise
-        markdown_content = clean_loose_semicolons(markdown_content) # FIX 2c: tidy loose ' ; ' artefacts
-
-        # ── Step 3: split by Markdown headings ──────────────────────────────
-        sections = md_splitter.split_text(markdown_content)
-
-        buffer_parts: list = []
-        buffer_tokens: int = 0
-        buffer_contexts: set = set()
-        file_saved_count = 1
+        inputs = extract_inputs_from_pdf(pdf_path, max_tokens, min_characters, max_garbled_risk)
 
         with open(output_file, "w", encoding="utf-8") as out_f:
-            for doc in sections:
-                # Build context breadcrumb
-                context_hierarchy = [
-                    doc.metadata[h]
-                    for h in ("Naglowek_Glowny", "Sekcja", "Podsekcja")
-                    if h in doc.metadata
-                ]
-                context_string = (
-                    " > ".join(context_hierarchy) if context_hierarchy else "Główny Dokument"
-                )
-
-                # Reconstruct heading prefixes for readability
-                reconstructed_text = ""
-                if "Naglowek_Glowny" in doc.metadata:
-                    reconstructed_text += f"# {doc.metadata['Naglowek_Glowny']}\n"
-                if "Sekcja" in doc.metadata:
-                    reconstructed_text += f"## {doc.metadata['Sekcja']}\n"
-                if "Podsekcja" in doc.metadata:
-                    reconstructed_text += f"### {doc.metadata['Podsekcja']}\n"
-                reconstructed_text += doc.page_content
-
-                if len(reconstructed_text.strip()) < 100:
-                    continue
-
-                doc_tokens = count_tokens(reconstructed_text)
-
-                # ── Case A: single section exceeds budget → sub-split ────────
-                if doc_tokens > max_tokens:
-                    if buffer_parts:
-                        if save_chunk_to_jsonl(
-                            buffer_parts, buffer_contexts, out_f, file_saved_count, max_garbled_risk
-                        ):
-                            file_saved_count += 1
-                        buffer_parts, buffer_tokens, buffer_contexts = [], 0, set()
-
-                    token_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(
-                        encoding_name="cl100k_base",
-                        chunk_size=max_tokens,
-                        chunk_overlap=400,
-                        separators=["\n\n", "\n|", "\n", ". ", "? ", "! ", " "],
-                    )
-                    sub_chunks = token_splitter.split_text(reconstructed_text)
-
-                    current_table_header = None
-                    for sub_text in sub_chunks:
-                        detected_header = extract_table_header(sub_text)
-                        if detected_header:
-                            current_table_header = detected_header
-                        elif (
-                            "|" in sub_text
-                            and "|---" not in sub_text.replace(" ", "")
-                            and current_table_header
-                        ):
-                            sub_text = current_table_header + "\n" + sub_text
-
-                        if len(sub_text) >= min_characters and not is_toc_chunk(sub_text):
-                            if save_chunk_to_jsonl(
-                                [sub_text], {context_string}, out_f, file_saved_count, max_garbled_risk
-                            ):
-                                file_saved_count += 1
-                    continue
-
-                # ── Case B: section doesn't fit → flush buffer ───────────────
-                if buffer_tokens + doc_tokens > max_tokens:
-                    if buffer_parts and buffer_parts[0].strip():
-                        if save_chunk_to_jsonl(
-                            buffer_parts, buffer_contexts, out_f, file_saved_count, max_garbled_risk
-                        ):
-                            file_saved_count += 1
-                    buffer_parts, buffer_tokens, buffer_contexts = [], 0, set()
-
-                # ── Accumulate ───────────────────────────────────────────────
-                buffer_parts.append(reconstructed_text)
-                buffer_tokens += doc_tokens
-                buffer_contexts.add(context_string)
-
-            # Flush remaining buffer
-            if buffer_parts:
-                save_chunk_to_jsonl(
-                    buffer_parts, buffer_contexts, out_f, file_saved_count, max_garbled_risk
-                )
-
-        print(f"  → Zapisano ~{file_saved_count} chunków")
+            for cid, final_input in enumerate(inputs, 1):
+                row = {
+                    "id": cid,
+                    "instruction": INSTRUCTION_TEMPLATE,
+                    "input": final_input,
+                    "output": "",
+                    "garbled_risk": round(compute_garbled_score(final_input), 4),
+                }
+                out_f.write(json.dumps(row, ensure_ascii=False) + "\n")
+        print(f"  → Zapisano {len(inputs)} chunków")
+    return
 
 
 # ---------------------------------------------------------------------------

@@ -1,0 +1,24 @@
+DOKUMENT SEKCJA: **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **BP-2 UJAWNIANIE INFORMACJI W ODNIESIENIU DO SZCZEGÓLNYCH OKOLICZNOŚCI**
+
+Jednostka może pominąć sprawozdawczość w zakresie osób niebędących pracownikami w pierwszym roku sporządzania NIE sprawozdania dotyczącego zrównoważonego rozwoju. Jednostka może pominąć informacje określone w ESRS S1-15 w pierwszym roku sporządzania sprawozdania dotyczącego TAK zrównoważonego rozwoju. Jednostki lub grupy nieprzekraczające w dniu bilansowym średniej liczby 750 pracowników w roku obrotowym (w stosownych przypadkach w ujęciu skonsolidowanym) mogą pominąć TAK informacje określone w wymogach dotyczących ujawniania informacji ESRS S2 przez pierwsze dwa lata sporządzania sprawozdania dotyczącego zrównoważonego rozwoju. Jednostki lub grupy nieprzekraczające w dniu bilansowym średniej liczby 750 pracowników w roku obrotowym (w stosownych przypadkach w ujęciu skonsolidowanym) mogą pominąć TAK informacje określone w wymogach dotyczących ujawniania informacji ESRS S3 przez pierwsze dwa lata sporządzania sprawozdania dotyczącego zrównoważonego rozwoju. Jednostki lub grupy nieprzekraczające w dniu bilansowym średniej liczby 750 pracowników w roku obrotowym (w stosownych przypadkach w ujęciu skonsolidowanym) mogą pominąć TAK informacje określone w wymogach dotyczących ujawniania informacji ESRS S4 przez pierwsze dwa lata sporządzania sprawozdania dotyczącego zrównoważonego rozwoju.
+W niniejszym raporcie nie są publikowane informacje o antycypowaniu skutków wynikających z istotnych ryzyk fizycznych i ryzyk przejścia oraz potencjalnych możliwości związanych z klimatem.
+Ilość nabywanej na rynku energii elektrycznej ze źródeł odnawialnych określana jest na podstawie informacji pochodzących z Rejestru Gwarancji Pochodzenia (RGP). Niepewności podlegają szacunki dotyczące przyszłości, np. wycena przyszłych przepływów pieniężnych Grupy.
+Podczas zbierania danych spółki z Grupy nie odwoływały się do norm europejskich zatwierdzonych przez Europejski System Normalizacji (ISO/CEN/CENELEC). Dane i procedury wykorzystywane na potrzeby sprawozdawczości w zakresie zrównoważonego rozwoju nie zostały zweryfikowane przez zewnętrznego dostawcę usług atestacyjnych i uznane za zgodne z odpowiednią normą ISO/IEC lub CEN/CENELEC.
+Informacje wskazane w niniejszym sprawozdaniu odnoszą się do:
+
+| Temat | Odniesienie |
+| --- | --- |
+| Sposób powoływania Zarządu i | Rozdział 4.5 Sprawozdania |
+| innych organów Spółki | Zarządu z działalności |
+| Skład Rady Nadzorczej oraz informacje na temat ról i obowiązków | Rozdział 4.6 Sprawozdania Zarządu z działalności |
+| Rozdział 4.11 Opis systemu kontroli | Sprawozdania Zarządu z |
+| wewnętrznej | działalności |
+| Liczba pracowników w podziale | Rozdział 1.5 Sprawozdania |
+| na lokalizację | Zarządu z działalności |
+| Nota 7.33 Skonsolidowanego Podział całkowitych przychodów | Sprawozdania |
+| w podziale na lokalizację | Finansowego |
+| Rozdział 1.3 Sprawozdania Biznesowe cele strategiczne | z działalności |
+| Nota 7.35 Działania realizowane w ramach | Skonsolidowanego |
+| budżetów projektów | Sprawozdania |
+| deweloperskich | Finansowego |
+| Nota 7.34 Skonsolidowanego Sprawozdania Przychód ze sprzedaży | Finansowego |

@@ -1,0 +1,110 @@
+DOKUMENT SEKCJA: **10.13. Podział pozycji sprawozdania z sytuacji finansowej na krótkoterminowe oraz długoterminowe** | **10.15. Zapasy (w tym nieruchomości przejęte w ramach inwestycji w portfele wierzytelności)** | **10.17. Środki pieniężne i ich ekwiwalenty** | **10.18. Zobowiązania z tytułu świadczeń pracowniczych** | **Należności z tytułu dostaw i usług** | **Podstawowy zysk przypadający na akcję** | _**Zabezpieczenie ryzyka walutowego**_
+
+## _**Zabezpieczenie ryzyka walutowego**_
+Ekspozycja na ryzyko walutowe Grupy powstaje głównie na inwestycjach w jednostkach zależnych oraz zobowiązaniach finansowych wycenianych w walucie obcej (nota 12).  
+Polityka zarządzania ryzykiem walutowym obejmuje następujące zagadnienia:  
+- a) cele Grupy w zakresie zarządzania ryzykiem walutowym,  
+- b) kluczowe zasady zarządzania ryzykiem walutowym w Grupie,  
+- c) dopuszczalny wpływ ryzyka walutowego na wyniki i kapitały Grupy (apetyt na ryzyko walutowe),  
+- d) metody pomiaru i monitorowania ryzyka walutowego oraz ekspozycji na ryzyko walutowe,  
+- e) zasady postępowania w przypadku przekroczenia dopuszczalnego apetytu na ryzyko walutowe i określonych limitów ryzyka walutowego,  
+- f) zasady zabezpieczania ryzyka walutowego,  
+- g) role i obowiązki w procesie zarządzania ryzykiem walutowym.  
+W latach 2019-2025 Grupa podjęła działania zabezpieczające ryzyko walutowe wynikające z przeliczenia aktywów netto w jednostce zagranicznej poprzez zawarcie przez spółki z Grupy transakcji zabezpieczających. Celem Grupy jest ograniczenie wpływu różnic kursowych w skonsolidowanym sprawozdaniu z tytułu konsolidacji zależnych podmiotów zagranicznych. Transakcje zostały zawarte przez KRUK S.A. i rozliczone różnicami kursowymi, bez dostawy waluty. Szczegóły dotyczące zawartych i zrealizowanych transakcji zostały zaprezentowane w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym sporządzonym na dzień 31 grudnia 2024 r. i za rok obrotowy kończący się tego dnia.  
+Zabezpieczenie ryzyka walutowego stanowią również walutowe kontrakty zamiany stóp procentowych (CIRS), które zostały opisane w punkcie powyżej, tj. _Zabezpieczenie ryzyka stóp procentowych._  
+| **Rodzaj** **zabezpieczenia** Zabezpieczanie przyszłych przepływów pieniężnych Zabezpieczanie przyszłych przepływów pieniężnych Zabezpieczanie przyszłych przepływów pieniężnych/ Zabezpieczanie inwestycji netto w jednostce zagranicznej |
+| **Pozycja w** **sprawozdaniu** **z sytuacji** **finansowej** Instrumenty zabezpieczające Instrumenty zabezpieczające Instrumenty zabezpieczające |
+| - - 114 326 **114 326** |
+| **Nominał** **transakcji** - PLN 432 500 (EUR) 2 330 000 (PLN) |
+| - - 114 644 **114 644** |
+| _w tysiącach złotych_ **Typ instrumentu:** **IRS** **IRS** **CIRS** |
+| 56 |
+| **Nominał pozycji** **zabezpieczanej** 432 500 (EUR) - 2 330 000 (PLN) |
+| _w tysiącach złotych_ Zabezpieczanie przyszłych przepływów pieniężnych (ryzyko stopy procentowej) Zabezpieczanie inwestycji w aktywach netto w jednostce zagranicznej (ryzyko walutowe) Zabezpieczanie przyszłych przepływów pieniężnych/Zabezpieczanie inwestycji w jednostkę zależną (ryzyko walutowe/ryzyko stopy procentowej) |
+|  |
+| 57 |
+| **Nominał pozycji** **zabezpieczanej** - 432 500 (EUR) - 1 957 500 (PLN) |
+| _w tysiącach złotych_ Zabezpieczanie przyszłych przepływów pieniężnych (ryzyko stopy procentowej) Zabezpieczanie przyszłych przepływów pieniężnych (ryzyko stopy procentowej) Zabezpieczanie inwestycji w aktywach netto w jednostce zagranicznej (ryzyko walutowe) Zabezpieczanie przyszłych przepływów pieniężnych/Zabezpieczanie inwestycji w jednostkę zależną (ryzyko walutowe/ryzyko stopy procentowej) |
+|  |
+| 58 |
+| **Powyżej 5 lat** - - - - **Powyżej 5 lat** - - - - |
+| _w tysiącach złotych_ **Typ instrumentu:** **IRS** stała płatność EUR sprzedaż zmienna płatność EUR **CIRS** stała płatność zmienna płatność **Typ instrumentu:** **IRS** stała płatność EUR sprzedaż zmienna płatność EUR **CIRS** stała płatność zmienna płatność |
+|  |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **Podstawowy zysk przypadający na akcję**
+W I półroczu 2025 roku nastąpiło podwyższenie kapitału zakładowego Jednostki Dominującej:  
+-  w dniu 5 marca 2025 r. o kwotę 14 550 zł, w drodze emisji akcji serii H, do kwoty 19 396 218 zł  
+- oraz  
+-  w dniu 10 czerwca 2025 r. o kwotę 6 695 zł, w drodze emisji akcji serii H, do kwoty 19 402 913 zł.  
+Podwyższenia kapitału zakładowego zostały zrealizowane w ramach warunkowego podwyższenia kapitału na podstawie Uchwały Zwyczajnego Walnego Zgromadzenia nr 22/2021 z dnia 16 czerwca 2021 r., poprzez emisję odpowiednio 14 550 akcji oraz 6 695 akcji serii H Jednostki Dominującej o wartości nominalnej 1 zł każda. Akcje serii H zostały wyemitowane w związku z wykonaniem przez uprawnione osoby prawa do objęcia akcji wynikającego z posiadanych warrantów subskrypcyjnych, wyemitowanych w ramach programu motywacyjnego adresowanego do kluczowych członków kadry menedżerskiej KRUK S.A. oraz spółek wchodzących w skład Grupy Kapitałowej KRUK.  
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **10.13. Podział pozycji sprawozdania z sytuacji finansowej na krótkoterminowe oraz długoterminowe**
+Powyższy podział pozycji ze sprawozdania z sytuacji finansowej na krótkoterminowe i długoterminowe prezentowany jest według przepływów spodziewanych na koniec okresu sprawozdawczego.  
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+64<br>## **10.14. Wartość firmy**  
+| _w tysiącach złotych_ | **Kancelaria** **Prawna** **RAVEN** **Kruk** **Espana S.L.** **Ogółem** |  |  |
+| --- | --- | --- | --- |
+| **Wartość brutto na dzień 1 stycznia 2024 r.** | 299 | 48 101 | 48 400 |
+| Zwiększenia | - - - |  |  |
+| Zmniejszenia | - - - |  |  |
+| Różnice kursowe zprzeliczenia | - | (156) | (156) |
+| **Wartość brutto na dzień 31grudnia 2024 r.** | 299 | 47 945 | 48 244 |
+| **Wartość brutto na dzień 1 stycznia 2025 r.** | 299 | 47 945 | 48 244 |
+| Zwiększenia | - - - |  |  |
+| Zmniejszenia | - - - |  |  |
+| Różnice kursowe zprzeliczenia | - | (67) | (67) |
+| **Wartość brutto na dzień 30 czerwca 2025 r.** **Odpisy z tytułu utraty wartości** | 299 | 47 878 | 48 177 |
+| **Odpis z tytułu utraty wartości na dzień 1 stycznia 2024 r.** | - | (40 316) | (40 316) |
+| Zwiększenia | - - - |  |  |
+| Zmniejszenia | - - - |  |  |
+| **Odpis z tytułu utraty wartości na dzień 31grudnia 2024 r.** | - | (40 316) | (40 316) |
+| **Odpis z tytułu utraty wartości na dzień 1 stycznia 2025 r.** | - | (40 316) | (40 316) |
+| Zwiększenia | - - - |  |  |
+| Zmniejszenia | - - - |  |  |
+| **Odpis z tytułu utraty wartości na dzień 30 czerwca 2025 r.** **Wartość netto** | - | (40 316) | (40 316) |
+| Na dzień 1 stycznia 2024 r. | 299 | 7 785 | 8 084 |
+| Na dzień 31grudnia 2024 r. | 299 | 7 629 | 7 928 |
+| Na dzień 1 stycznia 2025 r. | 299 | 7 629 | 7 928 |
+| Na dzień 30 czerwca 2025 r. | 299 | 7 562 | 7 861 |
+Na dzień 30 czerwca 2025 r. nie stwierdzono przesłanek do dokonania odpisu na wartości firmy.  
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **10.15. Zapasy (w tym nieruchomości przejęte w ramach inwestycji w portfele wierzytelności)**
+| _w tysiącach złotych_ | **30.06.2025** | **niebadane** | **31.12.2024** | **30.06.2024** | **niebadane** |
+| --- | --- | --- | --- | --- | --- |
+| Nieruchomości | 11 514 | 12 356 | 11 490 |  |  |
+| Pozostałe zapasy | 227 | 200 | 151 |  |  |
+| 11 741 | 12 556 | 11 641 |  |  |  |
+W ramach działalności operacyjnej Grupa przejmuje nieruchomości stanowiące zabezpieczenie nabytych wierzytelności. Część wpłat zrealizowanych z pakietów pochodzi ze sprzedaży na otwartym rynku przejętych wcześniej nieruchomości.
+
+## **Należności z tytułu dostaw i usług**
+| _w tysiącach złotych_ | **30.06.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Należności z tytułu dostaw i usług- krótkoterminowe | 12 595 | 19 619 |  |
+| 12 595 **Pozostałe należności** | 19 619 |  |  |
+| _w tysiącach złotych_ | **30.06.2025** | **niebadane** | **31.12.2024** |
+| Należności z tytułu podatków innych niż podatek dochodowy | 23 964 | 18 723 |  |
+| Należności z tytułu kwot zwindykowanych | 22 757 | 26 583 |  |
+| Należności z tytułu kaucji i wadiów | 5 959 | 6 922 |  |
+| Inne należności | 502 | 268 |  |
+| 53 182 | 52 496 |  |  |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **10.17. Środki pieniężne i ich ekwiwalenty**
+| _w tysiącach złotych_ | **30.06.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Środki pieniężne w kasie | 128 | 115 |  |
+| Środkipieniężne na rachunkach bieżących | 266 002 | 214 675 |  |
+| 266 130 | 214 790 |  |  |
+
+## **10.18. Zobowiązania z tytułu świadczeń pracowniczych**
+| _w tysiącach złotych_ | **30.06.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Zobowiązania z tytułu wynagrodzeń | 24 646 | 40 045 |  |
+| Zobowiązania z tytułu świadczeń socjalnych | 26 838 | 23 913 |  |
+| Rezerwy z tytułu niewykorzystanych urlopów | 19 623 | 14 993 |  |
+| Zobowiązania z tytułu PIT | 5 457 | 5 733 |  |
+| Fundusze specjalne | 1 497 | 1 091 |  |
+| 78 061 | 85 775 |  |  |

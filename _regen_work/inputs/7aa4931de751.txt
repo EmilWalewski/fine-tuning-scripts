@@ -1,0 +1,68 @@
+DOKUMENT SEKCJA: **1. Dane Jednostki dominującej i skład Grupy Kapitałowej** | **1.1. Informacja o podmiotach sprawozdawczych w strukturze organizacyjnej Jednostki dominującej** | **Śródroczne skrócone skonsolidowane sprawozdanie z przepływów pieniężnych** | **Śródroczne skrócone skonsolidowane sprawozdanie ze zmian w kapitale własnym za okres od 1 stycznia 2024 do 30 września 2024 roku** | **Śródroczne skrócone skonsolidowane sprawozdanie ze zmian w kapitale własnym**
+
+## **Śródroczne skrócone skonsolidowane sprawozdanie ze zmian w kapitale własnym**
+**Śródroczne skrócone skonsolidowane sprawozdanie ze zmian w kapitale własnym za okres od 1 stycznia 2025 do 30 września 2025 roku**  
+| **RÓŻNICE** **(w tys. PLN)** | **KAPITAŁ** **PODSTAWOWY** | **KAPITAŁ** **ZAPASOWY** | **POZOSTAŁE** **KAPITAŁY** **REZERWOWE** | **KURSOWE** **Z PRZELICZENIA** **JEDNOSTEK** **ZAGRANICZNYCH** **ORAZ FUNDUSZY** **WYDZIELONYCH** | **ZYSKI** **ZATRZYMANE** | **KAPITAŁY** **PRZYPADAJĄCE** **WŁAŚCICIELOM** **JEDNOSTKI** **DOMINUJĄCEJ** | **UDZIAŁY** **NIEKONTROLUJĄCE** | **KAPITAŁ** **WŁASNY** **RAZEM** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **NOTA** | **23** | **23** | **23, 24** | **23** | **24** |  |  |  |
+| **Stan na 1 stycznia 2025 roku** **Całkowite dochody za okres** **sprawozdawczy** | **5 878** | **71 608** | **1 059 614** | **(4 074)** | **870 495** | **2 003 521** | **120** | **2 003 641** |
+| Zysk netto | - | - | - | - | 463 292 | 463 292 | (13) | **463 279** |
+| Inne całkowite dochody | - | - | - | (7 369) | - | (7 369) | (54) | **(7 423)** |
+| **Całkowite dochody za okres** **sprawozdawczy razem** **Transakcje ujęte bezpośrednio** **w kapitale własnym ** | **-** | **-** | **-** | **(7 369)** | **463 292** | **455 923** | **(67)** | **455 856** |
+| Podział wyniku finansowego - wypłata dywidendy | - | - | - | - | (640 753) | (640 753) | - | **(640 753)** |
+| -przeniesienie na kapitał rezerwowy | - | - | 214 449 | - | (214 449) | - | - | **-** |
+| Ujęcie programu motywacyjnego w formie akcji | - | - | 6 242 | - | - | 6 242 | - | **6 242** |
+| Nabycie akcji własnych w ramach programu motywacyjnego | - | - | (7 379) | - | - | (7 379) | - | **(7 379)** |
+| Rozliczenie nabycia akcji własnych w ramach programu motywacyjnego w formie akcji | - | - | 699 | - | - | 699 | - | **699** |
+| Wniesienie kapitału przez udziałowców niekontrolujących | **-** | **-** | **-** | **-** | **-** | **-** | **794** | **794** |
+| **Zwiększenie (zmniejszenie) kapitału** **własnego ** | **-** | **-** | **214 011** | **(7 369)** | **(391 910)** | **(185 268)** | **727** | **(184 541)** |
+| **Stan na 30 września 2025 roku** | **5 878** | **71 608** | **1 273 625** | **(11 443)** | **478 585** | **1 818 253** | **847** | **1 819 100** |
+Śródroczne skrócone skonsolidowane sprawozdanie ze zmian w kapitale własnym należy analizować łącznie z notami uzupełniającymi stanowiącymi integralną część śródrocznego skróconego skonsolidowanego sprawozdania finansowego.  
+9  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **Śródroczne skrócone skonsolidowane sprawozdanie ze zmian w kapitale własnym za okres od 1 stycznia 2024 do 30 września 2024 roku**
+| **RÓŻNICE** **(w tys. PLN)** | **KAPITAŁ** **PODSTAWOWY** | **KAPITAŁ** **ZAPASOWY** | **POZOSTAŁE** **KAPITAŁY** **REZERWOWE** | **KURSOWE** **Z PRZELICZENIA** **JEDNOSTEK** **ZAGRANICZNYCH** **ORAZ FUNDUSZY** **WYDZIELONYCH** | **ZYSKI** **ZATRZYMANE** | **KAPITAŁY** **PRZYPADAJĄCE** **WŁAŚCICIELOM** **JEDNOSTKI** **DOMINUJĄCEJ** | **UDZIAŁY** **NIEKONTROLUJĄCE** | **KAPITAŁ** **WŁASNY** **RAZEM** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **NOTA** | **23** | **23** | **23, 24** | **23** | **24** |  |  |  |
+| **Stan na 1 stycznia 2024 roku** **Całkowite dochody za okres** **sprawozdawczy** | **5 878** | **71 608** | **863 166** | **(6 595)** | **800 606** | **1 734 663** | **-** | **1 734 663** |
+| Zysk netto | - | - | - | - | 666 998 | 666 998 | (126) | **666 872** |
+| Inne całkowite dochody | - | - | - | (1 134) | - | (1 134) | (7) | **(1 141)** |
+| **Całkowite dochody za okres** **sprawozdawczy razem** **Transakcje ujęte bezpośrednio** **w kapitale własnym ** | **-** | **-** | **-** | **(1 134)** | **666 998** | **665 864** | **(133)** | **665 731** |
+| Podział wyniku finansowego - wypłata dywidendy | - | - | - | - | (590 198) | (590 198) | - | **(590 198)** |
+| -przeniesienie na kapitał rezerwowy | - | - | 196 938 | - | (196 938) | - | - | **-** |
+| Ujęcie programu motywacyjnego w formie akcji | - | - | 5 780 | - | - | 5 780 | - | **5 780** |
+| Nabycie akcji własnych w ramach programu motywacyjnego | - | - | (7 750) | - | - | (7 750) | - | **(7 750)** |
+| Wniesienie kapitału przez udziałowców niekontrolujących | **-** | **-** | **-** | **-** | **-** | **-** | **276** | **276** |
+| **Zwiększenie (zmniejszenie) kapitału** **własnego ** | **-** | **-** | **194 968** | **(1 134)** | **(120 138)** | **73 696** | **(133)** | **73 563** |
+| **Stan na 30 września 2024 roku** | **5 878** | **71 608** | **1 058 134** | **(7 729)** | **680 468** | **1 808 359** | **143** | **1 808 502** |
+Śródroczne skrócone skonsolidowane sprawozdanie ze zmian w kapitale własnym należy analizować łącznie z notami uzupełniającymi stanowiącymi integralną część śródrocznego skróconego skonsolidowanego sprawozdania finansowego.  
+10  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **Śródroczne skrócone skonsolidowane sprawozdanie z przepływów pieniężnych**
+Śródroczne skrócone skonsolidowane sprawozdanie z przepływów pieniężnych należy analizować łącznie  
+z notami uzupełniającymi stanowiącymi integralną część śródrocznego skróconego skonsolidowanego sprawozdania finansowego.  
+11  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **1. Dane Jednostki dominującej i skład Grupy Kapitałowej**
+Jednostką dominującą w Grupie Kapitałowej XTB S.A. („Grupa”, „Grupa Kapitałowa) jest XTB S.A. (zwany dalej: „Spółka dominująca”, „Jednostka dominująca”, „Dom Maklerski”, „XTB”) z siedzibą Centrali w Warszawie, ul. Prosta 67, 00-838 Warszawa, Polska.  
+XTB S.A. jest wpisany do Rejestru Przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez Sąd Rejonowy dla m.st. Warszawy, Polska, XII Wydział Gospodarczy KRS pod nr 0000217580. Jednostce dominującej nadano numer statystyczny REGON 015803782 oraz numer NIP 5272443955.  
+Przedmiotem działalności jednostki dominującej jest prowadzenie działalności maklerskiej na rynku giełdowym (akcje, ETP - Exchange Traded Products) oraz na rynku OTC (instrumenty pochodne na waluty, towary, indeksy, akcje i ETP oraz obligacje). XTB S.A. jest polskim brokerem z sektora fin-tech, dostarczającym innowacyjne produkty i usługi dedykowane aktywnemu inwestowaniu, oszczędzaniu oraz zarządzaniu płatnościami wirtualnymi. Jednostka dominująca wraz z podległymi oddziałami zagranicznymi i spółkami zależnymi tworzy Grupę Kapitałową XTB, która posiada biura w 15 krajach na całym świecie. Jednostka dominująca podlega nadzorowi Komisji Nadzoru Finansowego i prowadzi działalność regulowaną na podstawie zezwolenia z dnia 8 listopada 2005 roku nr DDM-M-4021-57-1/2005.
+
+## **1.1. Informacja o podmiotach sprawozdawczych w strukturze organizacyjnej Jednostki dominującej**
+Niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym objęte są następujące oddziały zagraniczne wchodzące w skład Jednostki dominującej:  
+- XTB S.A. organizačni složka - oddział utworzony w dniu 7 marca 2007 roku w Republice Czeskiej. Oddział wpisany został do rejestru handlowego prowadzonego przez Sąd Miejski w Pradze pod numerem 56720 oraz posiada następujący numer identyfikacji podatkowej CZK 27867102.  
+- XTB S.A. Sucursal en Espana - oddział utworzony w dniu 19 grudnia 2007 roku w Hiszpanii. W dniu 16 stycznia 2008 roku oddział zarejestrowany został przez władze Hiszpanii oraz posiada następujący numer identyfikacji podatkowej ES W0601162A.  
+- XTB S.A. organizačná zložka - oddział utworzony w dniu 1 lipca 2008 roku w Republice Słowackiej. W dniu 6 sierpnia 2008 roku oddział wpisany został do rejestru handlowego prowadzonego przez Sąd Miejski w Bratysławie pod numerem 36859699 oraz posiada następujący numer identyfikacji podatkowej SK4020230324.  
+- XTB S.A. Varsovia Sucursala Bucuresti - oddział utworzony w dniu 31 lipca 2008 roku w Rumunii. W dniu 4 sierpnia 2008 roku oddział wpisany został do Rejestru Przedsiębiorców pod numerem 402030 oraz posiada następujący numer identyfikacji podatkowej RO27187343.  
+- XTB S.A. German Branch - oddział utworzony w dniu 5 września 2008 roku w Republice Federalnej Niemiec. W dniu 24 października 2008 roku oddział wpisany został do Rejestru Przedsiębiorców pod numerem HRB 84148 oraz posiada następujący numer identyfikacji podatkowej DE266307947.  
+- XTB S.A. Succursale Française - oddział utworzony w dniu 21 kwietnia 2010 roku w Republice Francuskiej. W dniu 31 maja 2010 roku oddział wpisany został do Rejestru Przedsiębiorców pod numerem 522758689 oraz posiada następujący numer identyfikacji podatkowej FR61522758689.  
+- XTB S.A. Sucursal em Portugal - oddział utworzony w dniu 7 lipca 2010 roku w Portugalii. W dniu 7 lipca 2010 roku oddział wpisany został do Rejestru Przedsiębiorców i identyfikacji podatkowej pod numerem PT980436613.  
+12  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.

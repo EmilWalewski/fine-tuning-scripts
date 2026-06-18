@@ -1,0 +1,134 @@
+DOKUMENT SEKCJA: Główny Dokument
+
+**SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU**
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**
+3
+Niniejsze skonsolidowane sprawozdanie finansowe za rok zakończony dnia 31 grudnia 2025 roku, na które składa się:
+* skonsolidowany bilans sporządzony na dzień 31 grudnia 2025 roku,
+«skonsolidowany rachunek zysków i strat za okres dwunastu miesięcy zakończony dnia 31 grudnia 2025 roku,
+* skonsolidowane sprawozdanie z całkowitych dochodów za okres dwunastu miesięcy zakończony dnia 31 grudnia 2025 roku,
+* skonsolidowany rachunek przepływów pieniężnych, za okres dwunastu miesięcy zakończony dnia 31 grudnia 2025 roku,
+* skonsolidowane zestawienie zmian w kapitale własnym za okres dwunastu miesięcy zakończony dnia 31 grudnia 2025 roku,
+© dodatkowe informacje i objaśnienia do skonsolidowanego sprawozdania finansowego
+zostało sporządzone oraz zatwierdzone przez Zarząd Dom Development S.A. w dniu 16 marca 2026 roku.
+
+Zarząd Dom Development S.A. oświadcza, że wedle jego najlepszej wiedzy, niniejsze skonsolidowane sprawozdanie finansowe
+za rok 2025 i dane porównywalne sporządzone zostały zgodnie z obowiązującymi zasadami rachunkowości oraz odzwierciedlają
+w sposób prawdziwy, rzetelny i jasny sytuację majątkową i finansową Grupy Kapitałowej Dom Development S.A. oraz jej wynik
+finansowy.
+
+Mikołaj Konopka
+Prezes Zarządu
+Monika Dobosz Justyna Wilk
+Wiceprezes Zarządu Członek Zarządu
+Grzegorz Smoliński Terry r. Roydon
+Członek Zarządu Członek Zarządu
+SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPA KAPITAŁOWA DOM 4
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU DEVELOPMENT S.A.
+
+2 SKONSOLIDOWANY BILANS
+Aktywa trwałe
+Wartości niematerialne 7.6 25 993 22 742
+Rzeczowe aktywa trwałe 7.7 96 081 66 760
+Aktywo z tytułu podatku odroczonego 7.21 39 305 26 167
+Inwestycje wyceniane metodą praw własności 7.39 - -
+Należności długoterminowe 7.8 9134 8090
+Pożyczki udzielone długoterminowe 7.8 59 424 52 408
+Nieruchomości inwestycyjne 22 712 23 326
+Pozostałe aktywa długoterminowe 91 8015
+AKTYWA TRWAŁE RAZEM 252740 207 508
+Aktywa obrotowe
+Zapasy 7.9 5 087 117 4301 204
+Należności z tytułu dostaw i usług oraz pozostałe należności 7.10 101 349 109 740
+Pozostałe aktywa obrotowe 7.11 7865 26 103
+Należności z tytułu podatku dochodowego 7.32 3815 50118
+Pożyczki udzielone krótkoterminowe 7.8 215 2875
+Krótkoterminowe aktywa finansowe 7.12 259552 230 124
+Środki pieniężne i ich ekwiwalenty 7.13 268 689 360 846
+AKTYWA OBROTOWE RAZEM 5728602 5081010
+AKTYWA RAZEM 5981342 5288518
+PASYWA Nota 31.12.2025 31.12.2024
+Kapitał własny
+Kapitał zakładowy 7.14 25 798 25 798
+Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej 7.15 276 458 276 458
+Pozostałe kapitały (kapitał zapasowy) 982 278 898 638
+Kapitał rezerwowy z wyceny zabezpieczeń przepływów pieniężnych (1697) 4691
+Kapitał rezerwowy z tytułu obowiązku wykupu udziałów niekontrolujących - -
+Kapitał rezerwowy z obniżenia kapitału akcyjnego 510 510
+Niepodzielony wynik finansowy 704931 495 567
+Kapitał własny przypadający na akcjonariuszy jednostki dominującej 1988 278 1701 662
+Udziały niekontrolujące 127 174
+KAPITAŁ WŁASNY RAZEM 1988 405 1701836
+Zobowiązania długoterminowe
+Kredyty — część długoterminowa 7.18 42 572 -
+Obligacje — część długoterminowa 7.19 535 000 510000
+Rezerwa z tytułu podatku odroczonego 7.21 38335 62 113
+Rezerwy długoterminowe 7.22 71799 65 249
+Zobowiązania z tytułu leasingu - część długoterminowa 7.24 64 756 35 163
+Pozostałe zobowiązania długoterminowe 7.23 102 181 93 832
+ZOBOWIĄZANIA DŁUGOTERMINOWE RAZEM 854 643 766 357
+Zobowiązania krótkoterminowe
+Zobowiązania z tytułu dostaw, usług i podatków oraz pozostałe zobowiązania 7.25 749 871 697 175
+Kredyty — część krótkoterminowa 7.18 10000 -
+Obligacje — część krótkoterminowa 7.19 110 000 100 000
+Zobowiązania z tytułu odsetek od kredytów i obligacji 7.20 6215 6863
+Zobowiązania z tytułu leasingu - część krótkoterminowa 7.24 84 092 89 852
+Zobowiązania z tytułu podatku dochodowego od osób prawnych 7.32 94 725 14564
+Rezerwy krótkoterminowe 7.26 36 081 37 659
+Przychody przyszłych okresów 7.27 2047 310 1874212
+ZOBOWIĄZANIA KRÓTKOTERMINOWE RAZEM 3138294 2.820 325
+ZOBOWIAZANIA RAZEM 3 992 937 3 586 682
+KAPITAŁ WŁASNY I ZOBOWIĄZANIA RAZEM 5981342 5288518
+Wszystkie kwoty w tysiącach złotych.
+
+SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPA KAPITAŁOWA DOM 5
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU DEVELOPMENT S.A.
+
+Nota 01.01.-31.12.2025 _ 01.01.-31.12.2024
+Przychody ze sprzedaży 7.34 3 255 594 3 168 177
+Koszt własny sprzedaży 7.34 (2 134 460) (2149016)
+Zysk brutto ze sprzedaży 1121 134 1019161
+Koszty sprzedaży 7.35 (118 606) (106 064)
+Koszty ogólnego zarządu 7.35 (182 022) (187 351)
+Pozostałe przychody operacyjne 7.37 12 130 20966
+Pozostałe koszty operacyjne 7.38 (30 229) (48 479)
+Udziały w wyniku finansowym jednostek wycenianych metodą praw własności 7.39 (1 437) (990)
+Zysk na działalności operacyjnej 800 970 697 243
+Przychody finansowe 7.40 24 110 20661
+Koszty finansowe 7.41 (14 977) (11 472)
+Zysk brutto 810 103 706 432
+Podatek dochodowy 7.32 (155 968) (137 275)
+Zysk netto z działalności kontynuowanej 654 135 569 157
+Zysk netto 654 135 569 157
+Zysk netto przypadający na:
+Udziały niekontrolujące (47) 92
+Akcjonariuszy jednostki dominującej 654 182 569 065
+Zysk na jedną akcję zwykłą przypadający akcjonariuszom
+jednostki dominującej
+Podstawowy (w PLN) 7.31 25,36 22,07
+Rozwodniony (w PLN) 7.31 25,36 22,07
+*) W roku 2025 oraz 2024 Grupa nie zaniechała żadnej działalności
+Wszystkie kwoty w tysiącach złotych, o ile nie zaznaczono inaczej.
+
+SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPA KAPITAŁOWA DOM 6
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU DEVELOPMENT S.A.
+
+01.01.-31.12.2025 01.01.-31.12.2024
+Zysk netto 654 135 569 157
+Inne całkowite dochody:
+Zmiana netto z tytułu zabezpieczenia przepływów pieniężnych (7 886) (979)
+Pozycje, które będą odniesione do rachunku zysków i strat (7886) (979)
+Pozycje, które nie będą odniesione do rachunku zysków i strat = =
+Inne całkowite dochody, przed opodatkowaniem (7886) (879)
+Podatek dochodowy dotyczący innych całkowitych dochodów, które odniesione
+zai 1498 186
+będą na rachunek zysków i strat
+Inne całkowite dochody netto (6.388) (793)
+Catkowite dochody netto 647 747 568 364
+Całkowite dochody netto przypadające na:
+Udziały niekontrolujące (47) 92
+Akcjonariuszy jednostki dominującej 647 794 568 272
+Wszystkie kwoty w tysiącach złotych.
+
+SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPA KAPITAŁOWA DOM 7
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU DEVELOPMENT S.A.

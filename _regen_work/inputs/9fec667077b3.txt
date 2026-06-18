@@ -1,0 +1,20 @@
+DOKUMENT SEKCJA: **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO JEDNOSTKOWEGO SPRAWOZDANIA FINANSOWEGO** > Rok poprzedni
+
+# **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO JEDNOSTKOWEGO SPRAWOZDANIA FINANSOWEGO**
+
+## Rok poprzedni
+
+| **RZECZOWE AKTYWA TRWAŁE** | **Prawo do** **Grunty i budynki** **Środki transportu** | **Urządzenia i** | **Razem** |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **użytkowania** **lokali** **trwałe** | **pozostałe środki** |  |  |  |  |
+| **Wartość brutto napoczątek okresu** | **32 966** | **2 406** | **7 937** | **12 138** | **55 447** |
+| Zwiekszia - abycispołk | - - - - - |  |  |  |  |
+| Zwieksziapzstał | 3 437 | 6 218 | 1 928 | 2 522 | 14 105 |
+| (Zmniejszenia) | - | (4 494) | (758) | (4 054) | (9 306) |
+| **Wartość brutto na koniec okresu** | **36 403** | **4 130** | **9 107** | **10 606** | **60 246** |
+| **Skumulowana amortyzacja na** **początek okresu** | **19 624** | **-** | **5 128** | **10 834** | **35 586** |
+| Zwiekszia - abycispołk | - - - - - |  |  |  |  |
+| Zwieksziapzstał | 4 894 | 502 | 974 | 1 297 | 7 667 |
+| (Zmniejszenia) | - | - | (758) | (3 811) | (4 569) |
+| **Skumulowana amortyzacja na** **koniec okresu** | **24 518** | **502** | **5 344** | **8 320** | **38 684** |
+| **Wartość netto na koniec okresu** | **11 885** | **3 628** | **3 763** | **2 286** | **21 562** |

@@ -1,0 +1,72 @@
+DOKUMENT SEKCJA: **3. WALUTA FUNKCJONALNA I WALUTA PREZENTACJI SPRAWOZDAŃ FINANSOWYCH** | **4. WPŁYW ZMIAN STANDARDÓW MSSF NA SPRAWOZDANIE FINANSOWE** | **5. POLITYKA RACHUNKOWOŚCI** | **5.1.1. Rzeczowe aktywa trwałe** | **5.1.2. Zapasy** | **Opublikowane standardy, które nie zostały jeszcze zatwierdzone przez UE** | PODSTAWOWE INFORMACJE O SPÓŁCE | Po zmianie:
+
+## PODSTAWOWE INFORMACJE O SPÓŁCE
+| NAZWA | Creotech Instruments Spółka Akcyjna |
+| --- | --- |
+| FORMA PRAWNA | spółka akcyjna |
+| SIEDZIBA | ul. Jana Pawła II 66,05-500 Piaseczno |
+| Organprowadzącyrejestr | Sąd Rejonowydla m.st. Warszawy,XIV Wydział Gospodarczy |
+| REGON | 141246690 |
+Creotech Instruments Spółka Akcyjna („Spółka”, „Emitent”, „Jednostka”) powstała z przekształcenia Creotech Spółka z ograniczoną odpowiedzialnością w dniu 2 stycznia 2012 roku na podstawie uchwały Nadzwyczajnego Zgromadzenia Wspólników z dnia 22 listopada 2011 roku, akt notarialny: Repertorium A Nr 12116/2011, notariusz: Krzysztof Borawski, Warszawa.  
+Creotech Instruments Spółka Akcyjna nie jest spółka zależną od innej jednostki, która posiadałaby w niej całościowy lub częściowy udział.  
+Czas trwania Spółki jest nieoznaczony.  
+Spółka zajmuje się przede wszystkim:  
+- projektowaniem, produkcją oraz sprzedażą podsystemów i systemów wykorzystywanych w przemyśle kosmicznym, w tym satelitów,  
+- projektowaniem, produkcją oraz sprzedażą podsystemów i systemów do zarządzania operacjami dronowymi oraz do generowania, przetwarzania lub udostępniania danych satelitarnych i dronowych,  
+- projektowaniem, produkcją oraz sprzedażą podsystemów i systemów wykorzystywanych w komputerach kwantowych, kryptografii kwantowej, systemach synchronizacji czasu oraz pozostałych podsystemów lub systemów wykorzystywanych w działalności naukowej,  
+- usługowym wytwarzaniem elektroniki przemysłowej na zamówienie klientów.  
+**2. PODSTAWA SPORZĄDZENIA ŚRÓDROCZNEGO SKRÓCONEGO SPRAWOZDANIA FINANSOWEGO**  
+Śródroczne skrócone sprawozdanie finansowe zostało sporządzone w oparciu o zasadę kosztu historycznego.  
+Niniejsze śródroczne skrócone sprawozdanie finansowe zostało sporządzone zgodnie z Międzynarodowymi Standardami Sprawozdawczości Finansowej („MSSF”) zatwierdzonymi przez UE, w tym przede wszystkim z Międzynarodowym Standardem Rachunkowości nr 34 „Śródroczna sprawozdawczość finansowa”.  
+Biorąc pod uwagę toczący się w UE proces wprowadzania standardów MSSF oraz prowadzoną przez Spółkę działalność, w zakresie stosowanych zasad rachunkowości nie ma różnicy między standardami MSSF, które weszły w życie, a standardami MSSF zatwierdzonymi przez UE. MSR i MSSF obejmują standardy i interpretacje zaakceptowane przez Radę Międzynarodowych Standardów Rachunkowości („RMSR”) oraz Komitet ds. Interpretacji Międzynarodowej Sprawozdawczości Finansowej („KIMSF”).  
+Śródroczne skrócone sprawozdanie z całkowitych dochodów obejmuje dane za okres 9 miesięcy zakończony 30 września 2025 roku oraz dane porównawcze za okres 9 miesięcy zakończony 30 września 2024 roku. Śródroczne skrócone sprawozdanie z sytuacji finansowej obejmuje dane na dzień 30 września 2025 roku oraz dane porównawcze na dzień 31 grudnia 2024 roku. Śródroczne skrócone sprawozdanie z przepływów pieniężnych oraz śródroczne skrócone sprawozdanie ze zmian w kapitale własnym obejmują dane za okres 9 miesięcy zakończony 30 września 2025 roku oraz dane porównawcze za okres 9 miesięcy zakończony 30 września 2024 roku.  
+11  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+Śródroczne skrócone sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności gospodarczej przez Spółkę w dającej się przewidzieć przyszłości przez okres co najmniej 12 miesięcy od końca okresu sprawozdawczego. W drugim kwartale 2025 roku Spółka utworzyła i objęła kontrolą dwie spółki zależne Creotech Quantum S.A. i Creotech Geo P.S.A. tworząc z nimi grupę kapitałową. Aktualnie obie spółki zależne prowadzą działalność operacyjną w bardzo niewielkim zakresie, a z uwagi na brak przychodów operacyjnych, niewielkie koszty oraz brak zatrudnienia, jednostka dominująca uznała je za nieistotne, zgodnie z MSR 1 par. 2931 i MSR 8 par. 5 i par. 8. W związku z tym na dzień 30.09.2025 roku Spółka zdecydowała się przygotować jedynie śródroczne jednostkowe sprawozdanie finansowe, a tym samym nie sporządzać sprawozdania skonsolidowanego grupy kapitałowej. Zdaniem jednostki dominującej ujawnienia zaprezentowane w jednostkowym sprawozdaniu finansowym dotyczące spółek zależnych spełniają fundamentalne cechy jakościowe sprawozdawczości finansowej takie jak użyteczność, przydatność oraz wierna prezentacja.  
+W ramach oceny możliwości kontynuacji działalności przez Spółkę Zarząd dokonał analizy znanych czynników ryzyka.  
+Na dzień zatwierdzenia niniejszego śródrocznego skróconego sprawozdania finansowego nie stwierdza się istnienia okoliczności wskazujących na zagrożenie kontynuowania działalności przez Spółkę.
+
+## **3. WALUTA FUNKCJONALNA I WALUTA PREZENTACJI SPRAWOZDAŃ FINANSOWYCH**
+Walutą funkcjonalną Spółki i walutą prezentacji niniejszego śródrocznego skróconego sprawozdania finansowego jest złoty polski (PLN). Ewentualne zaistniałe różnice w wysokości 1 tys. PLN przy sumowaniu pozycji zaprezentowanych w notach objaśniających wynikają z przyjętych zaokrągleń. Zaokrąglenia stosowane są w taki sposób, że liczby po przecinku posiadające kwotę większą niż 500 zł zaokrąglane są w górę, a kwoty po przecinku poniżej 500 zł zaokrąglane są w dół.
+
+## **4. WPŁYW ZMIAN STANDARDÓW MSSF NA SPRAWOZDANIE FINANSOWE**
+Zmiany do istniejących standardów wydane przez Radę Międzynarodowych Standardów Rachunkowości oraz zatwierdzone do stosowania w UE, które weszły w życie od 1 stycznia 2024 roku:  
+- Zmiany do MSSF 16 Leasing – zobowiązania leasingowe w transakcjach sprzedaży i leasingu zwrotnego (opublikowano 21 listopada 2023 roku) - mające zastosowanie dla okresów rocznych rozpoczynających się dnia 1 stycznia 2024 roku lub później;  
+- Zmiany do MSR 1 Prezentacja sprawozdań finansowych – klasyfikacja zobowiązań jako krótkoterminowe i długoterminowe - (opublikowano 20 grudnia 2023 roku) - mające zastosowanie dla okresów rocznych rozpoczynających się dnia 1 stycznia 2024 roku lub później;  
+- Zmiany do MSR 7 Rachunek przepływów pieniężnych oraz MSSF 7 Instrumenty finansowe – ujawnienia informacji – umowy finansowania zobowiązań wobec dostawców. - mające zastosowanie dla okresów rocznych rozpoczynających się dnia 1 stycznia 2024 roku lub później;  
+- Coroczne poprawki do Standardów Rachunkowości MSSF – wydanie 11 zawierające zmiany do MSSF 1, MSSF 7, MSSF 9, MSSF 10 i MSR 7;  
+- Zmiany do MSSF 9 i MSSF 7 – kontrakty oparte o energię elektryczną zależną od czynników naturalnych.
+
+## **Opublikowane standardy, które nie zostały jeszcze zatwierdzone przez UE**
+Poniższe zestawienie przedstawia opublikowane standardy lub poprawki do istniejących standardów, które nie zostały jeszcze zatwierdzone przez UE:  
+12  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+- Zmiany do MSSF 9 Instrumenty finansowe i MSSF 7 Instrumenty finansowe – ujawnienia informacji – zmiany w klasyfikacji i wycenie instrumentów finansowych - mające zastosowanie dla okresów rocznych rozpoczynających się dnia 1 stycznia 2026 roku lub później;  
+- MSSF 18 Prezentacja i ujawnienia w sprawozdaniach finansowych - mający zastosowanie dla okresów rocznych rozpoczynających się dnia 1 stycznia 2027 roku lub później;  
+- MSSF 19 Spółki zależne bez odpowiedzialności publicznej: ujawnianie informacji - mający zastosowanie dla okresów rocznych rozpoczynających się dnia 1 stycznia 2027 roku lub później;  
+- Zmiany do MSR 21 Skutki zmian kursów wymiany walut obcych – brak wymienialności - mające zastosowanie dla okresów rocznych rozpoczynających się dnia 1 stycznia 2025 roku lub później.  
+Powyższe zmiany nie mają istotnego wpływu na śródroczne skrócone sprawozdanie finansowe Spółki.
+
+## **5. POLITYKA RACHUNKOWOŚCI**
+W 2025 roku stosowana polityka rachunkowości uległa zmianie w porównaniu do 31 grudnia 2024 roku w poniższym zakresie.
+
+## **5.1.1. Rzeczowe aktywa trwałe**
+Przed zmianą minimalny okres ekonomicznej użyteczności dla innych środków trwałych wynosił 1 rok. Po zmianie wynosi 13 miesięcy.  
+Grupy rzeczowych aktywów trwałych występujące w Spółce oraz okresy ekonomicznej użyteczności:  
+| **Grupa rzeczowych aktywów trwałych** | **Minimalny okres ekonomicznej** **użyteczności** | **Maksymalny okres ekonomicznej** **użyteczności** |
+| --- | --- | --- |
+| Budynki i budowle | 7 lat | 67 lat |
+| Urządzenia techniczne i maszyny | 3 lata | 10 lat |
+| Środki transportu | 5 lat | 15 lat |
+| Inne środki trwałe | 13 m-cy | 10 lat |
+
+## **5.1.2. Zapasy**
+Przed zmianą było:  
+Wartość rozchodu zapasów jest ustalana przy zastosowaniu metody pierwsze weszło-pierwsze wyszło, z wyjątkiem pozycji, które co do zasady nie są wzajemnie wymienialne, oraz dóbr i usług wytworzonych i przeznaczonych do realizacji konkretnych przedsięwzięć, dla których wartość rozchodu ustala się z zastosowaniem metody szczegółowej identyfikacji poszczególnych cen nabycia lub kosztów wytworzenia.
+
+## Po zmianie:
+Wartość rozchodu zapasów jest ustalana przy zastosowaniu metody pierwsze weszło-pierwsze wyszło lub przy zastosowaniu metody szczegółowej identyfikacji, tj. rozchód wycenia się zgodnie z faktyczną ceną każdego składnika aktywów, który został zużyty jeśli takie są wymagania projektowe lub umowne.  
+Cenę nabycia lub koszt wytworzenia pozycji zapasów dotyczące pozycji, które co do zasady nie są wzajemnie wymienialne, oraz dóbr i usług wytworzonych i przeznaczonych do konkretnych przedsięwzięć ustala się z zastosowaniem metody szczegółowej identyfikacji poszczególnych cen nabycia i kosztów wytworzenia.  
+Powyższe zmiany nie mają istotnego wpływu na niniejsze sprawozdanie finansowe Spółki, ani na poprzednie sprawozdania Spółki.  
+13  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)

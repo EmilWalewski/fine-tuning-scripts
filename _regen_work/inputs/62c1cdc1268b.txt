@@ -1,0 +1,27 @@
+DOKUMENT SEKCJA: **4. Opis przyjętych zasad rachunkowości** | **Zmiany zasad rachunkowości**
+
+## **4. Opis przyjętych zasad rachunkowości**
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe zostało sporządzone w oparciu o koncepcje wyceny:  
+- według zamortyzowanego kosztu ustalonego przy zastosowaniu efektywnej stopy procentowej  z uwzględnieniem odpisu z tytułu utraty wartości dla aktywów będących aktywami dotkniętymi utratą wartości ze względu na ryzyko kredytowe,  
+-  dla aktywów finansowych będących częścią modelu biznesowego, którego celem jest osiąganie korzyści z pozyskiwania kontraktowych przepływów pieniężnych  
+oraz  
+-  dla pozostałych zobowiązań finansowych,  
+- według wartości godziwej dla instrumentów pochodnych oraz udzielonych pożyczek, dla których wynikające z umowy przepływy pieniężne nie są jedynie spłatą kwoty głównej i odsetek od kwoty głównej pozostałej do spłaty,  
+- według kosztu historycznego dla aktywów i zobowiązań niefinansowych.
+
+## **Zmiany zasad rachunkowości**
+Przy sporządzeniu niniejszego skróconego śródrocznego sprawozdania finansowego zastosowano te same zasady rachunkowości co w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym sporządzonym na dzień 31 grudnia 2024 r. i za rok obrotowy kończący się tego dnia.  
+Grupa zastosowała następujące obowiązujące zmiany standardów i interpretacji, które zostały zatwierdzone do stosowania w Unii Europejskiej od 1 stycznia 2025 r.:  
+- Zmiany do MSR 21 Skutki zmian kursów wymiany walut obcych – Brak wymienialności walut.  
+Zmiany nie miały znaczącego wpływu na skrócone śródroczne skonsolidowane sprawozdanie finansowe Grupy.  
+Niniejsze sprawozdanie finansowe uwzględnia wymogi zatwierdzonych przez Unię Europejską Międzynarodowych Standardów Rachunkowości, Międzynarodowych Standardów Sprawozdawczości Finansowej oraz związanych z nimi interpretacji, które zostały wydane i obowiązują za okresy roczne rozpoczynające się 1 stycznia 2025 roku.  
+| **Data wejścia w życie dla** **okresów** **rozpoczynających się** **w dniu oraz później** | 1 stycznia 2026 r. | 1 stycznia 2026 r. | 1 stycznia 2026 r. |
+| --- | --- | --- | --- |
+| **Ewentualny wpływ na** **sprawozdanie finansowe** | Grupa analizuje ewentualny wpływ zmian na jej skonsolidowane sprawozdanie finansowe. | Grupa analizuje ewentualny wpływ zmian na jej skonsolidowane sprawozdanie finansowe. | Grupa nie oczekuje, aby zmiany miały znaczący wpływ na jej skonsolidowane sprawozdanie finansowe. |
+| **Rodzaj przewidywanej zmiany w zasadach rachunkowości** | Coroczne ulepszenia wprowadzają niewielkie zmiany do MSSF 1 Zastosowanie MSSF po raz pierwszy, MSSF 7 Instrumenty finansowe - Ujawnianie informacji, MSSF 9 Instrumenty finansowe, MSSF 10 Skonsolidowane sprawozdanie finansowe oraz Rolnictwo oraz MSR 7 Sprawozdanie z przepływów pieniężnych. | Zmiany uwzględnią różnorodność w praktyce księgowej, czyniąc wymogi bardziej zrozumiałymi i spójnymi. | Celem poprawek jest lepsze odzwierciedlenie skutków fizycznych i wirtualnych umów na energię elektryczną zależną od natury w sprawozdaniach finansowych. |
+| **Standardy i interpretacje** **zatwierdzone przez UE** | Roczny program poprawek do MSSF, część 11 | Zmiany w klasyfikacji i wycenie instrumentów finansowych (Zmiany do MSSF 9 i MSSF 7) | Kontrakty na energię elektryczną zależną od natury (Zmiany do MSSF 9 i MSSF 7) |
+| **Data wejścia w życie dla** **okresów** **rozpoczynających się** **w dniu oraz później** | 1 stycznia 2027 r. | 1 stycznia 2027 r. |  |
+| **Ewentualny wpływ na** **sprawozdanie finansowe** | Grupa nie oczekuje, aby zmiany miały znaczący wpływ na jej skonsolidowane sprawozdanie finansowe. | Grupa analizuje zakres wpływu standardu na prezentację jej skonsolidowanego sprawozdania finansowego. |  |
+| **Rodzaj przewidywanej zmiany w zasadach rachunkowości** | Nowy standard określa zmniejszone wymogi dotyczące ujawniania informacji, które uprawniona jednostka może stosować, zamiast wymogów dotyczących ujawnień przewidzianych w innych MSSF. | Standard ma zastąpić MSR 1 Prezentacja sprawozdań finansowych. |  |
+| **Standardy** **i Interpretacje oczekujące na** **zatwierdzenie przez UE** | MSSF 19 Jednostki zależne bez publicznej odpowiedzialności: Ujawnienia | MSSF 18 Prezentacja i ujawnienia w sprawozdaniach finansowych |  |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_

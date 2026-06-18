@@ -1,0 +1,66 @@
+DOKUMENT SEKCJA: **3 OMÓWIENIE WYNIKÓW FINANSOWYCH DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ** > **3.3.1 RACHUNEK ZYSKÓW I STRAT SPÓŁKI** | **3 OMÓWIENIE WYNIKÓW FINANSOWYCH DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ** > **3.3.2 BILANS SPÓŁKI** | **3 OMÓWIENIE WYNIKÓW FINANSOWYCH DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ** > **AKTYWA** | **3 OMÓWIENIE WYNIKÓW FINANSOWYCH DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ** > **WSKAŹNIKI PŁYNNOŚCI** | **3 OMÓWIENIE WYNIKÓW FINANSOWYCH DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ** > **WSKAŹNIKI ZADŁUŻENIA**
+
+# **3 OMÓWIENIE WYNIKÓW FINANSOWYCH DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ**
+## **WSKAŹNIKI PŁYNNOŚCI**
+| **WSKAŹNIKI PŁYNNOŚCI** **FORMUŁA** | **30.06.2025** | **31.12.2024** |
+| --- | --- | --- |
+| **Bieżący (current ratio)** aktywa obrotowe/zobowiązania krótkoterminowe* | 4,81 | 5,37 |
+| **Szybki(quick ratio)** (aktywa obrotowe – zapasy) /zobowiązania krótkoterminowe* | 0,85 | 0,82 |
+| **Natychmiastowy (cash ratio)** środkipieniężne/zobowiązania krótkoterminowe* | 0,61 | 0,38 |
+* Zobowiązania krótkoterminowe z wyłączeniem przychodów przyszłych okresów  
+Biorąc pod uwagę specyfikę branży deweloperskiej charakteryzującej się wyjątkowo długim cyklem produkcyjnym oraz obostrzenia w zakresie finansowania działalności dla firm z tego sektora, na szczególną uwagę zasługuje komfortowa sytuacja finansowa Grupy. Na taki stan rzeczy miał wpływ szereg długofalowych decyzji i działań podjętych przez Zarząd Spółki.  
+Grupa niezmiennie utrzymuje wysoką płynność. Wartość analizowanych wskaźników płynności utrzymywała się na bardzo dobrym poziomie na przestrzeni całego I półrocza 2025 roku.  
+Wskaźnik płynności bieżącej zmalał na przestrzeni I półrocza 2025 roku z poziomu 5,37 do 4,81, za sprawą zwiększenia zobowiązań krótkoterminowych, a w szczególności ujęciu w nich zobowiązania z tytułu dywidendy w kwocie 180 589 tys. zł na dzień 30 czerwca 2025 roku.  
+pozostałych wskaźników płynności - szybkiej i natychmiastowej. Jest to wynikiem znacznego zwiększenia stanu środków pieniężnych o 374 795 tys. zł do poziomu 735 641 tys. zł, przy jednoczesnym zwiększeniu zobowiązań krótkoterminowych głównie o ww. zobowiązanie z tyt. dywidendy. Wartość wskaźnika płynności szybkiej Grupy zwiększyła się na przestrzeni I półrocza 2025 roku z 0,82 do 0,85, zaś wskaźnik płynności natychmiastowej na koniec czerwca 2025 roku kształtował się na poziomie 0,61 wobec 0,38 na koniec grudnia 2024 roku.  
+W ocenie Zarządu Spółki sytuacja płynnościowa Grupy Kapitałowej Dom Development S.A. jest niezmiennie bardzo dobra. Silny bilans Grupy stanowi gwarancję sprawnej realizacji zamierzeń inwestycyjnych oraz daje jej zdolność szybkiego reagowania na nadarzające się okazje umocnienia pozycji rynkowej.  
+Niezależnie od zwiększenia zobowiązań krótkoterminowych o ww. zobowiązanie z tytułu dywidendy, odnotowano wzrost
+
+# **3 OMÓWIENIE WYNIKÓW FINANSOWYCH DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ**
+## **WSKAŹNIKI ZADŁUŻENIA**
+| **WSKAŹNIKI ZADŁUŻENIA** | **FORMUŁA** | **30.06.2025** | **31.12.2024** |
+| --- | --- | --- | --- |
+| **Pokrycia majątku kapitałami własnymi** | kapitał własny /aktywa ogółem | 29,4% | 32,2% |
+| **Zadłużenia kapitału własnego ** | zobowiązania ogółem/kapitał własny | 240,0% | 210,8% |
+| **Ogólnego zadłużenia** | zobowiązania ogółem/aktywa ogółem | 70,6% | 67,8% |
+| **Zadłużenia odsetkowego ** | zobowiązania odsetkowe/kapitaływłasne | 45,4% | 35,8% |
+| **Zadłużenia odsetkowego netto** | (zobowiązania odsetkowe - środkipieniężne*/kapitaływłasne | (4,0)% | 1,9% |
+* Środki pieniężne z uwzględnieniem środków na rachunkach powierniczych  
+Dzięki właściwej polityce operacyjnej (odpowiednie rozpoczynanie i tempo prowadzonych inwestycji, a także kontrolowane zakupy nowych nieruchomości) i finansowej (struktura finansowania), wartości prezentowanych wskaźników zadłużenia są ciągle na bezpiecznym poziomie dla prowadzonej działalności, jak również potwierdzają wiarygodność kredytową  
+Grupy na rynku finansowym. Wskaźniki zadłużenia na koniec czerwca 2025 roku, które miały wartości jakościowo zbliżone do stanu na koniec 2024 roku, odzwierciedlają konserwatywne podejście Zarządu Spółki do struktury źródeł finansowania działalności.  
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI W I PÓŁROCZU 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+25  
+3.3 OMÓWIENIE WYNIKÓW FINANSOWYCH DOM DEVELOPMENT S.A.
+
+# **3 OMÓWIENIE WYNIKÓW FINANSOWYCH DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ**
+## **3.3.1 RACHUNEK ZYSKÓW I STRAT SPÓŁKI**
+| Przychodyze sprzedaży | 474 399 | 915 605 | (48)% |
+| --- | --- | --- | --- |
+| Zysk brutto ze sprzedaży | 156 150 | 261 806 | (40)% |
+| Zysk z działalności operacyjnej- EBIT | 70 815 | 165 558 | (57)% |
+| Zysk netto | 361 748 | 291 568 | 24% |
+| **Zysk netto na akcję -podstawowy** | 14,02 | 11,31 | 24% |
+W I półroczu 2025 roku Dom Development S.A. wykazał przychody ze sprzedaży o wartości 474 399 tys. zł, tj. o 48% niższe niż w analogicznym okresie ubiegłego roku. Wynika to przede wszystkim ze zdecydowanie mniejszych przekazań w pierwszym półroczu 2025, które wyniosły 594 lokali (spadek o 45%). Sytuacja ta jest zgodna z ustalonymi harmonogramami przekazań na realizowanych przez Spółkę projektach deweloperskich i nie zakłóca jej celu rocznego. Ze względu na specyficzną działalność deweloperską, moment rozpoczęcia poszczególnych projektów oraz długi cykl produkcyjny zdecydowana większość inwestycji, zgodnie z zakładanym harmonogramem, w 2025 roku ma swój koniec w drugiej połowie roku i co za tym idzie, znaczna część przekazań zaplanowana jest właśnie na ten okres. Spółka rozpoznała w wynikach I-go półrocza 2025 roku przychody ze sprzedaży wyrobów gotowych w kwocie 414 256 tys. zł wynikające z przekazania w tym okresie 594 lokali oraz ze sprzedaży usług w kwocie 50 669 tys. zł.  
+W strukturze przekazań istotny udział miały inwestycje z segmentu popularnego, takie jak: Osiedle przy Ryżowej, Osiedle Urbino oraz z segmentu premium Apartamenty Literacka.  
+Zysk brutto ze sprzedaży spadł do poziomu 156 150 tys. zł, co stanowi spadek o 40% co jest ściśle powiązane ze spadkiem przekazań w tym okresie. Natomiast marża brutto osiągnęła poziom 32,9%, co w ocenie Zarządu stanowi bardzo dobry wynik.  
+Zysk z działalności operacyjnej (EBIT) zmalał o 94 743 tys. zł na co wpływ miał spadek przychodów ze sprzedaży przy jednoczesnym utrzymaniu stabilnych kosztów ogólnego zarządu oraz sprzedaży.  
+Głównym ich komponentem były przychody z tytułu dywidend otrzymanych od spółek zależnych. W I półroczu 2025 i 2024 roku przychody z tego tytułu wyniosły odpowiednio 299 890 tys. zł i 155 743 tys. zł.  
+Wypracowany przez Spółkę zysk netto za I półrocze 2025 roku wyniósł 361 748 tys. zł i był wyższy o 24% w porównaniu do zysku wypracowanego w analogicznym okresie poprzedniego roku.  
+Działalność Spółki nie ma charakteru sezonowego. Wahania wyników finansowych pomiędzy kwartałami są ściśle powiązane z:  
+- cyklem budowy projektów deweloperskich i kumulacją przekazań w pierwszych tygodniach po dopuszczeniu ich do użytkowania. Zgodnie z MSSF 15, przekazanie lokalu stanowi podstawę do rozpoznania przychodu ze sprzedaży w rachunku zysków i strat, oraz  
+- momentem rozpoznania w rachunku zysków i strat oraz wysokością dywidendy, przyznanej przez spółki zależne,  
+co w efekcie powoduje, że wyniki finansowe osiągnięte w okresie krótszym niż rok nie odzwierciedlają w pełni bieżącej sytuacji w Spółce i powinny być analizowane razem z innymi informacjami operacyjnymi. W związku z tym Dom Development S.A., poza informacją o liczbie przekazanych w danym okresie lokali, informuje także o wolumenie bieżącej sprzedaży liczonej w oparciu o umowy przedwstępne oraz opłacone umowy rezerwacyjne w ujęciu netto, tj. z uwzględnieniem rezygnacji. Wyniki operacyjne Spółki, w tym bieżącej sprzedaży i przekazań lokali, zostały omówione w nocie 2.2. niniejszego Sprawozdania.  
+W I półroczu 2025 roku Spółka odnotowała istotnie wyższe przychody finansowe w porównaniu z okresem porównawczym.  
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI W I PÓŁROCZU 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+26
+
+# **3 OMÓWIENIE WYNIKÓW FINANSOWYCH DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ**
+## **3.3.2 BILANS SPÓŁKI**
+Sytuacja majątkowa Spółki w I półroczu 2025 roku w dalszym ciągu była bardzo dobra i niezmiennie pozytywnie wyróżniała ją na tle sektora.
+
+# **3 OMÓWIENIE WYNIKÓW FINANSOWYCH DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ**
+## **AKTYWA**
+W strukturze aktywów Spółki, podobnie jak w poprzednich latach, dominowały aktywa obrotowe – zapasy o wartości 2 458 077 tys. zł, stanowiły 59% sumy bilansowej Spółki, która na dzień 30 czerwca 2025 roku wyniosła 4 156 476 tys. zł. Suma bilansowa Dom Development S.A. wzrosła o 17% w porównaniu do stanu na koniec grudnia 2024 głównie za sprawą wzrostu środków pieniężnych o 351 140 tys. zł oraz wzrostu udzielonych długoterminowych pożyczek.  
+Spółka niezmiennie utrzymuje wysoką płynność, czego wyrazem jest stan środków pieniężnych, który na koniec pierwszego półrocza 2025 wyniósł 481 014 tys. zł. Ponadto na otwartych, mieszkaniowych rachunkach powierniczych Spółka posiadała 64 076 tys. zł.  
+Istotnymi składnikami majątku Spółki są również inwestycje w jednostkach zależnych, stowarzyszonych i wspólnym przedsięwzięciu o łącznej wartości 435 828 tys. zł oraz udzielone spółkom zależnym pożyczki o łącznej wartości 593 258 tys. zł, stanowiącymi odpowiednio 10,5% i 14% wartości jej aktywów. Największą wartość bilansową inwestycji wśród jednostek zależnych Dom Development S.A. miały spółki deweloperskie: Euro Styl S.A. (265 472 tys. zł), Dom Development Kraków sp. z o.o. (162 722 tys. zł).

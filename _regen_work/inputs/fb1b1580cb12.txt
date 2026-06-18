@@ -1,0 +1,120 @@
+DOKUMENT SEKCJA: **13. Środki pieniężne** | **14. Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy** | **15. Aktywa finansowe wyceniane w zamortyzowanym koszcie** | **17. Rzeczowe aktywa trwałe** | **Ruchy w pozycji odpisy aktualizujące należności** | **Wartości niematerialne za okres od 1 stycznia 2024 do 31 grudnia 2024 roku** | **Wartości niematerialne za okres od 1 stycznia 2025 do 30 września 2025 roku**
+
+## **13. Środki pieniężne**
+**Według struktury rodzajowej:**  
+| **(w tys. PLN)** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Środki pieniężne na rachunkach bieżących w banku i ich ekwiwalenty | 7 138 077 | 5 370 815 |
+| **Środki pieniężne i inne aktywa pieniężne razem** | **7 138 077** | **5 370 815** |
+Grupa zalicza do ekwiwalentów środków pieniężnych lokaty krótkoterminowe z terminem zapadalności poniżej 3 miesięcy oraz naliczone od nich odsetki.  
+**Środki pieniężne własne i oraz środki o ograniczonej możliwości dysponowania - środki pieniężne klientów:**  
+| **(w tys. PLN)** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Środki pieniężne i inne aktywa pieniężne klientów | 5 352 306 | 3 751 303 |
+| Środki pieniężne i inne aktywa pieniężne własne | 1 785 771 | 1 619 512 |
+| **Środki pieniężne i inne aktywa pieniężne razem** | **7 138 077** | **5 370 815** |
+Środki pieniężne i inne aktywa pieniężne klientów uwzględniają wartość otwartych transakcji dotyczących instrumentów pochodnych CFD zawartych przez klientów. Oznacza to, że jeśli klient posiada otwarte transakcje dotyczące instrumentów pochodnych CFD, wartość jego środków pieniężnych będzie uwzględniać bieżące zyski lub straty wynikające z tych transakcji na dzień bilansowy.
+
+## **14. Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy**
+| **(w tys. PLN)** **Instrumenty pochodne kontrakty na różnice (CFD)** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| CFD na towary | 269 632 | 190 466 |
+| CFD na indeksy | 177 261 | 98 168 |
+| CFD na waluty | 143 431 | 130 087 |
+| CFD na akcje i ETP | 93 776 | 102 670 |
+| CFD na obligacje | 62 | 401 |
+| **Instrumenty dłużne (obligacje skarbowe)** | **5 606** | **419 633** |
+| **Instrumenty dłużne (obligacje korporacyjne)** | **20 021** | **10 015** |
+| **Akcje i ETP** | **276 184** | **172 483** |
+| **Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy** **razem** | **716 341** | **1 123 923** |
+Informacja na temat oszacowanej wartości godziwej instrumentów znajduje się w nocie 33.1.1.
+
+## **15. Aktywa finansowe wyceniane w zamortyzowanym koszcie**
+| **(w tys. PLN)** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Należności handlowe | 19 794 | 22 151 |
+| Należności od KDPW | 48 658 | 24 004 |
+| Należności od klientów | 21 749 | 12 665 |
+| Kaucje i depozyty | 6 429 | 6 276 |
+| Należności publiczno-prawne | 2 105 | 1 184 |
+| **Należności pozostałe brutto** | **98 735** | **66 280** |
+| Odpisy aktualizujące wartość należności pozostałych | (1 657) | (1 083) |
+| Odpisy aktualizujące wartość należności od klientów | (13 721) | (10 171) |
+| **Należności pozostałe netto razem** | **83 357** | **55 026** |
+29  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **Ruchy w pozycji odpisy aktualizujące należności**
+| **(w tys. PLN)** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| **Odpisy aktualizujące wartość należności na początek okresu** **sprawozdawczego** | **(11 254)** | **(8 843)** |
+| utworzenie odpisów | (4 463) | (3 599) |
+| rozwiązanie odpisów | 339 | 1 188 |
+| wykorzystanie odpisów | - | - |
+| **Odpisy aktualizujące wartość należności na koniec okresu sprawozdawczego** | **(15 378)** | **(11 254)** |
+Odpisy aktualizujące należności utworzone w 2025 roku oraz 2024 roku są wynikiem powstałych w tych okresach debetów klientów.  
+30  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **Wartości niematerialne za okres od 1 stycznia 2025 do 30 września 2025 roku**
+| **(w tys. PLN)** | **LICENCJE NA** **OPROGRAMOWANIE** **KOMPUTEROWE** | **WARTOŚCI** **NIEMATERIALNE** **WYTWORZONE WE WŁASNYM** **ZAKRESIE** | **POZOSTAŁE** **WARTOŚCI** **NIEMATERIALNE** | **RAZEM** |
+| --- | --- | --- | --- | --- |
+| **Wartość brutto na 1 stycznia 2025** | **6 730** | **10 792** | **5 948** | **23 470** |
+| Nabycie | 12 | - | 3 | 15 |
+| Sprzedaż i likwidacja | - | - | - | - |
+| Różnice kursowe netto | (4) | - | (32) | (36) |
+| **Wartość brutto na 30 września 2025** | **6 738** | **10 792** | **5 919** | **23 449** |
+| **Umorzenie na 1 stycznia 2025** | **(5 746)** | **(10 792)** | **(4 923)** | **(21 461)** |
+| Amortyzacja za bieżący okres | (279) | - | (89) | (368) |
+| Sprzedaż i likwidacja | - | - | - | - |
+| Różnice kursowe netto | 3 | - | 10 | 13 |
+| **Umorzenie na 30 września 2025** | **(6 022)** | **(10 792)** | **(5 002)** | **(21 816)** |
+| **Wartość księgowa netto na 1 stycznia 2025** | **984** | **-** | **1 025** | **2 009** |
+| **Wartość księgowa netto na 30 września 2025** | **716** | **-** | **917** | **1 633** |
+Wartości niematerialne wytworzone we własnym zakresie dotyczą platformy do handlu instrumentami finansowymi oraz aplikacji współpracujących z tą platformą. Pozostałe wartości niematerialne dotyczą wydzielonej wartości licencji w ramach nabycia spółek zależnych opisanych w nocie 1.2.  
+31  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **Wartości niematerialne za okres od 1 stycznia 2024 do 31 grudnia 2024 roku**
+| **(w tys. PLN)** | **LICENCJE NA** **OPROGRAMOWANIE** **KOMPUTEROWE** | **WARTOŚCI** **NIEMATERIALNE** **WYTWORZONE WE WŁASNYM** **ZAKRESIE** | **POZOSTAŁE** **WARTOŚCI** **NIEMATERIALNE** | **RAZEM** |
+| --- | --- | --- | --- | --- |
+| **Wartość brutto na 1 stycznia 2024** | **6 487** | **10 792** | **4 814** | **22 093** |
+| Nabycie | 247 | - | 1 134 | 1 381 |
+| Sprzedaż i likwidacja | - | - | - | - |
+| Różnice kursowe netto | (4) | - | - | (4) |
+| **Wartość brutto na 31 grudnia 2024** | **6 730** | **10 792** | **5 948** | **23 470** |
+| **Umorzenie na 1 stycznia 2024** | **(5 399)** | **(10 792)** | **(4 735)** | **(20 926)** |
+| Amortyzacja za bieżący okres | (352) | - | (118) | (470) |
+| Sprzedaż i likwidacja | - | - | (70) | (70) |
+| Różnice kursowe netto | 5 | - | - | 5 |
+| **Umorzenie na 31 grudnia 2024** | **(5 746)** | **(10 792)** | **(4 923)** | **(21 461)** |
+| **Wartość księgowa netto na 1 stycznia 2024** | **1 088** | **-** | **79** | **1 167** |
+| **Wartość księgowa netto na 31 grudnia 2024** | **984** | **-** | **1 025** | **2 009** |
+Wartości niematerialne wytworzone we własnym zakresie dotyczą platformy do handlu instrumentami finansowymi oraz aplikacji współpracujących z tą platformą. Pozostałe wartości niematerialne dotyczą wydzielonej wartości licencji w ramach nabycia spółek zależnych opisanych w nocie 1.2.  
+32  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **17. Rzeczowe aktywa trwałe**
+**Rzeczowe aktywa trwałe za okres od 1 stycznia 2025 do 30 września 2025 roku**  
+| **(w tys. PLN)** | **ZESPOŁY** **KOMPUTEROWE** | **POZOSTAŁE** **RZECZOWE** **AKTYWA TRWAŁE** | **PRAWA DO** **UŻYTKOWANIA** **LOKALE BIUROWE** | **PRAWA DO** **UŻYTKOWANIA** **SAMOCHODY** | **RZECZOWE** **AKTYWA TRWAŁE** **W BUDOWIE** | **ZALICZKI NA** **RZECZOWE** **AKTYWA TRWAŁE** | **RAZEM** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Wartość brutto na 1 stycznia 2025** | **51 637** | **15 880** | **52 475** | **496** | **595** | **-** | **121 083** |
+| Nabycie | 13 238 | 4 375 | - | - | 101 | 1 381 | 19 095 |
+| Przyjęcie w leasing | - | - | 4 634 | 158 | - | - | 4 792 |
+| Sprzedaż i likwidacja | (1 037) | (264) | (1 829) | (174) | (603) | (1 381) | (5 288) |
+| Różnice kursowe netto | (113) | 4 | (1 589) | 6 | - | - | (1 692) |
+| **Wartość brutto na 30 września 2025** | **63 725** | **19 995** | **53 691** | **486** | **93** | **-** | **137 990** |
+| **Umorzenie na 1 stycznia 2025** | **(28 039)** | **(7 285)** | **(20 049)** | **(376)** | **-** | **-** | **(55 749)** |
+| Amortyzacja za bieżący okres | (7 457) | (2 180) | (8 309) | (83) | - | - | (18 029) |
+| Sprzedaż i likwidacja | 958 | 78 | 359 | 174 | - | - | 1 569 |
+| Różnice kursowe netto | 71 | 23 | 455 | (6) | - | - | 543 |
+| **Umorzenie na 30 września 2025** | **(34 467)** | **(9 364)** | **(27 544)** | **(291)** | **-** | **-** | **(71 666)** |
+| **Wartość księgowa netto na 1 stycznia 2025** | **23 598** | **8 595** | **32 426** | **120** | **595** | **-** | **65 334** |
+| **Wartość księgowa netto na 30 września** **2025** | **29 258** | **10 631** | **26 147** | **195** | **93** | **-** | **66 324** |
+33  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.

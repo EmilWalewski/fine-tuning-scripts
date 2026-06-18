@@ -1,0 +1,74 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 7.3. Przepływy środków pieniężnych z działalności finansowej | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 8.1. Zobowiązania pozabilansowe | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > • _**Segment Asseco International**_ | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > • _**Segment Asseco Poland**_ | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > • _**Segment Formula Systems**_ | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > ▪ Wydatki pomniejszone o wpływy z tytułu transakcji na udziałach niekontrolujących
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 7.3. Przepływy środków pieniężnych z działalności finansowej
+W okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku oraz w okresie porównawczym na saldo przepływów z działalności finansowej największy wpływ miały następujące transakcje:  
+▪ Wpływy z tytułu zaciągnięcia kredytów i pożyczek:  
+| **Wpływy** | **z** | **tytułu zaciągnięcia kredytów i pożyczek** | **3 miesiące do** **31 marca 2025** | **3 miesiące do** **31 marca 2024** |
+| --- | --- | --- | --- | --- |
+| **mln PLN** | **mln PLN** |  |  |  |
+| Kredyty | i | pożyczki zaciągnięte w ramach segmentu Asseco Poland | 0,2 | - |
+| Kredyty | i | pożyczki zaciągnięte w ramach segmentu Asseco International | 19,6 | 6,4 |
+| Kredyty | i | pożyczki zaciągnięte w ramach segmentu Formula Systems | 181,2 | 70,7 |
+| **Razem** |  |  | **201,0** | **77,1** |
+▪ Wydatki z tytułu spłaty kredytów i pożyczek:  
+| **Wydatki z tytułu spłaty kredytów i pożyczek** | **3 miesiące do** **31 marca 2025** | **3 miesiące do** **31 marca 2024** |
+| --- | --- | --- |
+| **mln PLN** | **mln PLN** |  |
+| Spłaty kredytów w ramach segmentu Asseco Poland | (25,8) | (23,7) |
+| Spłaty kredytów w ramach segmentu Asseco International | (11,1) | (23,0) |
+| Spłaty kredytów w ramach segmentu Formula Systems | (84,6) | (76,8) |
+| **Razem** | **(121,5)** | **(123,5)** |
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## ▪ Wydatki pomniejszone o wpływy z tytułu transakcji na udziałach niekontrolujących
+| **Wydatki pomniejszone o wpływy z tytułu transakcji na udziałach** | **3 miesiące do** | **3 miesiące do** |
+| --- | --- | --- |
+| **niekontrolujących** | **31 marca 2025** | **31 marca 2024** |
+| **mln PLN** | **mln PLN** |  |
+| Wydatki pomniejszone o wpływy z tytułu transakcji na udziałach niekontrolujących w ramach segmentu Asseco International | 0,1 | (6,0) |
+| Wydatki pomniejszone o wpływy z tytułu transakcji na udziałach niekontrolujących w ramach segmentu Formula Systems | (34,2) | (18,2) |
+| **Razem** | **(34,1)** | **(24,2)** |
+▪ W okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku Grupa Formula wykupiła wyemitowane wcześniej obligacje. Wypływ gotówki z tego tytułu wyniósł 115,9 mln PLN (z tego 78,7 mln PLN pochodzi z Grupy Sapiens, a 37,2 mln PLN z Grupy Matrix).  
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 61
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 8.1. Zobowiązania pozabilansowe
+Zobowiązania warunkowe na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku zostały przedstawione w poniższej tabeli:  
+| **Zobowiązania warunkowe** | **31 marca 2025** | **31 grudnia 2024** |
+| --- | --- | --- |
+| **mln PLN** **Zobowiązania z tytułu gwarancji dobrego wykonania** | **mln PLN** |  |
+| Zobowiązania wymagalne do 3 miesięcy | 29,8 | 26,5 |
+| Zobowiązania wymagalne od 3 do 12 miesięcy | 206,4 | 226,5 |
+| Zobowiązania wymagalne od 1 roku do 5 lat | 202,7 | 240,1 |
+| Zobowiązania wymagalne powyżej 5 lat | 10,5 | 1,3 |
+| **Razem** **Zobowiązania z tytułu gwarancji bankowych i ubezpieczeniowych** | **449,4** | **494,4** |
+| Zobowiązania wymagalne do 3 miesięcy | 1,8 | 3,6 |
+| Zobowiązania wymagalne od 3 do 12 miesięcy | 30,5 | 33,2 |
+| Zobowiązania wymagalne od 1 roku do 5 lat | 1,1 | 1,3 |
+| Zobowiązania wymagalne powyżej 5 lat | - | - |
+| **Razem** | **33,4** | **38,1** |
+| **Pozostałe zobowiązania warunkowe** | **3,4** | **3,7** |
+Udzielone gwarancje dobrego wykonania umowy zostały zakupione w banku i udzielone Grupie, a zobowiązania warunkowe przedstawione w tabeli powyżej mogą powstać w wyniku regresu banku do Grupy, w przypadku niewywiązania się Grupy z obowiązku wykonania kontraktu.  
+W ocenie Zarządu prawdopodobieństwo realizacji zobowiązań wynikających z przedstawionych w tabeli powyżej gwarancji dobrego wykonania jest znikome, jednak ze względu na wartość kwoty postanowiono o sporządzeniu stosownego ujawnienia w niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym Grupy Asseco.  
+Żadne z opisanych wyżej zobowiązań gwarancyjnych nie spełniają definicji gwarancji finansowej zgodnie z MSSF 9 i w konsekwencji zobowiązania te nie są ujęte w zobowiązaniach bilansowych Grupy na dzień 31 marca 2025 roku ani na dzień 31 grudnia 2024 roku.  
+Na dzień 31 marca 2025 roku wartości gwarancji udzielonej przez Asseco Central Europe a.s., dla spółki Prosoft Kosice a.s., opisanej w sprawozdaniu finansowym Grupy Asseco za rok 2024 w nocie 9.1., wynosi 2,98 mln EUR (12,5 mln PLN), a wartość zobowiązania do udzielenia pożyczki spółce G5 plus, s.r.o. przez Asseco Central Europe a.s. wynosi 1,0 mln EUR (4,2 mln PLN).
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## • _**Segment Asseco Poland**_
+W okresie sprawozdawczym w spółce Pirios S.A. toczyły się dwie sprawy sądowe na łączną kwotę 3,2 mln PLN. Główna sprawa na kwotę 3,1 mln PLN dotyczyła realizacji umowy wdrożeniowej systemu IT. Na obecnym etapie, strony sporu rozważają możliwość przeprowadzenia postępowania mediacyjnego (oczekiwanie na wyznaczenie mediatora przez powoda). W ocenie Zarządu na spór utworzono rezerwę w odpowiedniej wysokości.
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## • _**Segment Asseco International**_
+W okresie sprawozdawczym w grupie ACE (segment Asseco International) toczyło się postępowanie przed urzędem antymonopolowym w Czechach dotyczące udziału w przetargu, w którym jedna ze spółek z grupy ACE była poddostawcą. Urząd nałożył na spółkę karę w wysokości 13,5 mln CZK (2,3 mln PLN), na którą Grupa utworzyła rezerwę w roku 2022. Spółka złożyła odwołanie od decyzji urzędu, a postępowanie nie zostało jeszcze zakończone.  
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 62
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## • _**Segment Formula Systems**_
+W okresie sprawozdawczym w grupie Matrix IT (segment Formula Systems) toczyły się postępowania sądowe na łączną kwotę 22,3 mln NIS (23,2 mln PLN). Dodatkowo w grudniu 2023 roku spółka Matrix IT otrzymała z sądu w Izraelu wniosek o ujawnienie dokumentów w celu zbadania możliwości złożenia pozwu przeciwko spółce przez akcjonariusza mniejszościowego. Pozwanymi są CEO Matrix IT oraz członkowie Rady Dyrektorów tej spółki, a pozew dotyczy wynagrodzenia przyznanego CEO spółki mimo braku zgody Zgromadzenia Wspólników. Spółka Matrix IT odpowiedziała na wniosek sądu w II kwartale 2024 roku, a postępowanie sądowe rozpoczęło się w I kwartale 2025 roku.  
+W okresie sprawozdawczym w grupie ZAP (nabytej w 2021 roku przez spółkę Formula Systems) toczyły się sprawy sądowe na łączną kwotę 97,5 mln NIS (101,3 mln PLN). W łącznej kwocie sporów ujęte są sprawy sądowe, które toczyły się już przed akwizycją grupy, a ewentualne roszczenia wynikające z pozwów zostały w odpowiedniej wysokości zabezpieczone w umowie akwizycyjnej i tym samym nie powinny obciążać wyników Grupy Asseco w przyszłości.  
+W okresie sprawozdawczym w spółce Formula Systems (1985) Ltd toczył się spór rozpoczęty w roku 2020, w którym spółka Formula Systems (1985) Ltd oraz członkowie jej organów zarządzających osobiście zostali pozwani przez akcjonariusza mniejszościowego spółki (posiadającego 28 akcji spółki, tj. 0,0001% akcji). Pozew dotyczy prawidłowości przyznania w 2020 roku planu opcyjnego Panu Guyowi Bernsteinowi (CEO Spółki), którego warunki i wartość opisano w nocie 5.2 w skonsolidowanym sprawozdaniu finansowym za rok 2020, a który został przyznany CEO na drodze unieważnienia decyzji WZA poprzez uchwałę Rady Dyrektorów Spółki (Board of Directors). Akcjonariusz w pozwie kwestionuje prawidłowość przyjętej procedury, a także podnosi zarzut nieprawidłowości przy procedowaniu planów opcyjnych z 2011 i 2012 roku. Pozew dotyczy również wynagrodzenia CFO spółki. Zarzut akcjonariusza dotyczy działania na szkodę akcjonariuszy mniejszościowych. Spółka, po zasięgnięciu opinii doradców prawnych, uznaje wniesiony pozew za bezzasadny przyjmując, że zarówno Rada Dyrektorów, jak i pozostałe osoby zarządzające spółką (w tym: CEO i CFO) działały zgodnie z prawem. Spółka Formula Systems (1985) Ltd o szczegółach pozwu poinformowała SEC w formularzach 6-K dostępnych do publicznej wiadomości. W roku 2023 sąd przychylił się do wniosku spółki o oddalenie powództwa w związku ze zmianą stanu faktycznego, którego dotyczy spór, a w roku 2024 powód wniósł apelację od tej decyzji sądu do Sądu Najwyższego w Izraelu. Od 2024 roku postępowanie toczy się przed Sądem Najwyższym w Izraelu.  
+W ocenie Zarządu rezerwy dotyczące toczących się spraw sądowych ujęte w niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym są utworzone w odpowiedniej wysokości, by pokryć ewentualne ryzyka wynikające z toczących się w Grupie sporów.  
+Poza opisanymi powyżej, w prezentowanym okresie sprawozdawczym przed sądem, organem właściwym dla postępowania arbitrażowego lub organem administracji publicznej nie toczyły się istotne postępowania dotyczące zobowiązań albo wierzytelności spółek z Grupy Asseco.

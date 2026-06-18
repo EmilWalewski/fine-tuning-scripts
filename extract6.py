@@ -410,7 +410,48 @@ def compute_garbled_score(text: str) -> float:
 
 def is_toc_chunk(text: str) -> bool:
     lower = text.lower()
-    return "......." in lower or "spis treści" in lower or "contents" in lower
+    lines = [l.strip() for l in text.split("\n") if l.strip()]
+    if not lines:
+        return False
+
+    toc_marker = "spis treści" in lower or "contents" in lower
+    leader_lines = [
+        l for l in lines
+        if re.search(r"\.{6,}\s*\d{1,4}(?:\s*\*\*)?\s*\|?\s*$", l)
+    ]
+
+    if toc_marker and len(leader_lines) >= 3:
+        return True
+    return len(leader_lines) >= 8 and (len(leader_lines) / len(lines)) >= 0.25
+
+
+def strip_toc_blocks(text: str) -> str:
+    """Remove table-of-contents blocks while preserving any real report text.
+
+    TOCs in PDFs usually appear as long dotted-leader ranges ending with page
+    numbers. Some entries wrap across lines without dots, so when a chunk has a
+    dense leader range we remove the whole range, not only the dotted lines.
+    """
+    lines = text.split("\n")
+    leader_idxs = [
+        i for i, l in enumerate(lines)
+        if re.search(r"\.{6,}\s*\d{1,4}(?:\s*\*\*)?\s*\|?\s*$", l.strip())
+    ]
+    if len(leader_idxs) < 3:
+        return text
+
+    start, end = leader_idxs[0], leader_idxs[-1]
+    while start > 0:
+        prev = lines[start - 1].strip().lower()
+        if "spis treści" in prev or "contents" in prev or re.fullmatch(r"\|?\s*-+\s*(?:\|\s*-+\s*)*\|?", prev):
+            start -= 1
+            continue
+        break
+
+    cleaned = lines[:start] + lines[end + 1:]
+    cleaned_text = "\n".join(cleaned)
+    cleaned_text = re.sub(r"\n{3,}", "\n\n", cleaned_text).strip()
+    return cleaned_text
 
 
 def extract_table_header(text: str):
@@ -443,7 +484,12 @@ def save_chunk_to_jsonl(parts, contexts, out_file_handle, chunk_id, max_garbled_
     """
     combined_text = "\n\n".join(parts)
     combined_context = " | ".join(sorted(list(contexts)))
+    combined_text = strip_toc_blocks(combined_text)
     final_input = f"DOKUMENT SEKCJA: {combined_context}\n\n{combined_text}"
+
+    if len(combined_text.strip()) < 100 or is_toc_chunk(combined_text):
+        print(f"    [skip] chunk {chunk_id}: table of contents")
+        return False
 
     garbled = compute_garbled_score(combined_text)
     if max_garbled_risk is not None and garbled > max_garbled_risk:
@@ -651,7 +697,9 @@ def extract_inputs_from_pdf(
     buffer_parts, buffer_tokens, buffer_contexts = [], 0, set()
 
     def _emit(parts, contexts):
-        combined = "\n\n".join(parts)
+        combined = strip_toc_blocks("\n\n".join(parts))
+        if len(combined.strip()) < min_characters or is_toc_chunk(combined):
+            return
         if max_garbled_risk is not None and compute_garbled_score(combined) > max_garbled_risk:
             return
         ctx = " | ".join(sorted(list(contexts)))
@@ -679,6 +727,7 @@ def extract_inputs_from_pdf(
                 separators=["\n\n", "\n|", "\n", ". ", "? ", "! ", " "])
             current_table_header = None
             for sub_text in token_splitter.split_text(reconstructed_text):
+                sub_text = strip_toc_blocks(sub_text)
                 detected_header = extract_table_header(sub_text)
                 if detected_header:
                     current_table_header = detected_header
@@ -746,18 +795,19 @@ def process_pdf_to_clean_dataset(
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
     # --- ścieżki produkcyjne (kontener) — zakomentowane na czas lokalnych testów ---
-    # process_pdf_to_clean_dataset(
-    #     pdf_dir="/app/data_new",
-    #     out_dir="/app/prepare-dataset/dataset-to-process",
-    #     max_tokens=3700,
-    #     min_characters=800,
-    # )
-
-    # --- ścieżki lokalne (pełny zestaw źródeł z materials/) ---
     process_pdf_to_clean_dataset(
-        pdf_dir="/Users/ewalewski/python/fine-tuning-scripts/materials",
-        out_dir="/Users/ewalewski/python/fine-tuning-scripts/_extract_out",
+        pdf_dir="/app/fine-tuning-scripts/materials",
+        out_dir="/app/fine-tuning-scripts/_extract_out",
         max_tokens=3700,
         min_characters=800,
         max_garbled_risk=0.05,   # issue 4: odrzuć chunki z silną korupcją OCR (samogłoski)
     )
+
+    # --- ścieżki lokalne (pełny zestaw źródeł z materials/) ---
+    # process_pdf_to_clean_dataset(
+    #     pdf_dir="/Users/ewalewski/python/fine-tuning-scripts/materials",
+    #     out_dir="/Users/ewalewski/python/fine-tuning-scripts/_extract_out",
+    #     max_tokens=3700,
+    #     min_characters=800,
+    #     max_garbled_risk=0.05,   # issue 4: odrzuć chunki z silną korupcją OCR (samogłoski)
+    # )

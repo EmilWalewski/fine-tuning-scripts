@@ -1,0 +1,80 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 >
+
+• **Metodyka kalkulacji**
+• **Wskaźniki emisji**
+• Wykorzystane w opracowaniu współczynniki emisji GHG, spośród powszechnie dostępnych,
+• charakteryzują się istotnością:
+• **czasową**- wskaźniki adekwatne/ najbliższe dla okresu, dla którego liczony jest ślad
+• węglowy,
+• **geograficzną**- wskaźniki reprezentatywne dla obszaru, dla którego liczony jest ślad węglowy,
+• **technologiczną** - wskaźniki uwzględniające stosowaną technologię, dla której
+• liczony jest ślad węglowy.
+• Współczynniki te pochodzą z uznanych, recenzowanych, oficjalnie publikowanych źródeł:
+• krajowych i międzynarodowych ośrodków badawczych,
+• stowarzyszeń branżowych,
+• ośrodków odpowiedzialnych za regulacje prawne, monitoring, statystykę
+• w adekwatnych obszarach.
+• Podejście to jest zgodne z zapisami metodyk GHG Protocol1.
+
+Kierując się zasadą istotności
+• czasowej, wykorzystane współczynniki emisji (w ramach dostępności) są aktualne dla okresu
+• raportowego, w tym przypadku dla roku 2025.
+
+Jeżeli współczynniki nie zostały opublikowane
+• dla danego roku raportowego, zastosowano najnowsze dostępne wskaźniki emisji.
+
+Skład czynnika chłodniczego R600A Skład czynnika chłodniczego R600A Skład czynnika chłodniczego R600A (Isobutane) (Isobutane) (Isobutane) Wskaźniki emisji WTT Wskaźniki emisji WTT dla energii elektrycznej dla energii elektrycznej Wartości GWP dla poszczególnych Wartości GWP dla poszczególnych gazów cieplarnianych gazów cieplarnianych Domyślne wskaźniki emisji CH4 Domyślne wskaźniki emisji CH4 Domyślne wskaźniki emisji CH4 i N2O dla gazu ziemnego i N2O dla gazu ziemnego i N2O dla gazu ziemnego Wskaźnik emisji cradle-to-gate zakupionych urządzeń Wskaźniki emisji w fazie utylizacji dla Wskaźniki emisji w fazie utylizacji dla danego rodzaju sprzętu Wskaźnik emisji cradle-to-gate zakupionych urządzeń zakupionych urządzeń Wskaźniki emisji w fazie utylizacji dla Wskaźniki emisji w fazie utylizacji dla Wskaźniki emisji w fazie utylizacji dla danego rodzaju sprzętu danego rodzaju sprzętu Wskaźnik emisji cradle-to-gate zakupionych urządzeń zakupionych urządzeń Wskaźniki emisji w fazie utylizacji dla danego rodzaju sprzętu danego rodzaju sprzętu danego rodzaju sprzętu Wskaźnik emisji cradle-to-gate zakupionych urządzeń zakupionych urządzeń Wskaźniki emisji w fazie utylizacji dla Wskaźniki emisji w fazie utylizacji dla Wskaźniki emisji w fazie utylizacji dla Wskaźniki emisji w fazie utylizacji dla danego rodzaju sprzętu danego rodzaju sprzętu danego rodzaju sprzętu Wskaźnik emisji cradle-to-gate Wskaźnik emisji cradle-to-gate zakupionych urządzeń zakupionych urządzeń zakupionych urządzeń Wskaźniki emisji w fazie utylizacji dla Wskaźniki emisji w fazie utylizacji dla Wskaźniki emisji w fazie utylizacji dla Wskaźniki emisji w fazie utylizacji dla danego rodzaju sprzętu danego rodzaju sprzętu danego rodzaju sprzętu
+https://www.gea.com/pl/articles/nat ural-refrigerants/natural- refrigerants-hydrocarbons.jsp IEA 2024, Life Cycle Upstream Emission Factors (Pilot Edition), Total upstream factors for Poland, 2022 estimated IPCC AR6 The Earth’s Energy Budget, Climate Feedbacks and Climate Sensitivity Supplementary Material 2006 IPCC Guidelines for National Greenhouse Gas Inventories, TABLE 2.4 DEFAULT EMISSION FACTORS FOR STATIONARY COMBUSTION IN THE COMMERCIAL/INSTITUTIONAL CATEGORY Apple environment DELL product carbon footprints https://sustainability.google/reports / Lenovo eco-declaration Samsung sustainability
+(ostatni dostęp: 06.02.2026 r.) https://www.gea.com/pl/articles/nat ural-refrigerants/natural- refrigerants-hydrocarbons.jsp (ostatni dostęp: 06.02.2026 r.) IEA, 2024, Life Cycle Upstream Emission Factors (Pilot Edition) (ostatni dostęp: 06.02.2025 r.) IPCC AR6, 2023, The Earth’s Energy Budget, Climate Feedbacks and Climate Sensitivity Supplementary Material (ostatni dostęp: 06.02.2026 r.) IPCC, 2006, Guidelines for National Greenhouse Gas Inventories, Chapter 2 Stationary Combustion (ostatni dostęp: 06.02.2026 r.) Karty EPD urządzeń Apple (ostatni dostęp: 23.02.2026 r.) Karty EPD urządzeń DELL (ostatni dostęp: 23.02.2026 r.) Karty EPD urządzeń Google (ostatni dostęp: 23.02.2026 r.) Karty EPD urządzeń Lenovo (ostatni dostęp: 23.02.2026 r.) Karty EPD urządzeń Samsung (ostatni dostęp: 23.02.2026 r.)
+Wskaźnik emisyjności dostawcy dla wyprodukowanej energii elektrycznej Wskaźniki emisyjności krajowej dla wyprodukowanej energii elektrycznej Wartość strat na przesyle dla krajów innych niż Polska Średnie kursy walut na okres 1.01.2025 - 30.06.2025 Średnie kursy walut na okres 1.01.2025 - 30.06.2025 Wskaźniki wydatkowe na zakupione towary, usługi, dobra kapitałowe i podróże służbowe Procent strat na przesyle dla ciepła sieciowego we Francji Wskaźniki emisji dla paliw spalanych w źródłach stacjonarnych dla Niemiec Wskaźnik emisji bezpośrednich i pośrednich ciepła sieciowego Wskaźniki emisji dla zakwaterowania w podróżach służbowych Skład czynnika chłodniczego R410A
+Wskaźnik emisyjności dostawcy dla wyprodukowanej energii elektrycznej Wskaźnik emisyjności dostawcy dla wyprodukowanej energii elektrycznej Wskaźnik emisyjności dostawcy dla wyprodukowanej energii elektrycznej Wskaźnik emisyjności dostawcy Wskaźnik emisyjności dostawcy dla wyprodukowanej energii
+elektrycznej Wskaźnik emisji dla paliw spalanych w Wskaźnik emisji dla paliw spalanych w źródłach stacjonarnych na Słowacji źródłach stacjonarnych na Słowacji Wskaźnik emisyjności dostawcy
+dla wyprodukowanej energii elektrycznej Wskaźnik emisyjności dostawcy dla wyprodukowanej energii elektrycznej elektrycznej
+Udział w globalnym rynku systemów operacyjnych telefonów operacyjnych telefonów Udział w globalnym rynku systemów operacyjnych tabletów Pobór energii elektrycznej Pobór energii elektrycznej
+dla przesyłu danych dla przesyłu danych dla przesyłu danych Gęstości odpadów komunalnych Gęstości odpadów komunalnych
+https://gdo.cnmc.es/CNMC/abrirVe ntanaIGeneral.do?fichero=Etiqueta doRestante2024.pdf&directorio=e tiquetadoRest https://www.mainova.de/de/stromk ennzeichnung-der-mainova- strommix-im-ueberblick
+Slovakia 2025 National Inventory Report (NIR) https://www.gkpge.pl/bip/struktura- paliw https://www.smartestenergy.com/e nGB/fuel-mix/ Operating System Market Share Worldwide
+Statcounter Global Stats sustainablewebdesign.org https://www.sepa.org.uk/media/163 323/uk-conversion-factors-for- waste.xlsx
+Document 2025, Greenhouse Gas Inventory 1988-2023 (ostatni dostęp: 06.02.2026 r.) Naturgy Iberia S.A., 2025, Wskaźnik emisyjności wyprodukowanej energii elektrycznej w 2024 roku
+(ostatni dostęp: 06.02.2026 r.) Netzdienste Rhein-Main (Mainova AG), 2025, Wskaźnik emisyjności wyprodukowanej energii elektrycznej w 2024 roku (ostatni dostęp: 06.02.2026 r.) Odbor Emisie A Biopaliva, April
+2025, National Inventory Document 2025 Slovak Republic, Submission under the Paris Agreement (ostatni dostęp: 06.02.2026 r.) PGE Polska Grupa Energetyczna
+S.A., 2025, Struktura paliw w 2024 roku (ostatni dostęp: 06.02.2026 r.) Smartest Energy, 2025, Wskaźnik emisyjności wyprodukowanej energii elektrycznej w 2024 roku
+(ostatni dostęp: 06.02.2026 r.) Statcounter (ostatni dostęp: 23.02.2026 r.) Sustainable Web Design, 2024, Estimating Digital Emissions (ostatni dostęp: 23.02.2026 r.) The Scottish Environment Protection Agency (SEPA), 2024, Conversion factors for waste (ostatni dostęp: 06.02.2026 r.)
+Wartości opałowe (WO) i wskaźniki emisji CO2 (WE) w roku 2023 do raportowania w ramach Systemu Handlu Uprawnieniami do Emisji za rok 2026 Warszawa, grudzień 2025 Wskaźniki emisyjności CO2, SO2, NOx, CO i pyłu całkowitego dla energii elektrycznej na podstawie informacji
+zawartych w Krajowej bazie o emisjach gazów cieplarnianych i innych substancji za 2024 rok Średni pobór mocy przez: -samochód elektryczny, -rower elektryczny
+-hulajnogę elektryczną -skuter elektryczny Wskaźnik emisji dla paliw spalanych w źródłach stacjonarnych w Rumunii Procentowa wartość strat na przesyle dla Belize w 2024 roku Wskaźnik emisji dla paliw spalanych w
+źródłach stacjonarnych dla Polski
+https://www.kobize.pl/uploads/mate rialy/materialydopobrania/aktual nosci/2025/135.WOiWEdomo nitorowaniaETS2026.pdf Wskaźniki emisyjności dla energii elektrycznej 2025 Energy efficiency trade-offs in small to large electric vehicles
+Romania 2025 National Inventory Document (NID) https://www.mpuele.gov.bz/wp- content/uploads/2025/10/Energy- Report-24Spread-Final-Sept- 29.pdf https://unfccc.int/sites/default/files/r
+esource/NID%202025%20POL%2 015.04.2025.pdf
+Krajowy Ośrodek Bilansowania i Zarządzania Emisjami (KOBIZE), 2025, Wartości opałowe (WO) i wskaźniki emisji CO2 (WE) w roku 2023 do raportowania w ramach Systemu Handlu Uprawnieniami do Emisji
+za rok 2026 (ostatni dostęp: 06.02.2026 r.) Krajowy Ośrodek Bilansowania i Zarządzania Emisjami (KOBIZE), 2025, Wskaźniki emisyjności CO2, SO2, NOx, CO i pyłu całkowitego dla energii elektrycznej na podstawie informacji zawartych
+w Krajowej bazie o emisjach gazów cieplarnianych i innych substancji za 2024 rok (ostatni dostęp: 06.02.2026 r.) M.Weiss, K.
+
+C.
+
+Cloos, E.
+
+Helmers, 2020, Energy efficiency trade-offs
+in small to large electric vehicles (ostatni dostęp: 23.02.2026 r.) Ministry of Environment, Waters and Forests National Environmental Protection Agency, December 2025, Romania's
+Greenhouse Gas Inventory 1989- 2023, National Inventory (ostatni dostęp: 06.02.2026 r.) Ministry of Public Utilities, Energy, Logistics & Governance, Energy Report 2024 (ostatni dostęp: 06.02.2026 r.)
+National Centre for Emissions Management, Institute of Environmental Protection National Research Institute, Ministry of Climate and Environment, 2025, Poland's National Inventory
+• **Zastosowane standardy obliczeń**
+• **Zastosowane standardy obliczeń**
+• Do obliczenia śladu węglowego Grupy zastosowano standard GHG Protocol.
+
+„A Corporate
+• and Reporting Standard, revised edition”, March 2004.
+
+World Resources Institute and World
+• Business Council for Sustainable Development (zmiany i poprawki: Required gases
+• Business Council for Sustainable Development (zmiany i poprawki: Required gases
+• and GWP values, February 2013) oraz:
+• and GWP values, February 2013) oraz:
+• **Zakres 2: Market-based approach** (zastosowanie wskaźnika emisji zakupionej energii
+• elektrycznej według wskaźnika od dostawcy energii) i **Location-based** **approach**
+• (zastosowanie wskaźnika emisji zakupionej energii elektrycznej według wskaźnika
+• krajowego) zgodnie z GHG Protocol.
+
+„Scope 2 Calculation Guidance.
+• An amendment to the GHG Protocol Corporate Standard”, 2015.

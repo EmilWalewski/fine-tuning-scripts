@@ -1,0 +1,21 @@
+Half-year condensed interim consolidated financial statement (debt-collection group; purchased receivables portfolios and granted loans), figures originally in PLN thousands, converted to millions, periods 01.01-30.06.2025 (unaudited) versus 01.01-30.06.2024, with Q2 comparatives.
+
+Time-horizon sensitivity analysis: extending/shortening the repayment forecast by one month impacts the carrying value of granted loans measured at fair value, recognized via net result. At 30 June 2025, fair-value loans show (0.077)M PLN on a one-month extension and 0.076M PLN on a one-month shortening; at 31 December 2024, (0.094)M and 0.092M PLN respectively.
+
+Interest-rate sensitivity analysis: the discount rate applied to fair-value loans is 30.3% (31.12.2024: 31%). Rate-shock impact on net result for fair-value loans: (0.022)M PLN on a rate increase and 0.022M PLN on a decrease at 31 December 2024; and 0.027M PLN on an increase versus (0.027)M PLN on a decrease (current period).
+
+Other income/costs from purchased receivables portfolios: total (38.853)M PLN for H1 2025 (Q2 2025: (35.595)M) versus (5.782)M for H1 2024 (Q2 2024: (3.460)M). Components H1 2025/H1 2024: FX gains/(losses) (34.679)M / (0.280)M (Q2 2025 (33.016)M; Q2 2024 (1.486)M); loyalty-program valuation costs (1.311)M / (3.641)M; provision for overpayments (2.863)M / (1.861)M. H1 2025 FX losses driven mainly by EUR vs. RON exchange-rate fluctuations.
+
+Result on expected credit losses from purchased receivables portfolios: total 398.652M PLN H1 2025 (Q2 2025: 214.716M) versus 465.517M H1 2024 (Q2 2024: 216.698M), a year-over-year decline. Components: forecast-inflows update 271.421M / 258.074M H1 (Q2 2025 138.893M; Q2 2024 114.098M); deviations of actual payments, reductions from early realization on secured cases, and payments from original creditor 127.231M / 207.443M H1 (Q2 2025 75.823M; Q2 2024 102.600M).
+
+Income from granted loans at amortized cost: net total 120.288M PLN H1 2025 (Q2 2025: 48.738M) versus 96.002M H1 2024 (Q2 2024: 49.798M). Interest income 121.210M / 108.782M H1 (Q2 2025 60.231M; Q2 2024 54.631M); expected-credit-loss write-off (0.922)M / (12.780)M H1 (Q2 2025 (11.493)M; Q2 2024 (4.833)M).
+
+Income from granted loans at fair value: net total 0.090M PLN H1 2025 (Q2 2025: 0.108M) versus 0.828M H1 2024 (Q2 2024: 0.363M). Interest income 0.705M / 1.191M H1 (Q2 2025 0.361M; Q2 2024 0.522M); valuation update (0.615)M / (0.363)M H1 (Q2 2025 (0.253)M; Q2 2024 (0.159)M).
+
+Income from other services rendered: total 29.435M PLN H1 2025 (Q2 2025: 15.678M) versus 29.358M H1 2024 (Q2 2024: 14.066M). Debt-collection services 29.302M / 28.946M H1 (Q2 2025 15.640M; Q2 2024 14.014M); resale of materials, brokerage and other services 0.133M / 0.412M H1 (Q2 2025 0.038M; Q2 2024 0.052M).
+
+Other operating income: total 4.200M PLN H1 2025 (Q2 2025: 2.278M) versus 5.505M H1 2024 (Q2 2024: 3.982M). Components H1 2025/H1 2024: result on sale of real estate 1.618M / 4.813M (Q2 2025 0.980M; Q2 2024 4.009M); re-invoiced service and court costs 1.142M / 0.117M (Q2 2025 0.432M; Q2 2024 (0.376)M); gain on disposal of property, plant and equipment 0.620M / 0.305M; other cooperation 0.267M / nil; reimbursement of motor-damage compensation 0.080M / nil; lease 0.064M / 0.036M; other 0.409M / 0.234M.
+
+Aggregate income/expected-credit-loss "Total" line: 501.342M, 0.522M, 4.274M, (3.460)M, 14.066M, 3.982M, (0.159)M, 211.865M, and 732.432M PLN across income categories (interest income from amortized-cost portfolios/loans, interest income from fair-value loans, income from sale of receivables and loans, other income/costs from purchased portfolios, income from other services, other operating income, change in fair-value investments, result on expected credit losses).
+
+External services (10.2 Usługi obce): notable H1 2025 increase in IT-services costs attributable to spending on a set of services tied to the Group's digital transformation. Increase in debt-collection and banking-service costs versus the comparative period linked to overall growth in investment in receivables portfolios. Footnotes: external-servicer debt-handling costs; legal-support services relating mainly to receivables-portfolio handling.

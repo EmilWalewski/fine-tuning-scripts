@@ -1,0 +1,150 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 >
+
+World Resources Institute.
+• **Zakres 3:**
+• GHG Protocol. “Corporate Value Chain (Scope 3) Accounting and Reporting
+• GHG Protocol. “Corporate Value Chain (Scope 3) Accounting and Reporting
+• Standard.
+
+Supplement to the GHG Protocol Corporate Accounting and Reporting
+• Standard”, 2011.
+
+World Resources Institute and World Business Council
+• for Sustainable Development.
+• for Sustainable Development.
+• GHG Protocol. “Technical Guidance for Calculating Scope 3 Emissions” (version
+• GHG Protocol. “Technical Guidance for Calculating Scope 3 Emissions” (version
+• 1.0).
+
+Supplement to the Corporate Value Chain (Scope 3) Accounting & Reporting
+• Standard, 2013.
+
+World Resources Institute and World Business Council
+• for Sustainable Development.
+
+Wskaźnik emisji location-based, WTT oraz procent strat na przesyle dla ciepła sieciowego w Niemczech Wskaźnik emisyjności dostawcy dla wyprodukowanej energii elektrycznej Wskaźnik emisyjności energii cieplnej –
+ciepło sieciowe Polski za rok 2024 Wskaźnik emisyjności dostawcy dla wyprodukowanej energii elektrycznej Wskaźnik emisyjności dostawcy dla wyprodukowanej energii cieplnej - ciepła sieciowego Procentowa wartość strat na przesyle dla Libanu w 2022 roku
+Wskaźnik emisyjności dostawcy dla wyprodukowanej energii elektrycznej
+Emissionsbilanz erneuerbarer Energieträger 2024 https://eig.unimot.pl/media/4929/do wnload/Struktura-Paliw-2024- Unimot-Energia-i- Gaz%20fin.pdf?v=1 2024 - Energetyka cieplna w
+liczbach - Urząd Regulacji Energetyki https://www.vattenfall.de/stromken nzeichnung https://www.energiadlawarszawy.pl /wp- content/uploads/2025/03/Wplyw- na-Srodowisko-za-2024.docx.pdf https://data.worldbank.org/indicator
+/EG.ELC.LOSS.ZS?locations=LB https://www.zse.sk/dokumenty/zse- energy-mix-en-version.pdf
+Umweltbundesamt, 2024, Emissionsbilanz erneuerbarer Energietrager, Bestimmung der vermiedenen Emissionen im Jahr 2024 (ostatni dostęp: 06.02.2026 r.) Unimot Energia i Gaz Sp. z o.o., 2025, Wskaźnik emisyjności wyprodukowanej energii elektrycznej w 2024 roku
+(ostatni dostęp: 06.02.2026 r.) Urząd Regulacji Energetyki, 2025, Energetyka cieplna w liczbach – 2024 (ostatni dostęp: 06.02.2026 r.) Vattenfall, 2025, Wskaźnik emisyjności wyprodukowanej energii elektrycznej w 2024 roku
+(ostatni dostęp: 06.02.2026 r.) VEOLIA ENERGIA WARSZAWA S.A., 2025, struktura paliw w 2024 r. (ostatni dostęp: 06.02.2026 r.) World Bank Group (ostatni dostęp: 06.02.2026 r.)
+Západoslovenská energetika, a.s., 2025, Wskaźnik emisyjności wyprodukowanej energii elektrycznej w 2024 roku (ostatni dostęp: 06.02.2026 r.)
+• W przypadku kategorii 4, 6, 7 i 9 Zakresu 3 jest to niemożliwe przy założeniu
+• obliczania emisji GHG pochodzących z całego cyklu życia paliw, ponieważ wartości
+• wskaźników emisji pochodzących z bezpośredniego spalania są podane w rozbiciu na wartości dla danych gazów cieplarnianych, natomiast wartości wskaźników emisji WTT są podane tylko w jednostce CO2e.
+
+Baza wskaźników EXIOBASE 20224, w której zastosowano średnią wartość GWP
+• dla metanu, czyli 27,9.
+
+W związku z trudnością przypisania wartości fossil
+• i non-fossil zdecydowano o skorzystaniu z wartości średniej, takiej jak podanej
+• w tabeli 7.SM.7 Szóstego Raportu Intergovernmental Panel for Climate Change.
+• Na podstawie dokonanych analiz działalności Grupy, jej modelu biznesowego, istotności
+• finansowej, ryzyk reputacyjnych itp. wybrano następujące kategorie Zakresu 3 dotyczące
+• działalności Grupy Kapitałowej XTB S.A. w celu ich uwzględnienia w śladzie węglowym
+• Grupy:
+• Kategoria 1 – Zakupione materiały i usługi
+• Kategoria 2 – Dobra kapitałowe
+• Kategoria 3 – Emisje związane z energią i paliwami nieujęte w Zakresie 1 i 2
+• Kategoria 4 – Upstream – transport i dystrybucja
+• Kategoria 5 – Odpady powstałe w wyniku działalności
+• Kategoria 6 – Podróże służbowe
+• Kategoria 7 – Dojazdy pracowników do pracy
+• Kategoria 11 – Użytkowanie sprzedanych produktów
+• 4 https://www.exiobase.eu/
+• 4 https://www.exiobase.eu/
+• Do obliczeń śladu węglowego Grupy XTB uwzględniono wszystkie gazy cieplarniane
+• wymienione w standardzie GHG Protocol, do których należą:
+• Dwutlenek węgla (CO2) Metan (CH4) Podtlenek azotu (N2O) Sześciofluorek siarki (SF6)
+• Perfluorowęglowodory (PFC)
+• Fluorowęglowodory (HFC)
+• Trójfluorek azotu (NF3)
+• Wartości względnego wpływu na efekt cieplarniany wyrażone jako _Global Warming Potential_
+• (GWP) na 100 lat zastosowane dla poszczególnych gazów cieplarnianych zostały
+• zaczerpnięte z Szóstego Raportu IPCC (Intergovernmental Panel for Climate Change),
+• zgodnie z zaleceniami Protokołu GHG.
+• Wyjątkami są:
+• Dla wskaźników emisji dla Zakresu 3 pochodzących z bazy DEFRA 20252, w której
+• został zastosowany Piąty Raport Intergovernmental Panel for Climate Change
+• (IPCC).3 Zgodnie ze standardem GHG Protocol, który wskazuje,
+• aby w obliczeniach śladu węglowego korzystać z najnowszych opublikowanych
+• wartości GWP danych gazów cieplarnianych, wskaźniki emisji powinny zostać
+• przeliczone zgodnie z wartościami podanymi w Szóstym Raporcie
+• Intergovernmental Panel for Climate Change (IPCC).
+• 2Department for Environment Food & Rural Affairs (DEFRA) – United Kingdom: Greenhouse gas reporting: conversion
+• factors 2024, https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2024
+• 3 IPCC, 2014: Climate Change 2014: Synthesis Report.
+
+Contribution of Working Groups I, II and III to the Fifth
+• Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, r.K.
+
+Pachauri and L.A.
+• Meyer(eds.)].
+
+IPCC,Geneva,Switzerland,151pp.
+
+Energia elektryczna: o W jednej z lokalizacji XTB S.A. wystąpił brak danych o nazwie dostawcy energii elektrycznej.
+
+W związku z tym, emisje pochodzące z tej lokalizacji policzono z wskaźnikiem location-based właściwym dla tej lokalizacji. o W przypadku braku danych o zużyciu energii elektrycznej oszacowano je albo na podstawie informacji o strefie klimatycznej i o rodzaju ogrzewania,
+gdzie zużycie zostało obliczone na podstawie innej spółki o podobnych cechach lub oszacowano na podstawie dostępnych danych za poprzedni okres sprawozdawczy lub szczątkowych danych za 2025 rok. o W przypadku braku danych za część okresu sprawozdawczego dokonano ekstrapolacji wyników z analogicznego okresu lat poprzednich. o W przypadku braku informacji o emisyjności produkowanego prądu przez
+danego dostawcę dla spółek Grupy XTB zdecydowano o zastosowaniu wskaźników location-based dla danych krajów. o Krajowe wskaźniki emisji pochodzące z bazy EMBER uwzględniają emisje dla całego cyklu życia produkowanej energii elektrycznej, czyli emisje bezpośrednie oraz emisje upstream (WTT), które według GHG Protocol powinny być uwzględnione w Kategorii 3 Zakresu 3.
+
+Nie było możliwe rozdzielenie emisji
+WTT pochodzące z produkcji energii elektrycznej, więc musiały one zostać ujęte w obliczeniach Zakresu 2. o Z powodu braku informacji zarówno od dostawców energii elektrycznej jak i w krajowych wskaźnikach o emisji gazów cieplarnianych innych niż CO2 w obliczeniach emisji z energii elektrycznej, zarówno w podejściu market- jak i location-based zostały ujęte tylko emisje CO2.
+▪
+Spalanie stacjonarne (zużycie paliwa w agregatach zasilania awaryjnego oraz zużycie paliwa do ogrzewania budynków): o W części lokalizacji Grupy XTB odnotowano brak zużycia paliwa w agregatach zasilania awaryjnego bądź nie uzyskano takiej informacji.
+
+W przypadku nieuzyskania odpowiedzi zdecydowano, iż emisje pochodzące z tych lokalizacji zostaną wykluczone z obliczeń śladu węglowego Grupy XTB za 2025 rok.
+o W dwóch oddziałach XTB S.A. z powodu braku danych za zużycie gazu ziemnego na potrzeby energii cieplnej w budynku za rok 2025 oszacowano zużycie na podstawie dostępnych danych. o W kilku oddziałach i spółkach zależnych odnotowano brak urządzenia zużywającego jakiekolwiek paliwo.
+
+Spalanie mobilne
+o Większość oddziałów i spółek zależnych Grupy XTB nie posiada pojazdów oraz floty samochodowej.
+
+Wycieki czynników chłodniczych: o W części lokalizacji Grupy XTB odnotowano brak wycieków czynników chłodniczych/ brak instalacji klimatyzacji bądź nie uzyskano takiej informacji.
+
+W przypadku braku danych zdecydowano, iż emisje pochodzące z tych
+lokalizacji zostaną wykluczone z obliczeń śladu węglowego Grupy XTB za 2025 rok.
+
+Produkcja OZE: o Żadna ze spółek z Grupy XTB nie posiada instalacji, która wytwarza energię elektryczną ze źródeł odnawialnych i jest własnością bądź jest pod kontrolą którejś ze spółek z Grupy.
+▪ ▪ ▪ ▪
+• we wskaźniku emisji dostawcy.
+
+W związku z tym emisje bezpośrednie
+• pochodzące ze strat na przesyle nie zostały ponownie uwzględnione w Kat.3
+• Zakresu 3.
+• **Zakres 3 (Scope 3)**
+• Dane pierwotne, w kontekście obliczania emisji gazów cieplarnianych, pochodzą
+• bezpośrednio z pomiarów konkretnych źródeł lub procesów, które generują emisje.
+
+Ich
+• wykorzystanie zapewnia dokładniejsze i bardziej wiarygodne wyniki niż szacunki bazujące na
+• danych wtórnych czy ogólnodostępnych wskaźnikach emisji.
+
+Emisje obliczone w oparciu
+• o dane pierwotne stanowią 1,09% całkowitych emisji Zakresu 3 (+0,05 p.p. r/r).
+• **Kategoria 1: Zakupione towary i usługi**
+• Wyliczenia zostały przeprowadzone na podstawie zestawienia wydatkowych kont
+• kosztowych z udostępnionych rozliczeń księgowych.
+
+Z uwagi na brak informacji o kraju
+• pochodzenia zakupionych produktów wskaźniki emisyjności zostały dopasowane
+• zgodnie z krajem działalności spółki/oddziału, na podstawie bazy Exiobase.
+• Według standardu GHG Protocol dane do obliczeń metodą opartą na wydatki powinny
+• odnosić się do kwot netto.
+
+Spółka XTB S.A. oraz jej spółki zależne jako podmioty
+• finansowe świadczące głównie usługi zwolnione z VAT korzysta z częściowego
+• odliczenia podatku VAT naliczonego według struktury lub nie odlicza go wcale.
+• W konsekwencji koszty spółek powiększone są o tą część podatku VAT naliczonego,
+• która nie podlega odliczeniu.
+
+W związku z powyższym, zdecydowano, iż dane
+• wydatkowe będą się odnosić do różnego rodzaju kwot.
+• Z obliczeń zostały wykluczone wszystkie pozycje, które nie generują emisji oraz takie,
+• dla których emisje zostały już uwzględnione w innych zakresach raportowania.
+• W przypadku braku danych bądź danych niepełnych dotyczących zużycia wody
+• zdecydowano o oszacowaniu tych braków na podstawie danych z pozostałych
+• jednostek XTB S.A. lub za pomocą ekstrapolacji.

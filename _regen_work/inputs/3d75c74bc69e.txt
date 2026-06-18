@@ -1,0 +1,59 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 >
+
+• na ułamkach. Według informacji analizowanych przez Grupę XTB, skala posiadanych przez
+• nią akcji pochodzących z takich transakcji jest niewielka.
+• Oprócz tego XTB S.A. lokuje część swojej gotówki w lokaty bankowe oraz instrumenty finansowe, tj. w obligacje skarbowe, obligacje poręczone przez Skarb Państwa oraz obligacje korporacyjne poręczone przez banki będące lokatą kapitału m.in. chroniącą posiadane przez Spółkę środki przed inflacją. Powyższe obligacje są to instrumenty wyceniane w wartości godziwej przez wynik finansowy.
+• Zgodnie ze standardem “Financed Emissions The Global GHG Accounting & Reporting Standard Part A” opublikowanym przez Partnership for Carbon Accounting Financials
+• oraz zatwierdzonym przez GHG Protocol w związku ze zgodnością z GHG Protocol Corporate
+• Accounting and Reporting Standard:
+• Przedsiębiorstwo powinno posiadać decyzyjność w temacie akcji jakich spółek
+• kupuje.
+• Z obliczeń finansowych emisji można wykluczyć pozycje, które są niewielkie. Nie uwzględnia się emisji pochodzących z aktywów, które są utrzymywane przez krótki okres bądź te które są przeznaczone do sprzedaży.
+• Nie uwzględnia się emisji pochodzących z aktywów, które są wyceniane w wartości
+• godziwej.
+• W związku z powyższym, Grupa XTB nie jest zobowiązana do raportowania emisyjności
+• gazów cieplarnianych pochodzących z powyższych posiadanych akcji i obligacji na bilansie
+• Grupy Kapitałowej XTB S.A. na dzień 31.12.2025 roku w Kategorii 15 Zakresu 3.
+• **E1-6** Od 2024 roku Grupa XTB rozpoczęła kalkulację pełnych emisji gazów cieplarnianych
+• wytwarzanych w wyniku jej działalności operacyjnej. W toku obliczeń wszystkich zakresów
+• emisyjności Grupy XTB korzystano wyłącznie z ogólnodostępnych arkuszy kalkulacyjnych
+• (MS Excel). Do oceny poziomu intensywności emisji wykorzystywane są: wskaźnik emisji
+• gazów cieplarnianych na 1 mln przychodów netto na poziomie Grupy XTB.
+• Po wdrożeniu korekt oraz ponownym przeliczeniu, łączny ślad węglowy
+• Grupy Kapitałowej XTB S.A. za rok 2024 uległ zmniejszeniu o 6,17% w porównaniu do
+• wartości raportowanej pierwotnie. Większość wprowadzonych korekt jest jednak nieznaczna
+• i nie przekracza 10%. Największe zmiany odnotowano w:
+• Kategorii 5 Zakresu 3 (-56,05%)
+• Na zmianę wpłynęła aktualizacja wartości dotyczącej ilości odpadów zmieszanych,
+• wynikająca z aktualizacji alokacji ilości wytwarzanych odpadów zgodnie z obowiązującą
+• wynikająca z aktualizacji alokacji ilości wytwarzanych odpadów zgodnie z obowiązującą
+• strukturą najmu powierzchni biurowej. Ponadto zaktualizowano formułę obliczeniową,
+• która szacuje emisyjność procesów utylizacji sprzętów IT w oparciu o dane zawarte
+• która szacuje emisyjność procesów utylizacji sprzętów IT w oparciu o dane zawarte
+• w kartach Environmental Product Declaration (EPD) wykorzystanych do obliczeń
+• w kartach Environmental Product Declaration (EPD) wykorzystanych do obliczeń
+• w kategorii 2 Zakresu 3.
+• w kategorii 2 Zakresu 3.
+• Kategorii 7 Zakresu 3 (-54,44%)
+• Skorygowano odpowiedzi użytkowników dotyczące liczby dni dojazdu do pracy tak, aby
+• Skorygowano odpowiedzi użytkowników dotyczące liczby dni dojazdu do pracy tak, aby
+• suma dni dojazdu i dni pracy zdalnej wynosiła 5 dni roboczych
+• w tygodniu. Korekty wprowadzono z uwzględnieniem rodzaju transportu,
+• tj. transportu łączonego lub transportu alternatywnego. Poprawiono również formułę
+• obliczającą emisje związane z pracą w trybie zdalnym. Zaktualizowano metodykę
+• obliczającą emisje związane z pracą w trybie zdalnym. Zaktualizowano metodykę
+• obliczeń poprzez wyłączenie emisji typu Well-to-Tank (WTT) związanych z energią
+• elektryczną w krajach, dla których emisje zostały obliczone na podstawie danych z bazy
+• elektryczną w krajach, dla których emisje zostały obliczone na podstawie danych z bazy
+• EMBER. Poprawiono sposób ekstrapolacji emisji dla pracowników, dla których
+• brakowało danych ankietowych.
+• brakowało danych ankietowych.
+• Kategorii 11 Zakresu 3 (-45,97%)
+• Rekalkulacja jest spowodowana zmianą metodyki wyznaczania wskaźnika średniego
+• czasu korzystania z platformy. Modyfikacja wynikała z aktualizacji reguł wyzwalania
+• zdarzeń, co poprawiło spójność raportowania. W efekcie pomiar czasu korzystania
+• został urealniony i lepiej odzwierciedla rzeczywiste zaangażowanie użytkowników,
+• zapewniając większą porównywalność danych między platformami.
+
+| **Rekalkulacja emisji roku bazowego 2024** |  | W związku z odnotowanymi zmianami po dacie publikacji Oświadczenia za 2024 oraz celem | dochowania należytej staranności i poprawy jakości oraz porównywalności zbieranych | danych zdecydowaliśmy się rekalkulować Zakresy i kategorie, gdzie to zasadne (Tabela 16) | **Tabela 16.**Wykaz korekt emisji gazów cieplarnianych Grupy XTB za 2024 rok |  | **EMISJE [KG CO2E/ROK]** |  | **2024 ROK** |  |  | **ZAKRESY I KATEGORIE** **BYŁO** **JEST** **% zmiana** |  |  | ZAKRES 1 | 110 077,56 | **111 996,37** | 1,74% |  | ZAKRES 2 | 496 105,63 | **493 816,83** | -0,46% | (MARKET-BASED) |  | ZAKRES 2 | 729 401,65 | **726 399,28** | -0,64% | (LOCATION-BASED) | ZAKRES 3 KATEGORIA 1 | 20 551 730,78 | **20 551 746,90** | >0,01% | ZAKRES 3 KATEGORIA 2 | 525 680,97 | **525 680,97** | 0% |  | ZAKRES 3 KATEGORIA 3 | 169 286,87 | **156 387,57** | -7,62% | ZAKRES 3 KATEGORIA 4 | 19 049,03 | **19 049,03** | 0% |  | ZAKRES 3 KATEGORIA 5 | 77 140,51 | **33 905,88** | -56,05% | ZAKRES 3 KATEGORIA 6 | 612 350,74 | **614 129,37** | 0,29% |  | ZAKRES 3 KATEGORIA 7 | 627 568,19 | **285 927,01** | -54,44% | ZAKRES 3 KATEGORIA 11 | 2 666 149,20 | **1 467 053,50** | -45,97% | **SUMA (MARKET-BASED)** | 25 855 139,48 | **24 259 693,43** | -6,17% | **SUMA (LOCATION-BASED)** | 26 088 435,50 | **24 492 275,85** | -6,12% | **SUMA ZAKRESU 3** | 25 248 956,29 | **23 653 880,23** | -6,32% |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

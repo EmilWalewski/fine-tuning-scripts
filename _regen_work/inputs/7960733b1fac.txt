@@ -1,0 +1,110 @@
+DOKUMENT SEKCJA: **Kursy walutowe zastosowane do przeliczenia** | **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW** | **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH** | **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ**
+
+## **Kursy walutowe zastosowane do przeliczenia**
+| **WYSZCZEGÓLNIENIE** | **2025** | **2024** |
+| --- | --- | --- |
+| Kurs EUR/PLN dla danych bilansowych | 4,2419 | 4,2730 |
+| Kurs EUR/PLN dla całkowitych dochodów i przepływów pieniężnych _Za okres 6 miesięcy zakończonych w dniu 30.06_ | 4,2208 | 4,3109 |
+4  
+Raport Creotech Instruments Spółka Akcyjna za okres 6 miesięcy zakończony 30 czerwca 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW**
+| **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE** **Z CAŁKOWITYCH DOCHODÓW** | **Nota** | **01.01.2025** | **30.06.2025** | **01.01.2024** | **30.06.2024** |
+| --- | --- | --- | --- | --- | --- |
+| **Przychody ze sprzedaży** |  | **74 450** | **17 100** |  |  |
+| Przychody ze sprzedaży produktów | 9 | 67 943 | 11 814 |  |  |
+| Przychodyz tytułu dotacji |  | 6 507 | 5 286 |  |  |
+| **Koszty działalności operacyjnej** |  | **70 458** | **26 256** |  |  |
+| Amortyzacja |  | 6 918 | 4 035 |  |  |
+| Zużycie materiałów i energii |  | 3 970 | 4 023 |  |  |
+| Usługi obce |  | 37 110 | 4 848 |  |  |
+| Podatki i opłaty |  | 307 | 197 |  |  |
+| Wynagrodzenia i ubezpieczenia społeczne oraz inne świadczenia |  | 20 816 | 14 161 |  |  |
+| Pozostałe koszty |  | 417 | 238 |  |  |
+| Zmiana stanuproduktów |  | 921 | -1 246 |  |  |
+| **Pozostałe przychody operacyjne** |  | **-** | **78** |  |  |
+| **Pozostałe koszty operacyjne** |  | **-** | **64** |  |  |
+| **Zysk(strata) z działalności operacyjnej** |  | **3 993** | **-9 142** |  |  |
+| Przychody finansowe |  | 1 193 | 2 492 |  |  |
+| Kosztyfinansowe |  | 815 | 2 461 |  |  |
+| **Zysk(strata) przed opodatkowaniem** |  | **4 372** | **-9 112** |  |  |
+| Podatek dochodowy |  | 831 | -1 564 |  |  |
+| **Zysk(strata) netto z działalności kontynuowanej** |  | **3 541** | **-7 548** |  |  |
+| **Zysk(strata) netto z działalności zaniechanej** |  | **-** | **-** |  |  |
+| **Zysk(strata) netto za okres** |  | **3 541** | **-7 548** |  |  |
+| **Inne całkowite dochody** |  | **-** | **-** |  |  |
+| **Składniki podlegające przeklasyfikowaniu do** **wyniku wpóźniejszych okresach** |  | **-** | **-15** |  |  |
+| **Składniki niepodlegające przeklasyfikowaniu do** **wyniku wpóźniejszych okresach** |  | **-** | **-** |  |  |
+| Przeszacowanie zobowiązań z tytułu świadczeń pracowniczych(zyski/stratyaktuarialne) |  | - | -15 |  |  |
+| **Inne całkowite dochody, przed** **opodatkowaniem** |  | **-** | **-15** |  |  |
+| Podatek dochodowy dotyczący innych całkowitych dochodów |  | - | -3 |  |  |
+| **Inne całkowite dochody ogółem netto** |  | **-** | **-12** |  |  |
+| **Suma całkowitych dochodów netto** **Zysk (strata) na jedna akcję** |  | **3 541** | **-7 560** |  |  |
+| Podstawowy zysk (podstawowa strata) przypadający na jedną akcję z działalności kontynuowanej |  | 1,37 | -3,17 |  |  |
+| Podstawowy zysk (podstawowa strata) przypadający najednąakcjęz działalności zaniechanej |  | - | - |  |  |
+| **Zysk(strata) najedną akcję** |  | **1,37** | **-3,17** |  |  |
+| Rozwodniony zysk (rozwodniona strata) przypadający na jedną akcję z działalności kontynuowanej |  | 1,37 | -3,17 |  |  |
+| Rozwodniony zysk (rozwodniona strata) przypadający najednąakcjęz działalności zaniechanej |  | - | - |  |  |
+| **Rozwodniony zysk(strata) najedną akcję** |  | **1,37** | **-3,17** |  |  |
+5  
+Raport Creotech Instruments Spółka Akcyjna za okres 6 miesięcy zakończony 30 czerwca 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ**
+| **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE** **Z SYTUACJI FINANSOWEJ** **AKTYWA** | **Nota** | **30.06.2025** | **31.12.2024** |
+| --- | --- | --- | --- |
+| **AKTYWA TRWAŁE** |  | **116 509** | **107 521** |
+| Rzeczowe aktywa trwałe |  | 36 897 | 33 487 |
+| Wartości niematerialne |  | 56 132 | 49 593 |
+| Inwestycje w udziały i akcje |  | 260 | 10 |
+| Aktywa z tytułu podatku odroczonego |  | 8 729 | 9 559 |
+| Należności z tytułu dostaw i usług oraz pozostałe należności |  | 14 491 | 14 872 |
+| Aktywa z tytułu umów |  | - | - |
+| Pozostałe aktywa |  | - | - |
+| **AKTYWA OBROTOWE** |  | **183 488** | **54 807** |
+| Zapasy |  | 9 489 | 8 913 |
+| Należności z tytułu dostaw i usług oraz pozostałe należności |  | 18 844 | 11 952 |
+| Należności z tytułu podatku dochodowego |  | - | - |
+| Aktywa z tytułu umów |  | 12 284 | 1 545 |
+| Środki pieniężne i ich ekwiwalenty |  | 142 870 | 32 397 |
+| Pozostałe aktywa |  | - | - |
+| **AKTYWA RAZEM** **PASYWA** |  | **299 997** | **162 328** |
+| **KAPITAŁ WŁASNY** |  | **147 303** | **70 954** |
+| Kapitał podstawowy |  | 285 | 238 |
+| Akcje własne |  | - | - |
+| Kapitał z emisji akcji powyżej ich wartości nominalnej |  | 144 311 | 92 006 |
+| Pozostałe kapitały |  | 185 | 185 |
+| Zyski zatrzymane |  | 2 521 | -21 475 |
+| **ZOBOWIĄZANIA DŁUGOTERMINOWE** |  | **53 034** | **61 738** |
+| Zobowiązania z tytułu podatku odroczonego |  | - | - |
+| Rezerwy długoterminowe |  | 4 062 | 4 062 |
+| Zobowiązania z tytułu leasingu |  | 19 681 | 20 149 |
+| Kredyty, pożyczki i inne zobowiązania finansowe |  | - | - |
+| Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania |  | - | - |
+| Zobowiązania z tytułu umów z klientami |  | - | - |
+| Dotacje rozliczane w czasie |  | 29 291 | 37 526 |
+| **ZOBOWIĄZANIA KRÓKOTERMINOWE** |  | **99 660** | **29 637** |
+| Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania |  | 64 512 | 22 056 |
+| Zobowiązania z tytułu umów z klientami |  | 6 701 | 2 821 |
+| Zobowiązania z tytułu leasingu |  | 2 362 | 2 373 |
+| Kredyty, pożyczki i inne zobowiązania finansowe |  | 1 | - |
+| Rezerwy krótkoterminowe |  | 22 031 | 763 |
+| Zobowiązania z tytułu podatku dochodowego |  | - | - |
+| Dotacje rozliczane w czasie |  | 4 053 | 1 624 |
+| **PASYWA RAZEM** |  | **299 997** | **162 328** |
+6  
+| **Zyski** **zatrzymane** | **-15 362** | **-** **-15 362** | - **-20 456** | **-20 456** | 14 343 |
+| --- | --- | --- | --- | --- | --- |
+| **Kapitał** **podstawowy** | **238** | **-** **238** | - - | **-** | - |
+| **ŚRÓDROCZNE SKRÓCONE** **SPRAWOZDANIE ZE ZMIAN W KAPITALE** **WŁASNYM** | **Na dzień 1 stycznia 2024** | Zmiany zasad rachunkowości **Na dzień 1 stycznia 2024, po korektach** | Zysk / strata netto Inne całkowite dochody | **Całkowite dochody za okres ogółem** | Podział wyniku finansowego |
+Raport Creotech Instruments Spółka Akcyjna za okres 6 miesięcy zakończony 30 czerwca 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH**
+8  
+Raport Creotech Instruments Spółka Akcyjna za okres 6 miesięcy zakończony 30 czerwca 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+| **Środkipieniężne na koniec okresu w bilansie** | **142 870** | **59 771** |
+| --- | --- | --- |
+| _w tym środki na zaliczkach na dotacje_ | _19 288_ | _23 913_ |
+Pozycja _Środki pieniężne o ograniczonej możliwości dysponowania_ obejmuje środki pieniężne na rachunkach VAT.  
+Pozycja _Środki pieniężne i ekwiwalenty środków pieniężnych na koniec okresu_ obejmuje zaliczki na dotacje w projektach B+R na kwotę 19,3 mln PLN na 30 czerwca 2025 i środki na lokatach bankowych na kwotę 111,8 mln PLN na 30 czerwca 2025 oraz zaliczki na dotacje w projektach B+R na kwotę 23,9 mln PLN na 30 czerwca 2024 i środki na lokatach bankowych na kwotę 33,0 mln PLN na 30 czerwca 2024.  
+9  
+Raport Creotech Instruments Spółka Akcyjna za okres 6 miesięcy zakończony 30 czerwca 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)

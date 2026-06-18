@@ -1,0 +1,86 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 5.2. Struktura kosztów operacyjnych | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 5.3. Pozostałe przychody i koszty operacyjne | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 5.4. Przychody i koszty finansowe | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 5.5. Podatek dochodowy
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 5.2. Struktura kosztów operacyjnych
+W poniższej tabeli przedstawiono strukturę kosztów operacyjnych w okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku oraz w okresie porównywalnym.  
+| **3 miesiące do** | **3 miesiące do** |  |
+| --- | --- | --- |
+| **Koszty działalności operacyjnej** **_(przekształcone)_** | **31 marca 2025** | **31 marca 2024** |
+| **mln PLN** | **mln PLN** |  |
+| Wartość odsprzedanych towarów, materiałów i usługobcych(COGS) | (756,5) | (750,7) |
+| Świadczenia na rzecz pracowników | (2 336,2) | (2 123,0) |
+| Amortyzacja | (212,2) | (204,9) |
+| Usługi obce | (579,0) | (548,5) |
+| Pozostałe | (206,4) | (211,1) |
+| **Razem** | **(4 090,3)** | **(3 838,2)** |
+| Koszt własny sprzedaży | (3 533,7) | (3 338,8) |
+| _w tym: (Odpis) / odwrócenie odpisu z tytułu utraty wartości_ _należności z tytułu dostaw i usług_ | _(6,0)_ | _(2,8)_ |
+| Koszty sprzedaży | (253,9) | (225,3) |
+| Koszty ogólnego zarządu | (302,7) | (274,1) |
+| **Razem** | **(4 090,3)** | **(3 838,2)** |
+W okresie sprawozdawczym w kosztach usług obcych ujęte zostały koszty outsourcingu zasobów ludzkich w wysokości 304,4 mln PLN oraz koszty podwykonawców w wysokości 220,1 mln PLN. W okresie porównywalnym koszty te wyniosły odpowiednio 288,2 mln PLN oraz 212,1 mln PLN.  
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 37  
+W okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku pozostałe koszty działalności operacyjnej obejmowały przede wszystkim koszty utrzymania majątku i samochodów służbowych w wysokości 130,5 mln PLN oraz koszty podróży służbowych w wysokości 17,5 mln PLN. W okresie porównywalnym pozostałe koszty operacyjne zawierały głównie koszty utrzymania majątku i samochodów służbowych w wysokości 129,5 mln PLN oraz koszty podróży służbowych w wysokości 16,4 mln PLN.  
+_i. Koszty świadczeń na rzecz pracowników_  
+| **Koszty świadczeń** | **3 miesiące do** **31 marca 2025** | **3 miesiące do** **31 marca 2024** |
+| --- | --- | --- |
+| **mln PLN** | **mln PLN** |  |
+| Wynagrodzenia | (1 933,7) | (1 754,8) |
+| Koszty ubezpieczeń społecznych | (149,4) | (128,5) |
+| Koszty świadczeń emerytalnych | (150,2) | (134,1) |
+| Koszty transakcji płatności na bazie akcji | (16,0) | (17,8) |
+| Pozostałe koszty świadczeń pracowniczych | (86,9) | (87,8) |
+| **Koszty świadczeń pracowniczych ogółem** | **(2 336,2)** | **(2 123,0)** |
+Przeciętne zatrudnienie w okresie sprawozdawczym w etatach pobierających wynagrodzenie, tj. zatrudnienie w etatach skorygowane (pomniejszone) o etaty, za które spółki z Grupy nie wypłacają wynagrodzenia (np. urlop bezpłatny, urlop macierzyński, inne), z wyłączeniem spółek, których wyniki ujmowane są w pozostałej działalności operacyjnej lub w działalności zaniechanej, natomiast z uwzględnieniem spółek, które dołączyły do Grupy w trakcie okresu sprawozdawczego (skalkulowane proporcjonalnie do okresu ich konsolidacji), wynosi 33 037; w okresie porównywalnym było to 32 302.  
+Koszty transakcji na bazie akcji dotyczą programów, jakie zostały przyznane pracownikom i członkom kierownictwa spółek z segmentu Formula Systems oraz członkom kierownictwa spółek z Grupy ASEE i spółki Asseco Business Solutions S.A. z segmentu Asseco International.  
+W wyniku lat 2025 oraz 2024 ujęta jest część kosztu programu przyznanego CEO Formula Systems w 2020 roku. W ramach programu CEO przyznano RSU (Restricted Shares Units), które po upływie 8 lat, tj. po zakończeniu roku 2027, będą mogły zostać zamienione na akcje stanowiące 4% udziału w kapitale spółki Formula Systems. Całkowita wartość tego programu opcyjnego wynosi około 170,0 mln NIS (186,3 mln PLN) i jest rozpoznawana liniowo w kosztach Grupy przez okres od 2020 do 2027 roku. W wyniku I kwartału roku 2025 w spółce Formula Systems (1985) Ltd ujęto koszt powyższego programu w kwocie 5,9 mln NIS (6,5 mln PLN), a także koszt innych programów płatności na bazie akcji w wysokości 0,4 mln NIS (0,4 mln PLN).  
+Pozostałe koszty transakcji płatności na bazie akcji pochodzą z grupy Matrix (3,3 mln PLN), grupy Sapiens (2,4 mln PLN), grupy Magic (odwrócenie kosztów w kwocie 0,2 mln PLN), a także z grupy ASEE (0,1 mln PLN) oraz Asseco Business Solutions (3,5 mln PLN).
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 5.3. Pozostałe przychody i koszty operacyjne
+Pozostałe przychody i koszty operacyjne w okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku oraz w okresie porównawczym kształtowały się następująco:  
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 38  
+W pozycji Strata na utracie kontroli nad jednostkami zależnymi ujęto 6,5 mln PLN dotyczące sprzedaży udziałów w spółce Mobven Teknoloji A.S (spółka z grupy ASEE, segment Asseco International).  
+Zyski i straty z przeszacowania odroczonej i warunkowej płatności za pakiet kontrolny w spółkach zależnych oraz z przeszacowania zobowiązania z tytułu nabycia udziałów niekontrolujących (opcje put) wynikają głównie ze zmiany szacunków dotyczących wyników operacyjnych spółek zależnych, na których oparte są wartości wspomnianych zobowiązań.
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 5.4. Przychody i koszty finansowe
+Struktura przychodów finansowych w okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku oraz w okresie porównywalnym kształtowała się następująco:  
+| **3 miesiące do** | **3 miesiące do** |  |
+| --- | --- | --- |
+| **Przychody finansowe** | **31 marca 2025** | **31 marca 2024** |
+| **mln PLN** | **mln PLN** |  |
+| Dodatnie różnice kursowe | 32,4 | 15,2 |
+| Przychody odsetkowe od inwestycji w instrumenty dłużne oraz depozyty wyceniane w zamortyzowanym koszcie | 24,6 | 22,0 |
+| Zysk z sytuacji pieniężnej netto - hiperinflacja | 7,0 | 10,2 |
+| Pozostałe przychody odsetkowe (w tym: od pozostałych inwestycji w instrumentydłużne, leasingu oraz należności) | 1,6 | 0,7 |
+| Pozostałeprzychodyfinansowe | 1,5 | 0,9 |
+| **Przychody finansowe ogółem** | **67,1** | **49,0** |
+Zyski z sytuacji pieniężnej netto - hiperinflacja wynikają z zastosowania standardu MSR 29 i są to zyski z inflacyjnego przeszacowania niepieniężnych pozycji bilansu oraz pozycji rachunku zysków i strat jednostek zależnych działających w Turcji w grupie ASEE (segment Asseco International), wskaźnikami inflacji za bieżący rok. Szczegółowe informacje o wpływie hiperinflacji zostały ujęte w nocie 2.11 niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego.  
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 39  
+Struktura kosztów finansowych w okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku oraz w okresie porównywalnym kształtowała się następująco:  
+| **3 miesiące do** | **3 miesiące do** |  |
+| --- | --- | --- |
+| **Koszty finansowe** | **31 marca 2025** | **31 marca 2024** |
+| **mln PLN** | **mln PLN** |  |
+| Koszty odsetkowe od kredytów, pożyczek, papierów dłużnych, leasingu oraz zobowiązań | (50,5) | (52,7) |
+| Ujemne różnice kursowe | (26,6) | (11,8) |
+| Pozostałe koszty odsetkowe | (5,4) | (3,4) |
+| Odwijanie dyskonta dotyczącego odroczonej i warunkowej płatności za pakiet kontrolny w spółkach zależnych oraz zobowiązania z tytułu nabycia udziałów niekontrolujących(opcjeput) | (5,2) | (5,2) |
+| Straty z realizacji i/lub wyceny aktywów finansowych wycenianych w wartościgodziwej przez wynik finansowy | (2,9) | (0,2) |
+| Pozostałe koszty finansowe | (4,1) | (0,5) |
+| **Koszty finansowe ogółem** | **(94,7)** | **(73,8)** |
+Dodatnie i ujemne różnice kursowe prezentowane są netto (jako nadwyżka dodatnich nad ujemnymi lub odwrotnie) na poziomie poszczególnych spółek zależnych.
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 5.5. Podatek dochodowy
+Główne składniki obciążenia wyniku z tytułu podatku dochodowego od osób prawnych (bieżącego i odroczonego):  
+| **Podatek dochodowy** | **3 miesiące do** **31 marca 2025** | **3 miesiące do** **31 marca 2024** |
+| --- | --- | --- |
+| **mln PLN** | **mln PLN** |  |
+| Bieżący podatek dochodowy oraz korekty lat ubiegłych | (104,4) | (113,2) |
+| Odroczony podatek dochodowy | 7,6 | 27,8 |
+| **Obciążenie podatkowe wykazane w rachunku zysków i strat** | **(96,8)** | **(85,4)** |
+Efektywna stopa podatkowa w okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku wyniosła 21,9% wobec 21,6% w okresie porównywalnym.

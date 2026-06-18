@@ -1,49 +1,36 @@
-W nowym pliku tt2.jsonl widać bardzo duży postęp w niektórych miejscach, ale niestety błędy nie zniknęły całkowicie z całego zbioru danych. Dataset w obecnej formie ma charakter „hybrydowy” – część wpisów została naprawiona idealnie, podczas gdy inne wciąż cierpią na dokładnie te same problemy, co wcześniej.
+Oto pełna lista zmian — co i gdzie.
 
-Oto szczegółowa analiza przesłanej wersji:
-👍 Co działa świetnie (Gdzie widać poprawę)?
+## Zmienione / nadpisane
 
-Początkowe sekcje (np. opisy modeli biznesowych, ryzyka deweloperskie Dom Development) są wzorcowe. Tekst jest w pełni czytelny, poprawny gramatycznie, zawiera wszystkie samogłoski i nie ma tam żadnych błędów strukturalnych.
-Przykład dobrego tekstu: „Realizowane projekty deweloperskie wymagają znacznych nakładów w fazie przygotowania, a następnie budowy...” – tutaj wszystko zadziałało bez zarzutu.
-⚠️ Co wciąż wymaga naprawy (Błędy, które zostały)?
-1. Powrót błędu „Gubienie samogłosek” (Dropped Vowels)
+| Plik | Zmiana |
+|---|---|
+| [_regen_work/manifest.json](_regen_work/manifest.json) | **(a)** przepisany prefiks ścieżek `/home/atlas/python/traning/fine-tuning-scripts` → `/Users/ewalewski/python/fine-tuning-scripts` (930 wystąpień; teraz 0 odwołań do `/home/atlas`). **(b)** przeliczone `out_char_budget` dla wszystkich 465 rekordów pod okno 5120 (rundy: 5120/margines150 → cel 4900 → cel 4700 dla niedobitków). |
+| [_ready_outputs/](_ready_outputs/)`dataset__1.txt … dataset__465.txt` | wszystkie 465 obecne, 0 pustych, wszystkie ≤ 5120 tok. W tej sesji: dogenerowane brakujące 245–465, potem regenerowane przekraczające limit (210 → 84 → 6). Wg gita **332 z 465** różni się od ostatniego commita. |
 
-W dalszych częściach pliku (szczególnie przy notach księgowych i bardziej skomplikowanych opisach finansowych) skrypt ponownie wygenerował tekst z uszkodzonym kodowaniem czcionek.
-Oto bezpośrednie przykłady wyciągnięte z Twojego pliku tt2.jsonl:
+## Utworzone (nowe pliki pomocnicze/backupy w `_regen_work/`)
+- `manifest.json.home-bak` — oryginał z linuksowymi ścieżkami (przed naprawą)
+- `manifest.json.win8100-bak` — po naprawie ścieżek, budżety pod 8100 (przed re-fitem 5120)
+- `manifest.json.win5120-safe150-bak` — po pierwszym przeliczeniu pod 5120
+- `leak_report.txt`, `leak_report2.txt` — raporty kontroli przecieków (verbose)
+- `refit2.json` — lista robocza 84 rekordów do re-fitu
 
-    wartścią pdatkwą aktywow i zbwiązan a ich wartścią bilaswą wykazaą (powinno być: wartością podatkową aktywów i zobowiązań a ich wartością bilansową wykazaną)
+## Pamięć (poza projektem, `~/.claude/projects/-Users-ewalewski-python-fine-tuning-scripts/memory/`)
+- `stateless-regen-run.md` — stan zadania + dwie pułapki (ścieżka `/home/atlas`→`/Users`; przekraczanie limitu znaków przez subagentów i obejście promptem)
+- `MEMORY.md` — wpis indeksowy
 
-    stswać w disiiu dtrasakcji dkaych pjj wjściu w życiraz dtrasakcji, ktorzstały przprwadzprzd (powinno być: stosować w odniesieniu do transakcji dokonanych po jej wejściu w życie oraz transakcji, które zostały przeprowadzone przed...)
+## Nietknięte (zweryfikowane)
+- [dataset.jsonl](dataset.jsonl) — **źródło, bez zmian** (3 MiB, mtime 18 cze)
+- [_regen_work/inputs/](_regen_work/inputs/) — 930 plików wejściowych, bez zmian
+- [_regen_work/RULES.md](_regen_work/RULES.md) — bez zmian
+- `stateless-chunk-regen/scripts/*` — skrypty bez zmian
+- **Merge (Stage 4) nieuruchomiony** → `dataset.regenerated.jsonl` jeszcze nie istnieje
 
-    Nalżści iwymagalrazprztrmiwad3 misiecy (powinno być: Należności niewymagalne oraz przeterminowane do 3 miesięcy)
+Jedyne nieodwracalne operacje to nadpisania w `_ready_outputs/` (regeneracje) i edycje `manifest.json` — ale każdy stan manifestu mam w backupach `.bak`, a `_ready_outputs` budowane było nie-destrukcyjnie (usuwane i odtwarzane tylko pliki przekraczające limit). Źródłowy `dataset.jsonl` ani katalog `inputs/` nie zostały dotknięte.
 
-2. Nowy problem: Całkowicie rozjechana struktura nagłówków w dużych tabelach
-
-W przypadku szerokich i skomplikowanych tabel (np. analiz wrażliwości na ryzyko walutowe), parser pogubił się w dopasowywaniu wierszy. W rezultacie losowe liczby i kwoty z tabeli zostały wrzucone do nagłówka Markdown jako nazwy kolumn, a tekst komórek został ucięty.
-
-Spójrz na ten fragment tabeli w Twoim pliku tt2.jsonl:
-Markdown
-
-| **adku wzrostu** | **Razem** | **333** | **167 787** | **7 257** | **(110 482)** | **(1 793)** | **63 102** | ...
-| --- | --- | --- | --- | --- | --- | --- | --- | ...
-| **30.06.2025** | **Analiza wrażliwości ekspozycji na ryzyko walutowe w przyp** **kursu walut +10%** | **CZK** | - 748 4 - - | 752 | 30 | ...
-
-    Dlaczego to zaszkodzi modelowi?
-
-        Słowo adku wzrostu jest urwane (prawdopodobnie z frazy w przypadku wzrostu).
-
-        Kwoty takie jak 167 787 czy (110 482) stały się technicznymi nagłówkami kolumn. Model LLM podczas treningu zacznie uczyć się, że nagłówek kolumny to po prostu zmienna liczba, co zniszczy jego zdolność do poprawnego rozumienia tabel finansowych.
-
-        Wartości wewnątrz wierszy danych zamieniły się w ciągi kresek i urwanych cyfr, np. - 748 4 - -.
-
-🛠️ Gdzie tkwi błąd w Twoim skrypcie i jak go rozwiązać?
-
-Wszystko wskazuje na to, że Twoja poprawka (np. selektywne użycie OCR lub alternatywnego parsera) zadziałała, ale nie została zaaplikowana do całego pliku wejściowego albo wyłożyła się na najbardziej skomplikowanych stronach.
-
-    Weryfikacja zakresu skryptu: Upewnij się, czy funkcja wykrywająca błędy w czcionkach (lub wymuszająca OCR dla uszkodzonych stron) nie przestała działać po przetworzeniu określonej liczby linii lub dokumentów. Zniekształcony tekst bez samogłosek pojawia się falowo – jedna sekcja jest czysta, a kolejna całkowicie uszkodzona.
-
-    Problem szerokich tabel (Multi-line Headers): Tabele, w których nagłówki zajmują 2-3 linijki tekstu w pionie, a kolumn jest bardzo dużo, kompletnie dezorientują standardowe narzędzia tekstowe. Kiedy parser czyta je liniami od lewej do prawej, miesza tekst z liczbami z sąsiednich kolumn.
-
-        Rozwiązanie: Dla stron zawierających sprawozdania tabelaryczne (możesz je wykryć np. po dużej gęstości znaków | lub cyfr), użyj dedykowanego narzędzia do wyciągania tabel wizualnych (np. Camelot z parametrem flavor='lattice' lub biblioteki pdfplumber z odpowiednio ustawionym table_settings), zamiast traktować je domyślnym parserem tekstowym.
-
-Podsumowując: kierunek zmian w kodzie jest bardzo dobry (co potwierdzają idealnie czyste fragmenty), ale skrypt wymaga uszczelnienia, aby poprawnie obsłużył gęste tabele finansowe oraz nie pomijał trudniejszych stron przy naprawianiu samogłosek.
+Nietknięte (zweryfikowane)
+dataset.jsonl — źródło, bez zmian (3 MiB, mtime 18 cze)
+_regen_work/inputs/ — 930 plików wejściowych, bez zmian
+_regen_work/RULES.md — bez zmian
+stateless-chunk-regen/scripts/* — skrypty bez zmian
+Merge (Stage 4) nieuruchomiony → dataset.regenerated.jsonl jeszcze nie istnieje
+Jedyne nieodwracalne operacje to nadpisania w _ready_outputs/ (regeneracje) i edycje manifest.json — ale każdy stan manifestu mam w backupach .bak, a _ready_outputs budowane było nie-destrukcyjnie (usuwane i odtwarzane tylko pliki przekraczające limit). Źródłowy dataset.jsonl ani katalog inputs/ nie zostały dotknięte.

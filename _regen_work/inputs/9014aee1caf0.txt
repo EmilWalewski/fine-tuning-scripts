@@ -1,0 +1,136 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > 3.1 Segment Asseco Poland
+
+_* Przychody ze sprzedaży na rzecz klientów zewnętrznych segmentu oraz sprzedaż pomiędzy segmentami._
+_** Zadłużenie na rzecz podmiotów spoza Grupy.
+
+EBIT = zysk z działalności operacyjnej.
+
+EBIT non-IFRS = EBIT skorygowany o koszt amortyzacji wartości niematerialnych rozpoznanych w ramach rozliczenia połączenia (PPA), o koszty transakcji z pracownikami rozliczane w formie instrumentów kapitałowych (SBP) oraz o przychody i koszty związane z transakcjami nabycia / sprzedaży spółek.
+
+EBITDA = EBIT + amortyzacja._
+_CFO BT = środki pieniężne netto z działalności operacyjnej przed zapłaconym podatkiem dochodowym.
+
+CAPEX = wydatki na aktywa trwałe segmentu.
+
+FCF = |CFO BT|-|CAPEX|-|wydatki z tytułu leasingu|.
+
+Wskaźnik konwersji gotówki = (FCF) / (EBIT non-IFRS - wpływy ze sprzedaży nieruchomości)._
+W I kwartale 2025 roku przychody Grupy wygenerowane w segmencie Asseco Poland wyniosły 544,1 mln PLN wobec 508,7 mln PLN w analogicznym okresie rok wcześniej.
+
+Segment ten odpowiadał w okresie sprawozdawczym za 12% sprzedaży Grupy.
+
+Zysk operacyjny wyniósł 104,0 mln PLN wobec 86,0 mln PLN w I kwartale 2024 roku, natomiast EBITDA wyniosła 130,3 mln PLN wobec 110,8 mln PLN rok wcześniej.
+
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 76
+W obszarze **finansów i bankowości** w I kwartale 2025 roku Asseco Poland, będące największym kontrybutorem segmentu polskiego, kontynuowało prace z dotychczasowymi klientami, w ramach których realizowało m.in. długoterminowe umowy serwisowe, odpowiadające za ok.
+
+40% przychodów tego obszaru.
+
+W I kwartale 2025 roku Spółka kontynuowała dla Banku Gospodarstwa Krajowego projekt transformacji centralnego systemu transakcyjnego.
+
+Asseco Poland świadczyło usługi utrzymania, optymalnego rozwoju oraz transformacji systemu def2000 do postaci otwartej, umożliwiającej dalsze utrzymanie i rozwój systemu bez istotnych ograniczeń technologicznych i prawnych na podstawie 4-letniej umowy z 2022 roku.
+
+Spółka kontynuowała wieloletnią współpracę z największym bankiem w regionie, czyli PKO BP, w ramach której prowadziła działania związane m.in. z rozwojem i serwisem podstawowego systemu informatycznego
+obsługującego transakcje klientów PKO BP, systemu rozliczeń międzybankowych, a także – działającego w chmurze Google – systemu służącego do zarządzania i rozliczeń kart debetowych w PKO BP.
+
+W analizowanym okresie Spółka wspierała wzrost usługi Allegro Pay.
+
+W systemie Asseco przetwarzane są wszystkie kontrakty zawierane w ramach wdrożonej przez Allegro w 2020 roku usługi BNPL (Buy Now Pay Later).
+
+Platforma Asseco Core Banking, która jest ważnym elementem Allegro Pay, wnosi gotowe rozwiązania sprawdzone z sukcesem w obszarze bankowym i uwzględnia schematy księgowe Allegro.
+
+System Asseco m.in. przygotowuje harmonogram spłat, oblicza i księguje odsetki, rejestruje wypłatę kredytu, obsługuje rozliczenie spłat, nalicza zaległości, czy przetwarza księgowania, a sprzedawca od razu otrzymuje całą kwotę i nie musi czekać na kolejne raty wpłacane przez kupującego.
+
+Wszystkie wymienione usługi są dostępne dla Allegro Pay w trybie 24/7, także podczas operacji masowych takich jak np. zamknięcie dnia.
+
+Systemy Asseco wspierają Allegro Pay w obsłudze posprzedażowej klienta.
+
+Usługa jest świadczona w modelu Software as a Service, opracowanym na potrzeby instytucji finansowych, gdzie płatność odbywa się w modelu subskrypcyjnym.
+
+Ponadto Asseco pracowało nad dalszym rozwojem platformy Asseco BooX, która stanowi podstawę oferty Spółki dla sektora bankowego w Polsce i na świecie.
+
+Asseco BooX jest pierwszą w Polsce, kompleksową platformą technologiczną i procesową do sprzedaży oraz obsługi produktów finansowych.
+
+Daje ona dostęp nie tylko do wszystkich systemów koniecznych do wykonywania usług bankowych, ale również obejmuje usługi IT BPO świadczone przez pracowników Asseco w cenie subskrypcji.
+
+Rozwiązanie, którego pierwszymi klientami są banki spółdzielcze, jest oferowane także dla banków komercyjnych i fintechów.
+
+BooX, jako mogąca działać w chmurze platforma subskrypcyjna, stanowi doskonałe rozwiązanie dla neobanków, banków podlegających konsolidacji, sandboxów testowych, regulacyjnych i rozwiązań typu marketplace (w e-commerce).
+
+Asseco BooX udostępniany jest w modelu subskrypcyjnym, ale może działać również w oparciu o zakup licencji.
+
+Operacyjnie pracuje w modelach: stacjonarnym, chmurowym lub hybrydowym.
+
+W raportowanym okresie Spółka w dalszym ciągu rozwijała sprzedaż unikalnej usługi kompleksowego wsparcia banków w dostosowaniu się do wymogów wprowadzonych przez rozporządzenie w sprawie operacyjnej odporności cyfrowej (DORA).
+
+Obejmuje ona m.in. analizę luki w odporności cyfrowej, którą przeprowadza model oparty o sztuczną inteligencję oraz kontrolę poziomu dostosowania do DORA.
+
+Do tych działań Asseco wykorzystuje nową aplikację – DORA.ai.
+
+Pomaga ona bankowi w ustrukturyzowany sposób zweryfikować lukę pomiędzy wewnętrzną dokumentacją a wymaganiami regulatora.
+
+W zależności od modelu współpracy z Asseco, banki mogą też otrzymać opracowane szablony 9 krytycznych obszarów, które obejmują m.in. strategię obsługi incydentów ICT czy testowania i kontroli systemów ICT oraz politykę ciągłości działania, zarządzania ryzykiem, bezpieczeństwem i audytami ICT.
+
+Ważnym obszarem biznesowym w segmencie Asseco Poland jest rynek bankowości spółdzielczej.
+
+Działające na rynku polskim spółki z Grupy Asseco obsługują ponad 80% banków spółdzielczych, z czego dużą część wspierają w obszarze nowoczesnej bankowości internetowej oferowanej w modelu Software as a Service (SaaS).
+
+W I kwartale 2025 roku Asseco realizowało prace związane z rozwiązaniami dla banków spółdzielczych obu polskich zrzeszeń.
+
+Między innymi kontynuowało projekt Systemu Usług SGB (SUS), który realizuje z SGB-Bank jako dostawca kluczowych systemów.
+
+SUS to kompleksowy pakiet modułów składających się na nowoczesny system bankowy.
+
+Asseco jest dostawcą głównego systemu transakcyjnego, bankowości internetowej oraz narzędzi analitycznych.
+
+SUS to także szereg innych usług, które zapewniają zrzeszonym bankom spółdzielczym
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 77
+pełną obsługę księgową i informatyczną.
+
+Działa on w modelu chmury prywatnej, której właścicielem jest SGB-Bank.
+
+Obecnie z tego rozwiązania korzystają 62 banki spółdzielcze.
+
+W I kwartale 2025 Asseco w dalszym ciągu rozwijało unikalny projekt – Wspólnej Platformy Informatycznej (WPI), stanowiącej implementację BooX dla banków spółdzielczych, realizowaną z instytucjami z Grupy BPS.
+
+WPI jest pierwszym rozwiązaniem w Polsce zawierającym wszystko, czego potrzebuje dzisiaj nowoczesna instytucja finansowa: system transakcyjny, intuicyjne rozwiązania omnikanałowe (bankowość internetowa i mobilna, front-end procesowy), narzędzia sprawozdawcze i analityczne.
+
+WPI dostępna jest w modelu SaaS, co zmniejsza koszty związane z utrzymaniem odrębnej infrastruktury i zasobów.
+
+W raportowanym okresie Asseco wdrażało w bankach spółdzielczych rozwiązania Kids oraz Junior (aplikacje mobilne wraz z pulpitami rodzica i dziecka/nastolatka w bankowości internetowej).
+
+Pozwalają one na udostępnianie, w przypadku Kids – dzieciom do 13 lat, a w przypadku Junior – młodzieży, która ukończyła ten wiek, odpowiednio przygotowanych instrumentów płatniczych.
+
+Jednym z kluczowych atutów aplikacji mobilnej Asseco jest zdolność do automatycznego dostosowywania się do wieku użytkownika.
+
+Oznacza to, że kiedy dziecko skończy 13 lat, aplikacja BSGo Kids automatycznie przekształci się w wersję Junior, a następnie, gdy użytkownik osiągnie pełnoletniość, dostarczy kompletne funkcjonalności aplikacji dla dorosłych.
+
+W I kwartale 2025 roku Spółka podpisała kolejne zamówienia z bankami spółdzielczymi na modyfikację systemu do wymiany danych pomiędzy bankiem a innymi podmiotami uprawnionymi do uzyskiwania informacji o kontach klientów – Asseco Authority Requests and Data Services (Asseco ARS) – polegającą na automatyzacji weryfikacji zastrzeżeń numeru PESEL w celu ograniczania niektórych skutków kradzieży tożsamości oraz obsługi rachunków uśpionych.
+
+Dodatkowo Asseco podpisało umowę z kolejnymi bankami spółdzielczymi na wdrożenie konsoli sprzedawcy – Klient 360 – zapewniającej kompleksową i szybko dostępną informację o kliencie banku i jego umowach.
+
+Kolejne instytucje finansowe zdecydowały się na rozszerzenie funkcjonalności def3000/cIRM dla potrzeb pomiaru zarządzania ryzykiem stopy procentowej w księdze bankowej (IRRBB).
+
+Asseco współpracowało również z bankami spółdzielczymi w zakresie implementacji standardów ISO20022.
+
+W tym okresie pracowano także nad integracją systemu Asseco Enterprise Banking Platform z Krajowym Systemem e-Faktur (KSeF).
+
+Asseco Poland należy do liderów technologicznych polskiego rynku kapitałowego.
+
+W I kwartale Spółka w dalszym ciągu wspierała swoich klientów w dostosowaniu systemów PROMAK do nowej platformy transakcyjnej GPW WATS (Warsaw Automated Trading System), której produkcyjne uruchomienie zaplanowane jest na listopad 2025 roku.
+
+W omawianym okresie Spółka realizowała projekt dla biura maklerskiego jednego z dużych banków komercyjnych w zakresie dostawy i wdrożenia systemu corowego PROMAK NEXT oraz platformy transakcyjnej ePROMAK NEXT w nowej technologii.
+
+Rozwiązanie dostosowane jest do nowego systemu giełdowego GPW.
+
+Spółka realizuje projekt inwestycyjny PROMAK NEXT związany z nową linią produktową nowoczesnych, wysoko zautomatyzowanych rozwiązań chmurowych dla biur i domów maklerskich.
+
+Architektura PROMAK NEXT oparta jest o miniaplikacje, które pozwalają na łatwą rozbudowę rozwiązania oraz szybką integrację z innymi produktami lub usługami klientów.
+
+Asseco Poland jest uznanym dostawcą rozwiązań klasy Business Intelligence na polskim rynku.
+
+W I kwartale 2025 roku Spółka realizowała szereg projektów związanych z uruchomieniem rozwiązań w następujących obszarach:
+- sprawozdawczość obligatoryjna – dla klientów z sektora finansowego,
+- rozwój rozwiązań hurtowni danych – dla klientów sektora bankowego,
+- compliance (anti-money laundering & fraud detection) – dla klientów z sektorów bankowego i pożyczkowego,
+- rozwiązania analityki klienta i komunikacja z wykorzystaniem technologii Artificial Intelligence – dla klientów z sektorów finansowego i medycznego.

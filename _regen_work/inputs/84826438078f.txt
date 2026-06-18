@@ -1,0 +1,83 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 >
+
+| o Wskaźniki emisji średnie dla krajów zawierają straty na przesyle, które według | GHG Protocol powinny być uwzględnione w Kategorii 3 Zakresu 3. Nie było | możliwe rozdzielenie strat z przesyłu energii elektrycznej, więc musiały one | zostać ujęte w obliczeniach Zakresu 2. o Z powodu braku innej informacji od dostawców energii elektrycznej założono, | że straty na przesyle są wliczone już we wskaźnikach emisji dostawców. | W związku z tym emisje bezpośrednie pochodzące ze strat na przesyle nie | zostały ponownie uwzględnione w Kategorii 3 Zakresu 3. | **Energia cieplna – ciepło sieciowe:** | o W niektórych lokalizacjach Grupy XTB odnotowano brak zużycia energii cieplnej | (ze względu na charakter przestrzeni lub korzystanie z klimatyzacji) brak | ogrzewania (warunki klimatyczne) bądź brak danych. W przypadku braku | danych zużycie oszacowano na podstawie danych za zużycie energii cieplnej – | ciepła sieciowego na podstawie danych z okres 01.06-31.12.2024 roku. | Na podstawie tych danych obliczono zużycie na jeden miesiąc i pomnożono | przez dwanaście miesięcy, aby oszacować zużycie za rok 2025. | o W przypadku braku nazwy dostawcy ciepła sieciowego zdecydowano | o zastosowaniu wskaźnika location-based dla krajów. | o Z powodu braku informacji zarówno od dostawców ciepła sieciowego jak | i w krajowym wskaźniku dla Polski o emisji gazów cieplarnianych innych niż CO2 | w obliczeniach emisji z ciepła sieciowego, zarówno w podejściu market- jak | i location-based zostały ujęte tylko emisje CO2. | o Wskaźnik emisji średni dla Polski zawiera straty na przesyle, które według GHG | Protocol powinny być uwzględnione w Kategorii 3 Zakresu 3. Nie było możliwe | rozdzielenie emisji pochodzących z strat na przesyle ciepła sieciowego, | więc musiały one zostać ujęte w obliczeniach Zakresu 2 | o Z powodu braku innej informacji od dostawcy ciepła sieciowego w Polsce | założono, że emisje pochodzące ze strat na przesyle są wliczone już |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+• **Tabela 15.**Rozkład zastosowanych metod obliczeń emisji w Kategorii 2 Zakresu 3.
+• **Metoda** **Liczba** **środków** **trwałych** **% udział** **Emisje** **[kg CO2e/rok]** **% udział**
+• Karty EPD
+• 1 184
+• 61%
+• 218 220,86
+• 14%
+• Średni
+• wskaźnik
+• 611
+• 32%
+• 82 815,78
+• 5%
+• na urządzenie5
+• Metoda oparta
+• na wydatkach
+• 135
+• 7%
+• 1 267 596,49
+• 81%
+• **Kategoria 3: Emisje związane z energią i paliwami nieujęte w Zakresie 1 i 2**
+• Kategoria ta została obliczona metodą location-based6
+• Energia elektryczna:
+• o Z powodu braku informacji o emisji gazów cieplarnianych innych niż CO2przyjęto
+• w krajowych wskaźnikach średnich tylko emisje CO2.
+• o Z powodu braku innej informacji od dostawców energii elektrycznej a także
+• z informacji krajowych założono, że straty na przesyle są wliczone już
+• we wskaźnikach emisji GHG dostawców i krajowych. W związku z tym emisje
+• gazów cieplarnianych związane ze stratami na przesyle zostały ujęte w Zakresie
+• 2. W rezultacie bezpośrednie emisje GHG wynikające ze spalania paliw na
+• potrzeby produkcji energii elektrycznej przeznaczonej na pokrycie strat
+• przesyłowych nie zostały uwzględnione w Kategorii 3 Zakresu 3, żeby nie liczyć
+• tych emisji podwójnie.
+• o W związku z tym, iż krajowe wskaźniki emisji pochodzące z bazy EMBER
+• uwzględniają emisje dla całego cyklu życia produkowanej energii elektrycznej,
+• Nie zastosowano żadnego formalnego punktu odcięcia dla wykluczenia wydatków.
+• Wybrane kategorie zakupowe o udziale nieprzekraczającym 5% całkowitych wydatków zostały wyłączone z analizy.
+• Z powodu braku możliwości wydzielenia kwot, które dotyczą transportu zakupionych
+• materiałów oraz produktów zostały one wliczone w tę kategorię Zakresu 3
+• **Kategoria 1: Zakupione towary i usługi: zużycie wody**
+• W niektórych lokalizacjach Grupy XTB odnotowano brak zużycia wody (ze względu na
+• charakter przestrzeni) bądź brak danych. W przypadku braku danych zużycie oszacowano na podstawie danych za zużycie wody na podstawie dostępnych danych
+• archiwalnych lub danych dla pozostałych oddziałów i spółek. Całkowite zużycie wody
+• przeliczono na jednego pracownika, a następnie przemnożono przez liczbę
+• pracowników w danej jednostce.
+• **Kategoria 2: Dobra kapitałowe**
+• Wyliczenia zostały przeprowadzone na podstawie zestawień środków trwałych
+• przygotowanych przez księgowych poszczególnych spółek/oddziałów. Emisje dla 61%
+• środków trwałych zostały policzone w oparciu o karty EPD producentów (+14 p.p. r/r),
+• dla 32% zastosowano średnie wskaźniki emisji na urządzenie (+7 p.p. r/r), natomiast dla
+• pozostałych 7% użyto metody opartej na wydatkach (-21 p.p. r/r).
+• o Dla emisji WTT pochodzących ze strat na przesyle dla Niemiec uwzględniono
+• informacje o wielkości strat pochodzących z Umweltbundesamt.
+• o Dla emisji WTT pochodzących ze strat na przesyle dla Francji uwzględniono
+• informacje o wielkości strat pochodzących z FENEDE.
+• **Kategoria 4: Upstream – transport i dystrybucja**
+• **Kategoria 4: Upstream – transport i dystrybucja**
+• W przypadku tej kategorii częściowo uwzględniono dane podane przez spółki
+• oraz dane na podstawie kont kosztowych. W związku z tym podane kwoty
+• nie są we wszystkich przypadkach kwotami netto, tak jak tego wymaga standard GHG
+• Protocol. Z uwagi na brak informacji o kraju pochodzenia zakupionych produktów
+• wskaźniki emisyjności zostały dopasowane zgodnie z krajem działalności spółki/oddziału,
+• na podstawie bazy Exiobase.
+• **Kategoria 5: Odpady powstałe w wyniku działalności**
+• Dla wszystkich oddziałów i spółek XTB S.A. przyjęto założenie, że produkcja ścieków
+• jest równa zużyciu wody podanym w kategorii 1 Zakresu 3 śladu węglowego Grupy
+• Kapitałowej XTB S.A. za rok 2025.
+• W niektórych lokalizacjach Grupy XTB odnotowano brak produkcji ścieków i odpadów
+• ze względu na charakter danych nieruchomości.
+• Wskaźniki emisji GHG dla sposobu utylizacji odpadów jako składowanie/wysypisko
+• obejmują zbieranie, transport i emisje GHG ze składowisk, natomiast
+• dla pozostałych sposobów utylizacji są tylko brane pod uwagę emisje z transportu.
+• W przypadku podania wartości elektroodpadów oraz odpadów komunalnych
+• w jednostce litr, m3 bądź sztuki pojemników wraz z informacją o objętości pojemnika
+• przeliczono to na jednostkę kilogram z uwzględnieniem gęstości odpadów, która
+• pochodzi z bazy The Scottish Environment Protection Agency (SEPA).
+
+| ▪ |

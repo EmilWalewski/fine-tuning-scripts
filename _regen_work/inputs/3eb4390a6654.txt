@@ -1,0 +1,93 @@
+DOKUMENT SEKCJA: **29.3. Wynagrodzenie Kluczowego Personelu Kierowniczego Grupy** | **29.4. Program opcji na akcje dla Kluczowego Personelu Kierowniczego Grupy** | **30. Emisja akcji** | **31. Metody wyceny do wartości godziwej (hierarchia wartości)** | **32. Zysk na jedną akcję** | **33. Transakcje z podmiotami powiązanymi w tys. PLN**
+
+## **29.3. Wynagrodzenie Kluczowego Personelu Kierowniczego Grupy**
+Do Kluczowego Personelu Kierowniczego Grupy zalicza się: członków Rady Nadzorczej jednostki dominującej oraz członków Zarządu jednostki dominującej.  
+| **Zarząd (dane w tys. PLN):** | **9 miesięcy 2025** | **9 miesięcy 2024** |
+| --- | --- | --- |
+| Wynagrodzenia zasadnicze w jednostce dominującej* | 2 765 | 3 141 |
+| Wynagrodzenie zmienne w jednostce dominującej** | 6 876 | 7 890 |
+| Świadczenia niepieniężne **** | 52 | 25 |
+| **_Razem wynagrodzenia Zarządu w Grupie Kęty S.A._** | **_9 693_** | **_11 056_** |
+| Wynagrodzenia w innychpodmiotach Grupy*** | 1 780 | 1 644 |
+| **Razem wynagrodzenia Zarządu** | **11 473** | **12 700** |
+*W skład wynagrodzenia stałego wchodzą: wynagrodzenie zasadnicze z tytułu umowy o pracę, wynagrodzenie z tytułu powołania do składu Zarządu.  
+**W skład wynagrodzenia zmiennego wchodzą: premia roczna wypłacana w danym roku należna za rok poprzedni.  
+***W skład wynagrodzenia w innych podmiotach Grupy wchodzą: wynagrodzenie zasadnicze z tytułu umowy o pracę, wynagrodzenie z tytułu powołania do składu Zarządu, wynagrodzenie zmienne, wynagrodzenie chorobowe, świadczenia niepieniężne.  
+****W skład świadczeń niepieniężnych wchodzą: składka PPE, składka w ramach opieki medycznej.  
+W dniu 29 maja 2025 roku upłynęła kadencja dotychczasowego Zarządu i w tym dniu został powołany nowy Zarząd Grupy. Informacja o zmianach w składzie Zarządu została zamieszczona w nocie 1 niniejszego sprawozdania.  
+Ponadto, w okresie 9 miesięcy 2025 roku zawiązano rezerwę na potencjalne premie dla członków Zarządu do wypłaty w 2026 roku z tytułu premii za 2025 rok w łącznej kwocie 3 968 tys. PLN (w okresie 9 miesięcy 2024 roku – w kwocie 6 645 tys. PLN).  
+Wynagrodzenie członków Rady Nadzorczej przedstawiało się następująco:  
+| **Rada Nadzorcza (dane w tys. PLN)** | **9 miesięcy 2025** | **9 miesięcy 2024** |
+| --- | --- | --- |
+| Wynagrodzenia z tytułu pełnionej funkcji | 1 156 | 1 084 |
+| Świadczenia niepieniężne* | 7 | 9 |
+| **Razem** | **1 163** | **1 093** |
+*W skład świadczeń niepieniężnych wchodzi składka PPK.  
+Pomiędzy jednostką dominującą, a osobami zarządzającymi zawierane są umowy o zakazie konkurencji: obligatoryjnie - w trakcie trwania stosunku pracy oraz obligatoryjnie lub w zależności od decyzji Rady Nadzorczej - po ustaniu stosunku pracy. Zakaz konkurencji po ustaniu stosunku pracy może obowiązywać przez okres od 12 do 15 miesięcy, licząc od dnia ustania stosunku pracy ze Spółką, a miesięczna rata odszkodowania wynosi 50% wynagrodzenia zasadniczego lub 25% przeciętnego miesięcznego wynagrodzenia pobieranego w ostatnim roku trwania umowy o pracę w zależności od tego, która z kwot jest wyższa.
+
+## **29.4. Program opcji na akcje dla Kluczowego Personelu Kierowniczego Grupy**
+Zarząd posiada przyznane prawa do opcji na akcje zgodnie z poniższą tabelą. Prawo do nabycia poniższych akcji zostanie spełnione pod warunkiem spełnienia warunków programu oraz posiadania zatrudnienia w Grupie na dzień zakończenia okresu nabywania uprawnień.  
+_(w milionach PLN)_  
+30  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+| **Informacja o ilościach opcji na akcje w okresie** **nabywania uprawnień przyznanych członkom** **Zarządu** **Opcji** | **Ilość** **przyznanych** | **Dzień** **zakończenia** **okresu** **nabywania** **uprawnień** | **Ilość opcji** **spełniających** **warunki** **przyznania** |
+| --- | --- | --- | --- |
+| Opcje na akcje z I transzy programu z 2023 roku | 14 000 | 30.09.2026 | 2 800 |
+| Opcje na akcje z II transzy programu z 2023 roku | 22 600 | 30.09.2027 | 9 040 |
+| Opcje na akcje z III transzy programu z 2023 roku | 24 500 | 30.09.2028 | 12 600 |
+Ponadto Zarząd w dniu 01.10.2025 roku w ramach realizacji warunków III transzy programu z roku 2020 otrzymał prawo do nabycia 5,6 tys. akcji Spółki po cenie 381,99 PLN za akcję.  
+W maju 2025 roku członkowie Zarządu poprzedniej kadencji, realizując uprawnienia wynikające z drugiej transzy programu z 2020 roku, nabyli 30 tys. akcji Spółki po cenie 381,99 PLN za akcję.
+
+## **30. Emisja akcji**
+| Wartość agio emisyjnego | 124 |  | 91 |
+| --- | --- | --- | --- |
+| **Razem** | **124** |  | **91** |
+W okresie 9 miesięcy 2025 roku Grupa wyemitowała 506 akcji po cenie emisyjnej 361,50 PLN w ramach realizacji I transzy programu z 2020 roku oraz 87 101 akcji po cenie 381,99 PLN w ramach realizacji II transzy tego programu.  
+Dodatkowe informacje przedstawiono w nocie 19.
+
+## **31. Metody wyceny do wartości godziwej (hierarchia wartości)**
+Szczegółowe zasady ustalania wartości godziwej zostały opisane w nocie 37 skonsolidowanego sprawozdania finansowego za rok 2024.  
+W stosunku do poprzedniego roku obrotowego Grupa nie dokonywała zmian metody ustalania wartości godziwej. Instrumenty pochodne wykazywane są jako aktywa, w przypadku, gdy ich wycena jest dodatnia oraz jako zobowiązania, w przypadku wyceny ujemnej. Zyski i straty z tytułu zmian wartości godziwej instrumentów pochodnych, które nie spełniają zasad rachunkowości zabezpieczeń są odnoszone do rachunku zysków i strat.  
+| **Hierarchia wartości godziwej** **Aktywa** | **Stopień hierarchii** **wartościgodziwej** | **30.09.2025** |  | **31.12.2024** |  |
+| --- | --- | --- | --- | --- | --- |
+| Nieruchomości inwestycyjne | 3 |  | 4 |  | 4 |
+| Instrumenty pochodne zabezpieczające | 2 |  | 2 |  | 1 |
+| **Razem** **Zobowiązania** |  |  | **6** |  | **5** |
+| Instrumenty pochodne zabezpieczające | 2 |  | 1 |  | 0 |
+| **Razem** |  |  | **1** |  | **0** |
+
+## **32. Zysk na jedną akcję**
+Zysk podstawowy przypadający na jedną akcję obliczany jest poprzez podzielenie zysku netto za okres przypadającego na akcjonariuszy Grupy przez średnią ważoną liczbę wyemitowanych akcji zwykłych występujących w okresie.  
+Rozwodniony zysk przypadający na jedną akcję obliczany jest poprzez podzielenie zysku netto za okres przypadającego na zwykłych akcjonariuszy Grupy przez średnią ważoną liczbę wyemitowanych akcji zwykłych oraz potencjalnych akcji występujących w okresie.  
+_(w milionach PLN)_  
+31  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+| **Zysk netto w tys. PLN przypadający na akcjonariuszy jednostki** **dominującej** | **466 355** | **464 100** |
+| --- | --- | --- |
+| Średnia ważona liczba akcji zwykłych przyjęta do wyliczenia zysku na jedną akcję zwykłą | 9 814 968 | 9 685 250 |
+| Średnia ważona liczba akcji zwykłych przyjęta do wyliczenia rozwodnionego zysku najednąakcjęzwykłą | 9 843 837 | 9 707 516 |
+| Podstawowy zysk na jedną akcję (w PLN) | 47,51 | 47,92 |
+| Rozwodnionyzysk najednąakcję (w PLN) | 47,38 | 47,81 |
+W okresie sprawozdawczym uprawnieni pracownicy nabywali 87 607 sztuk akcji Grupy Kęty S.A.  
+Ponadto, uprawnieni pracownicy posiadają 2 500 sztuk opcji na akcje uprawniających do nabycia akcji z I transzy programu z 2020 roku po 361,50 PLN za akcję oraz 2 899 sztuk opcji na akcje uprawniających do nabycia akcji z II transzy programu z 2020 roku po 381,99 PLN za akcję.   Średnia cena rynkowa akcji Spółki w okresie 9 miesięcy 2025 roku wyniosła 846,74 PLN. Cena zamknięcia na dzień 30.09.2025 roku wyniosła 923 PLN.  
+Potencjalna liczba akcji zwykłych związana z programami opcji pracowniczych zwiększająca liczbę akcji, przyjęta do wyliczenia rozwodnionego zysku na jedną akcję, wynosi 28 869 sztuk.
+
+## **33. Transakcje z podmiotami powiązanymi w tys. PLN**
+Dane dotyczące transakcji Spółki z podmiotami powiązanymi za okres od 1 stycznia do 30 września 2025 roku oraz na dzień 30 września 2025 roku prezentuje poniższa tabela (dane w tys. PLN):  
+| **Podmiot** **powiązany** | **Sprzedaż** | **Zakupy** | **Należności** | **Zobowiązania** | **Dywidendy** | **Odsetki** **pożyczek** | **od** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Aluform Sp. z o.o. | 1 234 | 50 671 | 214 | 9 248 | 14 693 | 996 |  |
+| Aluminium Kety EMMI d.o.o. | 10 444 | 763 | 1 653 | 0 | 0 |  | 0 |
+| Aluminium Kety Deutschland | 0 | 2 756 | 0 | 539 | 0 |  | 0 |
+| GmbH Aluminium Kety CSE s.r.o. | 0 | 949 | 0 | 0 | 0 |  | 0 |
+| Alupol LLC | 28 944 | 5 084 | 3 071 | 10 208 | 0 |  | 0 |
+| Grupa Kety Italia S.R.L. | 0 | 1 327 | 0 | 382 | 0 |  | 0 |
+| Aluprof S.A. | 417 493 | 944 | 144 903 | 136 | 324 358 |  | 0 |
+| Glassprof Sp. z o.o. | 122 | 0 | 35 | 0 | 0 |  | 0 |
+| SELT Sp. z o.o. | 62 564 | 6 | 26 252 | 0 | 0 |  | 0 |
+| Aluprof System Romania S.R.L. | 119 | 0 | 23 | 0 | 0 |  | 0 |
+| Aluprof System Czech s.r.o. | 59 | 0 | 10 | 0 | 0 |  | 0 |
+| Aluprof Hungary Kft. | 305 | 119 | 7 | 0 | 0 |  | 0 |
+_(w milionach PLN)_  
+32  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_

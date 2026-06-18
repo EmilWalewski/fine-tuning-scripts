@@ -1,0 +1,84 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.8. Akcje własne | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.9. Kredyty bankowe, pożyczki i dłużne papiery wartościowe
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 6.8. Akcje własne
+Na saldzie akcji własnych prezentowane są akcje własne nabyte przez Asseco Poland S.A. we wrześniu 2023 roku. W ramach transakcji skupu Spółka nabyła łącznie 14 808 872 sztuk akcji własnych, reprezentujących około 17,84% udziału w kapitale podstawowym oraz 17,84% ogólnej liczby głosów na walnym zgromadzeniu Spółki. Cena za jedną akcję wyniosła 80,00 PLN.  
+W okresie sprawozdawczym i w okresie porównywalnym nie było zmian w saldzie akcji własnych.  
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 52
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 6.9. Kredyty bankowe, pożyczki i dłużne papiery wartościowe
+Zadłużenie Grupy na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku zostało przedstawione w tabeli poniżej:  
+| **31 marca** | **2025** | **31 grudnia** | **2024** |  |
+| --- | --- | --- | --- | --- |
+| **Długoterminowe** | **Krótkoterminowe** | **Długoterminowe** | **Krótkoterminowe** |  |
+| **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** |  |
+| Kredyty bankowe | 987,6 | 535,5 | 982,4 | 484,4 |
+| _- w rachunku bieżącym_ | _-_ | _125,5_ | _-_ | _90,3_ |
+| _- nieodnawialne_ | _987,6_ | _410,0_ | _982,4_ | _394,1_ |
+| Dłużne papiery wartościowe | 594,6 | 650,1 | 764,1 | 700,5 |
+| Pożyczki | 2,4 | 4,7 | 1,7 | 2,7 |
+| **Razem** | **1 584,6** | **1 190,3** | **1 748,2** | **1 187,6** |
+Łączne zadłużenie Grupy na dzień 31 marca 2025 roku z tytułu wszystkich zaciągniętych kredytów, pożyczek oraz emisji papierów dłużnych wyniosło 2 774,9 mln PLN, natomiast na dzień 31 grudnia 2024 roku była to kwota 2 935,8 mln PLN. Zmniejszenie zadłużenia w Grupie wynika głównie ze spadku w segmencie Formula Systems i został spowodowany przede wszystkim wykupem obligacji przez Grupę Sapiens oraz Grupę Matrix.  
+Kredyty w rachunku bieżącym na dzień 31 marca 2025 roku oraz 31 grudnia 2024 roku zostały przedstawione w tabeli poniżej:  
+| **Wartość zadłużenia** **mln PLN** **Wartość** **niewykorzystanych linii** **kredytowych** **mln PLN** **Wartość zadłużenia** **mln PLN** **Wartość** **niewykorzystanych** **linii kredytowych** **mln PLN** **EUR** | Zmienna stopa % | 67,6 | 162,4 | 50,3 | 202,9 |
+| --- | --- | --- | --- | --- | --- |
+| Stała stopa % | 2,0 | 13,0 | 0,2 | 17,1 |  |
+| **PLN** | Zmienna stopa % | 3,8 | 556,1** | 0,5 | 627,9** |
+| **NIS** | Zmienna stopa % | 11,8 | n/d* | 0,4 | n/d* |
+| Stała stopa % | 1,0 | - | 1,1 | - |  |
+| **BAM** | Stała stopa % | 34,8 | 11,0 | 34,8 | 8,8 |
+| **Pozostałe** | Zmienna stopa % | 1,1 | 28,2 | 3,0 | 26,7 |
+| Stała stopa % | 3,4 | 7,0 | - | 1,8 |  |
+| **125,5** | **777,7** | **90,3** | **885,2** |  |  |
+_*Wartość zadłużenia w rachunku bieżącym na dzień 31 marca 2025 roku wynosiła 11,8 mln PLN (na dzień 31 grudnia 2024 roku wynosiła 0,4 mln PLN) i dotyczy w całości grupy Matrix IT. W grupie Matrix IT limity na produkty kredytowe są w poszczególnych bankach negocjowane zbiorczo (tj. łącznie na kredyty w rachunku bieżącym, kredyty nieodnawialne oraz gwarancje), a łączny limit na wszystkie produkty kredytowe na dzień 31 marca 2025 roku wynosił 1 600,0 mln NIS (1 663,0 mln PLN), a na dzień 31 grudnia 2024 roku wynosił 1 513,0 mln NIS (1 701,4 mln PLN)._  
+_**z czego 43,3 mln PLN (44,7 mln PLN na dzień 31 grudnia 2024 roku) wykorzystane jako zabezpieczenie gwarancji._  
+Kredyty nieodnawialne na dzień 31 marca 2025 roku oraz 31 grudnia 2024 roku zostały zaprezentowane w tabeli poniżej:  
+| **Długoterminowe** **Krótkoterminowe** **Długoterminowe** **Krótkoterminowe** **mln PLN** **mln PLN** **mln PLN** **mln PLN** **EUR** | Zmienna stopa % | 71,7 | 38,4 | 68,8 33,4 |
+| --- | --- | --- | --- | --- |
+| Stała stopa % | 11,4 | 13,9 | 13,7 | 16,4 |
+| **NIS** | Zmienna stopa % | 66,8 | 28,2 | 74,1 30,0 |
+| Stała stopa % | 176,3 | 169,6 | 95,0 | 148,2 |
+| **USD** | Zmienna stopa % | 41,2 | 53,9 | 85,4 59,6 |
+| Stała stopa % | 0,3 | - | 0,3 | - |
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 53  
+| **CZK** | Stała stopa % | 0,1 | 3,4 | 0,1 | 3,4 |
+| --- | --- | --- | --- | --- | --- |
+| **PLN** | Zmienna stopa % | 606,7 | 96,0 | 630,6 | 96,0 |
+| **Pozostałe** | Zmienna stopa % | 13,1 | 6,6 | 14,4 | 7,1 |
+| **987,6** | **410,0** | **982,4** | **394,1** |  |  |
+Zadłużenie z tytułu wyemitowanych obligacji i innych papierów dłużnych w Grupie pochodzi ze spółek Formula Systems, Sapiens International Corp. NV oraz Matrix IT Ltd i zostało zaprezentowane w tabeli poniżej:  
+| **Spółka** | **Podział na krótko-** **i długoterminowe** | **Seria** **31 marca 2025** **31 grudnia 2024** **Efektywna stopa** **procentowa** **Waluta** **mln PLN** **mln PLN** |  |
+| --- | --- | --- | --- |
+| Formula Systems | część długoterminowa | Seria C | 170,5 184,2 2,71% NIS |
+| Seria D | 154,0 | 166,5 | 6,01% NIS |
+| część krótkoterminowa | Seria C | 174,8 | 187,0 2,71% NIS |
+| Seria D | 2,9 | 0,8 | 6,01% NIS |
+| **Razem Formula Systems** |  | **502,2** | **538,5** |
+| Sapiens International | część długoterminowa | Seria B - 81,2 3,52% USD |  |
+| część krótkoterminowa | Seria B | 77,1 | 83,9 3,52% USD |
+| **Razem Sapiens International** |  | **77,1** | **165,1** |
+| Matrix IT | część długoterminowa | Seria B | 270,1 332,2 4,36% NIS |
+| część krótkoterminowa | Seria B | 82,2 | 91,5 4,36% NIS |
+| część krótkoterminowa | n/d 313,1 337,3 Bank Of Israel Interest + 0,25% NIS |  |  |
+| **Razem Matrix IT** |  | **665,4** | **761,0** |
+| **Razem obligacje i papiery dłużne** |  | **1 244,7** | **1 464,6** |
+Aktywa zabezpieczające linie kredytowe:  
+| **Wartość netto** | **Wartość netto** | **aktywów** |  | **Kwota wykorzystanego kredytu** **zabezpieczonego aktywami** | **Kwota wykorzystanego kredytu** **zabezpieczonego aktywami** |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Kategoria aktywów** | **31 marca 2025** |  | **31 grudnia 2024** |  | **31 marca 2025** | **31 grudnia 2024** |  |
+| **mln PLN** |  | **mln PLN** |  | **mln PLN** | **mln PLN** |  |  |
+| Środki pieniężne |  | 2,0 |  | 3,1 | 68,8 |  | 70,0 |
+| Grunty i budynki |  | 2,9 |  | 2,9 | 14,7 |  | 0,4 |
+| Środki transportu |  | 2,9 |  | 2,5 | 2,7 |  | 2,4 |
+| Pozostałe środki trwałe |  | 23,2 |  | 15,6 | 9,9 |  | - |
+| Inwestycje długoterminowe |  | 914,3 | 1 | 415,7 | 568,6 |  | 610,3 |
+| Inne aktywa finansowe |  | 5,9 |  | 3,9 | 3,0 |  | 4,0 |
+| Zapasy |  | - |  | 8,2 | - |  | 0,4 |
+| Należności bieżące i przyszłe |  | 52,5 |  | 68,7 | 48,8 |  | 76,3 |
+| **Razem** | **1** | **003,7** | **1** | **520,6** | **716,5** |  | **763,8** |
+Do części kredytów w bankach polskich, słowackich i izraelskich przypisano tzw. kowenanty, czyli obowiązek utrzymywania zdefiniowanych wskaźników finansowych na wymaganym przez bank poziomie. Wskaźniki dotyczą poziomu zadłużenia, np. stosunku zadłużenia do zysku EBITDA lub zadłużenia do kapitałów własnych, bądź uzyskiwania oczekiwanych wyników operacyjnych. W sytuacji, gdy dana spółka posiadająca tak obwarowany kredyt przestanie spełniać wymienione wymogi, bank stosuje sankcję w postaci podwyższenia marży kredytu. Jeśli bank uzna, że nowy poziom wskaźnika jest nie do zaakceptowania, może, w niektórych przypadkach, zaspokoić się z posiadanych zabezpieczeń. Na dzień 31 marca 2025 roku żadna ze spółek nie naruszyła wymogów zdefiniowanych w umowach kredytowych. Na dzień 31 grudnia 2024 roku w jednej ze spółek Grupy ACE (segment Asseco International) zostały naruszone wymogi zdefiniowane w umowie kredytowej (kowenanty). Łączna kwota zadłużenia, którego dotyczyły kowenanty złamane na dzień 31 grudnia 2024 roku, wynosiła 0,1 mln EUR (0,4 mln PLN). Zadłużenie to zostało całkowicie spłacone w styczniu 2025 roku. Poza przypadkiem opisanym powyżej, na dzień 31 grudnia 2024 roku żadna ze spółek nie naruszyła wymogów zdefiniowanych w umowach kredytowych.  
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 54

@@ -1,0 +1,86 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **31.3. Szczegółowe informacje na temat (zysku) straty z działalności inwestycyjnej** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **32.1. Wartość nominalna instrumentów finansowych pochodnych** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **32.2. Instrumenty finansowe klientów** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **32.3. Limity transakcyjne** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **33. Pozycje dotyczące systemu rekompensat** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **34. Zarządzanie kapitałem**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **31.3. Szczegółowe informacje na temat (zysku) straty z działalności inwestycyjnej**
+W pozycji „(Zysk) strata z działalności inwestycyjnej” w rachunku przepływów pieniężnych wykazano następujące korekty:
+47  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+| **(w tys. PLN)** | **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** |  |
+| --- | --- | --- |
+| Strata na likwidacji i sprzedaży środków trwałych | 3 934 | (577) |
+| Zysk z likwidacji i sprzedaży środków trwałych | (55) | (24) |
+| Wynik na obligacjach | (12 744) | (26 138) |
+| **(Zysk) Strata z działalności inwestycyjnej** | **(8 865)** | **(26 739)** |
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **32.1. Wartość nominalna instrumentów finansowych pochodnych**
+| **(w tys. PLN)** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| CFD na indeksy | 3 933 252 | 3 766 277 |
+| CFD na towary | 6 216 958 | 3 705 548 |
+| CFD na waluty | 3 284 496 | 2 952 168 |
+| CFD na akcje i ETF | 1 615 397 | 1 169 077 |
+| CFD na obligacje | 1 553 | 11 126 |
+| **Instrumenty razem** | **15 051 656** | **11 604 196** |
+Na wartość nominalną instrumentów zaprezentowanych w powyższej tabeli składają się transakcje z klientami oraz brokerami. Na dzień 31 grudnia 2025 roku transakcje z brokerami stanowią 16 % ogółu wartości nominalnej instrumentów (na dzień 31 grudnia 2024 roku: 14% ogółu wartości nominalnej instrumentów).
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **32.2. Instrumenty finansowe klientów**
+Zestawienie instrumentów posiadanych przez klientów na rachunkach domu maklerskiego zostało przedstawione poniżej:  
+| **(w tys. PLN)** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Akcje notowane i prawa do akcji zapisane na rachunkach papierów wartościowych | 15 138 542 | 7 907 437 |
+| ETF (Exchange Traded Fund) | 12 144 808 | 5 773 953 |
+| Pozostałe papiery wartościowe zapisane na rachunkach papierów wartościowych klientów | 207 | 207 |
+| **Instrumenty finansowe klientów razem** | **27 283 557** | **13 681 597** |
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **32.3. Limity transakcyjne**
+Kwota niewykorzystanych limitów transakcyjnych przyznanych klientom instytucjonalnym wynosiła na dzień 31 grudnia 2025 roku 12 990 tys. PLN, na dzień 31 grudnia 2024 roku 14 763 tys. PLN.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **33. Pozycje dotyczące systemu rekompensat**
+System rekompensat to mechanizm zabezpieczający interesy inwestorów w przypadku upadłości domu maklerskiego, administrowany przez Krajowy Depozyt Papierów Wartościowych. Domy maklerskie, banki prowadzące działalności maklerską oraz banki powiernicze są zobowiązane do wnoszenia wpłat na fundusz podstawowy, a składki wyliczane są na podstawie wartości aktywów zgromadzonych przez klientów w danej instytucji. Pozycje dotyczące systemu rekompensat prezentowane są w Zobowiązaniach pozostałych w Bilansie Grupy.  
+| **(w tys. PLN)** **1. Wpłaty wniesione do systemu rekompensat** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| a) stan na początek okresu | 17 923 | 13 986 |
+| _- zwiększenia_ | _6 058_ | _3 937_ |
+| b) stan na koniec okresu | 23 981 | 17 923 |
+| **2. Udział XTB w pożytkach z systemu rekompensat** | **2 455** | **1 848** |
+48  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **34. Zarządzanie kapitałem**
+Zasady zarządzania kapitałem w Grupie są uregulowane w „Polityce zarządzania kapitałem w XTB S.A.” Jednostki dominującej. Dokument ten jest zatwierdzany przez Radę Nadzorczą Jednostki dominującej.  
+Polityka określa podstawowe koncepcje, cele i zasady, które stanowią strategię kapitałową Jednostki dominującej. Określa ona w szczególności długoterminowe cele kapitałowe, obecną i preferowaną strukturę kapitału, kapitałowe plany awaryjne oraz zasady planowania kapitałowego. Polityka jest odpowiednio aktualizowana, aby odzwierciedlać zmiany dotyczące Grupy oraz środowiska biznesowego.  
+Celem polityki kapitałowej jest aktywne zapewnienie zrównoważonego długoterminowego wzrostu wartości dla akcjonariuszy i utrzymanie kapitału na poziomie, który umożliwi Grupie działanie w sposób ostrożny, a jednocześnie skuteczny. Osiągnięcie tego celu jest realizowane poprzez utrzymanie odpowiedniej bazy kapitałowej, biorąc pod uwagę profil ryzyka Grupy i przepisy ostrożnościowe, a także uwzględniając zarządzanie kapitałem w oparciu o ryzyko w ramach planowanych celów w działalności gospodarczej.  
+Określenie celów kapitałowych ma podstawowe znaczenie dla zarządzania kapitałem i stanowi podstawowe odniesienie w kontekście planowania kapitału, alokacji kapitału i awaryjnych planów kapitałowych. Grupa określa cele kapitałowe, które zapewniają stabilną bazę kapitałową, realizację celu strategii kapitałowej (zgodnie z jej zasadami ogólnymi), a także są zgodne z apetytem Grupy na ryzyko. Ustalając cele kapitałowe, Grupa bierze pod uwagę swoje plany strategiczne i przewidywany rozwój działalności oraz warunki zewnętrzne, w tym sytuację makroekonomiczną oraz inne czynniki środowiska biznesowego. Cele kapitałowe mają podobny horyzont jak strategia biznesowa i są zatwierdzane przez Zarząd.  
+Planowanie kapitału koncentruje się na ocenie bieżących i prognozowanych wymogów kapitałowych Grupy (zarówno regulacyjnych, jak i wewnętrznych), a także porównywaniu ich z bieżącym i prognozowanym kapitałem dostępnym. Grupa posiada Kapitałowe plany awaryjne na wypadek wystąpienia kryzysu adekwatności kapitałowej, szczegółowo opisane w procedurze „System zarządzana ryzykiem w XTB S.A.”.  
+W procesie ICARAP Jednostka dominująca szacuje Kapitał wewnętrzny w celu ustalenia całkowitego wymaganego poziomu kapitału na pokrycie wszystkich istotnych rodzajów ryzyka występujących w działalności Grupy oraz dokonuje jego jakościowej oceny. Jednostka dominująca szacuje Kapitał wewnętrzny w celu ustalenia całkowitego wymaganego poziomu kapitału na pokrycie wszystkich istotnych rodzajów ryzyka występujących w działalności Grupy oraz dokonuje jego jakościowej oceny. Jednostka dominująca szacuje Kapitał wewnętrzny na pokrycie zidentyfikowanych ryzyk istotnych zgodnie z przyjętymi w Grupie procedurami oraz z uwzględnieniem wyników testów warunków skrajnych.  
+Jednostka dominująca jest zobowiązana do utrzymywania poziomu kapitałów (funduszy własnych) w kwocie przewyższającej każdą z następujących wartości:  
+- wymogów kapitałowych wyliczanych zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 roku w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (IFR)  
+- kapitału wewnętrznego szacowanego zgodnie z Rozporządzeniem Ministra Rozwoju i Finansów z dnia 8 grudnia 2021 roku w sprawie szacowania kapitału wewnętrznego i aktywów płynnych, systemu zarządzania ryzykiem, badania i oceny nadzorczej, a także polityki wynagrodzeń w domu maklerskim oraz małym domu maklerskim.  
+Wymóg kapitałowy wyliczany zgodnie z rozporządzeniem IFR stanowi wyższa z wartości:  
+- wymóg kapitałowy z tytułu stałych kosztów pośrednich  
+- stały minimalny wymóg kapitału założycielskiego;  
+- wymóg kapitałowy dotyczący współczynnika K  
+49  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Na dzień sporządzenia sprawozdania finansowego najwyższą z tych wartości stanowi dla Jednostki dominującej wymóg kapitałowy dotyczący współczynnika K.  
+Jednostka dominująca wylicza fundusze własne zgodnie z częścią drugą Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 roku w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 („IFR”).  
+Zasady wyliczania poziomu funduszy własnych są określone w Rozporządzeniu CRR i IFR, „Procedurze wyliczania współczynników adekwatności kapitałowej w XTB S.A.” Jednostki dominującej i nie są regulowane przez MSSF.  
+Grupa posiada obecnie wyłącznie fundusze własne najlepszej kategorii - Tier I.  
+Konsolidacji ostrożnościowej zgodnie z IFR podlegają spółki zależne będące firmami inwestycyjnymi, instytucjami finansowymi przedsiębiorstwami usług pomocniczych lub agentami. W zastosowaniu do Grupy, Jednostka dominująca uwzględnia w konsolidacji ostrożnościowej następujące spółki zależne:  
+- od 31 października 2015 roku spółka zależna XTB Limited (UK),  
+- od 30 kwietnia 2017 roku spółka zależna XTB International,  
+- od 31 lipca 2018 roku spółka zależna XTB Limited (CY),  
+- od 31 lipca 2022 roku spółka zależna XTB MENA Limited,  
+- od 31 sierpnia 2022 roku spółka zależna XTB Africa (PTY) Ltd,  
+- od 31 grudnia 2023 roku spółka zależna XTB S.C. Limited,  
+- od 17 stycznia 2024 roku spółka zależna PT XTB Indonesia Berjangka,  
+- od 30 września 2024 roku spółka zależna XTB Financial Services L.L.C,  
+- od 11 lutego 2025 roku spółka zależna XTB Agente de Valores SpA.  
+Grupa nie jest zobowiązana do utrzymywania buforów kapitałowych wynikających z ustawy o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym.

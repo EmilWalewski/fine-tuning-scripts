@@ -1,0 +1,62 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **1. Dane Jednostki dominującej i skład Grupy Kapitałowej** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **1.1. Informacja o podmiotach sprawozdawczych w strukturze organizacyjnej Jednostki dominującej** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Skonsolidowane sprawozdanie z przepływów pieniężnych** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Skonsolidowane sprawozdanie z sytuacji finansowej**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Skonsolidowane sprawozdanie z sytuacji finansowej**
+| **(w tys. PLN)** **AKTYWA** | **NOTA** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Środkipieniężne i ich ekwiwalenty | 14 | 7 858 420 | 5 370 815 |
+| Aktywa finansowe wyceniane w wartościgodziwej przez wynik finansowy | 15 | 1 006 973 | 1 123 923 |
+| Aktywa finansowe wyceniane w zamortyzowanym koszcie | 16 | 107 761 | 55 026 |
+| Rozliczenia międzyokresowe kosztów | 17 | 29 037 | 19 686 |
+| Wartości niematerialne | 18 | 1 398 | 2 009 |
+| Rzeczowe aktywa trwałe | 19 | 63 407 | 65 334 |
+| Należności z tytułupodatku dochodowego |  | 14 112 | 131 |
+| Aktywa z tytułu odroczonegopodatku dochodowego | 28 | 5 559 | 8 708 |
+| **Aktywa razem** **KAPITAŁ WŁASNY I ZOBOWIĄZANIA** **Zobowiązania** |  | **9 086 667** | **6 645 632** |
+| Zobowiązania wobec klientów | 20 | 6 528 223 | 4 164 895 |
+| Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy | 21 | 271 159 | 208 193 |
+| Zobowiązania z tytułu leasingu | 22 | 25 867 | 33 935 |
+| Pozostałe zobowiązania | 23 | 174 508 | 156 884 |
+| Rezerwyna zobowiązania | 24 | 6 414 | 3 530 |
+| Zobowiązania z tytułupodatku dochodowego |  | 1 497 | 13 316 |
+| Rezerwa na odroczony podatek dochodowy | 28 | 78 502 | 61 238 |
+| **Zobowiązania razem** **Kapitał własny** |  | **7 086 170** | **4 641 991** |
+| Kapitałpodstawowy | 25 | 5 878 | 5 878 |
+| Kapitał zapasowy | 25 | 71 608 | 71 608 |
+| Pozostałe kapitałyrezerwowe | 25,26 | 1 274 458 | 1 059 614 |
+| Różnice kursowe zprzeliczeniajednostek zagranicznych | 25 | (11 788) | (4 074) |
+| Zyski zatrzymane | 26 | 659 484 | 870 495 |
+| **Kapitał własny właścicielijednostki dominującej** |  | **1 999 640** | **2 003 521** |
+| **Udziały niekontrolujące** |  | **857** | **120** |
+| **Kapitał własny razem** |  | **2 000 497** | **2 003 641** |
+| **Kapitał własny i zobowiązania razem** |  | **9 086 667** | **6 645 632** |
+Skonsolidowane sprawozdanie z sytuacji finansowej należy analizować łącznie z notami uzupełniającymi stanowiącymi integralną część skonsolidowanego sprawozdania finansowego.
+4  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Skonsolidowane sprawozdanie z przepływów pieniężnych**
+Skonsolidowane sprawozdanie z przepływów pieniężnych należy analizować łącznie z notami uzupełniającymi stanowiącymi integralną część skonsolidowanego sprawozdania finansowego.
+7  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **1. Dane Jednostki dominującej i skład Grupy Kapitałowej**
+Jednostką dominującą w Grupie Kapitałowej XTB S.A. („Grupa”, „Grupa Kapitałowa) jest XTB S.A. (zwany dalej: „Spółka dominująca”, „Jednostka dominująca”, „Dom Maklerski”, „XTB”) z siedzibą Centrali w Warszawie, ul. Prosta 67, 00-838 Warszawa, Polska.  
+XTB S.A. jest wpisany do Rejestru Przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez Sąd Rejonowy dla m.st. Warszawy, Polska, XII Wydział Gospodarczy KRS pod nr 0000217580. Jednostce dominującej nadano numer statystyczny REGON 015803782 oraz numer NIP 5272443955.  
+Przedmiotem działalności jednostki dominującej jest prowadzenie działalności maklerskiej na rynku giełdowym oraz na rynku pozagiełdowym (OTC). W ofercie XTB znajdują się produkty odpowiadające różnym grupom inwestorów: akcje, ETF, kontrakty CFD (waluty, towary, indeksy, akcje i ETF, obligacje), plany inwestycyjne, odsetki od wolnych środków pieniężnych klientów, produkty dedykowane oszczędzaniu, eWallet (wirtualny portfel) oraz prawa ułamkowe. XTB łączy w swojej działalności tradycyjne usługi maklerskie z wykorzystaniem najnowszych technologii świata inwestycji i finansów, zapewniając swoim klientom łatwiejszy i konkurencyjny dostęp do szerokiej oferty instrumentów inwestycyjnych. Spółka opracowała i rozwija autorską, uniwersalną platformę inwestycyjną online xStation oraz aplikację mobilną XTB.  
+XTB S.A. jest polskim brokerem z sektora fin-tech, dostarczającym innowacyjne produkty i usługi dedykowane aktywnemu i pasywnemu inwestowaniu, oszczędzaniu oraz zarządzaniu płatnościami wirtualnymi. Jednostka dominująca wraz z podległymi oddziałami zagranicznymi i spółkami zależnymi tworzy Grupę Kapitałową XTB, która posiada biura w 15 krajach na całym świecie. Jednostka dominująca podlega nadzorowi Komisji Nadzoru Finansowego i prowadzi działalność regulowaną na podstawie zezwolenia z dnia 8 listopada 2005 roku nr DDM-M-4021-57-1/2005.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **1.1. Informacja o podmiotach sprawozdawczych w strukturze organizacyjnej Jednostki dominującej**
+Niniejszym skonsolidowanym sprawozdaniem finansowym objęte są następujące oddziały zagraniczne wchodzące w skład Jednostki dominującej:  
+- XTB S.A. organizačni složka - oddział utworzony w dniu 7 marca 2007 roku w Republice Czeskiej. Oddział wpisany został do rejestru handlowego prowadzonego przez Sąd Miejski w Pradze pod numerem 56720 oraz posiada następujący numer identyfikacji podatkowej CZK 27867102.  
+- XTB S.A. Sucursal en Espana - oddział utworzony w dniu 19 grudnia 2007 roku w Hiszpanii. W dniu 16 stycznia 2008 roku oddział zarejestrowany został przez władze Hiszpanii oraz posiada następujący numer identyfikacji podatkowej ES W0601162A.  
+- XTB S.A. organizačná zložka - oddział utworzony w dniu 1 lipca 2008 roku w Republice Słowackiej. W dniu 6 sierpnia 2008 roku oddział wpisany został do rejestru handlowego prowadzonego przez Sąd Miejski w Bratysławie pod numerem 36859699 oraz posiada następujący numer identyfikacji podatkowej SK4020230324.  
+- XTB S.A. Varsovia Sucursala Bucuresti - oddział utworzony w dniu 31 lipca 2008 roku w Rumunii. W dniu 4 sierpnia 2008 roku oddział wpisany został do Rejestru Przedsiębiorców pod numerem 402030 oraz posiada następujący numer identyfikacji podatkowej RO27187343.  
+- XTB S.A. German Branch - oddział utworzony w dniu 5 września 2008 roku w Republice Federalnej Niemiec. W dniu 24 października 2008 roku oddział wpisany został do Rejestru Przedsiębiorców pod numerem HRB 84148 oraz posiada następujący numer identyfikacji podatkowej DE266307947.  
+- XTB S.A. Succursale Française - oddział utworzony w dniu 21 kwietnia 2010 roku w Republice Francuskiej. W dniu 31 maja 2010 roku oddział wpisany został do Rejestru Przedsiębiorców pod numerem 522758689 oraz posiada następujący numer identyfikacji podatkowej FR61522758689.  
+8  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+▪ XTB S.A. Sucursal em Portugal - oddział utworzony w dniu 7 lipca 2010 roku w Portugalii. W dniu 7 lipca 2010 roku oddział wpisany został do Rejestru Przedsiębiorców i identyfikacji podatkowej pod numerem PT980436613.

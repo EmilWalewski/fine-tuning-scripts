@@ -1,0 +1,95 @@
+DOKUMENT SEKCJA: **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU** > **7.15 ZOBOWIĄZANIA Z TYTUŁU LEASINGU** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU** > **7.16 PRZYCHODY PRZYSZŁYCH OKRESÓW** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU** > **7.17 SPRAWOZDAWCZOŚĆ SEGMENTOWA** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU** > **7.18 PRZYCHODY ZE SPRZEDAŻY I KOSZT WŁASNY SPRZEDAŻY** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU** > **7.19 PRZYCHODY FINANSOWE** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU** > **7.20 PODATEK DOCHODOWY W RACHUNKU ZYSKÓW I STRAT**
+
+# **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU**
+## **7.15 ZOBOWIĄZANIA Z TYTUŁU LEASINGU**
+W bilansie Spółki rozpoznane zostały składniki aktywów spełniające kryteria standardu MSSF 16 Leasing. Są to:  
+- prawo do użytkowania powierzchni biurowych (na podstawie umów najmu),  
+- prawa wieczystego użytkowania gruntów,  
+- pozostałe (samochody).  
+| **ZOBOWIĄZANIA Z TYTUŁU LEASINGU** **(niebadane)** | **30.06.2025** | **31.12.2024** |
+| --- | --- | --- |
+| **Zobowiązania z tytułu leasingu - część krótkoterminowa, w tym:** | **38 370** | **43 093** |
+| Zobowiązania z tyt.prawa do wieczystego użytkowaniagruntów | 31 704 | 37 107 |
+| Zobowiązania z tyt. prawa do użytkowania wynajmowanych powierzchni biurowych i innych 5 982 |  | 5 847 |
+| Pozostałe | 684 | 139 |
+| **Zobowiązania z tytułu leasingu - część długoterminowa, w tym:** **4 650** |  | **7 270** |
+| Zobowiązania z tyt. prawa do użytkowania wynajmowanych powierzchni biurowych i innych 4 620 |  | 7 205 |
+| Pozostałe | 30 | 65 |
+| **Razem** | **43 020** | **50 363** |
+**ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY DNIA 30 CZERWCA 2025 ROKU**  
+**DOM DEVELOPMENT S.A.**  
+19  
+W przypadku prawa do wieczystego użytkowania, dyskontowane są opłaty wynikające z okresu na jaki to prawo jest udzielone dla poszczególnych nieruchomości (może wynosić do 99 lat). Okres ten nie zależy od przewidywanego przez Spółkę okresu, w którym Spółka będzie właścicielem prawa do wieczystego użytkowania, czyli od planowanego wykorzystania tych nieruchomości pod inwestycje deweloperskie.  
+Na dzień 30 czerwca 2025 r. Spółka posiadała prawo wieczystego użytkowania gruntów, dla których ustalono zobowiązanie z tytułu leasingu w kwocie 31 704 tys. zł. wykazane jako zobowiązania krótkoterminowe. Według szacunków Zarządu, opartych na planach dotyczących prowadzenia projektów deweloperskich na tych nieruchomościach:  
+- kwota 2 068 tys. zł podlega zapłacie przez Spółkę w ciągu 12 miesięcy od dnia bilansowego,  
+- kwota 1 459 tys. zł podlegać będzie zapłacie przez Spółkę w okresie powyżej 12 miesięcy od dnia bilansowego,  
+- kwota 28 178 tys. zł przeniesiona zostanie na nabywców lokali.
+
+# **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU**
+## **7.16 PRZYCHODY PRZYSZŁYCH OKRESÓW**
+W pozycji przychody przyszłych okresów wykazywane są wpłaty klientów na poczet zakupu lokali i miejsc postojowych do momentu przekazania ich nabywcy i rozpoznania w rachunku zysków i strat w pozycji „przychody ze sprzedaży”. Kształtowanie się tej pozycji bilansowej w czasie jest ściśle uzależnione od relacji pomiędzy tempem sprzedaży zwiększającym wielkość tej pozycji a tempem przekazań które powodują jej zmniejszanie.  
+| **PRZYCHODY PRZYSZŁYCH OKRESÓW** **(niebadane)** | **30.06.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Przychody przyszłych okresów dotyczące wpłat klientów na poczet zakupu produktów, jeszcze niezaliczonych doprzychodów w rachunku zysków i strat | 1 140 403 | 860 963 |
+| Pozostałe | - - |  |
+| **Razem** | **1 140 403** | **860 963** |
+
+# **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU**
+## **7.17 SPRAWOZDAWCZOŚĆ SEGMENTOWA**
+Działalność Spółki jest co do zasady jednorodna i polega głównie na budowie i sprzedaży lokali mieszkalnych i lokali usługowych (komercyjnych) i powiązanych z tym działaniach wspierających. Spółka prowadzi swoją działalność tylko na rynku warszawskim, natomiast Grupa Kapitałowa Dom Development S.A., której Spółka jest podmiotem dominującym, prowadzi również działalność na rynkach trójmiejskim, wrocławskim i krakowskim. Działalność na tych rynkach prowadzona jest poprzez spółki zależne Grupy.  
+W związku z powyższym w ramach Grupy segmentacja dla celów sprawozdawczych została dokonana w oparciu o kryterium lokalizacji geograficznej:  
+- segment warszawski  
+- segment trójmiejski  
+- segment wrocławski  
+- segment krakowski  
+Ocena wyników poszczególnych segmentów dokonywana jest głównie w oparciu o przychody ze sprzedaży oraz zysk i marżę brutto ze sprzedaży uzyskane przez poszczególne segmenty.  
+Z uwagi na to, że działalność operacyjna Spółki prowadzona jest na rynku warszawskim, czyli w obrębie jednego segmentu, niniejsze śródroczne skrócone jednostkowe sprawozdanie finansowe nie zawiera informacji segmentowej.  
+Informacja dotycząca segmentów działalności przedstawiona jest w śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym Spółki, które przedstawia działalność operacyjną na wszystkich wyżej wymienionych rynkach (segmentach operacyjnych i sprawozdawczych).  
+**ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY DNIA 30 CZERWCA 2025 ROKU**  
+**DOM DEVELOPMENT S.A.**  
+20
+
+# **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU**
+## **7.18 PRZYCHODY ZE SPRZEDAŻY I KOSZT WŁASNY SPRZEDAŻY**
+| **ANALIZA PRZYCHODÓW ZE SPRZEDAŻY I KOSZTU WŁASNEGO** | **Okres 6** **Okres 6** | **Okres 3** **Okres 3** |
+| --- | --- | --- |
+| **SPRZEDAŻY** | **miesięcy** **miesięcy** | **miesięcy** **miesięcy** |
+| **zakończony** **zakończony** | **zakończony** **zakończony** |  |
+| **(niebadane)** | **(niebadane)** **(niebadane)** |  |
+| Przychodyze sprzedażytowarów(gruntów) | 9 474 - | 9 170 - |
+| **Przychody ze sprzedaży - razem** | **474 399** | **915 605** **153 528** **537 914** |
+| Kosztysprzedażytowarów | (6 620) - | (6 316) - |
+| Korekta wartości zapasów do wartości netto możliwej do uzyskania | - - | - - |
+| **Koszt własny sprzedaży - razem** | **(318 249)** | **(653 799)** **(112 146)** **(384 362)** |
+| **Zysk brutto na sprzedaży** | **156 150** | **261 806** **41 382** **153 552** |
+
+# **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU**
+## **7.19 PRZYCHODY FINANSOWE**
+| **PRZYCHODY FINANSOWE** | **Okres 6** **Okres 6** | **Okres 3** **Okres 3** |  |  |
+| --- | --- | --- | --- | --- |
+| **miesięcy** **miesięcy** | **miesięcy** **miesięcy** |  |  |  |
+| **zakończony** **zakończony** | **zakończony** **zakończony** |  |  |  |
+| **30.06.2025** | **30.06.2024** |  | **30.06.2025** | **30.06.2024** |
+| **(niebadane)** | **(niebadane)** **(niebadane)** |  |  |  |
+| Odsetki od lokat bankowych ipożyczek | 25 955 | 22 162 | 13 509 | 11 083 |
+| Otrzymane dywidendy | 299 890 | 155 743 | 299 890 | 155 743 |
+| Przychodyz tytułu dyskontowania należności i zobowiązań | 119 | 74 | 119 | 37 |
+| Odsetkipozostałe | 94 | 404 | 42 | 183 |
+| Wycena instrumentów zabezpieczających CAP | - - - - |  |  |  |
+| Pozostałe | - | 4 453 | - | 3 798 |
+| **Razem** | **326 058** | **182 836** | **313 560** | **170 844** |
+
+# **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU**
+## **7.20 PODATEK DOCHODOWY W RACHUNKU ZYSKÓW I STRAT**
+| **PODATEK DOCHODOWY** | **Okres 6** **Okres 6** | **Okres 3** **Okres 3** |  |  |
+| --- | --- | --- | --- | --- |
+| **miesięcy** **miesięcy** | **miesięcy** **miesięcy** |  |  |  |
+| **zakończony** **zakończony** | **zakończony** **zakończony** |  |  |  |
+| **30.06.2025** | **30.06.2024** |  | **30.06.2025** | **30.06.2024** |
+| **(niebadane)** | **(niebadane)** **(niebadane)** |  |  |  |
+| Podatek dochodowybieżący | 36 776 | 11 811 | 17 750 | 2 688 |
+| Podatek dochodowyodroczonyw rachunku zysków i strat | (22 154) | 22 082 | (17 255) | 17 495 |
+| **Razem** | **14 622** | **33 893** | **495** | **20 183** |
+**ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY DNIA 30 CZERWCA 2025 ROKU**  
+**DOM DEVELOPMENT S.A.**  
+21

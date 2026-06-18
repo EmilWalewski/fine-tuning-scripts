@@ -1,0 +1,35 @@
+Pracujesz w katalogu:
+<PROJECT_DIR>
+
+Najpierw przeczytaj:
+./stateless-chunk-regen/README.md
+./stateless-chunk-regen/SKILL.md
+
+Zadanie: wygeneruj outputy od zera przy użyciu lokalnego skilla
+stateless-chunk-regen. Nie wymyślaj własnego procesu - wykonaj workflow opisany
+w README.md i SKILL.md.
+
+Dane do użycia:
+- src: <SRC_JSONL>
+- work: <WORK_DIR>
+- out: <OUTPUT_DIR>
+- window: <WINDOW_TOKENS>
+- path-profile: auto
+- finalny plik po scaleniu: <FINAL_JSONL>
+
+Wymagania:
+- zbuduj manifest od zera przez build_manifest.py
+- generuj outputy bezstanowo: jeden chunk = jedno niezależne zadanie
+- każde zadanie może czytać tylko RULES.md i swój pojedynczy INPUT
+- nie czyść ręcznie folderu outputów
+- traktuj remaining.py jako źródło prawdy
+- respektuj BUDGET=N, jeśli remaining.py go zwraca
+- po wygenerowaniu wykonaj QA opisane w README.md
+- jeśli QA jest poprawne, scal finalny JSONL przez merge_to_jsonl.py
+
+Na koniec podaj:
+- liczbę rekordów
+- czy remaining pokazuje 0
+- wynik measure_tokens
+- wynik leak_qa
+- ścieżkę finalnego pliku

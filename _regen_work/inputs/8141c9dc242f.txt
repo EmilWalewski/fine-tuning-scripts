@@ -1,0 +1,128 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > 3.3 Segment Formula Systems
+
+_* Przychody ze sprzedaży na rzecz klientów zewnętrznych segmentu oraz sprzedaż pomiędzy segmentami._
+_** Zadłużenie na rzecz podmiotów spoza Grupy.
+
+EBIT = zysk z działalności operacyjnej.
+
+EBIT non-IFRS = EBIT skorygowany o koszt amortyzacji wartości niematerialnych rozpoznanych w ramach rozliczenia połączenia (PPA), o koszty transakcji z pracownikami rozliczane w formie instrumentów kapitałowych (SBP) oraz o przychody i koszty związane z transakcjami nabycia / sprzedaży spółek.
+
+EBITDA = EBIT + amortyzacja._
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 93
+_CFO BT = środki pieniężne z działalności operacyjnej przed zapłaconym podatkiem dochodowym.
+
+CAPEX = wydatki na aktywa trwałe segmentu.
+
+FCF = |CFO BT|-|CAPEX|-|wydatki z tytułu leasingu|.
+
+Wskaźnik konwersji gotówki = (FCF) / (EBIT non-IFRS)._
+W I kwartale 2025 roku przychody wygenerowane przez spółki z Grupy Formula Systems były o 6,7% wyższe niż w analogicznym okresie 2024 roku i wyniosły 2 990,3 mln PLN.
+
+Udział przychodów generowanych w segmencie Formula Systems w skonsolidowanej sprzedaży wyniósł 65%.
+
+Zysk operacyjny był o 14,3% wyższy i ukształtował się na poziomie 270,5 mln PLN, natomiast EBITDA wyniosła 406,7 mln PLN, co oznacza wzrost o 10,2% r/r.
+Spółka **Matrix IT** – wiodąca firma informatyczna w Izraelu, której pozycja potwierdzana jest od kilkunastu lat przez firmy badawcze IDC, STKI i Gartner – realizowała w okresie sprawozdawczym strategiczne projekty dla dużych organizacji oraz instytucji publicznych.
+
+Spółka jest zaangażowana m.in. w projekt Nimbus, którego celem jest przyspieszenie wdrażania technologii chmurowych w izraelskim sektorze publicznym – umożliwia pracę w chmurze z jednoczesnym zapisywaniem danych lokalnie w Izraelu.
+
+W ubiegłym roku, w ramach projektu, instytucjom udostępniona została platforma Confluent, służąca do strumieniowego przesyłania i przetwarzania danych w czasie rzeczywistym.
+
+Matrix IT, posiadając status licencjonowanego eksperta, wspiera organy rządowe w migracji systemów IT do chmury, oferując rozbudowane portfolio blisko 40 usług dedykowanych chmurze rządowej.
+
+Matrix rozwija systemy dla organów bezpieczeństwa zarówno w Izraelu, jak i poza jego granicami.
+
+Spółka posiada bogate doświadczenie w realizacji przedsięwzięć z zakresu sztucznej inteligencji dla izraelskiego sektora wojskowego (zarówno do celów obronnych, jak i cywilnych), a także w prowadzeniu projektów dla zagranicznych instytucji rządowych.
+
+Dodatkowo w ofercie spółki zależnej Matrixa – John Bryce Training, będącej największą organizacją szkoleniową w Izraelu, znajdują się specjalistyczne kursy z zakresu GenAI.
+
+Z kolei Dana Engineering z Grupy Matrix IT jest wiodącym podmiotem w wygranym w 2023 roku przetargu na planowanie i zarządzanie realizacją linii metra M1 Metropolii Tel Awiwu.
+
+Czas trwania projektu szacowany jest na około 13 lat.
+
+Linia metra M1 ma liczyć 62 stacje, jej długość wyniesie 85 km.
+
+Natomiast Matrix Digital realizuje zakrojony na szeroką skalę projekt transformacji cyfrowej w jednej z największych instytucji finansowych w Izraelu.
+
+Matrix IT jest zaangażowany w projekt związany ze znaczącym rozszerzeniem możliwości analityczno-badawczych izraelskiego urzędu statystycznego (Central Bureau of Statistics – CBS).
+
+Jest w nim odpowiedzialny za stworzenie i 9-letnie utrzymanie centralnego, jednego z największych w izraelskim sektorze publicznym, repozytorium danych.
+
+W analizowanym okresie w jednej z izraelskich gmin uruchomiony został miejski bot RGpt – wdrożony w oparciu o unikalną koncepcję sformułowaną przez Matrix Digital – Smart Digital – AI as a Service, przy współpracy Check Point, AWS i Botica.
+
+Jest to bezpieczne, szybkie i oparte na danych rozwiązanie, które w innowacyjny sposób udostępnia informacje gminne z zakresu wszystkich obszarów usług miejskich, m.in. podatków od nieruchomości, edukacji, wydarzeń, parkowania czy jakości środowiska.
+
+Zakończenie wdrożenia, opartego na sztucznej inteligencji, miejskiego bota to znaczący krok w procesie cyfryzacji sektora publicznego w Izraelu.
+
+W I kwartale 2025 roku zakończony został 2-letni projekt wdrożenia zaawansowanego systemu CRM w globalnej firmie spedycyjnej ZIM.
+
+Obejmował on stworzenie zaawansowanego systemu obsługującego szeroką gamę procesów biznesowych w obszarach: obsługi klienta, sprzedaży i marketingu.
+
+Projekt realizowano pod wspólnym kierownictwem ZIM, Microsoft ISD i Matrix.
+
+Matrix IT uczestniczy w najbardziej innowacyjnych projektach technologicznych w izraelskim systemie opieki zdrowotnej, w tym w drukowaniu ludzkich narządów do procedur przedoperacyjnych, badaniach nad wykrywaniem chorób płuc i układu oddechowego za pomocą identyfikacji głosu i sztucznej inteligencji oraz w projektach w zakresie telemedycyny.
+
+Matrix IT jest również zaangażowany w krajowe inicjatywy w dziedzinie zdrowia i edukacji.
+
+Spółka wspiera klientów w realizacji postępowań certyfikacyjnych FDA/CE.
+
+Jest dostawcą zaawansowanej platformy IT, pozwalającej w jednym miejscu zintegrować procesy zachodzące w podmiocie z sektora opieki zdrowotnej związane z zarzadzaniem, logistyką, rozliczeniami i finansami.
+
+W analizowanym okresie Matrix IT kontynuował działania biznesowe na rynku amerykańskim (USA, Kanada), który odpowiadał za 7% jego przychodów.
+
+Z uwagi na popularyzację płatności cyfrowych i rosnącą ekspozycję na oszustwa internetowe, oczekuje się wzrostu popytu na systemy GRC (Governance, Risk & Compliance) ze strony instytucji finansowych.
+
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 94
+W trakcie trzech pierwszych miesięcy 2025 roku do Grupy Matrix dołączyły spółki Gav Systems i Gav Expert świadczące usługi w zakresie outsourcingu pracowników high-tech oraz usługi call-center.
+10 marca 2025 roku Matrix IT podpisał ze spółką Magic Software memorandum o porozumieniu w sprawie transakcji, w ramach której nabyć ma wszystkie pozostające w obrocie akcje tej spółki.
+
+Fuzja pozwoli Matrix IT stać się globalną firmą o szerokim zasięgu geograficznym.
+
+Matrix IT nieustannie rozwija swoje kompetencje w dziedzinie innowacji, koncentrując się na zaawansowanych technologiach, takich jak chmura, cyberbezpieczeństwo, Big Data, sztuczna inteligencja, uczenie maszynowe, IoT oraz rozszerzona rzeczywistość.
+
+Wyniki finansowe **Sapiens International** , globalnego dostawcy oprogramowania i usług informatycznych dla sektora ubezpieczeniowego, odzwierciedlają koncentrację spółki na jak najszerszym wsparciu ponad 600 obecnych klientów w ponad 30 krajach, wykorzystując m.in. potencjał cross-sellingu i up-sellingu.
+
+Sapiens prowadzi również intensywne działania sprzedażowe ukierunkowane na pozyskiwanie nowych klientów – w każdym roku chce, aby jego portfolio powiększało się o 20-30 nowych kontrahentów.
+
+Globalne trendy przyspieszonej transformacji cyfrowej i zmieniające się oczekiwania klientów oznaczają, że ubezpieczyciele muszą modernizować swoje systemy, aby zachować konkurencyjność.
+
+Kompleksowe rozwiązania chmurowe Sapiensa cieszą się coraz większym zainteresowaniem klientów.
+
+Spółka posiada centra kompetencji chmurowych w USA, Europie, Izraelu i w Indiach.
+
+W okresie sprawozdawczym Sapiens kontynuował działania związane z migracją systemów obecnych klientów z on-premise do chmury – dotychczas proces migracji do chmury został zakończony u około 170 z ponad 600 kontrahentów spółki.
+
+Ponadto większość nowych umów dotyczyła produktów oferowanych w modelu SaaS.
+
+Przychody z oprogramowania i powtarzalnych usług powdrożeniowych (licencji, usług utrzymania, subskrypcji, rozwiązań w chmurze) odpowiadały w I kwartale 2025 roku za 79% sprzedaży Sapiensa, resztę zaś stanowiły przychody z przedprodukcyjnych usług wdrożeniowych.
+
+Struktura geograficzna sprzedaży kształtowała się następująco: rynek europejski – 50%, Ameryka Północna – 42%, pozostałe regiony – 8%.
+
+Grupa Sapiens rozwijają się organicznie, jak i przez akwizycje.
+
+W I kwartale 2025 roku dołączyły do niej spółki:
+- Ontario, kanadyjska spółka specjalizująca się w rozszerzaniu, modernizacji oraz automatyzacji systemów back-office w branży ubezpieczeniowej,
+- Servicios Financieros Experimentales Serfiex, hiszpański operator platformy oprogramowania Riskco, do zarządzania zasobami i kapitałem.
+
+Po okresie sprawozdawczym Grupa Sapiens powiększyła się o spółkę Automated Workflow Private Limited, oferującą rozwiązania z zakresu automatyzacji i optymalizacji procesów biznesowych, przeznaczone dla instytucji finansowych.
+
+Wzmożony popyt na produkty cyfrowe, w połączeniu z wysokim udziałem powtarzalnych przychodów, decydują o wiodącej pozycji spółki w rozwijającej się branży oprogramowania dla firm ubezpieczeniowych.
+
+Biorąc pod uwagę dynamikę wzrostu w Ameryce Północnej, a także dalsze umacnianie pozycji w Europie, spółka podwyższyła prognozę przychodów na 2025 rok z poziomu 553-558 mln USD do 574-578 mln USD.
+
+**Magic Software** , globalny dostawca platform do tworzenia aplikacji i rozwiązań do integracji systemów i procesów biznesowych oraz usług konsultingowych w obszarze IT, koncentrował się w okresie sprawozdawczym na realizacji projektów dla kontrahentów z różnych sektorów, w tym finansowego, opieki zdrowotnej, obronności i administracji publicznej, a także zawiązanych z przemysłem zaawansowanych technologii.
+
+Spółka wspierała klientów w procesach migracji do chmur takich dostawców jak AWS, Azure czy Google Cloud Platform.
+
+Sprzedaż Magic Software jest zdywersyfikowana geograficznie.
+
+W I kwartale 2025 roku przychody z Ameryki Północnej stanowiły 40% jego całkowitej sprzedaży, z Izraela – 47%, a pozostałe 13% to przychody z Europy, z krajów Azji i Pacyfiku oraz pozostałych regionów świata.
+
+W tym czasie 17% przychodów związanych było ze sprzedażą oprogramowania, a 83% ze świadczonymi usługami.
+
+Spółka cały czas szuka potencjalnych celów akwizycyjnych – małych i średnich firm, które są zgodne z kierunkami jej ekspansji geograficznej, a także pozwolą jej poszerzyć portfolio produktowe i bazę klientów.
+
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 95
+W okresie sprawozdawczym do Grupy Magic dołączyła spółka Expim, będącą dostawcą rozwiązań i usług chmurowych, w tym zarządzanych usług chmurowych, cyberbezpieczeństwa, tworzenia kopii zapasowych i przywracania danych.
+
+Biorąc pod uwagę duży popyt na oferowane przez Magic usługi, m.in. w chmurze i DevOps AI, spółka podtrzymała prognozę przychodów na 2025 rok na poziomie 593-603 mln USD.

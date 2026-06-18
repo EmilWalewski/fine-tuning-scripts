@@ -1,0 +1,45 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 5.6. Zysk przypadający na jedną akcję | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 5.7. Informacja dotycząca wypłaconej dywidendy | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.1. Wartości niematerialne
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 5.6. Zysk przypadający na jedną akcję
+W okresie sprawozdawczym jak i w okresie porównywalnym nie występowały elementy rozwadniające zysk przypadający na jedną akcję, wskutek czego zysk na akcję i rozwodniony zysk na akcję były sobie równe.  
+Poniżej przedstawione zostały dane dotyczące zysku oraz ilość akcji, które posłużyły do wyliczenia zysku na jedną akcję. Liczba akcji zastosowana do wyliczenia zysku na akcję uwzględnia posiadane przez Asseco Poland S.A. akcje własne, skupione we wrześniu 2023 roku.  
+| **3 miesiące do** | **3 miesiące do** |  |
+| --- | --- | --- |
+| **Zysk na akcje** | **31 marca 2025** | **31 marca 2024** **_(przekształcone)_** |
+| Średnia ważona liczba wyemitowanych akcji zwykłych zastosowana do obliczeniapodstawowego zysku najednąakcję (w sztukach) | 68 191 431 | 68 191 431 |
+| Zysk netto przypadający na akcjonariuszy Jednostki Dominującej (w milionach PLN) za okres sprawozdawczy | 136,2 | 125,1 |
+| **Zysk na jedną akcję (w PLN) ze skonsolidowanego zysku netto za okres** **sprawozdawczy** | **2,00** | **1,83** |
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 40
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 5.7. Informacja dotycząca wypłaconej dywidendy
+W okresie sprawozdawczym, czyli do dnia 31 marca 2025 roku, nie została podjęta uchwała Walnego Zgromadzenia Akcjonariuszy o podziale wyniku Jednostki Dominującej. Po dniu bilansowym, w dniu 14 maja 2025 roku, Walne Zgromadzenie Akcjonariuszy Asseco Poland S.A. podjęło decyzję o podzieleniu zysku netto wypracowanego w roku obrotowym 2024 w kwocie 339,0 mln PLN w następujący sposób:  
+- a) Kwota 268,7 mln PLN została przeznaczona do podziału między Akcjonariuszy, tj. na wypłatę dywidendy. Oznacza to dywidendę po 3,94 PLN na jedną akcję. Dzień dywidendy ustalano na dzień 24 czerwca 2025 roku, a dzień wypłaty dywidendy na dzień 30 czerwca 2025 roku;  
+- b) Pozostała część zysku netto za rok obrotowy 2024 w kwocie 70,3 mln PLN została przekazana na kapitał rezerwowy.  
+W 2024 roku Jednostka Dominująca wypłaciła dywidendę za 2023 rok. W dniu 12 czerwca 2024 roku Walne Zgromadzenie Akcjonariuszy Asseco Poland S.A. podjęło decyzję o podzieleniu zysku netto wypracowanego w roku obrotowym 2023 w kwocie 352,0 mln PLN w następujący sposób:  
+- a) Kwota 249,6 mln PLN została przeznaczona do podziału między Akcjonariuszy, tj. na wypłatę dywidendy. Oznacza to dywidendę po 3,66 PLN na jedną akcję. Dzień dywidendy ustalano na dzień 21 czerwca 2024 roku, a dzień wypłaty dywidendy na dzień 28 czerwca 2024 roku;  
+- b) Pozostała część zysku netto za rok obrotowy 2023 w kwocie 102,4 mln PLN została przekazana na kapitał rezerwowy.  
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 41
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 6.1. Wartości niematerialne
+Zmiana wartości netto wartości niematerialnych w okresie 3 miesięcy zakończonym w dniu 31 marca 2025 roku oraz w okresie porównywalnym wynikała z następujących ruchów:  
+| **3 miesiące do** **_(przekształcone)_** | **3 miesiące do** |  |
+| --- | --- | --- |
+| **mln PLN** | **mln PLN** |  |
+| **Wartość netto wartości niematerialnych na dzień 1 stycznia** **_(przekształcone)_** | **2 022,0** | **2 026,5** |
+| **Zwiększenia stanu, z tytułu:** | **128,5** | **30,6** |
+| Zakupu i modernizacji | 13,5 | 3,2 |
+| Objęcia kontroli nad spółkami zależnymi | 91,1 | 3,0 |
+| Kapitalizacji kosztów projektów rozwojowych | 23,9 | 24,4 |
+| **Zmniejszenia stanu, z tytułu:** | **(96,3)** | **(92,8)** |
+| Odpisu amortyzacyjnego za okres sprawozdawczy | (95,8) | (92,8) |
+| Sprzedaży i likwidacji | (0,5) | - |
+| **(Odpis aktualizujący) /odwrócenie odpisu** | **0,2** | **0,2** |
+| **Zmiana z tytułu hiperinflacji** | **0,1** | **0,2** |
+| **Zmiana prezentacji** | **-** | **0,1** |
+| **Różnice kursowe z przeliczenia jednostek zagranicznych** | **(108,7)** | **(3,0)** |
+| **Wartość netto wartości niematerialnych na dzień 31 marca** | **1 945,8** | **1 961,8** |

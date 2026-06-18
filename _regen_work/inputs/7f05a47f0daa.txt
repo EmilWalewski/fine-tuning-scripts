@@ -1,0 +1,74 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.10. Pozostałe zobowiązania finansowe | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > Wartość godziwa zobowiązań finansowych
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## Wartość godziwa zobowiązań finansowych
+W okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku w Grupie nie wystąpiły przesunięcia w pozycjach zadłużenia pomiędzy poziomami hierarchii wartości godziwej. Na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku wartość godziwa kredytów i wyemitowanych papierów wartościowych nie odbiegała istotnie od ich wartości księgowej.  
+| **Na dzień 31 marca 2025** **Kredyty bankowe, pożyczki i dłużnepapiery wartościowe** | **Wartość bilansowa** **mln PLN** | **Poziom 1****_i)_** **mln PLN** | **Poziom 2** **_ii)_** **mln PLN** | **Poziom 3** **_iii)_** **mln PLN** |
+| --- | --- | --- | --- | --- |
+| Kredyty bankowe | 1 523,1 | - | - | 1 523,1 |
+| _- w rachunku bieżącym_ | _125,5_ | _-_ | _-_ | _125,5_ |
+| _- nieodnawialne_ | _1 397,6_ | _-_ | _-_ | _1 397,6_ |
+| Dłużne papiery wartościowe | 1 244,7 | 931,6 | 313,1 | - |
+| Pożyczki | 7,1 | - | - | 7,1 |
+| **Razem** | **2 774,9** | **931,6** | **313,1** | **1 530,2** |
+_i. wartość godziwa określana na podstawie cen giełdowych oferowanych za identyczne aktywa na rynkach aktywnych;_  
+_ii. wartość godziwa określana przy użyciu modeli, dla których dane wsadowe są obserwowalne bezpośrednio lub pośrednio na rynkach aktywnych;_  
+_iii.  wartość godziwa określana przy użyciu modeli, dla których dane wsadowe nie są obserwowalne bezpośrednio lub pośrednio na rynkach aktywnych._  
+| **Na dzień 31 grudnia 2024** **Kredyty bankowe, pożyczki i dłużnepapiery wartościowe** | **Wartość bilansowa** **mln PLN** | **Poziom 1****_i)_** **mln PLN** | **Poziom 2** **_ii)_** **mln PLN** | **Poziom 3** **_iii)_** **mln PLN** |
+| --- | --- | --- | --- | --- |
+| Kredyty bankowe | 1 466,8 | - | - | 1 466,8 |
+| _- w rachunku bieżącym_ | _90,3_ | _-_ | _-_ | _90,3_ |
+| _- nieodnawialne_ | _1 376,5_ | _-_ | _-_ | _1 376,5_ |
+| Dłużne papiery wartościowe | 1 464,6 | 1 127,3 | 337,3 | - |
+| Pożyczki | 4,4 | - | - | 4,4 |
+| **Razem** | **2 935,8** | **1 127,3** | **337,3** | **1 471,2** |
+_Opisy poziomów wartości godziwej są identyczne jak ujawnione pod tabelą powyżej._
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 6.10. Pozostałe zobowiązania finansowe
+| **31 marca 2025** | **31 marca 2025** | **31 grudnia** | **2024** |  |
+| --- | --- | --- | --- | --- |
+| **Pozostałe zobowiązania finansowe** | **Długoterminowe** | **Krótkoterminowe** | **Długoterminowe** | **Krótkoterminowe** **_(przekształcone)_** |
+| **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** |  |
+| Zobowiązanie do wypłaty dywidendy | - | 188,0 | - | 79,0 |
+| Zobowiązania z tytułu odroczonej i/lub warunkowej płatności zapakiet kontrolny | 167,4 | 67,6 | 173,6 | 55,7 |
+| Zobowiązania z tytułu nabycia udziałów mniejszościowych w spółkach zależnych(opcjeput) | 480,5 | 216,9 | 400,3 | 252,7 |
+| Pozostałe zobowiązania finansowe | - | 1,0 | - | 1,8 |
+| **Razem** | **647,9** | **473,5** | **573,9** | **389,2** |
+Zobowiązania z tytułu dywidend na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku to zobowiązania do wypłaty dywidendy na rzecz udziałowców niekontrolujących spółek zależnych od Jednostki Dominującej.  
+Na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku, Grupa posiadała szacunkowe zobowiązania z tytułu odroczonej i/lub warunkowej płatności za pakiety kontrolne akcji/udziałów. Wartość powyższych zobowiązań została oszacowana z wykorzystaniem formuły liczenia ceny zdefiniowanej w umowach nabycia pakietu kontrolnego, zazwyczaj iloczynu zysku spółki za wskazany w umowie okres i określonego w umowie współczynnika.  
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 55  
+W poniższej tabeli zaprezentowano zobowiązanie z tytułu odroczonej i/lub warunkowej płatności za pakiet kontrolny na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku:  
+| Zobowiązania wynikające z akwizycji w ramach segmentu Asseco Poland 4,7 - Zobowiązania wynikające z akwizycji w ramach segmentu Asseco International | 157,3 | 155,9 |
+| --- | --- | --- |
+| Zobowiązania wynikające z akwizycji w ramach segmentu Formula Systems | 73,0 | 73,4 |
+| **Razem** | **235,0** | **229,3** |
+Na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku Grupa posiadała zobowiązania z tytułu nabycia udziałów niekontrolujących w spółkach zależnych (opcje put). Wartość niniejszych zobowiązań została oszacowana z wykorzystaniem formuły liczenia ceny zdefiniowanej w umowach opcyjnych, jakie Grupa przyznała udziałowcom niekontrolującym, tj. iloczynu zysku spółki za wskazany w umowie okres i określonego w umowie współczynnika.  
+W poniższej tabeli zaprezentowano zobowiązanie z tytułu opcji dla udziałowców niekontrolujących spółek zależnych na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku:  
+| **Zobowiązania z tytułu nabycia udziałów mniejszościowych w spółkach** | **31 marca 2025** | **31 grudnia 2024** |
+| --- | --- | --- |
+| **zależnych (opcje put)** | **mln PLN** | **mln PLN** |
+| Zobowiązania spółek z segmentu Asseco Poland | 22,3 | 9,7 |
+| Zobowiązania spółek z segmentu Asseco International | 307,0 | 307,1 |
+| Zobowiązania spółek z segmentu Formula Systems | 368,1 | 336,2 |
+| **Razem** | **697,4** | **653,0** |
+Na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku wartość godziwa zobowiązań finansowych nie odbiegała istotnie od ich wartości księgowej. W okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku w Grupie nie dokonano zmian w sposobie ustalania wartości godziwej zobowiązań finansowych wycenianych w wartości godziwej oraz nie wystąpiły przesunięcia zobowiązań pomiędzy poziomami hierarchii wartości godziwej.  
+| **Na dzień 31 marca 2025** **_Zobowiązania finansowe_** | **Wartość bilansowa** **mln PLN** | **Poziom 1****_i)_** **mln PLN** | **Poziom 2** **_ii)_** **mln PLN** | **Poziom 3** **_iii)_** **mln PLN** |
+| --- | --- | --- | --- | --- |
+| Zobowiązania z tytułu nabycia udziałów mniejszościowych w spółkach zależnych(put options) | 697,4 | - | - | 697,4 |
+| Zobowiązania z tytułu odroczonej i/lub warunkowej płatności zapakiet kontrolny | 235,0 | - | - | 235,0 |
+| Pozostałe zobowiązania finansowe | 1,0 | - | - | 1,0 |
+| **Razem** | **933,4** | **-** | **-** | **933,4** |
+_i. wartość godziwa określana na podstawie cen giełdowych oferowanych za identyczne aktywa na rynkach aktywnych;_  
+_ii. wartość godziwa określana przy użyciu modeli, dla których dane wsadowe są obserwowalne bezpośrednio lub pośrednio na rynkach aktywnych;_  
+_iii. wartość godziwa określana przy użyciu modeli, dla których dane wsadowe nie są obserwowalne bezpośrednio lub pośrednio na rynkach aktywnych._  
+| **Na dzień 31 grudnia 2024** | **Wartość bilansowa** | **Poziom 1****_i)_** | **Poziom 2** **_ii)_** | **Poziom 3** **_iii)_** |
+| --- | --- | --- | --- | --- |
+| **_(przekształcone)_** **_Zobowiązania finansowe_** | **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** |
+| Zobowiązania z tytułu nabycia udziałów mniejszościowych w spółkach zależnych(put options) | 653,0 | - | - | 653,0 |
+| Zobowiązania z tytułu odroczonej i/lub warunkowej płatności zapakiet kontrolny | 229,3 | - | - | 229,3 |
+| Pozostałe zobowiązania finansowe | 1,8 | - | - | 1,8 |
+| **Razem** | **884,1** | **-** | **-** | **884,1** |
+_Opisy poziomów wartości godziwej są identyczne jak ujawnione pod tabelą powyżej._  
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 56

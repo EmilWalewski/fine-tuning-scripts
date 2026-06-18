@@ -1,0 +1,88 @@
+DOKUMENT SEKCJA: **19. Kapitałowe papiery wartościowe – program akcji pracowniczych** | **20.1. Zobowiązania długoterminowe** | **20.2. Zobowiązania krótkoterminowe, handlowe i pozostałe** | **20.3. Zobowiązania z tytułu umów** | **21. Wyjaśnienia przyczyn istotnych zmian w pozycjach przychodów oraz kosztów**
+
+## **19. Kapitałowe papiery wartościowe – program akcji pracowniczych**
+Grupa Kęty S.A. prowadzi dwa programy opcji na akcje Grupy Kęty S.A. (program z 2023 roku oraz program z 2020 roku zmieniony w 2023 roku). Programy te są skierowane do kluczowego personelu zarządzającego Grupy Kapitałowej.  
+W okresie 9 miesięcy 2025 roku kluczowy personel Grupy w ramach realizacji praw z I i II transzy programu z 2020 roku objął na warunkach określonych w programie 87 607 sztuk akcji Grupy Kęty S.A.  
+Ponadto w dniu 1 października 2025 roku kluczowy personel zarządzający Grupy, w związku z zakończeniem okresu nabywania uprawnień, otrzymał prawo do nabycia 34 tys. sztuk akcji z III transzy programu z roku 2020 po cenie 381,99 PLN za sztukę.  
+W dniu 29 września 2025 roku przyznano kluczowemu personelowi zarządzającemu Grupy 97 tys. sztuk opcji na akcje w ramach III transzy programu z roku 2023. Opcje te będą możliwe do realizacji po okresie 3 lat i spełnieniu warunków określonych w programie z roku 2023.  
+W okresie 9 miesięcy 2025 roku nie dokonano zmian szacunków ani założeń w stosunku do tych przyjętych i opublikowanych w skonsolidowanym sprawozdaniu finansowym za 2024 rok.  
+Poniższa tabela przedstawia podstawowe informacje na temat poszczególnych programów opcji na akcje.  
+| **Program z 2023** | **Program z 2023** | **Program z 2023** | **Program z 2020** |  |
+| --- | --- | --- | --- | --- |
+| **transza z 2025** | **transza z 2024** | **transza z 2023** | **transza z 2022** |  |
+| Ilość opcji na akcję w programie | 97 000 | 97 000 | 97 000 | 90 000 |
+| Ilość akcji w podtranszy A | 19 400 | 19 400 | 19 400 | 13 500 |
+| Ilość akcji w podtranszy B | 19 400 | 19 400 | 19 400 | 22 500 |
+| Ilość akcji w podtranszy C | 29 100 | 29 100 | 29 100 | 27 000 |
+| Ilość akcji w podtranszy D | 29 100 | 29 100 | 29 100 | 27 000 |
+| Podtransza A - zwrot z akcji | WIG+5% | WIG+5% | WIG+5% | =WIG |
+| Podtransza B – zwrot z akcji | WIG+10% | WIG+10% | WIG+10% | WIG+15% |
+| Podtransza C – wzrost EBITDA | X | X | X | 25%-28% |
+| Podtransza D – wzrost zysku netto | X | X | X | 25%-28% |
+| Podtransza C – realizacja EBITDA | 1 160 mln- 1 220 mln | 1 095 mln- 1 128 mln | 1 029 mln- 1 053,5 mln | X |
+| Podtransza D – realizacja zysku netto | 740 mln- 767mln | 698 mln- 719,5mln | 656 mln- 672 mln | X |
+| **Program z** **2023 transza z** | **Program z** **2023 transza z** | **Program z** **2023 transza z** | **Program z** **2020 transza z** |  |
+| **2025** | **2024** | **2023** | **2022** |  |
+| Data przyznania opcji | 29 września 2025 | 30 września 2024 | 11 września 2023 | 13 października 2022 |
+| Ilość opcji w transzy | 97 000 | 97 000 | 97 000 | 90 000 |
+| Ilość opcji wygasłych* | 0 | 7 000 | 14 200 | 5 000 |
+| Ilość opcji przyjętych do wyceny | 97 000 | 90 000 | 82 800 | 85 000 |
+| Oczekiwane dywidendy na akcje | 393,73 PLN | 313,76 PLN | 273,92 PLN | 268,72 PLN |
+| Przewidywany wskaźnik zmienności dla instrumentu bazowego | 20% | 21% | 20% | 19% |
+| Historyczny wskaźnik zmienności (%) | 30% | 32% | 32% | 30% |
+| Stopa procentowa wolna od ryzyka (%) | 4,8% | 4,9% | 5,4% | 7,8% |
+| Spodziewany okres ważności opcji (miesiącach) | 60 miesięcy | 60 miesięcy | 60 miesięcy | 72 miesiące |
+| Pozostały okresnabywania uprawnień | 36miesięcy | 24 miesiące | 12 miesięcy | zakończony |
+| Średnia ważona cena akcji(wPLN) | 532,20 | 532,20 | 532,20 | 381,99 |
+| **Wartości godziwe programu na dzień** **rozpoczęcia w mln PLN** | **46** | **40** | **22** | **9** |
+| Realizacja parametru A | TAK | TAK | TAK | TAK |
+| Realizacja parametru B | TAK | TAK | NIE | TAK |
+| Realizacja parametru C | 0* | 0* | 0* | 0% |
+| Realizacja parametruD | 0* | 0* | 0* | 0% |
+*ilość opcji niespełniających warunku 3 letniego zatrudnienia w Grupie od dnia przyznania opcji.  
+_(w milionach PLN)_  
+25  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+Szczegółowe informacje na temat programów opcji na akcje zamieszczono w nocie 21.1 skonsolidowanego sprawozdania finansowego za rok 2024.
+
+## **20.1. Zobowiązania długoterminowe**
+| Bieżąca wartość opłat z tytułu technologii produkcyjnej | 10 | 10 |
+| --- | --- | --- |
+| Bieżąca wartość opłat z tytułu licencji na programy komputerowe | 22 | 15 |
+| Pozostałe | 2 | 3 |
+| **Razem** | **34** | **28** |
+
+## **20.2. Zobowiązania krótkoterminowe, handlowe i pozostałe**
+| **Zobowiązania krótkoterminowe:** | **602** | **476** |
+| --- | --- | --- |
+| handlowe | 453 | 347 |
+| z tytułu zakupu rzeczowych aktywów trwałych | 13 | 29 |
+| **Zobowiązania finansowe razem (zakres MSSF 7)** | **466** | **376** |
+| publicznoprawne (z wyjątkiem zobowiązań z tytułu podatku dochodowego) | 77 | 51 |
+| z tytułu wynagrodzeń | 36 | 41 |
+| pozostałe | 23 | 8 |
+| **Zobowiązanie niefinansowe razem** | **136** | **100** |
+Zobowiązania z tytułu dostaw i usług są nieoprocentowane i zazwyczaj rozliczane w terminach 30-60 dniowych. Pozostałe zobowiązania są nieoprocentowane, ze średnim terminem płatności do jednego miesiąca. Powyższe zobowiązania nie są zabezpieczone na majątku Grupy.
+
+## **20.3. Zobowiązania z tytułu umów**
+| Zobowiązania z tytułu umów z klientami (przedpłaty na dostawy) | 36 | 29 |
+| --- | --- | --- |
+| **Razem** | **36** | **29** |
+Z umów zawartych z kontrahentami wynika, iż powyższe kwoty powinny zrealizować się w terminie do 12 miesięcy.
+
+## **21. Wyjaśnienia przyczyn istotnych zmian w pozycjach przychodów oraz kosztów**
+W okresie 9 miesięcy 2025 roku w porównaniu z analogicznym okresem roku poprzedniego istotne zmiany poszczególnych pozycji przychodów oraz kosztów obejmowały:  
+- wzrost przychodów ze sprzedaży o 347 mln PLN wynikający głównie z większej sprzedaży ilościowej, w tym wzrost o 221 mln PLN wynika z przejęcia w III kwartale roku SELT Sp. z o.o.,  
+- wzrost łącznych kosztów działalności o 285 mln PLN, w tym głównie:  
+- wzrost kosztów amortyzacji o 26 mln PLN odzwierciedlający efekty realizowanych inwestycji (w tym 16 mln PLN z tytułu przejęcia w III kwartale 2024 roku SELT Sp. z o.o.),  
+- wzrost kosztów zużycia materiałów i energii o 243 mln PLN wynikający głównie z większej skali produkcji, w tym 130 mln PLN z tytułu przejęcia w III kwartale 2024 roku SELT Sp. z o.o. Jednocześnie notowania aluminium (w PLN) w okresie 9 miesięcy 2025 roku w stosunku do okresu analogicznego w 2024 roku były wyższe o ok. 1%,  
+_(w milionach PLN)_  
+26  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+- wzrost kosztów usług obcych o 21 mln PLN wynika z większej skali działalności (w tym 18 mln PLN z tytułu przejęcia w III kwartale 2024 roku SELT Sp. z o.o.),  
+- wzrost kosztów świadczeń pracowniczych o 73 mln PLN wynika głównie z podwyżek płac oraz wzrostu zatrudnienia (w tym 32 mln PLN wynika z przejęcia w III kwartale 2024 roku SELT Sp. z o.o.),  
+- zwiększenie łącznego stanu zapasów produktów gotowych oraz produkcji niezakończonej o 67 mln PLN w okresie 9 miesięcy 2025 roku w porównaniu ze zmniejszeniem o 20 mln PLN w okresie 9 miesięcy 2024 roku odzwierciedla zmiany wartości wyrobów gotowych i produkcji niezakończonej w bieżącym okresie - głównie z uwagi na wzrost produkcji w 2025 roku (w tym w kwocie 11 mln PLN z tytułu przejęcia w III kwartale 2024 roku SELT Sp. z o.o.).  
+W efekcie zysk ze sprzedaży w okresie 9 miesięcy 2025 roku wyniósł 632 mln PLN i był wyższy o 62 mln PLN w porównaniu z analogicznym okresem roku poprzedniego.  
+Zysk z działalności operacyjnej w omawianym okresie wyniósł 639 mln PLN i był wyższy o 60 mln PLN w porównaniu z analogicznym okresem roku poprzedniego, w tym o 30 mln PLN z tytułu ujęcia wyniku operacyjnego SELT Sp. z o.o. za okres 8 miesięcy bieżącego roku.  
+Wyższe o 15 mln PLN w porównaniu z analogicznym okresem roku poprzedniego koszty finansowe netto w okresie 9 miesięcy 2025 roku wynikają głównie z kosztów odsetkowych z tytułu zwiększonego zadłużenia.  
+Po uwzględnieniu wyższych o 43 mln PLN kosztów podatku dochodowego, wynikających głównie z braku rozpoznania aktywów z tytułu podatku odroczonego w związku z zakończeniem w 2024 roku kluczowych inwestycji objętych ulgami podatkowymi (nota 11), zysk netto w okresie 9 miesięcy 2025 roku wyniósł 466 mln PLN i był wyższy o 2 mln PLN w porównaniu z analogicznym okresem roku poprzedniego.

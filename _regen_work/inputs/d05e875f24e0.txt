@@ -1,0 +1,21 @@
+DOKUMENT SEKCJA: **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO** > **Rok poprzedni**
+
+# **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO**
+
+## **Rok poprzedni**
+
+| **WARTOŚCI NIEMATERIALNE** | **Inne wartości** **Oprogramowanie** **Znak towarowy** **Wartości** **Razem** | **Inne wartości** **Oprogramowanie** **Znak towarowy** **Wartości** **Razem** | **Inne wartości** **Oprogramowanie** **Znak towarowy** **Wartości** **Razem** |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **niematerialne** **komputerowe** |  | **niematerialne w** **realizacji** |  |  |  |
+| **Wartość brutto napoczątek okresu** | **10 340** | **40 570** | **6 990** | **505** | **58 405** |
+| Zwiekszia - abycispołk | - - - - - |  |  |  |  |
+| Zwieksziapzstał | 1 124 | 23 | - | 9 449 | 10 596 |
+| Przeniesienia | 674 | 6 439 | - | (7 632) | (519) |
+| (Zmniejszenia) | (682) | (24) | - | - | (706) |
+| **Wartość brutto na koniec okresu** | **11 456** | **47 008** | **6 990** | **2 322** | **67 776** |
+| **Skumulowana amortyzacja na** **początek okresu** | 8 524 | 22 681 | 6 990 | - | 38 195 |
+| Zwiekszia - abycispołk | - - - - - |  |  |  |  |
+| Zwieksziapzstał | 1 113 | 6 371 | - | - | 7 484 |
+| (Zmniejszenia) | (621) | (24) | - | - | (645) |
+| **Skumulowana amortyzacja na** **koniec okresu** | **9 016** | **29 028** | **6 990** | **-** | **45 034** |
+| **Wartość netto na koniec okresu** | **2 440** | **17 980** | **-** |  | **2 322** **22 742** |

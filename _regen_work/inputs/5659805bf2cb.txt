@@ -1,0 +1,172 @@
+DOKUMENT SEKCJA: Główny Dokument
+
+**JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU**
+**DOM DEVELOPMENT S.A.**
+3
+Niniejsze jednostkowe sprawozdanie finansowe za rok zakończony dnia 31 grudnia 2025 roku, na które składa się:
+© Jednostkowy bilans sporządzony na dzień 31 grudnia 2025 roku,
+* Jednostkowy rachunek zysków i strat za okres dwunastu miesięcy zakończony dnia 31 grudnia 2025 roku,
+© Jednostkowe sprawozdanie z całkowitych dochodów za okres dwunastu miesięcy zakończony dnia 31 grudnia 2025 roku,
+* Jednostkowy rachunek przepływów pieniężnych za okres dwunastu miesięcy zakończony dnia 31 grudnia 2025 roku,
+© Jednostkowe zestawienie zmian w kapitale własnym za okres dwunastu miesięcy zakończony dnia 31 grudnia 2025 roku,
+© dodatkowe informacje i objaśnienia do jednostkowego sprawozdania finansowego
+zostało sporządzone oraz zatwierdzone przez Zarząd Dom Development S.A. w dniu 16 marca 2026 roku.
+
+Zarząd Dom Development S.A. oświadcza, że wedle jego najlepszej wiedzy, niniejsze jednostkowe sprawozdanie finansowe za rok
+2025 i dane porównywalne sporządzone zostały zgodnie z obowiązującymi zasadami rachunkowości oraz odzwierciedlają w sposób
+prawdziwy, rzetelny i jasny sytuację majątkową i finansową Spółki oraz jej wynik finansowy.
+
+Mikołaj Konopka
+Prezes Zarządu
+Monika Dobosz Justyna Wilk
+Wiceprezes Zarządu Członek Zarządu
+Grzegorz Smoliński Terry r. Roydon
+Członek Zarządu Członek Zarządu
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+4
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+2 JEDNOSTKOWY BILANS
+Aktywa trwałe
+Wartości niematerialne 7.6 24365 21081
+Rzeczowe aktywa trwałe 77 52 408 21562
+Inwestycje w jednostkach zależnych, stowarzyszonych i wspólnym przedsięwzięciu 7.8 466 594 449 328
+Aktywo z tytułu podatku odroczonego 7.22 3743 -
+Należności długoterminowe 7.9 6542 5742
+Pożyczki udzielone długoterminowe 7.9 580 296 154 500
+Pozostałe aktywa długoterminowe - 7768
+AKTYWA TRWAŁE RAZEM 1133 948 659 981
+Aktywa obrotowe
+Zapasy 7.10 2446 584 2 124970
+Należności z tytułu dostaw i usług oraz pozostałe należności 7.411 52 702 56472
+Pozostałe aktywa obrotowe 7.12 10179 22 525
+Należności z tytułu podatku dochodowego 7.33 - 48 425
+Pożyczki udzielone krótkoterminowe 7.9 - 360 750
+Krótkoterminowe aktywa finansowe 7.13 148 153 142315
+Środki pieniężne i ich ekwiwalenty 7.14 68 517 129 874
+AKTYWA OBROTOWE RAZEM 2726 135 2885 331
+AKTYWA RAZEM 3.860 083 3545 312
+Kapitał własny
+Kapitał zakładowy 7.15 25798 25 798
+Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej 7.16 276 458 276 458
+Pozostałe kapitały (kapitał zapasowy) 982 278 898 638
+Kapitał rezerwowy z wyceny zabezpieczeń przepływów pieniężnych (1697) 4691
+Kapitał rezerwowy z obniżenia kapitału akcyjnego 510 510
+Niepodzielony wynik finansowy 400 220 264 229
+KAPITAŁ WŁASNY RAZEM.
+
+1683 567 1470 324
+Zobowiązania długoterminowe
+Kredyty — część długoterminowa 7.19 - -
+Obligacje — część długoterminowa 7.20 535 000 510 000
+Rezerwa z tytułu podatku odroczonego 7.22 - 17 437
+Rezerwy długoterminowe 7.23 13 225 14956
+Zobowiązania z tytułu leasingu - część długoterminowa 7.25 37610 7.270
+Pozostałe zobowiązania długoterminowe 7.24 24476 30 432
+ZOBOWIĄZANIA DŁUGOTERMINOWE RAZEM 610311 580 095
+Zobowiązania krótkoterminowe
+Zobowiązania z tytułu dostaw, usług i podatków oraz pozostałe zobowiązania 7.26 424 885 464 969
+Kredyty — część krótkoterminowa 7.19 10000 -
+Obligacje — część krótkoterminowa 7.20 110 000 100 000
+Zobowiązania z tytułu odsetek od kredytów i obligacji 7.21 6214 6863
+Zobowiązania z tytułu leasingu - część krótkoterminowa 7.25 46 935 43093
+Zobowiązania z tytułu podatku dochodowego od osób prawnych 7.33 47 764 -
+Zobowiązania z tytułu dywidendy - -
+Rezerwy krótkoterminowe 7.27 14965 19 005
+Przychody przyszłych okresów 7.28 905 442 860 963
+ZOBOWIĄZANIA KRÓTKOTERMINOWE RAZEM 1566 205 1494 893
+ZOBOWIĄZANIA RAZEM 2176516 2.074 988
+KAPITAŁ WŁASNY I ZOBOWIĄZANIA RAZEM 3.860 083 3 545 312
+Wszystkie kwoty w tysiącach złotych.
+
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+5
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+Nota 01.01.-31.12.2025__ 01.01.-31.12.2024
+Przychody ze sprzedaży 7.35 1608 862 1 782 984.
+
+Koszt własny sprzedaży 7.35 (1090 944) (1 281 915)
+Zysk brutto ze sprzedaży 517918 501 069
+Koszty sprzedaży 7.36 (66 944) (63 476)
+Koszty ogólnego zarządu 7.36 (107 525) (112 167)
+Pozostałe przychody operacyjne 7.38 2617 11 508
+Pozostałe koszty operacyjne 7.39 (11 843) (22 650)
+Zysk na działalności operacyjnej 334 223 314 284
+Przychody finansowe 7.40 354 157 209 464
+Koszty finansowe 7.41 (40 349) (41 381)
+Zysk brutto 648 031 482 367
+Podatek dochodowy 7.33 (67 222) (63 347)
+Zysk netto 580 809 419 020
+Zysk na jedną akcję zwykłą:
+Podstawowy (w PLN) 7.32 22,51 16,25
+Rozwodniony (w PLN) 7.32 22,51 16,25
+Wszystkie kwoty w tysiącach złotych, o ile nie zaznaczono inaczej.
+
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+6
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+01.01.-31.12.2025 01.01.-31.12.2024
+Zysk netto 580 809 419 020
+Inne całkowite dochody:
+Zmiana netto z tytułu zabezpieczenia przepływów pieniężnych (7886) (979)
+Pozycje, które będą odniesione do rachunku zysków i strat (7886) (979)
+Pozycje, które nie będą odniesione do rachunku zysków i strat J -
+Inne całkowite dochody, przed opodatkowaniem (7886) (979)
+Podatek dochodowy dotyczący innych całkowitych dochodów, które odniesione będą na
+ME 1498 186
+rachunek zysków i strat
+Inne całkowite dochody netto (6 388) (793)
+Całkowite dochody netto 574 421 418 227
+Wszystkie kwoty w tysiącach złotych.
+
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+7
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+5 - JEDNOSTKOWY RACHUNEK PRZEPŁYWÓW PIENIĘŻNYCH
+Przepływy środków pieniężnych z działalności operacyjnej
+Zysk przed opodatkowaniem 648 031 482 367
+Korekta o pozycje:
+Amortyzacja 15 686 14399
+(Zysk)/strata z tytułu różnic kursowych - (715)
+(Zysk)/strata na inwestycjach (297 869) (153 350)
+Koszty/(przychody) finansowe z tytułu odsetek (15 749) (15 039)
+Koszty z tytułu wyceny programów opcji menedżerskich - 1962
+Zmiany w kapitale obrotowym:
+Zmiany stanu rezerw (5 772) 6285
+Zmiany stanu zapasów (308 721) (80 006)
+Zmiany stanu należności 535 (3 777)
+Zmiany stanu zobowiązań krótkoterminowych z wyjątkiem kredytów i obligacji (50 590) 158 199
+Zmiany stanu rozliczeń międzyokresowych i przychodów przyszłych okresów 49 440 (122 735)
+Inne korekty - 715
+Środki pieniężne wygenerowane z działalności operacyjnej 34991 288 305
+Odsetki otrzymane 7739 2482
+Odsetki zapłacone (44031) (34 163)
+Zapłacony podatek dochodowy 9284 (92 560)
+Środki pieniężne netto z działalności operacyjnej 7983 164 064
+Przepływy środków pieniężnych z działalności inwestycyjnej
+Wpływy ze sprzedaży wartości niematerialnych oraz rzeczowych aktywów trwałych 861 548
+Wpływy z aktywów finansowych (dywidendy) 299890 155 743
+Wpłaty z tytułu udzielonych pożyczek 266356 228 153
+Inne wptywy/(wydatki) z aktywów finansowych 13 500 22952
+Wydatki z tytułu udzielonych pożyczek (285 514) (235 000)
+Nabycie wartości niematerialnych oraz rzeczowych aktywów trwałych (16 268) (12 660)
+Nabycie aktywów finansowych i dopłaty do kapitału (31976) -
+Środki pieniężne netto wykorzystane w działalności inwestycyjnej 246849 159736
+Przepływy środków pieniężnych z działalności finansowej
+Wpływy z tytułu emisji akcji (realizacje opcji na akcje) 7.15 - 5.000
+Wpływy z tytułu zaciągniętych kredytów 145 000 251 154
+Wpływy z emisji dłużnych papierów wartościowych 7.20 135 000 140 000
+Wydatki z tytułu spłaty kredytów (135 000) (251 154)
+Wydatki z tytułu wykupu dłużnych papierów wartościowych 7.20 (100011) (50 000)
+Wydatki z tytułu podziału zysku (dywidenda) 7.18 (361 178) (323 030)
+Płatność zobowiązań z tytułu umów leasingu - -
+Środki pieniężne netto wykorzystane w działalności finansowej (316 189) (228 030)
+Zwiększenie / (zmniejszenie) netto stanu środków pieniężnych i ich ekwiwalentów (61 357) 95 770
+Środki pieniężne i ich ekwiwalenty na początek okresu 7.14 129874 34 104
+Środki pieniężne i ich ekwiwalenty na koniec okresu 7.14 68 517 129874
+Wszystkie kwoty w tysiącach złotych.
+
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.

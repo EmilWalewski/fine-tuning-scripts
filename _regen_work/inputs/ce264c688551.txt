@@ -1,0 +1,37 @@
+DOKUMENT SEKCJA: **4.7. Budowanie przewagi konkurencyjnej w segmencie FIN-TECH** | **4.8. Dywidenda** | **4.9. Środki pieniężne własne i ich ekwiwalenty** | **Struktura środków pieniężnych XTB**
+
+## **4.7. Budowanie przewagi konkurencyjnej w segmencie FIN-TECH**
+XTB jako podmiot technologiczny działający w sektorze  
+finansów prowadzi w sposób ciągły prace polegające na opracowywaniu i rozwijaniu wysoce innowacyjnych, kompleksowych rozwiązań w dziedzinie transakcji oraz inwestycji internetowych w instrumenty finansowe. Czyni to Spółkę organizacją typu FinTech. Celem powyższych prac jest opracowywanie innowacyjnych technologii i rozwiązań pozwalających w szczególności na dalszy rozwój oferty produktowej. XTB jest właścicielem szeregu autorskich rozwiązań technologicznych, w tym nowoczesnej platformy transakcyjnej xStation.  
+W raportowanym okresie zespół technologiczny XTB skupiał się na działaniach służących dalszemu podnoszeniu poziomu bezpieczeństwa platformy i aplikacji mobilnej. Rozpoczęto stopniowy proces włączania automatycznego logowania 2FA dla obecnych i nowych klientów, przeanalizowano i zaplanowano kolejne aktywności w tym obszarze.  
+Aplikacja mobilna XTB zyskała odświeżony i bardziej przyjazny widok główny, w tym w odpowiedzi na zapotrzebowanie klientów dodano dodatkowe funkcjonalności sortowania widoku instrumentów.  
+Dodatkowo wprowadzono zmiany w zakresie narzędzi dedykowanych obsłudze klientów instytucjonalnych. Zaimplementowane rozwiązania pozwoliły na bardziej płynną realizację zgłoszeń tych klientów, dotyczących zmian konfiguracyjnych sesji handlowych. Dalsze prace w tym zakresie, umożliwiające płynne zmiany konfiguracji sesji cenowych, zostały także zaplanowane na IV kwartał roku.  
+Prace technologiczne, które Spółka stale realizuje mają na celu rozwój narzędzi niezbędnych do sprawnego funkcjonowania systemów transakcyjnych XTB, efektywnej egzekucji zleceń, sprawnego procesu pozyskiwania nowych klientów (tzw. _onboardingu_ ) oraz dalszy rozwój narzędzi wspierających wewnętrzne procesy w firmie w efekcie zidentyfikowanych potrzeb rozwojowych. Wśród tego rodzaju najważniejszych prac, które miały miejsce w raportowanym okresie można wskazać modernizację architektury systemu w celu poprawy efektywności oraz podniesienia poziomu bezpieczeństwa transakcji.  
+96  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Obszary badawcze skupiają się na funkcjonalnościach i bezpieczeństwie działania systemów, procesów i baz danych. Prowadzone są również prace badawczo-rozwojowe ukierunkowane na rozwój nowych systemów elektronicznego obrotu.  
+Z uwagi na przyjętą strategię biznesową opierającą się na rozwoju nowych technologii, w ramach struktury XTB wyodrębniony został Dział Produktu i Technologii, w którym znakomitą część personelu stanowią osoby wykonujące prace badawczo-rozwojowe. Przedmiotowe prace mają znaczący, niemalże strategiczny wpływ na działalność gospodarczą prowadzoną przez XTB. Nie tylko przekładają się na poziom generowanych przychodów przez XTB, ale również są kluczowe w procesie budowania i utrzymywania wysoce konkurencyjnej pozycji Spółki na globalnym rynku kapitałowym.  
+Poniższa tabela przedstawia liczbę osób zatrudnionych w Dziale Produktu i Technologii oraz koszty ponoszone przez ten dział:  
+| przez ten dział: Koszty Działu Produktu i Technologii (w tys. PLN) | **184 432** | 165 839 | 94 770 | 58 381 | 36 616 | 27 159 | 21 151 | 18 974 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Liczba osób w Dziale Produktu i Technologii1 | **614** | 498 | 429 | 282 | 176 | 129 | 116 | 106 |
+_1 W przedstawionej liczbie osób uwzględniono: osoby zatrudnione na podstawie umowy o pracę, umowy zlecenia oraz osoby świadczące usługi w ramach umów B2B._
+
+## **4.8. Dywidenda**
+Polityka dywidendowa XTB zakłada rekomendowanie przez Zarząd Walnemu Zgromadzeniu wypłaty dywidendy w kwocie uwzględniającej poziom zysku netto prezentowany w jednostkowym rocznym sprawozdaniu finansowym Spółki oraz szereg różnych czynników dotyczących Spółki, w tym perspektyw dalszej działalności, przyszłych zysków, zapotrzebowania na środki pieniężne, sytuacji finansowej, poziomu współczynników adekwatności kapitałowej, planów ekspansji, wymogów prawa w tym zakresie, jak i wytycznych KNF. W szczególności Zarząd, zgłaszając propozycje dotyczące wypłaty dywidendy, kierował się będzie koniecznością zapewnienia odpowiedniego poziomu współczynników adekwatności kapitałowej Spółki oraz kapitału niezbędnego do rozwoju Grupy.  
+Zarząd podtrzymuje, że jego zamiarem jest rekomendowanie w przyszłości Walnemu Zgromadzeniu podejmowania uchwał w sprawie wypłaty dywidendy, przy uwzględnieniu czynników wskazanych powyżej, w kwocie na poziomie od 50% do 100% jednostkowego zysku netto Spółki za dany rok obrotowy. **Jednostkowy zysk netto za okres 9 miesięcy 2025 r. wyniósł 462,8 mln PLN.**  
+97  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Poziomy łącznego współczynnika kapitałowego (IFR) XTB w okresie I – III kwartałów 2025 r. obrazuje poniższy wykres.  
+Łączny współczynnik kapitałowy Spółki (IFR) w okresie I - III kwartał 2025 r.  
+340%<br>310%<br>280%<br>250%<br>220%<br>190%<br>160%<br>130%<br>Łączny współczynnik kapitałowy (IFR)<br>Wymagany przez KNF łączny współczynnik kapitałowy (IFR) na koniec każdego kwartału pod wypłatę 100% zysku w formie<br>dywidendy<br>01.01.2025 15.01.2025 31.01.2025 15.02.2025 28.02.2025 15.03.2025 31.03.2025 15.04.2025 30.04.2025 15.05.2025 31.05.2025 15.06.2025 30.06.2025 15.07.2025 31.07.2025 15.08.2025 31.08.2025 15.09.2025 30.09.2025<br>Łączny współczynnik kapitałowy informuje o relacji funduszy własnych do aktywów ważonych ryzykiem, czyli pokazuje czy dom maklerski jest w stanie posiadanymi funduszami własnymi pokryć minimalny wymóg kapitałowy z tytułu ryzyka rynkowego, kredytowego, operacyjnego i pozostałych. **Na koniec III kwartału br. łączny współczynnik kapitałowy w Spółce wyniósł 169,9%.**
+
+## **4.9. Środki pieniężne własne i ich ekwiwalenty**
+XTB lokuje część swojej gotówki w lokaty bankowe oraz instrumenty finansowe, tj. w obligacje skarbowe, obligacje poręczone przez Skarb Państwa oraz obligacje korporacyjne poręczone przez banki. Na dzień 30 września 2025 r. łączna wartość własnych środków pieniężnych oraz obligacji wyniosła w Grupie XTB 1 805,8 mln PLN, co stanowi 21,7% sumy bilansowej, z tego 1 785,8 mln PLN przypadała na środki pieniężne, a 20,0 mln PLN na obligacje.
+
+## **Struktura środków pieniężnych XTB**
+98  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.

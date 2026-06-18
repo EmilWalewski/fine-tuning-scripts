@@ -1,0 +1,41 @@
+DOKUMENT SEKCJA: Grupa Kapitałowa Asseco
+
+| **PASYWA** | **Noty** |  | **_(przekształcone*)_** |
+| --- | --- | --- | --- |
+| **mln PLN** **Kapitał własny** **_(przypisany akcjonariuszom Jednostki Dominującej)_** | **mln PLN** |  |  |
+| Kapitał podstawowy |  | 83,0 | 83,0 |
+| Nadwyżka ze sprzedaży akcji powyżej ich wartości nominalnej |  | 4 180,1 | 4 180,1 |
+| Akcje własne | 6.8 | (1 186,2) | (1 186,2) |
+| Transakcje na udziałach niekontrolujących |  | (269,4) | (268,8) |
+| Różnice kursowe z przeliczenia jednostek zależnych, stowarzyszonych oraz wspólnychprzedsięwzięć |  | (139,3) | (40,9) |
+| Zyski zatrzymane i pozostałe kapitały |  | 2 862,1 | 2 729,1 |
+| **5 530,3** | **5 496,3** |  |  |
+| **Udziały niekontrolujące** | 6.3 | **3 926,9** | **4 152,7** |
+| **Kapitał własny ogółem** **Zobowiązania długoterminowe** |  | **9 457,2** | **9 649,0** |
+| Kredyty bankowe, pożyczki, dłużne papiery wartościowe | 6.9 | 1 584,6 | 1 748,2 |
+| Zobowiązania z tytułu leasingu |  | 696,9 | 726,5 |
+| Pozostałe zobowiązania finansowe | 6.10 | 647,9 | 573,9 |
+| Rezerwy z tytułu odroczonego podatku dochodowego |  | 382,4 | 386,8 |
+| Zobowiązania z tytułu umów z klientami | 6.12 | 168,2 | 124,3 |
+| Pozostałe zobowiązania | 6.11 | 18,6 | 18,1 |
+| Rezerwy | 6.13 | 68,5 | 74,0 |
+| Rozliczenia międzyokresowe przychodów i kosztów | 6.14 | 50,3 | 52,2 |
+| **3 617,4** **Zobowiązania krótkoterminowe** | **3 704,0** |  |  |
+| Kredyty bankowe, pożyczki, dłużne papiery wartościowe | 6.9 | 1 190,3 | 1 187,6 |
+| Zobowiązania z tytułu leasingu |  | 240,0 | 250,5 |
+| Pozostałe zobowiązania finansowe | 6.10 | 473,5 | 389,2 |
+| Zobowiązania z tytułu dostaw i usług | 6.11 | 1 721,9 | 1 868,0 |
+| Zobowiązania z tytułu umów z klientami | 6.12 | 1 377,3 | 1 335,8 |
+| Zobowiązania z tytułu podatku dochodowego od osób prawnych | 6.11 | 142,1 | 180,2 |
+| Inne zobowiązania budżetowe | 6.11 | 277,4 | 409,4 |
+| Pozostałe zobowiązania | 6.11 | 762,7 | 670,4 |
+| Rezerwy | 6.13 | 45,5 | 49,5 |
+| Rozliczenia międzyokresowe przychodów i kosztów | 6.14 | 547,1 | 629,0 |
+| Zobowiązania przeznaczone do sprzedaży |  | - | 3,9 |
+| **6 777,8** | **6 973,5** |  |  |
+| **SUMA ZOBOWIĄZAŃ** |  | **10 395,2** | **10 677,5** |
+| **SUMA PASYWÓW** |  | **19 852,4** | **20 326,5** |
+
+_*Szczegóły dotyczące przekształcenia zostały zaprezentowane w punkcie 2.10. Dodatkowych objaśnień do niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego._
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 9

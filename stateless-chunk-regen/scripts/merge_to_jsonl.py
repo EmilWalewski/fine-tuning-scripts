@@ -15,6 +15,8 @@ warning); use --keep-missing to emit them with an empty output instead.
 """
 import argparse, json, os
 
+from path_profiles import add_path_profile_arg, mapped_entry
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--manifest", required=True)
@@ -22,6 +24,7 @@ def main():
     ap.add_argument("--out", required=True, help="Path to write the merged .jsonl")
     ap.add_argument("--id-key", default="id")
     ap.add_argument("--keep-missing", action="store_true", help="Emit records with empty output instead of skipping")
+    add_path_profile_arg(ap)
     args = ap.parse_args()
 
     manifest = json.load(open(args.manifest, encoding="utf-8"))
@@ -47,6 +50,7 @@ def main():
     written, skipped, missing = 0, 0, []
     with open(args.out, "w", encoding="utf-8") as w:
         for m in manifest:
+            m = mapped_entry(m, args.path_profile)
             op = m["output_path"]
             has = os.path.exists(op) and os.path.getsize(op) > 0
             if not has:

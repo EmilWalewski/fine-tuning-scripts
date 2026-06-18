@@ -1,0 +1,129 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **Kontrakty realizowane przez Asseco Poland dla ZUS**
+
+Zgodnie z ww. umową zamówienia składane w ramach współpracy, w odniesieniu do etapu drugiego i trzeciego, będą podlegały odrębnym negocjacjom między stronami (w tym w zakresie ich wyceny) i będą wymagały każdorazowo zgód korporacyjnych na prowadzenie prac nimi objętych.
+
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 83
+Ponadto dedykowane, wyodrębnione zespoły realizowały projekty także dla innych klientów telekomunikacyjno-mediowych Asseco.
+
+W I kwartale 2025 roku **Asseco Data Systems (ADS)** kontynuowało działania mające na celu umocnienie rynkowej pozycji.
+
+Asseco Data Systems w dalszym ciągu wspierało strategiczne z punktu widzenia kraju systemy.
+
+W ramach podpisanej w konsorcjum z Asseco Cloud z KRUS w marcu 2023 roku 2-letniej umowy, spółka realizowała działania związane z utrzymaniem i rozwojem systemu do obsługi świadczeń emerytalno-rentowych Farmer. Na mocy 4-letniej umowy podpisanej z KRUS w marcu 2022 roku, ADS było również odpowiedzialne za utrzymanie i rozwój systemu Workflow, stanowiącego centralny komponent Zintegrowanego Systemu Informatycznego (ZSI) do obsługi najważniejszych procesów biznesowych.
+
+Z kolei na podstawie umowy zawartej w maju 2022 roku w konsorcjum z Asseco Cloud, ADS zapewniało KRUS kompleksową obsługę Nowego Systemu Informatycznego Ubezpieczeń (nSIU), odpowiadającego za obsługę ubezpieczeń społecznych i zdrowotnych, a także świadczeń krótkoterminowych oraz postępowań wypadkowych.
+
+W I kwartale 2025 roku spółka kontynuowała rozwój sprzedaży usług zaufania pod marką Certum.
+
+Jako jeden z największych w Europie dostawców usług zaufania, oferuje nie tylko produkty, ale również wsparcie ekspertów, know-how oraz wieloletnie doświadczenie w dziedzinie usług zaufania i identyfikacji, procesów paperless, cyfrowego obiegu dokumentów, szyfrowania, cyberbezpieczeństwa, prawa, norm i standardów technologicznych.
+
+Aktualnie produkty Certum są używane przez ponad 750 tys. użytkowników w ponad 70 krajach na 6 kontynentach.
+
+W okresie sprawozdawczym sprzedaż detaliczna i partnerska Certum koncentrowała się głównie na kwalifikowanym podpisie elektronicznym, który odpowiadał za ok.
+
+70% całkowitej sprzedaży do klienta masowego.
+
+Certum wydało już niemal 2 mln kwalifikowanych podpisów elektronicznych.
+
+Asseco Data Systems w dalszym ciągu rozwijało ekosystem usług #EnterprisePaperless.
+
+To kompleksowa oferta wykorzystująca wachlarz rozwiązań dla procesów biznesowych.
+
+Portfolio usług paperless obejmuje:
+- Platformę Signer – umożliwiającą budowanie elektronicznych procesów biznesowych wymagających podpisywania i przekazywania dokumentów,
+- e-Doręczenia – kwalifikowaną usługę rejestrowanego doręczenia elektronicznego, która pozwala wysyłać i odbierać elektroniczne listy polecone,
+- SignHub – pozwalające na podpisywanie dokumentów elektronicznych różnymi e-podpisami: kwalifikowanym, zaawansowanym (w tym biometrycznym) oraz zwykłym,
+- Usługi zaufania – uzupełniające i zabezpieczające cykl życia elektronicznych dokumentów, zapewniające bezpieczeństwo prawne organizacji, która wdrożyła cyfrowe procesy biznesowe,
+- e-ID Hub – rozwiązanie agregujące różne metody zdalnej identyfikacji osoby fizycznej, która jest częścią większości procesów biznesowych w ramach tzw.
+
+Know Your Customer,
+- WebNotarius – usługę kwalifikowanej walidacji i konserwacji podpisu elektronicznego i pieczęci elektronicznej.
+
+Raport walidacji WebNotarius stanowi prawny dowód z walidacji i potwierdza ważność lub nieważność kwalifikowanych podpisów oraz pieczęci elektronicznych.
+
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 84
+W styczniu 2025 roku, Asseco Data Systems i Polska Wytwórnia Papierów Wartościowych (PWPW) podpisały list intencyjny, deklarując gotowość do podjęcia współpracy i dostarczania usługi kwalifikowanych podpisów elektronicznych dla wszystkich obywateli, udostępnianych w ramach Europejskiego Portfela Tożsamości Cyfrowej.
+
+Porozumienie jest odpowiedzią na wymogi rozporządzenia eIDAS 2.0.
+
+Współpraca między ADS i PWPW ma na celu zapewnienie szerokiego dostępu do bezpiecznych rozwiązań cyfrowych, uproszczenie procesów składania podpisu kwalifikowanego w usługach nieprofesjonalnych (publicznych) oraz wsparcie rozwoju gospodarki cyfrowej poprzez wykorzystanie zaufanych usług identyfikacji i uwierzytelniania.
+
+W omawianym okresie Asseco Data Systems kontynuowało współpracę z Jerónimo Martins Polska, właścicielem sieci sklepów Biedronka, dla którego wdrożyło nowoczesny system cyfrowego obiegu dokumentów oparty na rozwiązaniach paperless.
+
+W ramach współpracy Biedronka korzysta ze środowiska usług ADS – platformy Signer, podpisu kwalifikowanego SimplySign oraz komponentu SignHub.
+
+Implementacja zwiększyła efektywność zarządzania procesem tworzenia, obiegu i zatwierdzania elektronicznych dokumentów oraz ich zdalnego podpisywania.
+
+W I kwartale ADS wdrożyło dla Europejskiego Funduszu Leasingowego (EFL), jednej z najstarszych i największych firm leasingowych w Polsce, nowoczesne rozwiązanie oparte na jednorazowym podpisie kwalifikowanym.
+
+Kluczowym celem projektu było uproszczenie procesu zawierania umów leasingowych i umożliwienie jego realizacji w pełni zdalnie i w formie cyfrowej.
+
+Podstawą technologiczną wdrożenia była integracja systemu z usługą e-ID Hub od Asseco Data Systems, która połączona jest z Krajowym Węzłem Identyfikacji Elektronicznej (login.gov.pl).
+
+Zastosowanie tego rozwiązania umożliwiło szybką i bezpieczną weryfikację tożsamości za pomocą mObywatela lub e-dowodu.
+
+Cały proces jest zgodny z unijnym rozporządzeniem eIDAS, co oznacza, że podpisane dokumenty mają pełną moc prawną w całej Unii Europejskiej.
+
+Po zakończeniu okresu sprawozdawczego Asseco zawarło partnerstwo z firmą Aruba PEC, wiodącym włoskim dostawcą kwalifikowanych usług zaufania i e-doręczeń.
+
+Spółki zakończyły projekt testowy i będą umożliwiać klientom wymianę przesyłek elektronicznych w trybie kwalifikowanych e-Doręczeń pomiędzy Polską a Włochami.
+
+Wraz z ogłoszeniem współpracy Aruba i Asseco planują rozpoczęcie działań z partnerami z całej Europy w celu budowy wspólnego potencjału międzynarodowego oraz dostarczania zintegrowanych usług zaufania, które umożliwią powstanie interoperacyjnej sieci e-Doręczeń w całej Unii Europejskiej.
+
+Spółka rozwija platformę do zarządzania procesami HR w biznesie, a także zintegrowane rozwiązania informatyczne do zarządzania uczelniami, procesem dydaktycznym i rozwojem kompetencji pracowników.
+
+Asseco współpracuje z ponad 50 uczelniami w Polsce.
+
+ADS pod marką Asseco Academy, które od lat jest jednym z wiodących dostawców szkoleń na polskim rynku, dynamicznie reaguje na zmieniające się potrzeby klientów i dostosowuje do nich swoją ofertę.
+
+W portfolio ma ponad 600 szkoleń.
+
+Dotychczas zrealizowało ponad 79 tys. szkoleń, w których uczestniczyło ponad 525 tys. kursantów z ponad 38 tys. firm i instytucji.
+
+Asseco Data Systems realizowało również działania związane z cyfryzacją podmiotów administracji samorządowej.
+
+Z systemów Otago, Miasto365 i Budżet Obywatelski korzysta ponad 100 samorządów terytorialnych w Polsce.
+
+System Otago – Zintegrowany System Informatyczny klasy ERP – wspiera zarządzanie wszystkimi obszarami działalności jednostek samorządu terytorialnego, takimi jak budżet, podatki i opłaty, majątek, finanse i księgowość, zasoby ludzkie (HR), sprawy obywatelskie, sfera społeczna, sfera zatrudnienia, gospodarka odpadami.
+
+Aktualnie korzysta z niego 50 miast i jednostek podległych, m.in. Gdańsk, Gdynia, Kraków, Łódź, Bydgoszcz czy Wrocław, a także 4 urzędy marszałkowskie.
+
+W I kwartale 2025 roku ADS kontynuowało prace związane z wdrożeniem systemu ERP do świadczenia e-usług publicznych w mieście Police.
+
+Projekt obejmuje wdrożenie zintegrowanych systemów dziedzinowych oraz niezbędnej infrastruktury w Urzędzie Miasta i jednostkach gminnych do świadczenia e-usług publicznych wraz z migracją danych i szkoleniami, obiegiem dokumentów oraz platformą Zarządzania Oświatą.
+
+Dla klientów samorządowych ADS wdraża również usługi elektronicznych doręczeń korespondencji.
+
+W omawianym okresie spółka wdrożyła usługi e-Doręczeń u 11 klientów.
+
+Po zakończeniu okresu sprawozdawczego, Asseco Data Systems wdrożyło dla Urzędu Miejskiego Wrocławia, którego od wielu lat jest partnerem technologicznym, nowe narzędzie w systemie rekrutacji – Asystenta AI, które ułatwia składanie dokumentów rekrutacyjnych do placówek edukacyjnych.
+
+Wirtualny asystent oparty na technologii czatu AI będzie wspierał rodziców i uczniów w procesie rekrutacji.
+
+Nowa funkcjonalność została zintegrowana z miejskim systemem naboru i uruchamia się automatycznie po zalogowaniu użytkownika do systemu.
+
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 85
+Rozwiązania spółki pozwalają budować inteligentnego miasta (Smart City).
+
+Jej centralny system Metropolis automatyzuje skomplikowany i wieloaspektowy proces zarządzania miejską organizacją poprzez integrację i koordynację różnych systemów dziedzinowych i usług.
+
+Asseco Data Systems kontynuuje realizację dwóch dużych projektów związanych z systemami poboru opłat dla transportu zbiorowego.
+
+W omawianym okresie kontynuowane były prace związane z wykonaniem systemu FALA (Platformy Zintegrowanych Usług Mobilności).
+
+System FALA to innowacyjny na skalę całego kraju zintegrowany system poboru opłat za przewozy w komunikacji zbiorowej, który służy mieszkańcom województwa pomorskiego.
+
+Jedna platforma elektroniczna łączy sieć kolejową i komunikację miejską.
+
+Płacenie za przejazdy zostało oparte na aplikacji i specjalnej karcie transportowej oraz sieci czytników (walidatorów).
+
+System zawiera także informacje o cenach biletów, rozkładach jazdy, trasach przejazdów autobusów, tramwajów, trolejbusów i pociągów – tak, aby zapewnić obsługę rozliczenia ogromnej liczby usług transportowych w każdej chwili działania transportu publicznego.
+
+Projekt stworzenia systemu FALA ADS realizuje w konsorcjum z włoską firmą AEP Ticketing Solutions.
+
+Drugim dużym projektem związanym z systemem poboru opłat realizowanym przez ADS był projekt wdrożenia i utrzymania systemu Transport GZM, polegający na unowocześnieniu systemu pobierania opłat za przejazdy publicznym transportem zbiorowym na terenie Górnośląsko-Zagłębiowskiej Metropolii.
+
+Asseco Data Systems jest także podwykonawcą Asseco Central Europe w projekcie dostawy i wdrożenia modułów centralnych dla Systemu NICL – Systemu Zintegrowanego Biletu Krajowego na komunikację publiczną na Słowacji.
+
+W I kwartale 2025 roku realizowane były projekty z obszaru oprogramowania wspierającego obsługę kontraktów leasingowych.

@@ -1,0 +1,65 @@
+DOKUMENT SEKCJA: **33. Zarządzanie ryzykiem** | **33.1. Wartość godziwa** | **33.1.1. Porównanie wartości bilansowej i wartości godziwej** | **33.1.2. Hierarchia wartości godziwej** | **33.2. Ryzyko rynkowe** | **33.2.1. Ryzyko walutowe**
+
+## **33. Zarządzanie ryzykiem**
+Grupa narażona jest na szereg ryzyk związanych z bieżącą działalnością. Celem zarządzania ryzykiem jest zapewnienie, iż Grupa będzie podejmowała ryzyko w sposób świadomy i kontrolowany. Polityki zarządzania ryzykiem są opracowywane w celu identyfikacji i pomiaru podejmowanego ryzyka, a także dla regularnego ustalania odpowiednich limitów ograniczających skalę narażenia się na te ryzyka.  
+Na poziomie strategicznym, za ustalenie i monitorowanie polityki zarządzania ryzykami odpowiada Zarząd. Wszystkie typy ryzyka są monitorowane i kontrolowane w odniesieniu do dochodowości prowadzonej działalności oraz poziomu kapitału niezbędnego do zapewnienia bezpieczeństwa operacji z punktu widzenia wymogów kapitałowych.  
+W Jednostce dominującej został powołany Komitet Zarządzania Ryzykiem, w którego skład wchodzą członkowie Rady Nadzorczej. Do zadań Komitetu należy opracowanie dokumentu dotyczącego apetytu na ryzyko, opiniowanie strategii w zakresie zarządzania ryzykiem, wspieranie Rady Nadzorczej w nadzorowaniu realizacji strategii w zakresie zarządzania ryzykiem przez Zarząd, weryfikacja polityki wynagrodzeń i zasad jej realizacji pod kątem dostosowania systemu wynagrodzeń do ryzyka, na jakie jest narażony dom maklerski, do jego kapitału, płynności oraz prawdopodobieństwa i terminów uzyskiwania dochodów.  
+48  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Dział Kontroli Ryzyka wspomaga Zarząd w kształtowaniu, przeglądaniu i aktualizacji zasad ICARAP w sytuacji pojawienia się nowych rodzajów ryzyka, znaczących zmian w strategii i planach działania. Dział ten monitoruje także odpowiedniość i skuteczność wdrożonego systemu zarządzania ryzykiem, identyfikuje, monitoruje oraz kontroluje ryzyka inwestycji własnych Grupy, wylicza wymogi kapitałowe oraz szacuje kapitał wewnętrzny.  
+Rada Nadzorcza Jednostki dominującej zatwierdza system zarządzania ryzykiem XTB.
+
+## **33.1. Wartość godziwa**
+Wartość godziwa to cena, którą otrzymano by za sprzedaż składnika aktywów lub zapłaconoby za przeniesienie zobowiązania w przeprowadzonej na zwykłych warunkach transakcji między uczestnikami rynku na dzień wyceny.
+
+## **33.1.1. Porównanie wartości bilansowej i wartości godziwej**
+Wartość godziwa środków pieniężnych jest szacowana jako zbliżona do ich wartości bilansowej.  
+Wartość godziwa aktywów finansowych wycenianych w wartości godziwej przez wynik finansowy, zobowiązań wobec klientów oraz zobowiązań pozostałych jest szacowana jako zbliżona do ich wartości bilansowej ze względu na krótkie terminy zapadalności tych pozycji bilansowych.
+
+## **33.1.2. Hierarchia wartości godziwej**
+Grupa prezentuje wycenę wartości godziwej instrumentów finansowych wycenianych w wartości godziwej wykorzystując następującą hierarchię wartości godziwej, która obrazuje istotność danych wejściowych wykorzystanych przy wycenie wartości godziwej:  
+- **Poziom 1** : ceny notowane (nieskorygowane) z aktywnych rynków dla tych aktywów lub zobowiązań;  
+- **Poziom 2:** dane wejściowe inne niż ceny notowane zaliczane do Poziomu 1, które są obserwowalne dla składnika aktywów lub zobowiązań w sposób bezpośredni (tj. jako ceny) lub pośrednio (tj. bazujące na cenach). Ta kategoria obejmuje aktywa i zobowiązania finansowe wycenione za pomocą cen notowanych z aktywnych rynków dla identycznych aktywów i zobowiązań, które uważane są za mniej aktywne lub pozostałe metody wyceny, gdzie wszystkie istotne dane wejściowe pochodzą bezpośrednio lub niebezpośrednio z rynków;  
+- **Poziom 3:** dane wejściowe do wyceny składnika aktywów lub zobowiązań, które nie są oparte na możliwych do zaobserwowania danych rynkowych (dane wejściowe nieobserwowalne).  
+| Okres | Pozycja | POZIOM 1 | POZIOM 2 | POZIOM 3 | ŁĄCZNIE |
+| --- | --- | --- | --- | --- | --- |
+| 30.09.2025 | Aktywa finansowe |  |  |  |  |
+| 30.09.2025 | Aktywa finansowe - Aktywa razem | 281 790 | 704 183 | - | 985 973 |
+| 30.09.2025 | Zobowiązania finansowe |  |  |  |  |
+| 30.09.2025 | Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy | - | 259 735 | - | 259 735 |
+| 30.09.2025 | Zobowiązania finansowe - Zobowiązania razem | - | 259 735 | - | 259 735 |
+49  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+| Okres | Pozycja | POZIOM 1 | POZIOM 2 | POZIOM 3 | ŁĄCZNIE |
+| --- | --- | --- | --- | --- | --- |
+| 31.12.2024 | Aktywa finansowe |  |  |  |  |
+| 31.12.2024 | Aktywa finansowe - Aktywa razem | 592 116 | 531 807 | - | 1 123 923 |
+| 31.12.2024 | Zobowiązania finansowe |  |  |  |  |
+| 31.12.2024 | Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy | - | 208 193 | - | 208 193 |
+| 31.12.2024 | Zobowiązania finansowe - Zobowiązania razem | - | 208 193 | - | 208 193 |
+W okresach objętych śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym nie wystąpiły transfery pozycji pomiędzy poziomami hierarchii wartości godziwej.  
+Wartość godziwa kontraktów na różnice kursowe (CFD) wyznaczona jest na podstawie rynkowych cen instrumentów bazowych, pochodzących z niezależnych źródeł, tj. od sprawdzonych dostawców płynności oraz renomowanych serwisów informacyjnych, skorygowanych o spread określony przez Grupę. Do wyceny wykorzystywane są ceny zamknięcia lub ostatnie ceny bid i ask. Kontrakty CFD wyceniane są jako różnica między ceną bieżącą a ceną otwarcia z uwzględnieniem naliczonych prowizji i punktów swapowych.  
+Oszacowany przez Grupę wpływ korekt z tytułu ryzyka kredytowego kontrahenta nie był znaczący z punktu widzenia całości wyceny zawartych przez Grupę transakcji pochodnych. W konsekwencji, Grupa nie uznaje wpływu nieobserwowalnych danych wejściowych zastosowanych do wyceny transakcji pochodnych za znaczący i zgodnie z postanowieniami MSSF 13.73 nie klasyfikuje takich transakcji na 3 poziomie hierarchii wartości godziwej.
+
+## **33.2. Ryzyko rynkowe**
+Grupa w okresie objętym niniejszym skonsolidowanym sprawozdaniem finansowym zawierała na rynku OTC kontrakty na różnice cenowe (CFD) oraz nabywała papiery wartościowe. Grupa może również zawierać kontrakty terminowe na rachunek własny na regulowanych rynkach giełdowych.  
+Biorąc pod uwagę czynnik ryzyka wyszczególniamy następujące rodzaje ryzyka:  
+- Ryzyko walutowe, związane ze zmianą kursów walutowych  
+- Ryzyko stopy procentowej  
+- Ryzyko cen towarów  
+- Ryzyko cen instrumentów kapitałowych  
+Podstawowym celem Grupy w obszarze zarządzania ryzykiem rynkowym jest ograniczenie negatywnego wpływu tego ryzyka na rentowność prowadzonej działalności.  
+W ramach wewnętrznych procedur stosowane są limity ograniczające ryzyko rynkowe związane z utrzymywaniem otwartej pozycji na instrumentach finansowych. Są to, w szczególności: limit maksymalnej otwartej pozycji na danym instrumencie finansowym, limity ekspozycji walutowych, limit wartości pojedynczego zlecenia.  
+Dział Tradingu na bieżąco monitoruje otwarte pozycje ograniczone limitami i w przypadku ich przekroczeń zawiera odpowiednie transakcje zabezpieczające. Dział Kontroli Ryzyka regularnie sprawdza wykorzystanie limitów oraz zasadność wykonania ewentualnych transakcji zabezpieczających.  
+50  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **33.2.1. Ryzyko walutowe**
+Grupa zawiera transakcje głównie na instrumentach obarczonych ryzykiem walutowym. Oprócz transakcji, których instrumentem bazowym jest kurs walutowy, Grupa oferuje również instrumenty, których cena wyrażona jest w walucie obcej. Dodatkowo, Grupa posiada aktywa utrzymywane w walutach obcych, tzw. pozycje walutowe. Na pozycje walutowe składają się środki własne domu maklerskiego nominowane w walutach obcych w celu rozliczenia transakcji na rynkach zagranicznych oraz związane z prowadzeniem oddziałów zagranicznych.  
+Wartość bilansowa aktywów oraz zobowiązań Grupy w walutach obcych na dzień bilansowy została przedstawiona poniżej. Wartości przedstawione dla poszczególnych walut bazowych są wyrażone w tysiącach złotych:  
+51  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.

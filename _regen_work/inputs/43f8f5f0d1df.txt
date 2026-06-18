@@ -1,0 +1,99 @@
+DOKUMENT SEKCJA: **Kursy walutowe zastosowane do przeliczenia** | **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW** | **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH** | **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ**
+
+## **Kursy walutowe zastosowane do przeliczenia**
+| **WYSZCZEGÓLNIENIE** | **2025** | **2024** |
+| --- | --- | --- |
+| Kurs EUR/PLN dla danych bilansowych | 4,2692 | 4,2791 |
+| Kurs EUR/PLN dla całkowitych dochodów i przepływów pieniężnych _Za okres 9 miesięcy zakończonych w dniu 30.09_ | 4,2365 | 4,3022 |
+4  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW**
+| **ŚRÓDROCZNE SKRÓCONE** **SPRAWOZDANIE** **Z CAŁKOWITYCH DOCHODÓW** | **Nota** | **01.01.2025** | **30.09.2025** | **01.01.2024** | **30.09.2024** |
+| --- | --- | --- | --- | --- | --- |
+| **Przychody ze sprzedaży** |  | **95 070** | **22 961** |  |  |
+| Przychody ze sprzedaży produktów | 9 | 84 608 | 15 497 |  |  |
+| Przychodyz tytułu dotacji |  | 10 462 | 7 464 |  |  |
+| **Koszty działalności operacyjnej** |  | **99 809** | **40 147** |  |  |
+| Amortyzacja |  | 10 596 | 5 976 |  |  |
+| Zużycie materiałów i energii |  | 6 742 | 6 182 |  |  |
+| Usługi obce |  | 50 397 | 6 515 |  |  |
+| Podatki i opłaty |  | 493 | 320 |  |  |
+| Wynagrodzenia i ubezpieczenia społeczne oraz inne świadczenia |  | 31 400 | 21 562 |  |  |
+| Pozostałe koszty |  | 748 | 568 |  |  |
+| Zmiana stanuproduktów |  | -567 | -975 |  |  |
+| **Pozostałe przychody operacyjne** |  | **1** | **96** |  |  |
+| **Pozostałe koszty operacyjne** |  | **7** | **71** |  |  |
+| **Zysk (strata) z działalności** **operacyjnej** |  | **-4 745** | **-17 160** |  |  |
+| Przychody finansowe |  | 2 115 | 2 652 |  |  |
+| Kosztyfinansowe |  | 1 127 | 2 826 |  |  |
+| **Zysk (strata) przed** **opodatkowaniem** |  | **-3 757** | **-17 335** |  |  |
+| Podatek dochodowy |  | -714 | -2 786 |  |  |
+| **Zysk (strata) netto z działalności** **kontynuowanej** |  | **-3 043** | **-14 549** |  |  |
+| **Zysk (strata) netto z działalności** **zaniechanej** |  | **-** | **-** |  |  |
+| **Zysk(strata) netto za okres** |  | **-3 043** | **-14 549** |  |  |
+| **Inne całkowite dochody** **Składniki podlegające** |  | **-** | **-** |  |  |
+| **przeklasyfikowaniu do wyniku w** **późniejszych okresach** **Składniki niepodlegające** |  | **-** | **-** |  |  |
+| **przeklasyfikowaniu do wyniku w** **późniejszych okresach** |  | **-** | **-** |  |  |
+| **Inne całkowite dochody, przed** **opodatkowaniem** |  | **-** | **-** |  |  |
+| Podatek dochodowy dotyczący innych całkowitych dochodów |  | - | - |  |  |
+| **Inne całkowite dochody ogółem** **netto** |  | **-** | **-** |  |  |
+| **Suma całkowitych dochodów** **netto** |  | **-3 043** | **-14 549** |  |  |
+5  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+| **Zysk(strata) najedna akcję** Podstawowy zysk (podstawowa strata) przypadający na jedną akcję z działalności kontynuowanej | -1,13 | - 6,11 |
+| --- | --- | --- |
+| Podstawowy zysk (podstawowa strata) przypadający na jedną akcję z działalności zaniechanej | - | - |
+| **Zysk(strata) najedną akcję** | **-1,13** | **- 6,11** |
+| Rozwodniony zysk (rozwodniona strata) przypadający na jedną akcję z działalności kontynuowanej | -1,13 | - 6,11 |
+| Rozwodniony zysk (rozwodniona strata) przypadający na jedną akcję z działalności zaniechanej | - | - |
+| **Rozwodniony zysk (strata) na jedną** **akcję** | **-1,13** | **- 6,11** |
+6  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ**
+| **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE** **Z SYTUACJI FINANSOWEJ** **AKTYWA** | **Nota** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- | --- |
+| **AKTYWA TRWAŁE** |  | **120 210** | **107 521** |
+| Rzeczowe aktywa trwałe |  | 37 873 | 33 487 |
+| Wartości niematerialne |  | 56 063 | 49 593 |
+| Inwestycje w udziały i akcje |  | 260 | 10 |
+| Aktywa z tytułu podatku odroczonego |  | 10 273 | 9 559 |
+| Należności z tytułu dostaw i usług oraz pozostałe należności |  | 15 742 | 14 872 |
+| **AKTYWA OBROTOWE** |  | **196 754** | **54 807** |
+| Zapasy |  | 18 635 | 8 913 |
+| Należności z tytułu dostaw i usług oraz pozostałe należności |  | 21 059 | 11 952 |
+| Należności z tytułu podatku dochodowego |  | - | - |
+| Aktywa z tytułu umów |  | 49 001 | 1 545 |
+| Środkipieniężne i ich ekwiwalenty |  | 108 059 | 32 397 |
+| **AKTYWA RAZEM** **PASYWA** |  | **316 964** | **162 328** |
+| **KAPITAŁ WŁASNY** |  | **140 719** | **70 954** |
+| Kapitał podstawowy |  | 285 | 238 |
+| Kapitał z emisji akcji powyżej ich wartości nominalnej |  | 144 311 | 92 006 |
+| Pozostałe kapitały |  | 185 | 185 |
+| Zyski zatrzymane |  | -4 062 | -21 475 |
+| **ZOBOWIĄZANIA DŁUGOTERMINOWE** |  | **55 819** | **61 738** |
+| Zobowiązania z tytułu podatku odroczonego |  | - | - |
+| Rezerwy długoterminowe |  | 4 062 | 4 062 |
+| Zobowiązania z tytułu leasingu |  | 19 056 | 20 149 |
+| Kredyty, pożyczki i inne zobowiązania finansowe |  | - | - |
+| Dotacje rozliczane w czasie |  | 32 701 | 37 526 |
+| **ZOBOWIĄZANIA KRÓKOTERMINOWE** |  | **120 426** | **29 637** |
+| Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania |  | 93 979 | 22 056 |
+| Zobowiązania z tytułu umów z klientami |  | 8 346 | 2 821 |
+| Zobowiązania z tytułu leasingu |  | 2 399 | 2 373 |
+| Kredyty, pożyczki i inne zobowiązania finansowe |  | 1 | - |
+| Rezerwy krótkoterminowe |  | 11 571 | 763 |
+| Zobowiązania z tytułu podatku dochodowego |  | - | - |
+| Dotacje rozliczane w czasie |  | 4 131 | 1 624 |
+| **PASYWA RAZEM** |  | **316 964** | **162 328** |
+7  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **ŚRÓDROCZNE SKRÓCONE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH**
+9  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+Pozycja _Środki pieniężne o ograniczonej możliwości dysponowania_ obejmuje środki pieniężne na rachunkach VAT.  
+Pozycja _Środki pieniężne i ekwiwalenty środków pieniężnych na koniec okresu_ obejmuje środki na lokatach bankowych na kwotę 80,8 mln PLN na 30 września 2025 roku i środki na lokatach bankowych na kwotę 25,8 mln PLN na 30 września 2024 roku.  
+10  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)

@@ -1,0 +1,88 @@
+DOKUMENT SEKCJA: _Analiza wrażliwości – horyzont czasowy_ | _Analiza wrażliwości – weryfikacja prognozy_ | _Zakładany szacunkowy harmonogram wpływów z pakietów wierzytelności (wartość niezdyskontowana)_
+
+## _Zakładany szacunkowy harmonogram wpływów z pakietów wierzytelności (wartość niezdyskontowana)_
+| _w tysiącach złotych_ **Okres** | **30.06.2025** | **niebadane** | **31.12.2024** | **30.06.2024** | **niebadane** |
+| --- | --- | --- | --- | --- | --- |
+| Do 12 miesięcy | 3 416 079 | 3 304 652 | 2 854 272 |  |  |
+| Od 1 do 2 lat | 3 150 741 | 3 091 801 | 2 635 067 |  |  |
+| Od 2 do 3 lat | 2 713 627 | 2 656 653 | 2 344 949 |  |  |
+| Od 3 do 4 lat | 2 272 434 | 2 219 286 | 2 010 298 |  |  |
+| Od 4 do 5 lat | 1 928 574 | 1 922 602 | 1 668 704 |  |  |
+| Od 5 do 6 lat | 1 613 197 | 1 578 099 | 1 366 959 |  |  |
+| Od 6 do 7 lat | 1 373 561 | 1 334 620 | 1 140 212 |  |  |
+| Od 7 do 8 lat | 1 183 083 | 1 125 478 | 976 256 |  |  |
+| Od 8 do 9 lat | 1 048 026 | 986 737 | 841 175 |  |  |
+| Od 9 do 10 lat | 932 778 | 868 682 | 738 971 |  |  |
+| Od 10 do 11 lat | 827 640 | 770 451 | 652 946 |  |  |
+| Od 11 do 12 lat | 720 002 | 677 458 | 574 150 |  |  |
+| Od 12 do 13 lat | 616 991 | 585 348 | 477 202 |  |  |
+| Od 13 do 14 lat | 534 258 | 500 717 | 397 493 |  |  |
+| Od 14 do 15 lat | 454 107 | 432 864 | 310 428 |  |  |
+| Powyżej15 lat | 1 107 559 | 1 091 785 | 842 527 |  |  |
+| 23 892 657 | 23 147 233 | 19 831 609 |  |  |  |
+Zaprezentowany powyżej prognozowany harmonogram wpływów z pakietów wierzytelności w poszczególnych przedziałach stóp dyskontowych zmienia się w okresach porównawczych w wyniku:  
+- nabywania nowych portfeli wierzytelności,  
+- realizacji wpływów pieniężnych z posiadanych portfeli wierzytelności,  
+- weryfikacji prognozy zakładanych przyszłych wpływów pieniężnych.  
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+Zmiany wartości księgowej netto inwestycji w pakiety wierzytelności kształtowały się następująco:  
+| _w tysiącach złotych_ | **Portfele** **niezabezpieczone** **Portfele** **zabezpieczone** **Razem** |  |  |
+| --- | --- | --- | --- |
+| **Wartość inwestycji w pakiety wierzytelności na 1 stycznia 2025 r.** | **9 674 563** | **825 715** | **10 500 278** |
+| Zakup pakietów*** | 806 894 | (1 440) | 805 454 |
+| Wpłaty od osób zadłużonych oraz z tytułu sprzedaży pakietów | (1 777 874) | (132 431) | (1 910 305) |
+| Wzrost/(spadek) zobowiązań wobec osób zadłużonych z tytułu nadpłat* | 2 863 | - | 2 863 |
+| Wycena programu lojalnościowego* | 1 311 | - | 1 311 |
+| Przychody z windykacji pakietów nabytych | 1 355 227 | 90 456 | 1 445 683 |
+| Wartość przejętych nieruchomości | - | (1 833) | (1 833) |
+| Różnice kursowe zprzeliczenia wartościpakietów wierzytelności** | (44 322) | (1 799) | (46 121) |
+| **Wartość inwestycji wpakiety wierzytelności na 30 czerwca 2025 r.** | **10 018 662** | **778 668** | **10 797 330** |
+| _w tysiącach złotych_ | **Portfele** **niezabezpieczone** **Portfele** **zabezpieczone** **Razem** |  |  |
+| **Wartość inwestycji w pakiety wierzytelności na 1 stycznia 2024 r.** | **7 822 296** | **851 469** | **8 673 765** |
+| Zakup pakietów*** | 2 718 827 | 109 069 | 2 827 896 |
+| Wpłaty od osób zadłużonych oraz z tytułu sprzedaży pakietów | (3 221 036) | (315 275) | (3 536 311) |
+| Wzrost/(spadek) zobowiązań wobec osób zadłużonych z tytułu nadpłat* | 4 294 | - | 4 294 |
+| Wycena programu lojalnościowego* | (1 380) | - | (1 380) |
+| Wpłaty od pierwotnego wierzyciela | (1 949) | - | (1 949) |
+| Przychody z windykacji pakietów nabytych | 2 449 656 | 187 942 | 2 637 598 |
+| Wartość przejętych nieruchomości | - | (3 606) | (3 606) |
+| Różnice kursowe zprzeliczenia wartościpakietów wierzytelności** | (96 145) | (3 884) | (100 029) |
+| **Wartość inwestycji w pakiety wierzytelności na 31 grudnia 2024 r.** | **9 674 563** | **825 715** | **10 500 278** |
+| _w tysiącach złotych_ | **Portfele** **niezabezpieczone** **Portfele** **zabezpieczone** **Razem** |  |  |
+| **Wartość inwestycji w pakiety wierzytelności na 1 stycznia 2024 r.** | **7 822 296** | **851 469** | **8 673 765** |
+| Zakup pakietów*** | 889 969 | 9 760 | 899 729 |
+| Wpłaty od osób zadłużonych oraz z tytułu sprzedaży pakietów | (1 570 724) | (166 823) | (1 737 547) |
+| Wzrost/(spadek) zobowiązań wobec osób zadłużonych z tytułu nadpłat* | 1 861 | - | 1 861 |
+| Wycena programu lojalnościowego* | 3 641 | - | 3 641 |
+| Wpłaty od pierwotnego wierzyciela | (1 949) | - | (1 949) |
+| Przychody z windykacji pakietów nabytych | 1 261 215 | 87 661 | 1 348 876 |
+| Wartość przejętych nieruchomości | - | (940) | (940) |
+| Różnice zprzeliczenia wartościpakietów wierzytelności** | (42 715) | (1 716) | (44 431) |
+| **Wartość inwestycji w pakiety wierzytelności na 30 czerwca 2024 r.** | **8 363 594** | **779 411** | **9 143 005** |
+_* Wartość inwestycji w pakiety wierzytelności jest skorygowana o wycenę programu lojalnościowego oraz o zmianę zobowiązań z tytułu nadpłat w związku z ujmowaniem kosztów związanych z programem bonusowym i rezerwą na zwroty nadpłat w pozycji Inne przychody/koszty z nabytych portfeli wierzytelności. Z końcem sierpnia 2024 Grupa KRUK zakończyła realizację programu lojalnościowego Marzenia do spełnienia, w rezultacie dokonano rozwiązania rezerwy na punkty w kwocie 8 952 tys. zł._  
+_** Dotyczy nabytych portfeli wierzytelności w walucie innej niż PLN. Pozycja wynika ze zmiany kursów walut w poszczególnych okresach, głównie wahań kursu EUR/PLN._  
+_*** W pozycji ujmowana jest korekta ceny nabycia z tytułu dyskonta dot. wadliwych spraw_  
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+Główną działalnością Jednostki Dominującej oraz większości jego jednostek zależnych są inwestycje w nabywane portfele wierzytelności. Z uwagi na MSR 7.15 Grupa uznaje ww. inwestycje w portfele wierzytelności jako podstawową działalność operacyjną i prezentuje wydatki na ich pozyskanie w działalności operacyjnej jako _Zmiana stanu inwestycji w pakiety wierzytelności_ w sprawozdaniu z przepływów pieniężnych.  
+W ramach prowadzonego operacyjnie procesu odzyskiwania nabytych wierzytelności Grupa dokonuje okazjonalnego zbycia pojedynczych spraw z portfeli celem zwiększenia uzyskiwanych przychodów z podstawowej działalności operacyjnej. W bieżącym okresie, Grupa KRUK dokonała sprzedaży portfeli wierzytelności na rynku czeskim i słowackim w ramach procesu ograniczania działalności na wyżej wymienionych rynkach. Z uwagi na powyższe oraz MSR 7.14 Grupa prezentuje wpływy ze sprzedaży wierzytelności w ramach działalności operacyjnej jako _Zmiana stanu inwestycji w pakiety wierzytelności_ w sprawozdaniu z przepływów pieniężnych.  
+W okresie objętym sprawozdaniem Grupa poniosła wydatki na zakup pakietów wierzytelności w wysokości 805 454 tys. zł (w I półroczu 2024 r.: 899 729 tys. zł, w roku 2024: 2 827 896 tys. zł), natomiast wartość wpłat uzyskanych od dłużników wyniosła 1 910 305 tys. zł (w I półroczu 2024 r.: 1 737 547 tys. zł, w roku 2024: 3 536 311 tys. zł).  
+Zmiany wartości oczekiwanych strat kredytowych od nabytych pakietów wierzytelności kształtowały się następująco:  
+Zmiany wartości oczekiwanych strat kredytowych mają odzwierciedlenie w wartości portfela wierzytelności.  
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## _Analiza wrażliwości – weryfikacja prognozy_
+Wzrost wszystkich prognozowanych odzysków o 1% wpłynie na podniesienie wartości pakietów i tym samym na wynik netto bieżącego okresu o 96 998 tys. zł, natomiast spadek wszystkich prognozowanych odzysków o 1% wpłynie na obniżenie wartości pakietów i tym samym obniżenie wyniku netto o 96 998 tys. zł dla danych na dzień 30 czerwca 2025 r. (dla danych na dzień 31 grudnia 2024 r. odpowiednio wzrost/spadek o 94 860 tys. zł).  
+| _w tysiącach złotych_ | **Zysk lub strata bieżącego okresu** | **Zysk lub strata bieżącego okresu** |
+| --- | --- | --- |
+| **wzrost odzysków** | **spadek odzysków** |  |
+| Inwestycje w pakiety wierzytelności **31 grudnia 2024 r.** | 96 998 | (96 998) |
+| Inwestycje w pakiety wierzytelności | 94 860 | (94 860) |
+
+## _Analiza wrażliwości – horyzont czasowy_
+Analiza wrażliwości zakłada wydłużenie bądź skrócenie prognozy przy jednoczesnym zwiększeniu bądź zmniejszeniu prognozy wpłat (dla wydłużenia o rok nastąpiło zwiększenie prognozy wpłat o 19 891 tys. zł, dla skrócenia o rok nastąpiło zmniejszenie prognozy wpłat o 56 365 tys. zł; dla roku 2024 odpowiednio 34 763 tys. zł i 78 162 tys. zł).  
+| _w tysiącach złotych_ | **Zysk lub strata bieżącego okresu** | **Zysk lub strata bieżącego okresu** |
+| --- | --- | --- |
+| **wydłużenie o rok** **30 czerwca 2025 r.** | **skrócenie o rok** |  |
+| Inwestycje w pakiety wierzytelności **31 grudnia 2024 r.** | 282 | (980) |
+| Inwestycje w pakiety wierzytelności | 507 | (1 393) |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_

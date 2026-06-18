@@ -1,0 +1,64 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **Ujęcie wg segmentów operacyjnych** | **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **Wskaźniki płynności** | **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **Wskaźniki zadłużenia**
+
+# **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco**
+## **Wskaźniki płynności**
+Do analizy płynności Grupa Asseco wykorzystuje przede wszystkim pojęcie kapitału obrotowego, definiowanego jako różnicę pomiędzy aktywami obrotowymi a zobowiązaniami krótkoterminowymi. Kapitał obrotowy przedstawia skalę finansowania majątku obrotowego krótkoterminowymi kapitałami Grupy. Poziom kapitału obrotowego na koniec marca 2025 roku wyniósł 2 364,7 mln PLN wobec 2 457,9 mln PLN na koniec 2024 roku i 2 509,1 mln PLN na koniec marca ubiegłego roku.  
+Na koniec marca bieżącego roku wskaźniki płynności bieżącej, szybkiej i natychmiastowej utrzymały się na zbliżonych poziomach do tych zanotowanych na koniec ubiegłego roku, jak i na koniec marca 2024 roku.  
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 70  
+Wskaźnik bieżącej płynności utrzymuje się na stabilnym poziomie i kształtuje się w przedziale 1,2-2,0 powszechnie uznawanym za bezpieczny. Podobnie wskaźnik płynności szybkiej, który przekracza poziom 1,0 uznawany za godny zaufania.  
+Wskaźnik konwersji gotówki, mierzący pokrycie EBIT non-IFRS wolnymi przepływami gotówkowymi, na koniec I kwartału 2025 roku wyniósł 66%. Na poziom wskaźnika wpływ miały harmonogramy płatności istotnych projektów.  
+Należy odnotować, że wskaźnik konwersji gotówki za ostatnie 12 miesięcy kształtował się na bezpiecznym poziomie wynoszącym 102%.  
+Poniższa tabela prezentuje podstawowe wskaźniki płynności Grupy na dzień 31 marca 2025 roku oraz w okresach porównywalnych:  
+| **Płynność** | **31 marca 2025** | **31 grudnia 2024** **_(przekształcone)_** | **31 marca 2024** |
+| --- | --- | --- | --- |
+| Kapitał obrotowy (mln PLN) | 2 364,7 | 2 457,9 | 2 509,1 |
+| Wskaźnik płynności bieżącej | 1,3 | 1,4 | 1,4 |
+| Wskaźnik płynności szybkiej | 1,2 | 1,2 | 1,3 |
+| Wskaźnik natychmiastowej płynności | 0,5 | 0,5 | 0,5 |
+| Wskaźnik konwersji gotówki | 66% | 102% | 63% |
+_Kapitał obrotowy = aktywa obrotowe (krótkoterminowe) - zobowiązania krótkoterminowe. Wskaźnik płynności bieżącej = aktywa obrotowe (krótkoterminowe) / zobowiązania krótkoterminowe. Wskaźnik płynności szybkiej = (aktywa obrotowe – zapasy - rozliczenia międzyokresowe) / zobowiązania krótkoterminowe. Wskaźnik natychmiastowej płynności = środki pieniężne i depozyty krótkoterminowe / zobowiązania krótkoterminowe. Wskaźnik konwersji gotówki = FCF / (EBIT non-IFRS - wpływy ze sprzedaży nieruchomości)._
+
+# **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco**
+## **Wskaźniki zadłużenia**
+Poniższa tabela prezentuje podstawowe wskaźniki zadłużenia Grupy na dzień 31 marca 2025 roku oraz w okresach porównywalnych:  
+| **Zadłużenie** | **31 marca 2025** | **31 grudnia 2024** | **31 marca 2024** |
+| --- | --- | --- | --- |
+| Wskaźnik zadłużenia ogólnego | 52,4% | 52,5% | 50,9% |
+| Dług / kapitał własny | 39,2% | 40,6% | 42,4% |
+| Dług / (dług + kapitał własny) | 28,2% | 28,9% | 29,8% |
+_Wskaźnik zadłużenia ogólnego = (zobowiązania długoterminowe + zobowiązania krótkoterminowe) / aktywa. Dług / kapitał własny = (oprocentowane kredyty bankowe + dłużne papiery wartościowe + zobowiązania z tytułu leasingu) / kapitał własny. Dług / (dług + kapitał własny) = (oprocentowane kredyty bankowe + dłużne papiery wartościowe + zobowiązania z tytułu leasingu) / (oprocentowane kredyty bankowe + dłużne papiery wartościowe + zobowiązania z tytułu leasingu + kapitał własny)._  
+Na dzień 31 marca 2025 roku wskaźniki zadłużenia pozostał na zbliżonym poziomie w porównaniu do wartości odnotowanej na koniec 2024 roku oraz nieznacznie większym względem wartości na koniec marca 2024 roku. Zarówno poziom zadłużenia ogólnego, jak i poziom relacji długu do kapitałów własnych należy uznać za bezpieczne.  
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 71  
+Skonsolidowany portfel zamówień na 2025 rok  
+_Dane w mln PLN._  
+_Wartość portfela zamówień na 2025 rok na dzień 20 maja 2025 roku; wartość portfela zamówień na 2024 rok na dzień 21 maja 2024 roku. * Przeliczając backlog 2025 według kursów jakimi został przeliczony backlog 2024. ** Przeliczając backlog 2025 według kursów z dnia 20 maja 2025 roku._  
+2. Podsumowanie wyników Grupy Kapitałowej Asseco za okres 3 miesięcy zakończony dnia 31 marca 2025 roku – ujęcie proporcjonalne  
+Dla oceny sytuacji finansowej i rozwoju działalności biznesowej Grupy Asseco ważną informację stanowią podstawowe dane publikowane w ujęciu non-IFRS (EBIT, EBITDA, zysk netto) oraz dane dodatkowo przekształcone i przedstawione w ujęciu proporcjonalnym.  Są one uzupełnieniem dla danych raportowanych zgodnie z IFRS.  
+Ujęcie non-IFRS obejmuje korekty o koszt amortyzacji wartości niematerialnych rozpoznanych w ramach rozliczenia połączenia (PPA), koszty transakcji z pracownikami rozliczane w formie instrumentów kapitałowych (SBP) oraz o przychody i koszty związane z transakcjami nabycia / sprzedaży spółek i wpływ hiperinflacji (ASEE) oraz związane z nimi efekty podatkowe.  
+Proporcjonalne dane są rezultatem przeliczenia danych spółek należących do Grupy Asseco procentem odzwierciedlającym efektywne udziały posiadane przez Asseco Poland w tych spółkach.  
+Przedstawione poniżej dane proporcjonalne nie podlegały badaniu ani przeglądowi przez niezależnego biegłego rewidenta. Dane proporcjonalne nie są danymi finansowymi sporządzonymi zgodnie z MSSF. Ponadto, nie istnieje jednolita definicja ani metoda obliczania danych proporcjonalnych przez różne podmioty, co może skutkować ich ograniczoną porównywalnością z informacjami prezentowanymi przez inne firmy, w tym te działające w tej samej branży co Grupa Asseco. Informacje te należy traktować jako uzupełnienie, a nie substytut danych finansowych sporządzanych zgodnie z MSSF. Danym proporcjonalnym nie należy przypisywać wyższego poziomu istotności niż pomiarom bezpośrednio wynikającym ze skonsolidowanego sprawozdania finansowego.  
+Poniższa tabela prezentuje wybrane dane finansowe w ujęciu proporcjonalnym za okres 3 miesięcy zakończony 31 marca 2025 roku oraz okresie porównywalnym.  
+| **DANE W UJĘCIU PROPORCJONALNYM** | **DANE W UJĘCIU PROPORCJONALNYM** |  |  |
+| --- | --- | --- | --- |
+| **mln PLN** | **Q1 2025** | **Q1 2024** **_(przekształcone)_** | **Zmiana** **Q1'25 / Q1'24** |
+| **Przychody ze sprzedaży** | **1 614,7** | **1 487,1** | **8,6%** |
+| Oprogramowanie i usługi własne | 1 258,2 | 1 161,9 | 8,3% |
+| **EBIT** | **187,4** | **165,8** | **13,0%** |
+| PPA & SBP M&A | 24,1 | 17,9 | 34,7% |
+| **EBIT non-IFRS** | **211,4** | **183,7** | **15,1%** |
+| **Zysk netto przypadający akcjonariuszom jednostki dominującej** | **136,2** | **125,1** | **8,9%** |
+| PPA & SBP & M&A & hiperinflacja | 19,6 | 11,4 | 72,1% |
+| **Zysk netto non-IFRS dla akcjonariuszy jednostki dominującej** | **155,9** | **136,5** | **14,2%** |
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 72  
+| **EBITDA** | **261,8** | **237,7** | **10,2%** |
+| --- | --- | --- | --- |
+| **EBITDA non-IFRS** | **270,4** | **240,8** | **12,3%** |
+_Ujęcie proporcjonalne zawiera przeliczenie danych spółek należących do Grupy Asseco procentem odzwierciedlającym efektywne udziały posiadane przez Asseco Poland w tych spółkach._  
+_EBIT = zysk z działalności operacyjnej._  
+_EBIT non-IFRS = EBIT skorygowany o koszt amortyzacji wartości niematerialnych rozpoznanych w ramach rozliczenia połączenia (PPA), o koszty transakcji z pracownikami rozliczane w formie instrumentów kapitałowych (SBP) oraz o przychody i koszty związane z transakcjami nabycia / sprzedaży spółek. EBITDA = EBIT + amortyzacja._  
+_EBITDA non-IFRS = EBITDA + SBP + M&A._
+
+# **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco**
+## **Ujęcie wg segmentów operacyjnych**
+Poniższa tabela prezentuje wybrane dane finansowe w ujęciu proporcjonalnym dla segmentów operacyjnych za okres 3 miesięcy zakończony 31 marca 2025 roku.

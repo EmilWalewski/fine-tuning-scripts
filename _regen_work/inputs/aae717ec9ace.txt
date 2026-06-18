@@ -1,0 +1,71 @@
+DOKUMENT SEKCJA: **16. Rezerwy i rozliczenia bierne** | **17. Kredyty bankowe** | **18. Zobowiązania z tytułu praw do korzystania z aktywów**
+
+## **16. Rezerwy i rozliczenia bierne**
+Poniższe tabele przedstawiają zmiany rezerw oraz rozliczeń międzyokresowych biernych:  
+| **31.12.2024** | **Zwiększenia** | **Wykorzystanie** | **30.09.2025** |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **Rezerwy długoterminowe** | **16** | **0** | **0** | **16** |  |
+| z tytułu świadczeńpracowniczych | 16 | 0 | 0 | 16 |  |
+| **Rezerwy krótkoterminowe** | **10** | **0** | **0** | **10** |  |
+| z tytułu świadczeń pracowniczych | 1 | 0 | 0 | 1 |  |
+| Opłaty celne | 6 | 0 | 0 | 6 |  |
+| naprawy gwarancyjne **Bierne rozliczenia** | 3 | 0 | 0 | 3 |  |
+| **międzyokresowe kosztów** **krótkoterminowe:** | **48** | **53** | **(44)** | **57** |  |
+| na niewykorzystane urlopy | 13 | 16 | (13) | 16 |  |
+| premie roczne | 20 | 25 | (20) | 25 |  |
+| odszkodowania | 1 | 0 | 0 | 1 |  |
+| pozostałe | 14 | 12 | (11) | 15 |  |
+| **31.12.2023** | **Przejęcie** **spółki** | **Zwiększenia** | **Wykorzystanie** | **30.09.2024** |  |
+| **Rezerwy długoterminowe** | **15** | **0** | **1** | **0** | **16** |
+| z tytułu świadczeńpracowniczych | 15 | 0 | 1 | 0 | 16 |
+| naprawy gwarancyjne | 0 | 0 | 0 | 0 | 0 |
+| **Rezerwy krótkoterminowe** | **32** | **0** | **3** | **(31)** | **4** |
+| z tytułu świadczeń pracowniczych | 1 | 0 | 0 | 0 | 1 |
+| Opłaty celne | 28 | 0 | 3 | (31) | 0 |
+| naprawy gwarancyjne **Bierne rozliczenia** | 3 | 0 | 0 | 0 | 3 |
+| **międzyokresowe kosztów** **krótkoterminowe:** | **48** | **1** | **58** | **(48)** | **59** |
+| na niewykorzystane urlopy | 12 | 1 | 14 | (12) | 15 |
+| premie roczne | 21 | 0 | 32 | (22) | 31 |
+| odszkodowania | 1 | 0 | 0 | 0 | 1 |
+| pozostałe | 14 | 0 | 12 | (14) | 12 |
+Założenia oraz szacunki w zakresie ujmowania i wyceny rezerw oraz rozliczeń międzyokresowych kosztów nie uległy zmianie od dnia 31 grudnia 2024 roku i pozostają zgodne z podejściem przedstawionym w odpowiednich notach (10.20 i 10.22) skonsolidowanego sprawozdania finansowego za rok zakończony 31 grudnia 2024 roku.  
+_(w milionach PLN)_  
+23  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_
+
+## **17. Kredyty bankowe**
+**Długoterminowe:**  
+| **Kredytodawca** | **Waluta kredytu** | **31.12.2024** |  | **Zwiększenia/** **(zmniejszenia)** | **30.09.2025** |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| BNP PARIBAS S.A. | PLN/EUR/USD |  | 339 | (73) |  | 266 |
+| PKO BP S.A. | PLN/EUR/USD |  | 168 | (87) |  | 81 |
+| PKO BP S.A. | PLN |  | 286 | (37) |  | 249 |
+| PEKAO S.A. | PLN |  | 100 | (13) |  | 87 |
+| Unicredit Słowenia | EUR |  | 15 | (3) |  | 12 |
+| ING Bank Śląski S.A. | PLN/EUR |  | 151 | (14) |  | 137 |
+| **Razem** |  | **1** | **059** | **(227)** |  | **832** |
+**Krótkoterminowe:**  
+| **Kredytodawca** | **Waluta kredytu** | **31.12.2024** | **Zwiększenia /** **(zmniejszenia)** | **30.09.2025** |
+| --- | --- | --- | --- | --- |
+| PKO BP S.A. | PLN | 51 | 0 | 51 |
+| ING Bank Śląski S.A. | PLN/EUR | 29 | 2 | 31 |
+| ING Bank Śląski S.A. | PLN/ EUR/USD | 32 | (32) | 0 |
+| PEKAO S.A. | PLN/EUR/ USD/GBP | 308 | (75) | 233 |
+| PEKAO S.A. | PLN | 25 | 1 | 26 |
+| Unicredit Słowenia | EUR | 4 | 0 | 4 |
+| **Razem** |  | **449** | **(104)** | **345** |
+W okresie 9 miesięcy 2025 roku oraz na dzień 31.12.2024 roku Grupa spełniała wszystkie warunki (kowenanty) kredytowe.  
+Kredyty oprocentowane są wg zmiennych stóp procentowych ustalanych na warunkach rynkowych na bazie WIBOR/EURIBOR/SOFR/SONIA z uwzględnieniem marży banku lub stałej stopy procentowej.  
+Zawarte w większości umów kredytowych kowenanty zakładają, że wskaźnik dźwigni finansowej (Dług Netto/EBITDA) nie może być wyższy niż 3,5 – w przeciwnym razie następuje przypadek naruszenia umowy. W przypadku banku PKO BP po przekroczeniu poziomu 3,5 (ale nie więcej niż 4,5) bank ma prawo do podwyższenia marży oraz zażądania ustanowienia dodatkowego zabezpieczenia. Bank Pekao S.A. w kredycie krótkoterminowym nie przewiduje kowenantów finansowych.  
+Szczegóły dotyczące zabezpieczeń kredytów zostały przedstawione w rocznym skonsolidowanym sprawozdaniu finansowym za 2024 rok w nocie 26 i w okresie sprawozdawczym nie uległy zmianie.
+
+## **18. Zobowiązania z tytułu praw do korzystania z aktywów**
+| Wartość przyszłych opłat z tytułu leasingu | 160 | 168 |
+| --- | --- | --- |
+| Dyskonto | (90) | (92) |
+| **Wartość bieżąca zobowiązań z tytułu leasingu** | **70** | **76** |
+| w tym leasingkrótkoterminowy | 10 | 10 |
+Osądy w zakresie klasyfikacji umów leasingowych nie uległy zmianie w stosunku do stanu na 31 grudnia 2024 roku. Ujawnienie w tym zakresie zostało przedstawione w nocie 10.5 skonsolidowanego sprawozdania finansowego za rok 2024.  
+_(w milionach PLN)_  
+24  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_

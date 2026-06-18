@@ -1,0 +1,14 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > 3.1 Segment Asseco Poland
+
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 78
+W I kwartale 2025 roku w obszarze **administracji publicznej** kontynuowana była współpraca z ważnymi instytucjami sektora publicznego, takimi jak Zakład Ubezpieczeń Społecznych (ZUS), Narodowy Fundusz Zdrowia (NFZ), Ministerstwo Finansów, Ministerstwo Sprawiedliwości, Agencja Restrukturyzacji i Modernizacji Rolnictwa (ARiMR), Kasa Rolniczego Ubezpieczenia Społecznego (KRUS) czy Główny Inspektorat Transportu Drogowego (GITD).
+
+Asseco Poland realizowało działania w ramach umowy z ARiMR z kwietnia 2024 roku dotyczącej rozwoju i utrzymania Systemów Informatycznych Agencji (SIA).
+
+Systemy Informatyczne Agencji stanowią jedną z największych w Polsce komputerowych baz danych udostępnianych na potrzeby podmiotów i instytucji zewnętrznych oraz wykorzystywanych do obsługi mechanizmów pomocowych.
+
+Ponadto w analizowanym okresie Asseco realizowało projekt rozbudowy Centralnego Systemu Obsługi Beneficjenta (CSOB) wraz z usługami utrzymania.
+
+Wdrożenie i rozwój CSOB jest kluczowym etapem procesu cyfryzacji Agencji – dzięki integracji z rozwijaną internetową Platformą Usług Elektronicznych (PUE), dedykowaną do elektronicznej komunikacji z beneficjentami, proces obsługi wniosków pomocowych jest realizowany drogą elektroniczną.
+
+W okresie sprawozdawczym Asseco Poland kontynuowało współpracę z ZUS, realizując następujące umowy:

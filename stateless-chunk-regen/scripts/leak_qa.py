@@ -25,6 +25,8 @@ Zero leaks across the corpus is the success condition for a regeneration pass.
 import argparse, json, os, re
 from collections import defaultdict
 
+from path_profiles import add_path_profile_arg, mapped_entry
+
 MIN_DIGITS = 6
 
 MONTHS = ("January|February|March|April|May|June|July|August|September|"
@@ -58,6 +60,7 @@ def main():
     ap.add_argument("--manifest", required=True)
     ap.add_argument("--verbose", action="store_true", help="List each leaked number and where it actually belongs")
     ap.add_argument("--min-digits", type=int, default=MIN_DIGITS)
+    add_path_profile_arg(ap)
     args = ap.parse_args()
     md = args.min_digits
 
@@ -65,6 +68,7 @@ def main():
 
     in_nums, out_nums = {}, {}
     for m in manifest:
+        m = mapped_entry(m, args.path_profile)
         k = m["key"]
         in_nums[k] = numbers(open(m["input_path"], encoding="utf-8").read(), md) if os.path.exists(m["input_path"]) else set()
         op = m["output_path"]
@@ -77,8 +81,9 @@ def main():
             num_to_inputs[n].add(k)
 
     flagged, total_leaks = [], 0
-    by_key = {m["key"]: m for m in manifest}
+    by_key = {m["key"]: mapped_entry(m, args.path_profile) for m in manifest}
     for m in manifest:
+        m = mapped_entry(m, args.path_profile)
         k = m["key"]
         leaks = []
         for n in out_nums[k]:

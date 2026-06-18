@@ -1,0 +1,85 @@
+DOKUMENT SEKCJA: **10.2. Usługi obce** | **Inne przychody/koszty z nabytych portfeli wierzytelności** | **Pozostałe przychody operacyjne** | _Analiza wrażliwości – horyzont czasowy_ | _Analiza wrażliwości – stopa procentowa_ | _Przychody z tytułu udzielonych pożyczek wycenianych według wartości godziwej_ | _Przychody z tytułu udzielonych pożyczek wycenianych według zamortyzowanego kosztu_
+
+## _Analiza wrażliwości – horyzont czasowy_
+W nocie zaprezentowano wpływ wydłużenia lub skrócenia prognozy spłat o jeden miesiąc na wartość bilansową udzielonych pożyczek wycenianych według wartości godziwej jako wpływ tej zmiany na wynik netto.  
+| _w tysiącach złotych_ **Zysk lub strata bieżącego okresu** **Zysk lub strata bieżącego okresu** |
+| **wydłużenie o miesiąc** **skrócenie o miesiąc** |
+| **30 czerwca 2025 r.** |
+| Udzielone pożyczki wyceniane według wartości godziwej (77) 76 |
+| **31 grudnia 2024 r.** |
+| Udzielone pożyczki wyceniane według wartości godziwej (94) 92 |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## _Analiza wrażliwości – stopa procentowa_
+Wartość stopy procentowej dla pożyczek wycenianych według wartości godziwej wynosi 30,3% (na dzień 31.12.2024: 31%). Poniżej przedstawiono analizę wrażliwości dla stopy procentowej wykorzystanej do wyceny udzielonych pożyczek wycenianych według wartości godziwej:  
+| _w tysiącach złotych_ | **Zysk lub strata bieżącego okresu** | **Zysk lub strata bieżącego okresu** |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **wzrost stopy procentowej** | **spadek stopy procentowej** |  |  |  |  |  |  |  |  |
+| Udzielone pożyczki wyceniane według wartości godziwej **31 grudnia 2024 r.** | (22) | 22 |  |  |  |  |  |  |  |
+| Udzielone pożyczki wyceniane według wartości godziwej | 27 | (27) |  |  |  |  |  |  |  |
+| **Razem** | **501 342** | **522** | **4 274** | **(3 460)** | **14 066** | **3 982** | **(159)** | **211 865** | **732 432** |
+| **Pozostałe** **przychody** **operacyjne** | - - - - - 3 982 - - | 3 982 |  |  |  |  |  |  |  |
+| **Przychody z** **pozostałych** **usług** | 54 631 | 522 | - | - | 52 | - | (159) | (4 833) | 50 213 |
+| **Przychody z** **usług** **windykacyjnych** | - - - - 14 014 - - - | 14 014 |  |  |  |  |  |  |  |
+| **Nabyte** **pakiety** **wierzytelności** | 446 711 | - | 4 274 | (3 460) | - | - | - | 216 698 | 664 223 |
+| **Pozostałe** **przychody** **operacyjne** | - - - - - 2 278 - - | 2 278 |  |  |  |  |  |  |  |
+| **Przychody z** **pozostałych** **usług** | 60 231 | 361 | - | - | 38 | - | (253) | (11 493) | 48 884 |
+| **Przychody z** **usług** **windykacyjnych** | - - - - 15 640 - - - | 15 640 |  |  |  |  |  |  |  |
+| **Nabyte** **pakiety** **wierzytelności** | 538 264 | - | 13 310 | (35 595) | - | - | - | 214 716 | 730 695 |
+| _w tysiącach złotych_ |  | **Przychody odsetkowe z** **pakietów** **wierzytelności i** **udzielonych pożyczek** **wycenianych według** **zamortyzowanego** **kosztu** **Przychody odsetkowe z** **udzielonych pożyczek** **wycenianych według** **wartości godziwej** **Przychody ze sprzedaży** **wierzytelności i** **pożyczek** **Inne przychody/koszty z** **nabytych portfeli** **wierzytelności** **Przychody ze** **świadczenia innych** **usług** **Pozostałe przychody** **operacyjne** **Zmiana wartości** **inwestycji wycenianych** **według wartości** **godziwej** **Wynik na oczekiwanych** **stratach kredytowych** |  |  |  |  |  |  |  |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **Inne przychody/koszty z nabytych portfeli wierzytelności**
+| _w tysiącach złotych_ Zyski/(straty) z różnic kursowych Koszty wyceny programu lojalnościowego Koszty rezerwy na nadpłaty | **01.01.2025-** **30.06.2025** **niebadane** **01.04.2025-** **30.06.2025** **niebadane** **01.01.2024-** **30.06.2024** **niebadane** **01.04.2024-** **30.06.2024** **niebadane** |  |  |
+| --- | --- | --- | --- |
+| (34 679) | (33 016) | (280) | (1 486) |
+| (1 311) | (586) | (3 641) | (1 292) |
+| (2 863) | (1 993) | (1 861) | (682) |
+| (38 853) | (35 595) | (5 782) | (3 460) |
+Odnotowane w I półroczu 2025 roku straty z różnic kursowych związane są głównie z wahaniami kursów EUR vs. RON.  
+**Wynik na oczekiwanych stratach kredytowych od nabytych portfeli wierzytelności**  
+| _w tysiącach złotych_ Aktualizacja prognozy wpływów Odchylenia wpłat rzeczywistych, zmniejszenia z tytułu wcześniejszej realizacji wpłat na sprawach zabezpieczonych, wpłaty od pierwotnego wierzyciela | **01.01.2025-** **30.06.2025** **niebadane** **01.04.2025-** **30.06.2025** **niebadane** **01.01.2024-** **30.06.2024** **niebadane** **01.04.2024-** **30.06.2024** **niebadane** |  |  |
+| --- | --- | --- | --- |
+| 271 421 | 138 893 | 258 074 | 114 098 |
+| 127 231 | 75 823 | 207 443 | 102 600 |
+| 398 652 | 214 716 | 465 517 | 216 698 |
+
+## _Przychody z tytułu udzielonych pożyczek wycenianych według zamortyzowanego kosztu_
+| _w tysiącach złotych_ | **01.01.2025-** **30.06.2025** **niebadane** **01.04.2025-** **30.06.2025** **niebadane** **01.01.2024-** **30.06.2024** **niebadane** **01.04.2024-** **30.06.2024** **niebadane** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Przychody odsetkowe | 121 210 | 60 231 | 108 782 | 54 631 |
+| Odpis na oczekiwane stratykredytowe | (922) | (11 493) | (12 780) | (4 833) |
+| 120 288 | 48 738 | 96 002 | 49 798 |  |
+
+## _Przychody z tytułu udzielonych pożyczek wycenianych według wartości godziwej_
+| _w tysiącach złotych_ | **01.01.2025-** **30.06.2025** **niebadane** **01.04.2025-** **30.06.2025** **niebadane** **01.01.2024-** **30.06.2024** **niebadane** **01.04.2024-** **30.06.2024** **niebadane** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Przychody odsetkowe | 705 | 361 | 1 191 | 522 |
+| Aktualizacja wyceny | (615) | (253) | (363) | (159) |
+| 90 | 108 | 828 | 363 |  |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+41<br>01.01.2024- 01.04.2024-<br>## **Przychody ze świadczenia innych usług**  
+| _w tysiącach złotych_ | **01.01.2025-** **30.06.2025** **niebadane** **01.04.2025-** **30.06.2025** **niebadane** **01.01.2024-** **30.06.2024** **niebadane** **01.04.2024-** **30.06.2024** **niebadane** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Przychody z usług windykacyjnych | 29 302 | 15 640 | 28 946 | 14 014 |
+| Przychody z tytułu odsprzedaży materiałów, pośrednictwa i świadczeniapozostałych usług | 133 | 38 | 412 | 52 |
+| 29 435 | 15 678 | 29 358 | 14 066 |  |
+
+## **Pozostałe przychody operacyjne**
+| _w tysiącach złotych_ | **01.01.2025-** **30.06.2025** **niebadane** **01.04.2025-** **30.06.2025** **niebadane** **01.01.2024-** **30.06.2024** **niebadane** **01.04.2024-** **30.06.2024** **niebadane** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Wynik na sprzedaży nieruchomości | 1 618 | 980 | 4 813 | 4 009 |
+| Refakturowane koszty usług i opłat sądowych | 1 142 | 432 | 117 | (376) |
+| Zysk ze zbycia rzeczowych aktywów trwałych | 620 | 512 | 305 | 294 |
+| Pozostała współpraca | 267 | 219 | - | - |
+| Zwrot odszkodowań z tytułu szkód komunikacyjnych | 80 | 41 | - | - |
+| Najem | 64 | 17 | 36 | 16 |
+| Pozostałe | 409 | 77 | 234 | 39 |
+| 4 200 | 2 278 | 5 505 | 3 982 |  |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **10.2. Usługi obce**
+_1 koszty usług obsługi wierzytelności świadczonych przez serwiserów zewnętrznych_  
+_2 usługi wsparcia prawnego dotyczą głównie obsługi portfeli wierzytelności_  
+Zauważalny w I półroczu 2025 roku wzrost kosztów usług informatycznych podyktowany był wydatkami na zestaw usług związanych z transformacją cyfrową Grupy.  
+Wzrost kosztów usług windykacyjnych i bankowych w stosunku do okresu porównawczego związany jest z ogólnym wzrostem inwestycji w pakiety wierzytelności.

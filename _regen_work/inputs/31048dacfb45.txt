@@ -1,0 +1,91 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 2.10. Przekształcenie danych porównywalnych | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 2.11. Wpływ statusu Turcji jako gospodarki hiperinflacyjnej
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 2.10. Przekształcenie danych porównywalnych
+W okresie 3 miesięcy 2025 roku Grupa przekształciła dane porównywalne za okres 3 miesięcy zakończony dnia 31 marca 2024 roku oraz dane bilansowe na dzień 31 marca 2024 roku w związku ze zmianami wartości nabywanych aktywów rozpoznanych w ramach procesu alokacji ceny nabycia spółki z segmentu Asseco International. Dodatkowo, przekształcenia danych porównywalnych z tytułu rozliczenia nabycia dokonała również jedna ze spółek z segmentu Formula Systems. Z tego tytułu zmianie uległy dane bilansowe za rok sprawozdawczy zakończony dnia 31 grudnia 2024 roku.  
+W poniższych tabelach zaprezentowano wpływ powyższych zmian na dane porównywalne rachunku zysków i strat oraz bilansu.  
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 19  
+| **Przekształcenie rachunku zysków i strat** | **3 miesiące do** **31 marca 2024** **mln PLN** | **Zmiana rozliczenia** **nabycia** **mln PLN** **3 miesiące do** **31 marca 2024** **_(przekształcone)_** **mln PLN** |
+| --- | --- | --- |
+| Przychody operacyjne | 4 249,6 | - 4 249,6 |
+| Koszt własny sprzedaży | (3 338,7) | (0,1) (3 338,8) |
+| **Zysk brutto ze sprzedaży** | **910,9** | **(0,1)** **910,8** |
+| Koszty sprzedaży | (225,3) | - (225,3) |
+| Koszty ogólnego zarządu | (274,1) | - (274,1) |
+| **Zysk netto ze sprzedaży** | **411,5** | **(0,1)** **411,4** |
+| Pozostałe przychody operacyjne | 28,0 | - 28,0 |
+| Pozostałe koszty operacyjne | (19,2) | - (19,2) |
+| **Zysk z działalności operacyjnej** | **420,3** | **(0,1)** **420,2** |
+| Przychody finansowe | 49,0 | - 49,0 |
+| Koszty finansowe | (73,8) | - (73,8) |
+| **Zysk przed opodatkowaniem i udziałem w wynikach jednostek** **stowarzyszonych i wspólnychprzedsięwzięć ** | **395,5** | **(0,1)** **395,4** |
+| Podatek dochodowy (bieżące i odroczone obciążenie podatkowe) | (85,4) | - (85,4) |
+| Udział w wynikach jednostek stowarzyszonych i wspólnych przedsięwzięć(po uwzględnieniupodatku) | 2,5 | - 2,5 |
+| **Zysk za okres sprawozdawczy** _Przypadający:_ | **312,6** | **(0,1)** **312,5** |
+| **Akcjonariuszom Jednostki Dominującej** | **125,2** | **(0,1)** **125,1** |
+| Udziałowcom niekontrolującym | 187,4 | - 187,4 |
+| **Przekształcenie bilansu** | **31 grudnia 20** | **24** **Zmiana rozliczenia** **nabycia** **31 grudnia 2024** **_(przekształcone)_** |
+| **mln P** | **LN** **mln PLN** **mln PLN** |  |
+| **Aktywa trwałe** w tym: | **10 859,7** | **1,5** **10 861,2** |
+| Wartość firmy | 6 223,4 | 1,5 6 224,9 |
+| **Suma aktywów obrotowych i aktywów trwałych przeznaczonych** **do sprzedaży** | **9 465,3** | **-** **9 465,3** |
+| **SUMA AKTYWÓW** | **20 325,0** | **1,5** **20 326,5** |
+| **Kapitał własny ogółem** | **9 649,0** | **-** **9 649,0** |
+| **Zobowiązania długoterminowe** | **3 704,0** | **-** **3 704,0** |
+| **Zobowiązania krótkoterminowe** w tym: | **6 972,0** | **1,5** **6 973,5** |
+| Pozostałe zobowiązania finansowe | 387,7 | 1,5 389,2 |
+| **SUMA ZOBOWIĄZAŃ** | **10 676,0** | **1,5** **10 677,5** |
+| **SUMA PASYWÓW** | **20 325,0** | **1,5** **20 326,5** |
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 2.11. Wpływ statusu Turcji jako gospodarki hiperinflacyjnej
+Grupa posiada spółki zależne działające w gospodarce hiperinflacyjnej, w odniesieniu do których stosuje MSR 29 Sprawozdawczość finansowa w warunkach hiperinflacji. Grupa zidentyfikowała hiperinflację w Turcji na podstawie występujących w tym kraju czynników jakościowych i ilościowych, przede wszystkim w związku z tym, że wskaźniki inflacji w skali trzech lat w ujęciu skumulowanym przekraczają 100%.  
+Założenia dotyczące metody i czasu przekształcenia związanego z hiperinflacją nie uległy zmianie w stosunku do założeń, które w szczegółach zostały opisane w punkcie 2.11 w skonsolidowanym sprawozdaniu finansowym za rok zakończony dnia 31 grudnia 2024 roku podanym do publicznej wiadomości w dniu 27 marca 2025 roku.  
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 20  
+Hiperinflacyjne przekształcenia danych finansowych jednostek zależnych działających w Turcji opierają się na oficjalnie dostępnych danych dotyczących zmian wskaźnika cen konsumpcyjnych (CPI) publikowanych przez Turecki Instytut Statystyczny. Na podstawie tego indeksu inflacja za okres 12 miesięcy zakończony 31 marca 2025 roku wynosiła 38%.  
+Poszczególne wskaźniki inflacji przestawiono w poniższej tabeli:  
+| **Wskaźnik inflacji za poszczególne okresy** |
+| **Wskaźnik inflacji w skali 3 lat w ujęciu skumulowanym** |
+Wpływ zastosowania MSR 29 na niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe za okres 3 miesięcy 2025 roku został podsumowany poniżej:  
+| **bez wpływu MSR 29** **zgodnie z MSR 29** **mln PLN** **mln PLN** **mln PLN** Przychody operacyjne | 4 577,0 | (0,1) | 4 576,9 |
+| --- | --- | --- | --- |
+| Koszt własny sprzedaży | (3 532,9) | (0,8) | (3 533,7) |
+| **Zysk brutto ze sprzedaży** | **1 044,1** | **(0,9)** | **1 043,2** |
+| Koszty sprzedaży | (254,0) | 0,1 | (253,9) |
+| Koszty ogólnego zarządu | (302,7) | - | (302,7) |
+| **Zysk netto ze sprzedaży** | **487,4** | **(0,8)** | **486,6** |
+| Pozostałe przychody i koszty operacyjne | (16,5) | - | (16,5) |
+| **Zysk z działalności operacyjnej** | **470,9** | **(0,8)** | **470,1** |
+| Przychody finansowe | 60,3 | 6,8 | 67,1 |
+| Koszty finansowe | (88,9) | (5,8) | (94,7) |
+| **Zysk przed opodatkowaniem i udziałem w wynikach jednostek** **stowarzyszonych i wspólnychprzedsięwzięć ** | **442,3** | **0,2** | **442,5** |
+| Podatek dochodowy (bieżące i odroczone obciążenie podatkowe) | (96,7) | (0,1) | (96,8) |
+| Udział w wynikach jednostek stowarzyszonych i wspólnych przedsięwzięć(po uwzględnieniupodatku) | 4,4 | - | 4,4 |
+| **Zysk za okres sprawozdawczy** _Przypadający:_ | **350,0** | **0,1** | **350,1** |
+| **Akcjonariuszom Jednostki Dominującej** | **136,1** | **0,1** | **136,2** |
+| Udziałowcom niekontrolującym **POZOSTAŁE DOCHODY CAŁKOWITE** | 213,9 | - | 213,9 |
+| **Zysk za okres sprawozdawczy** | **350,0** | **0,1** | **350,1** |
+| **_Elementy, które mogą podlegać przeklasyfikowaniu do rachunku_** **_zysków i strat_** | **_(323,9)_** | **_(4,8)_** | **_(328,7)_** |
+| **_Elementy, które nie podlegają przeklasyfikowaniu do rachunku_** **_zysków i strat_** | **_(3,8)_** | **_-_** | **_(3,8)_** |
+| **Razem pozostałe dochody całkowite:** | **(327,7)** | **(4,8)** | **(332,5)** |
+| **SUMA DOCHODÓW CAŁKOWITYCH przypadająca:** | **22,3** | **(4,7)** | **17,6** |
+| **Akcjonariuszom Jednostki Dominującej** | **36,9** | **(2,3)** | **34,6** |
+| Udziałowcom niekontrolującym | (14,6) | (2,4) | (17,0) |
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 21  
+| **bez wpływu MSR 29** **zgodnie z MSR 29** |  |  |  |
+| --- | --- | --- | --- |
+| **mln PLN** **mln PLN** **mln PLN** |  |  |  |
+| Aktywa trwałe 10 624,1 67,7 10 691,8 |  |  |  |
+| Suma aktywów obrotowych i aktywów trwałych przeznaczonych do sprzedaży 9 158,5                                     2,1                             9 160,6 |  |  |  |
+| **SUMA AKTYWÓW** **19 782,6** **69,8** **19 852,4** |  |  |  |
+| **PASYWA** **bez wpływu MSR 29** **zgodnie z MSR 29** **mln PLN** **mln PLN** **mln PLN** | **31 marca 2025 roku** **Wpływ hiperinflacji** **31 marca 2025 roku** |  |  |
+| Kapitał własny _(przypisany akcjonariuszom Jednostki Dominującej)_ | 5 497,7 | 32,6 | 5 530,3 |
+| Udziały niekontrolujące | 3 895,5 | 31,4 | 3 926,9 |
+| **Kapitał własny ogółem** | **9 393,2** | **64,0** | **9 457,2** |
+| Zobowiązania długoterminowe | 3 614,9 | 2,5 | 3 617,4 |
+| Zobowiązania krótkoterminowe | 6 774,5 | 3,3 | 6 777,8 |
+| **SUMA ZOBOWIĄZAŃ** | **10 389,4** | **5,8** | **10 395,2** |
+| **SUMA PASYWÓW** | **19 782,6** | **69,8** | **19 852,4** |
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 22

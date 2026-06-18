@@ -1,0 +1,105 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **28.2.2. Ujęte aktywa z tytułu odroczonego podatku dochodowego dotyczące strat podatkowych** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **28.2.3. Aktywa z tytułu odroczonego podatku dochodowego oraz rezerwa z tytułu odroczonego** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **29.1. Podmiot dominujący** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Zmiana stanu podatku odroczonego za okres od 1 stycznia do 31 grudnia 2024 roku** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Zmiana stanu podatku odroczonego za okres od 1 stycznia do 31 grudnia 2025 roku**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **28.2.2. Ujęte aktywa z tytułu odroczonego podatku dochodowego dotyczące strat podatkowych**
+Stan aktywów z tytułu odroczonego podatku dochodowego dotyczących strat podatkowych  
+| **UJĘTE STRATY PODATKOWE MOŻLIWE DO WYKORZYSTANIA** **(w tys. PLN)** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Podatek odroczony od strat podatkowych | 4 137 | 6 181 |
+Na dzień 31 grudnia 2025 roku Grupa utworzyła aktywa z tytułu odroczonego podatku dochodowego w odniesieniu do strat podatkowych do rozliczenia w przyszłych okresach w łącznej wysokości 4 137 tys. PLN, na dzień 31 grudnia 2024 roku w kwocie 6 181 tys. PLN. Zdaniem kierownictwa w związku z dynamicznym rozwojem działalności oraz wzrostem sprzedaży na rynkach zagranicznych prawdopodobne jest osiągnięcie dochodu do opodatkowania w przyszłych okresach, od którego można będzie odpisać straty podatkowe.  
+42  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Aktywowane straty podatkowe posiadają bezterminowy okres wykorzystania w Niemczech, Francji oraz Wielkiej Brytanii.  
+Prognozowane wyniki tych oddziałów oraz spółki zależnej, ich marże oraz plany rozwoju zakładają skuteczne rozliczenie strat w przyszłości.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **28.2.3. Aktywa z tytułu odroczonego podatku dochodowego oraz rezerwa z tytułu odroczonego**
+podatku dochodowego
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Zmiana stanu podatku odroczonego za okres od 1 stycznia do 31 grudnia 2025 roku**
+| **(w tys. PLN)** **Aktywa z tytułu podatku odroczonego:** | **STAN NA** **01.01.2025** | **ZYSK LUB** **(STRATA)** | **STAN NA** **31.12.2025** |
+| --- | --- | --- | --- |
+| Środki pieniężne i ich ekwiwalenty | (13) | 37 | 24 |
+| Rzeczowe aktywa trwałe | 115 | 67 | 182 |
+| Zobowiązania z tytułu leasingu | 2 386 | (1 112) | 1 274 |
+| Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy | 32 769 | 12 256 | 45 025 |
+| Rezerwy na zobowiązania | 4 557 | 1 215 | 5 772 |
+| Rozliczenia międzyokresowe bierne | 5 554 | 1 697 | 7 251 |
+| Pozostałe zobowiązania | 15 | 4 | 19 |
+| Straty podatkowe do rozliczenia w przyszłych okresach powstałe wpoprzednich okresach | 6 181 | (2 044) | 4 137 |
+| **Razem aktywa z tytułu podatku odroczonego** | **51 564** | **12 120** | **63 684** |
+| **(w tys. PLN)** **Aktywa z tytułu podatku odroczonego ujęte w innych** **całkowitych dochodach:** | **STAN NA** **01.01.2025** | **UJĘTE W** **KAPITALE** | **STAN NA** **31.12.2025** |
+| Kapitaływydzielone oddziałów | - | 2 | 2 |
+| **Razem aktywa z tytułu podatku odroczonego ujęte** **w innych całkowitych dochodach** | **-** | **2** | **2** |
+| **(w tys. PLN)** **Rezerwa z tytułu podatku odroczonego:** | **STAN NA** **01.01.2025** | **ZYSK LUB** **(STRATA)** | **STAN NA** **31.12.2025** |
+| Środkipieniężne i ich ekwiwalenty | 67 | 45 | 112 |
+| Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy | 98 958 | 32 565 | 131 523 |
+| Pozostałe zobowiązania | 1 004 | (46) | 958 |
+| Aktywa finansowe wyceniane w zamortyzowanym koszcie | 1 451 | 1 391 | 2 842 |
+| Rzeczowe aktywa trwałe | 2 513 | (1 319) | 1 194 |
+| **Razem rezerwa z tytułu podatku odroczonego** | **103 993** | **32 636** | **136 629** |
+| **Podatek odroczony ujęty w zysku lub stracie** |  | **(20 516)** |  |
+| **(w tys. PLN)** **Rezerwa z tytułu podatku odroczonego ujęta w innych** **całkowitych dochodach:** | **STAN NA** **01.01.2025** | **UJĘTE W** **KAPITALE** | **STAN NA** **31.12.2025** |
+| Kapitaływydzielone oddziałów | 101 | (101) | - |
+| **Razem rezerwa z tytułu podatku odroczonego ujęta** **w innych całkowitych dochodach** | **101** | **(101)** | **-** |
+43  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Zmiana stanu podatku odroczonego za okres od 1 stycznia do 31 grudnia 2024 roku**
+| **(w tys. PLN)** **Aktywa z tytułupodatku odroczonego:** | **STAN NA** **01.01.2024** | **ZYSK LUB** **(STRATA)** | **STAN NA** **31.12.2024** |
+| --- | --- | --- | --- |
+| Środkipieniężne i ich ekwiwalenty | - | (13) | (13) |
+| Rzeczowe aktywa trwałe | 63 | 52 | 115 |
+| Zobowiązania z tytułu leasingu | 2 885 | (499) | 2 386 |
+| Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy | 13 347 | 19 422 | 32 769 |
+| Rezerwyna zobowiązania | 979 | 3 578 | 4 557 |
+| Rozliczenia międzyokresowe bierne | 6 096 | (542) | 5 554 |
+| Pozostałe zobowiązania | 5 067 | (5 052) | 15 |
+| Straty podatkowe do rozliczenia w przyszłych okresach powstałe wpoprzednich okresach | 7 109 | (928) | 6 181 |
+| **Razem aktywa z tytułupodatku odroczonego** | **35 546** | **16 018** | **51 564** |
+| **(w tys. PLN)** **Rezerwa z tytułupodatku odroczonego:** | **STAN NA** **01.01.2024** | **ZYSK LUB** **(STRATA)** | **STAN NA** **31.12.2024** |
+| Środkipieniężne i ich ekwiwalenty | 101 | (34) | 67 |
+| Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy | 83 568 | 15 390 | 98 958 |
+| Pozostałe zobowiązania | 1 141 | (137) | 1 004 |
+| Aktywa finansowe wyceniane w zamortyzowanym koszcie | 593 | 858 | 1 451 |
+| Rzeczowe aktywa trwałe | 2 788 | (275) | 2 513 |
+| **Razem rezerwa z tytułupodatku odroczonego** | **88 191** | **15 802** | **103 993** |
+| **Podatek odroczony ujęty w zysku(stracie)** |  | **(216)** |  |
+| **(w tys. PLN)** **Rezerwa z tytułu podatku odroczonego ujęta w innych** **całkowitych dochodach:** | **STAN NA** **01.01.2024** | **UJĘTE W** **KAPITALE** | **STAN NA** **31.12.2024** |
+| Kapitaływydzielone oddziałów | 232 | (131) | 101 |
+| **Razem rezerwa z tytułu podatku odroczonego ujęta** **w innych całkowitych dochodach** | **232** | **(131)** | **101** |
+**Dane dotyczące prezentacji podatku odroczonego wg kraju utworzenia oraz uzgodnienie prezentacji w sprawozdaniu z sytuacji finansowej na dzień 31 grudnia 2025 roku:**  
+| **(w tys. PLN)** **AKTYWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** **REZERWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** **AKTYWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** **REZERWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** | **DANE WG CHARAKTERU** **UTWORZENIA** **DANE UJĘTE W SPRAWOZDANIU Z SYTUACJI** **FINANSOWEJ** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Polska | 58 935 | 134 572 | 985 | 76 622 |
+| Czechy | 58 | 112 | - | 54 |
+| Słowacja | 148 | - | 148 | - |
+| Niemcy | 1 002 | 326 | 1 002 | 326 |
+| Francja | 2 191 | - | 2 191 | - |
+| Wielka Brytania | 1 233 | - | 1 233 | - |
+| Chile | 119 | 289 | - | 170 |
+| Belize | - | 1 330 | - | 1 330 |
+| **Razem** | **63 686** | **136 629** | **5 559** | **78 502** |
+44  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+**Dane dotyczące prezentacji podatku odroczonego wg kraju utworzenia oraz uzgodnienie prezentacji w sprawozdaniu z sytuacji finansowej na dzień 31 grudnia 2024 roku:**  
+| **(w tys. PLN)** **AKTYWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** **REZERWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** **AKTYWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** **REZERWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** | **DANE WG CHARAKTERU** **UTWORZENIA** **DANE UJĘTE W SPRAWOZDANIU Z SYTUACJI** **FINANSOWEJ** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Polska | 44 654 | 102 082 | 1 942 | 59 370 |
+| Czechy | 105 | 67 | 38 | - |
+| Słowacja | 103 | - | 103 | - |
+| Niemcy | 1 968 | 494 | 1 968 | 494 |
+| Francja | 2 798 | - | 2 798 | - |
+| Wielka Brytania | 1 859 | - | 1 859 | - |
+| Chile | 77 | 299 | - | 222 |
+| Belize | - | 1 152 | - | 1 152 |
+| **Razem** | **51 564** | **104 094** | **8 708** | **61 238** |
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **29.1. Podmiot dominujący**
+Na dzień 31 grudnia 2025 roku głównym akcjonariuszem Jednostki dominującej jest XX ZW Investment Group S.A. z siedzibą w Luksemburgu, który posiada 35,78% akcji i głosów na Walnym Zgromadzeniu, co daje tej spółce kontrolę, mimo udziałów poniżej 50% w ogólnej liczbie akcji i głosów.  
+Podmiotem dominującym najwyższego szczebla w stosunku do Grupy oraz XX ZW Investment Group S.A. jest pan Jakub Zabłocki.

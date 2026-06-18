@@ -1,0 +1,69 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.2. Wartość firmy
+
+| **Nabywany procent kapitału podstawowego** | **100%** | **100%** |
+| --- | --- | --- |
+| **Cena nabycia** | **9,2** | **26,3** |
+| **Wartość firmy na dzień nabycia** | **2,5** | **7,1** |
+
+iv. Nabycie udziałów spółek Gav przez Grupę Matrix IT
+W dniu 4 lutego 2025 roku Matrix Systems Ltd (spółka z Grupy Matrix IT) nabyła po 70% udziałów w spółkach Gav Systems Ltd oraz Gav Expert Ltd z siedzibą w Izraelu. Cena nabycia wyniosła 71,2 mln NIS (81,3 mln PLN), z czego 45,5 mln NIS (52,0 mln PLN) zostało zapłacone gotówką. Całość udziałów niekontrolujących objęta jest opcją put i są one ujmowane przy zastosowaniu metody oczekiwanego nabycia (wartość opcji put w wysokości 25,7 mln NIS, czyli 29,3 mln PLN, jest ujęta w cenie nabycia, a saldo udziałów niekontrolujących wynosi 0). Umowa nabycia zawiera obustronne opcje zakupu i sprzedaży pozostałych udziałów w spółce.
+W ramach rozliczenia nabycia Grupa zaalokowała nadwyżkę ceny zapłaconej nad wartością nabytych aktywów netto w kwocie 21,7 mln NIS (24,8 mln PLN) na wartości niematerialne, a kwota 55,5 mln NIS (63,4 mln PLN) została zaalokowana na wartość firmy.
+Na dzień 31 marca 2025 roku proces alokacji ceny nabycia nie został przez Grupę zakończony.  W związku z tym wartość firmy rozpoznana na nabyciu może ulec zmianie w okresie 12 miesięcy od dnia objęcia kontroli nad spółką. Wartości tymczasowe możliwych do zidentyfikowania aktywów i zobowiązań spółki na dzień nabycia przedstawia się następująco:
+
+| **Wartości tymczasowe** **na dzień nabycia** | **Wartości tymczasowe** **na dzień nabycia** |  |
+| --- | --- | --- |
+| **mln NIS** **Nabywane aktywa** | **mln PLN** |  |
+| Rzeczowe aktywa trwałe | 1,3 | 1,5 |
+| Wartości niematerialne (w tym zidentyfikowane w ramach rozliczenia nabycia(PPA)) | 21,7 | 24,8 |
+| Należności z tytułu dostaw i usług | 82,3 | 94,0 |
+| Środki pieniężne i ich ekwiwalenty | 9,1 | 10,4 |
+| Aktywo z tytułu podatku odroczonego | 3,3 | 3,8 |
+| Pozostałe aktywa | 4,7 | 5,4 |
+| **Razem aktywa** **Nabywane zobowiązania** | **122,4** | **139,9** |
+| Zobowiązania z tytułu dostaw i usług | 37,1 | 42,4 |
+| Zobowiązania z tytułu dywidendy | 29,5 | 33,7 |
+| Pozostałe zobowiązania | 35,1 | 40,2 |
+| Rezerwa z tytułu podatku odroczonego | 5,0 | 5,7 |
+| **Razem zobowiązania** | **106,7** | **122,0** |
+| **Wartość aktywów netto** | **15,7** | **17,9** |
+| **Wartość udziałów niekontrolujących** | **-** | **-** |
+| **Nabywany procent kapitału podstawowego** | **70%** | **70%** |
+| **Cena nabycia** | **71,2** | **81,3** |
+| **Wartość firmy na dzień nabycia** | **55,5** | **63,4** |
+
+_v. Nabycie udziałów spółki Servicios Financieros Experimentales Serfiex, S.A. przez Grupę Sapiens_
+W dniu 20 lutego 2025 roku spółka Sapiens Iberia S.A. (spółka z Grupy Sapiens) nabyła 60% udziałów w spółce Servicios Financieros Experimentales Serfiex, S.A. z siedzibą w Hiszpanii. Cena nabycia wyniosła 10,4 mln EUR (43,4 mln PLN) i w całości została zapłacona gotówką.
+W ramach tymczasowego rozliczenia nabycia Grupa zaalokowała nadwyżkę ceny zapłaconej nad wartością nabytych aktywów netto w kwocie 8,9 mln EUR (37,1 mln PLN) na wartości niematerialne, a pozostała wartość, tj. 10,3 mln EUR (43,0 mln PLN) została zaalokowana na wartość firmy.
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 45
+Na dzień 31 marca 2025 roku proces alokacji ceny nabycia nie został jeszcze przez Grupę zakończony.  W związku z tym wartość firmy rozpoznana na nabyciu może ulec zmianie w okresie 12 miesięcy od dnia objęcia kontroli nad spółką. Wartości tymczasowe możliwych do zidentyfikowania aktywów i zobowiązań spółki na dzień nabycia przedstawia się następująco:
+
+| **Wartości tymczasowe** | **Wartości tymczasowe** |  |
+| --- | --- | --- |
+| **na dzień nabycia** | **na dzień nabycia** |  |
+| **mln EUR** **Nabywane aktywa** | **mln PLN** |  |
+| Rzeczowe aktywa trwałe | 0,1 | 0,4 |
+| Wartości niematerialne (w tym zidentyfikowane w ramach rozliczenia nabycia(PPA)) | 8,9 | 37,1 |
+| Należności z tytułu dostaw i usług | 0,6 | 2,5 |
+| Środki pieniężne i ich ekwiwalenty | 0,6 | 2,5 |
+| Pozostałe aktywa | 0,2 | 0,9 |
+| **Razem aktywa** **Nabywane zobowiązania** | **10,4** | **43,4** |
+| Kredyty i pożyczki | 0,3 | 1,3 |
+| Pozostałe zobowiązania | 0,9 | 3,8 |
+| Rezerwa z tytułu podatku odroczonego | 2,2 | 9,1 |
+| **Razem zobowiązania** | **3,4** | **14,2** |
+| **Wartość aktywów netto** | **7,0** | **29,2** |
+| **Wartość udziałów niekontrolujących** | **6,9** | **28,8** |
+| **Nabywany procent kapitału podstawowego** | **60%** | **60%** |
+| **Cena nabycia** | **10,4** | **43,4** |
+| **Wartość firmy na dzień nabycia** | **10,3** | **43,0** |
+
+vi. Nabycie udziałów spółki Expim Ltd przez Grupę Magic
+W dniu 18 marca 2025 roku K.M.T (M.H.) Technologies Communication Computers Ltd (spółka z Grupy Magic) nabyła 100% udziałów w spółce Expim Ltd z siedzibą w Izraelu. Cena nabycia wyniosła 15,7 mln NIS (16,4 mln PLN), z czego 15,2 mln NIS (15,8 mln PLN) zostało zapłacone gotówką, a pozostałą część stanowi płatność odroczona.
+W ramach rozliczenia nabycia Grupa zaalokowała nadwyżkę ceny zapłaconej nad wartością nabytych aktywów netto w kwocie 9,1 mln NIS (9,5 mln PLN) na wartości niematerialne, a kwota 8,2 mln NIS (8,5 mln PLN) została zaalokowana na wartość firmy.
+Na dzień 31 marca 2025 roku proces alokacji ceny nabycia nie został przez Grupę zakończony.  W związku z tym wartość firmy rozpoznana na nabyciu może ulec zmianie w okresie 12 miesięcy od dnia objęcia kontroli nad spółką.
+_vii. Nabycie udziałów spółki Tax Order Sp. z o.o. przez Asseco Business Solutions S.A._
+W dniu 27 marca 2025 roku spółka Asseco Business Solutions S.A. nabyła 60% udziałów w spółce Tax Order Sp. z o.o. z siedzibą w Polsce. Cena nabycia wyniosła 2,7 mln PLN i została w całości zapłacona gotówką.
+W ramach tymczasowego rozliczenia nabycia Grupa zaalokowała nadwyżkę ceny zapłaconej nad wartością nabytych aktywów netto w kwocie 0,6 mln PLN na wartość firmy.
+Na dzień 31 marca 2025 roku proces alokacji ceny nabycia nie został jeszcze przez Grupę zakończony. W związku z tym wartość firmy rozpoznana na nabyciu może ulec zmianie w okresie 12 miesięcy od dnia objęcia kontroli nad spółką.
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 46

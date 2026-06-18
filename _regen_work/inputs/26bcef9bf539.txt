@@ -1,0 +1,95 @@
+DOKUMENT SEKCJA: **10.1. Inwestycje w jednostki zależne** | **10.2. Utrata wartości rzeczowych aktywów trwałych, wartości niematerialnych i aktywów z tytułu praw do użytkowania** | **10.3. Zmiana stanu odpisów aktualizujących wartość zapasów do wartości netto możliwej do uzyskania** | **10.5. Zmiana stanu odpisów aktualizujących wartość aktywa z tytułu umów do wartości netto możliwej do uzyskania** | **9.2. Przychody ze sprzedaży według segmentów operacyjnych w podziale na asortymenty** | **9.3. Podział geograficzny przychodów ze sprzedaży - zaprezentowany według kraju siedziby zleceniodawcy** | **9.4. Przychody z tytułu umów z klientami według kanałów sprzedaży** | **Podsumowanie wyników analizy utraty wartości**
+
+## **9.2. Przychody ze sprzedaży według segmentów operacyjnych w podziale na asortymenty**
+| **Udział** | **%** |  |  |  |
+| --- | --- | --- | --- | --- |
+| **WYSZCZEGÓLNIENIE** | **01.01.2025** | **01.01.2024** | **01.01.2025** | **01.01.2024** |
+| **30.09.2025** | **30.09.2024** | **30.09.2025** | **30.09.2024** |  |
+| **Segment projektów kosmicznych** | **75 002** | **3 879** | **88,65%** | **25,03%** |
+| Budowa systemów satelitarnych oraz ich podzespołów | 58 551 | 120 | 69,20% | 0,77% |
+| Projektyrealizowane we współpracyi/lub na zlecenie ESA | 16 450 | 3 760 | 19,44% | 24,26% |
+| **Segment danych satelitarnych i technologii UAV** | **527** | **36** | **0,62%** | **0,23%** |
+| Systemyobserwacji Ziemi i technologii UAV | 527 | 36 | 0,62% | 0,23% |
+| **Segment systemów kwantowych** | **7 566** | **7 307** | **8,94%** | **47,15%** |
+| Systemy kwantowe | 6 243 | 5 418 | 7,38% | 34,96% |
+| Systemysynchronizacji czasu | 1 323 | 1 889 | 1,56% | 12,19% |
+| **Segment produkcji elektroniki** | **1 514** | **4 275** | **1,79%** | **27,59%** |
+| Produkcja zaawansowanejelektroniki | 1 514 | 4 275 | 1,79% | 27,59% |
+| **Razem** | **84 608** | **15 497** | **100,00%** | **100,00%** |
+Przychody za okres 9 miesięcy zakończonych 30 września 2025 oraz 30 września 2024 roku z projektów realizowanych we współpracy i/lub na zlecenie ESA w obszarze technologii kwantowych zostały w bieżącym sprawozdaniu przypisane do pozycji Systemy kwantowe w segmencie systemów kwantowych. Poniżej przedstawione są przychody ze sprzedaży według segmentów operacyjnych w podziale na asortymenty prezentowane w sprawozdaniu za okres 9 miesięcy zakończonych 30 września 2024 roku bez zmian opisanych powyżej.  
+19  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+| **Udział %** **WYSZCZEGÓLNIENIE** | **01.01.2024** | **01.01.2024** |
+| --- | --- | --- |
+| **Segment projektów kosmicznych** | **3 907** | **25,21%** |
+| Budowa systemów satelitarnych oraz ich podzespołów | 120 | 0,77% |
+| Projektyrealizowane we współpracyi/lub na zlecenie ESA | 3 787 | 24,44% |
+| **Segment danych satelitarnych i technologii UAV** | **8** | **0,05%** |
+| Systemyobserwacji Ziemi i technologii UAV | 8 | 0,05% |
+| **Segment systemów kwantowych** | **7 307** | **47,15%** |
+| Systemy kwantowe | 5 418 | 34,96% |
+| Systemysynchronizacji czasu | 1 889 | 12,19% |
+| **Segment produkcji elektroniki** | **4 275** | **27,59%** |
+| Produkcja zaawansowanejelektroniki | 4 275 | 27,59% |
+| **Razem** | **15 497** | **100,00%** |
+Poniższa tabela prezentuje kwoty (w tys. PLN) przychodów od zewnętrznych klientów przekraczających 10% przychodów ogółem w poszczególnych latach:  
+| **WYSZCZEGÓLNIENIE** | **01.01.2025** | **30.09.2025** | **01.01.2024** | **30.09.2024** |
+| --- | --- | --- | --- | --- |
+| Przychody od Klienta 1 | 58 551 | - |  |  |
+| Przychody od Klienta 2 | 18 256 | 2 396 |  |  |
+| Przychody od Klienta 3 | 400 | 1 945 |  |  |
+| Pozostali obiorcy | 7 401 | 11 156 |  |  |
+| **Razem** | **84 608** | **15 497** |  |  |
+Przychody od Klientów nr 1 i 2 są wykazane w segmencie projektów kosmicznych, natomiast przychody od Klienta nr 3 są wykazane w segmencie produkcji elektroniki.
+
+## **9.3. Podział geograficzny przychodów ze sprzedaży - zaprezentowany według kraju siedziby zleceniodawcy**
+| **zleceniodawcy** **Udział %** **WYSZCZEGÓLNIENIE** | **01.01.2025** | **01.01.2024** | **01.01.2025** | **01.01.2024** |
+| --- | --- | --- | --- | --- |
+| **30.09.2025** | **30.09.2024** | **30.09.2025** | **30.09.2024** |  |
+| **Sprzedaż krajowa** | **59 974** | **3 738** | **70,88%** | **24,12%** |
+| **Sprzedaż eksportowa** | **24 634** | **11 759** | **29,12%** | **75,88%** |
+| Unia Europejska | 21 440 | 10 042 | 25,35% | 64,80% |
+| Pozostałe kraje | 3 194 | 1 717 | 3,77% | 11,08% |
+| **Razem** | **84 608** | **15 497** | **100,00%** | **100,00%** |
+
+## **9.4. Przychody z tytułu umów z klientami według kanałów sprzedaży**
+Spółka w większości generuje przychody ze sprzedaży bezpośredniej do klientów instytucjonalnych i biznesowych. Sprzedaż ta dokonywana jest bezpośrednio w ramach umów bilateralnych.  
+20  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **10.1. Inwestycje w jednostki zależne**
+W drugim kwartale 2025 roku Spółka stałą się jednostką dominującą dwóch spółek kapitałowych Creotech Quantum S.A. i Creotech Geo P.S.A. tworząc grupę kapitałową. Obie spółki zależne prowadziły działalność operacyjną w niewielkiej skali, co skutkowało brakiem przychodów operacyjnych, niskimi kosztami. Jednostka dominująca uznała je za nieistotne, a w związku z tym na dzień 30.09.2025 roku zdecydowała się przygotować śródroczne jednostkowe sprawozdanie finansowe, a nie sprawozdanie skonsolidowane grupy kapitałowej. Niezbędne użyteczne informacje wymagane przez MSR 34 dotyczące jednostek zależnych przedstawiono poniżej oraz transakcje wzajemne między podmiotami powiązanymi w nocie 12.2 niniejszego sprawozdania jednostkowego.  
+Akt zawiązania i statut spółki Creotech Quantum S.A. sporządzono w dniu 6.05.2025 roku, a spółka ta została wpisana do Rejestru Przedsiębiorców KRS z dniem 12.06.2025 roku. W dniu 19.05.2025 roku Spółka opłaciła kapitał zakładowy w wysokości 150 000,00 zł i objęła 100% udziałów w Creotech Quantum S.A. Spółka ta została założona w celu wydzielenia do niej segmentu systemów kwantowych. Obecnie trwa proces podziału Spółki w trybie art. 529 § 1 pkt 4) KSH i 29.08.2025 roku został opublikowany plan podziału. W skład zarządu Creotech Quantum S.A. wchodzą Pani Anna Kamińska Prezes Zarządu i Pan Paweł Zienkiewicz Wiceprezes Zarządu. Na dzień 30 września 2025 roku suma bilansowa wynosiła 142,7 tys. zł, spółka nie zatrudniała pracowników oraz nie występują przychody ze sprzedaży.  
+Drugą jednostką zależną od Spółki jest spółka Creotech Geo P.S.A. Umowa tej spółki jest z dnia 9.05.2025 roku i została ona wpisana do Rejestru Przedsiębiorców KRS z dniem 13.05.2025 roku. Podstawowa działalność to opracowywanie i sprzedawanie produktów i usług związanych z dronami zarówno na rynek cywilny jak i wojskowy, opracowywanie i sprzedawanie oprogramowania zawiązanego z przetwarzaniem danych pochodzących z systemów dronów jak i innych danych obserwacyjnych, w tym pochodzących z systemów satelitarnych. W dniu 5.06.2025 roku Spółka opłaciła kapitał zakładowy w wysokości 100 000,00 zł i objęła 100% udziałów w Creotech Geo P.S.A.  
+W skład zarządu Creotech Geo P.S.A. wchodzi Pan Jacek Kosiec Prezes Zarządu. Na dzień 30 września 2025 roku suma bilansowa wynosiła 834,8 tys. zł. Z uwagi na początek prowadzonej działalności operacyjnej, spółka nie zatrudniała pracowników oraz nie wystąpiły przychody ze sprzedaży.
+
+## **10.2. Utrata wartości rzeczowych aktywów trwałych, wartości niematerialnych i aktywów z tytułu praw do użytkowania**
+Na dzień 30 września 2025 roku Spółka nie rozpoznała nowych odpisów.
+
+## **Podsumowanie wyników analizy utraty wartości**
+W okresie 9 miesięcy zakończonych 30 września 2025 roku w Spółce nie wystąpiły nowe odpisy.
+
+## **10.3. Zmiana stanu odpisów aktualizujących wartość zapasów do wartości netto możliwej do uzyskania**
+Na dzień 30 września 2025 roku Spółka nie rozpoznała nowych odpisów.  
+21  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+Poniżej zaprezentowano w tabeli odpisy aktualizujące dotyczące wartości zapasów.  
+| **ZMIANA STANU ODPISÓW ZAPASÓW** | **01.01.2025** | **30.09.2025** | **01.01.2024** | **30.06.2024** |
+| --- | --- | --- | --- | --- |
+| **Stan na początek okresu** | **1 655** | **-** |  |  |
+| Zwiększenie | - | 489 |  |  |
+| Zmniejszenie | - | - |  |  |
+| Różnice kursowe | - | - |  |  |
+| **Razem odpisy aktualizujące stan zapasów** | **1 655** | **489** |  |  |
+**10.4. Należności z tytułu dostaw i usług oraz pozostałe należności**  
+| **OCZEKIWANA STRATA KREDYTOWA** | **01.01.2025** | **30.09.2025** | **01.01.2024** | **30.09.2024** |
+| --- | --- | --- | --- | --- |
+| Stan na początek okresu | **50** | **50** |  |  |
+| Utworzenie | - | - |  |  |
+| Odwrócenie | - | - |  |  |
+| Pozostałe | - | - |  |  |
+| **Stan na koniec okresu** | **50** | **50** |  |  |
+Spółka definiuje należności handlowe objęte uproszczonym modelem oczekiwanych strat kredytowych jako dostawy i usługi z tytułu umów z klientami.
+
+## **10.5. Zmiana stanu odpisów aktualizujących wartość aktywa z tytułu umów do wartości netto możliwej do uzyskania**
+W okresie 9 miesięcy zakończonych 30 września 2025 roku oraz 30 września 2024 roku Zarząd Spółki nie zidentyfikował przesłanek do utworzenia odpisów aktualizujących wartość aktywa z tytułu umów do wartości netto możliwej do uzyskania.

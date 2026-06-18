@@ -1,0 +1,57 @@
+DOKUMENT SEKCJA: **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E1- 3 DZIAŁANIA I ZASOBY W ODNIESIENIU DO POLITYKI KLIMATYCZNEJ** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E1-1 PLAN TRANSFORMACJI NA POTRZEBY ŁAGODZENIA ZMIANY KLIMATU I PRZYSTOSOWANIA SIĘ DO NIEJ** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E1-2 POLITYKI ZWIĄZANE Z ŁAGODZENIEM ZMIANY KLIMATU I PRZYSTOSOWANIEM SIĘ DO NIEJ** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E1-4 CELE ZWIĄZANE Z ŁAGODZENIEM ZMIANY KLIMATU I PRZYSTOSOWANIEM SIĘ DO NIEJ**
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E1-1 PLAN TRANSFORMACJI NA POTRZEBY ŁAGODZENIA ZMIANY KLIMATU I PRZYSTOSOWANIA SIĘ DO NIEJ**
+Grupa nie posiada planu transformacji. Opracowanie planu transformacji zaplanowano nie wcześniej niż na rok 2030.
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E1-2 POLITYKI ZWIĄZANE Z ŁAGODZENIEM ZMIANY KLIMATU I PRZYSTOSOWANIEM SIĘ DO NIEJ**
+Grupa Dom Development nie posiada polityki związanej z efektywnością energetyczną, łagodzeniem zmiany klimatu, czy przystosowaniem się do zmian klimatu. Cele i działania w zakresie  
+zmian klimatu wskazane są w Strategii ESG DOM 2030. Opracowanie odrębnej polityki zaplanowano nie wcześniej niż na rok 2030.
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E1- 3 DZIAŁANIA I ZASOBY W ODNIESIENIU DO POLITYKI KLIMATYCZNEJ**
+W zakresie działań minimalizujących emisyjność działalności, spółki z Grupy w 2025 roku zakupiły 12 385 MWh energii pochodzącej ze źródeł odnawialnych, która została wykorzystana na cele realizacji inwestycji. Zgodnie ze Strategią ESG, co najmniej do 2030 r. spółki z Grupy planują dalsze działania ograniczające emisje gazów cieplarnianych, koncentrując się na kluczowych obszarach wpływających na zmniejszenie emisji gazów cieplarnianych zarówno w procesie budowlanym, jak i w późniejszych etapach cyklu życia budynków (m.in. poprzez zwiększenie zakupu gwarancji pochodzenia energii z OZE, zwiększenie efektywności energetycznej budynków, stopniową zmianę floty samochodowej). Działania te związane będą przede wszystkim z wyższą efektywnością wykorzystania mediów w procesie realizacji inwestycji. Realizowane oraz przyszłe działania mają  
+przyczynić się do realizacji celu redukcji emisji wskazanego w Strategii ESG DOM 2030, jednak ich skala i tempo są obecnie trudne do oszacowania. Grupa nie planuje wdrożenia nowych technologii przyczyniających się do redukcji emisji gazów cieplarnianych.  
+Osiągnięta redukcja emisji gazów cieplarnianych powstała w wyniku opisanych w niniejszym punkcie działań została osiągnięta dzięki zmniejszeniu zużycia energii elektrycznej i cieplnej. Grupa stosuje w operacjach własnych rozwiązania adaptacyjne, które redukują najważniejsze zidentyfikowane fizyczne zagrożenia klimatyczne istotne dla działalności w momencie projektowania i budowy. Rozwiązania te są stosowane zgodnie z obowiązującymi krajowymi przepisami prawa, wytycznymi technicznymi i obowiązującymi normami.  
+| **Zidentyfikowane** **fizyczne** **Działania adaptacyjne** |
+| **zagrożenie klimatyczne** |
+| Powódź powodziowego Sprawdzenie terenu działki i ustalenie zagrożenia powodziowego oraz korzystanie z ocen ryzyka |
+| Zwiększanie powierzchni przepuszczalnych na terenie inwestycji |
+| Rozwiązania, które pozwalają na zatrzymywanie wody w krajobrazie miejskim: Miejskie pasy infiltracyjne i liniowe ogrody deszczowe |
+| Zrównoważone miejskie systemy odwadniające (SUDS) |
+| Weryfikacja możliwości odprowadzania wody po deszczu oraz analiza badań geotechnicznych gruntu |
+| Hydroizolacja fundamentów |
+| Instalacja pomp w piwnicach |
+| Montaż urządzeń przeciwcofkowych |
+| Instalacja kotłów i agregatów chłodniczych na dachu |
+| Wykorzystywanie materiałów odpornych na zalanie |
+| Tworzenie systemów odwadniającywokół budynku |
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+118  
+Sadzenie drzew Podniesienie systemów elektrycznych, mechanicznych i mediów nad ziemię Wodoodporna izolacja (EPS, XPS) Odpowiednie ubezpieczenie inwestycji(klasycznapowódź)
+Burze i deszcze nawalne Wzmocnienie konstrukcji dachów Najniższa kondygnacja mieszkalna wyniesiona ponad poziom gruntu Projektowanie w oparciu o wydajność wiatrową Skuteczny system odwadniania dachu Piorunochrony Preferowanie żywopłotów i krzewów w bezpośredniej bliskości budynku Gęsta roślinność w rzędach Systemy okładzin przeciwdeszczowych (płyty warstwowe ścienne, płyty profilowane, płyty włókno- cement) Silne połączenia między zewnętrznymi elementami budynku (dach-ściany, ściany-fundamenty, fundamenty-grunt) Instalacja zapasowych generatorów - stosowane wyłącznie na potrzeby systemów ochrony p. poż. Urządzenie zabezpieczające przed przepięciami Mocowanie mebli zewnętrznych i płyt do podłoża Materiały hydrofobowe Rowy infiltracyjne Pasywne środki kontroli osuwisk (mury oporowe, gabiony, geowłóknina, darniowanie, modyfikacja geometrii nachylenia stoków) Odwrócony dach Zielony dach ekstensywny Gleby przepuszczalne lub półprzepuszczalne Ogrody deszczowe i kanały ściekowe Przygotowanie podłoża Odłączenie wód powierzchniowych od kanalizacji Zbiorniki na wodędeszczową
+Stres wodny i susze Budowanie w odległości co najmniej 500m od obszarów leśnych Zbieranie wody deszczowej Zwiększenie wykorzystania materiałów ognioodpornych Wyznaczanie obszarów narażonych na niedobór wody
+Stres cieplny Masa termiczna i materiały zmiennofazowe Jasne i odbijające światło materiały Ocieplenie ścian zewnętrznych, okien i dachów Strefy temperaturowe (zapobiegające przepływowi ogrzanego powietrza) Instalacje fotowoltaiczne (PV) na dachu Zielone dachy Połączenia ruchome Geotermia ipompyciepła - realizowane w inwestycjach na terenie Warszawyi Trójmiasta
+Podwójne fasady - realizowane jedynie na terenie Trójmiasta Izolacja ścian,okien i dachów
+Osiadanie Peryferyjny system odwadniający (co najmniej 2m od budynku) Utrzymywanie drzew w bezpiecznej odległości od budynku Głębokie lub półgłębokie fundamenty Podbudowa Jednolite fundamenty (unikanie częściowego podpiwniczenia) Wzmocnienie konstrukcji (wzmocnienia poziome i pionowe: gorsetowanie żelbetowymi lub strunobetonowymi belkami podwalinowymi, poziome wzmocnienia spoin umieszczone wpoziomych spoinach zaprawymurarskiej, pionowe wzmocnienia spoin dla ścian nośnych)  
+Spółka realizuje powyższe działania ze środków własnych, które nie są bezpośrednio powiązane z działalnościami opisanymi w aktach delegowanych do Taksonomii. Działania te realizowane są w ramach realizowanych budżetów projektów deweloperskich. Koszty te wskazane są w nocie 7.35 skonsolidowanego sprawozdania finansowego w pozycjach: „zużycie materiałów i  
+energii” oraz „usługi obce”. Grupa posiada zasoby niezbędne do realizacji działań związanych z adaptacją i mitygacją zmian klimatu. Efektywne planowanie alokacji finansów, zasobów ludzkich, technologii oraz zasobów informatycznych zwiększa odporność Grupy na ryzyka fizyczne i transformacyjne, minimalizuje koszty i umożliwia terminowe osiągnięcie celów ESG.  
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+119
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E1-4 CELE ZWIĄZANE Z ŁAGODZENIEM ZMIANY KLIMATU I PRZYSTOSOWANIEM SIĘ DO NIEJ**
+Grupa w Strategii ESG DOM 2030 przyjęła cel redukcyjny, który wynosi 30% redukcji emisji CO2e w zakresie 1 i 2[10] w przeliczeniu na lokal w budowie do roku 2030 w porównaniu do 2021 (przyjętego jako rok bazowy)[11] . Spółka nie wyznaczyła celu w zakresie 3. Cel nie został wyznaczony w wartości bezwzględnej ze względu na fakt, iż spółki z Grupy prowadzą działalność, której skala zmienia się w czasie (np. poprzez wzrost liczby inwestycji budowlanych czy rozszerzanie działalności na nowe rynki), co oznacza, że dotychczasowy cel dotyczy wyłącznie działalności operacyjnej wszystkich spółek w Grupie w zakresie działań związanych z zarządzaniem zakupami energii elektrycznej i cieplnej, gazu oraz floty samochodowej. Cel redukcji emisji został opracowany wewnętrznie i zaakceptowany przez Zarząd. Założenia dotyczące celu redukcyjnego nie uległy zmianie, tj. dotyczą tego samego zakresu, zarówno geograficznego, jak i emisyjnego.  
+Cel redukcji emisji gazów cieplarnianych jest celem brutto, co oznacza, że Grupa nie uwzględnia usuwania gazów cieplarnianych, jednostek emisji dwutlenku węgla ani emisji unikniętych jako środków osiągnięcia celów redukcji  
+emisji gazów cieplarnianych. Cel redukcyjny nie jest oparty na podstawach naukowych i nie jest zgodny z celem ograniczenia globalnego ocieplenia do 1,5°C. Emisje raportowane przez Grupę nie podlegają regulowanym systemom handlu uprawnieniami do emisji. Do obliczeń wybrano metodę location-based opartą o GHG Protocol.  
+Grupa monitoruje skuteczność podejmowanych działań poprzez:  
+- automatyzację zbierania danych, które pozwalają na regularny monitoring zużycia mediów,  
+- raportowanie wyników i postępów zgodnie z międzynarodowym standardem GHG Protocol oraz coroczne ujawnienia w sprawozdawczości zrównoważonego rozwoju,  
+- optymalizacje i modyfikacje działań w działalności operacyjnej wynikające z analizy zebranych danych.  
+Szczegóły dotyczące zasad raportowania wskazano w podrozdziale „Zasady raportowania emisji gazów cieplarnianych.”  
+| C**el** | **Rok bazowy 2021** | **Rok 2025** | **Zmiana % [r/r]** | **Cel na 2030** |
+| --- | --- | --- | --- | --- |
+| Emisje gazów cieplarnianych (tony ekwiwalentu dwutlenku węgla) z zakresu 1 i 2 obliczone wgmetodylocation-based | 2,67 tCO2e/mieszkanie | 1,81 tCO2e/mieszkanie | +5,8% | 1,87 tCO2e/mieszkanie |

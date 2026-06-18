@@ -1,0 +1,79 @@
+DOKUMENT SEKCJA: **Inne przychody/koszty z nabytych portfeli wierzytelności** | Udzielone pożyczki wyceniane według zamortyzowanego kosztu
+
+## Udzielone pożyczki wyceniane według zamortyzowanego kosztu
+Struktura udzielonych pożyczek wycenianych według zamortyzowanego kosztu na koniec okresów sprawozdawczych przedstawia się następująco:  
+| **Klasyfikacja MSSF 9** **Wartość brutto udzielonych pożyczek wycenianych wg** **zamortyzowanego kosztu** | **31.12.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Koszyk 1 | 379 905 | 336 826 |  |
+| Koszyk 2 | 147 686 | 114 868 |  |
+| Koszyk 3 | 497 637 | 393 345 |  |
+| POCI | 1 437 | 1 499 |  |
+| 1 026 665 **Odpisy na oczekiwane straty kredytowe** | 846 538 |  |  |
+| Koszyk 1 | 23 576 | 26 869 |  |
+| Koszyk 2 | 25 818 | 25 459 |  |
+| Koszyk 3 | 367 251 | 294 606 |  |
+| 416 645 **Wartość netto** | 346 934 |  |  |
+| Koszyk 1 | 356 329 | 309 957 |  |
+| Koszyk 2 | 121 868 | 89 409 |  |
+| Koszyk 3 | 130 386 | 98 739 |  |
+| POCI | 1 437 | 1 499 |  |
+| 610 020 | 499 604 |  |  |
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+Zmiany wartości księgowej netto udzielonych pożyczek wycenianych według zamortyzowanego kosztu kształtowały się następująco:  
+Zmiany odpisów aktualizujących wartość udzielonych pożyczek wycenianych według zamortyzowanego kosztu kształtowały się następująco:  
+| _w tysiącach złotych_ | **Koszyk 1** **Koszyk 2** **Koszyk 3** | **Razem** | **Koszyk 1** **Koszyk 2** **Koszyk 3** | **Razem** |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wartość odpisu na początek okresu | 26 869 | 25 459 | 294 606 | 346 934 | 17 202 | 24 182 | 224 766 | 266 150 |
+| Przesunięcie koszyk 1 do koszyk 2 | (23 542) | 23 542 | - | - | (4 093) | 4 093 | - | - |
+| Przesunięcie koszyk 1 do koszyk 3 | (41 000) | - | 41 000 | - | (18 635) | - | 18 635 | - |
+| Przesunięcie koszyk 2 do koszyk 1 | 417 | (417) | - | - | 552 | (552) | - | - |
+| Przesunięcie koszyk 2 do koszyk 3 | - | (20 527) | 20 527 | - | - | (25 717) | 25 717 | - |
+| Przesunięcie koszyk 3 do koszyk 1 | - - - | - | - - - | - |  |  |  |  |
+| Przesunięcie koszyk 3 do koszyk 2 | - - - | - | - - - | - |  |  |  |  |
+| Odpis na oczekiwane straty kredytowe ujęty w okresie sprawozdawczym oraz zmiany z tyt. udzielenia i spłaty | 60 832 | (2 239) | 11 118 | 69 711 | 31 843 | 23 453 | 25 488 | 80 784 |
+| Wartość odpisu na koniec okresu | **23 576** | **25 818** | **367 251** | **416 645** | **26 869** | **25 459** | **294 606** | **346 934** |
+Wysokość odpisu ustalana jest w podziale na koszyki rozpoznawania strat oczekiwanych udzielonych pożyczek w oparciu o szacunki uwzględniające ryzyko poniesienia oczekiwanej straty, tworzone z uwzględnieniem stopnia ich przeterminowania. Wartość odpisu na koniec okresu sprawozdawczego pokrywa 40,6 % wartości brutto udzielonych pożyczek wycenianych według zamortyzowanego kosztu (na koniec 2024 r.: 41,0%). Łączna kwota niezdyskontowanych oczekiwanych strat kredytowych dla aktywów finansowych dotkniętych utratą wartości ze względu na ryzyko kredytowe wyniosła na dzień 31 grudnia 2025 r. 27 541 tys. zł (27 591 tys. zł na dzień 31.12.2024 r.).  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+_Wpływ czynników makroekonomicznych na oszacowania oczekiwanych strat kredytowych dla portfela pożyczek Wonga_  
+Oczekiwane straty kredytowe w odniesieniu do udzielonych pożyczek wycenianych według zamortyzowanego kosztu - wyznaczane są przy wykorzystaniu parametrów: PD (prawdopodobieństwo niewykonania zobowiązania), PPS (prawdopodobieństwo przedpłaty), LGD (strata z niewykonania zobowiązania) oraz EAD (ekspozycja na moment niewykonania zobowiązania).  
+Parametr LGD uzależniony jest od odzysków realizowanych po wystąpieniu niewykonania zobowiązania. Odzyski na portfelu z utratą wartości realizowane są poprzez sprzedaż wierzytelności lub prowadzenie procesu windykacji polubownej, a następnie sądowej. W przypadku procesu windykacji prognozowane odzyski na potrzeby ustalenia parametru LGD bazują na historycznej krzywej wpłat dla podobnych wierzytelności i są okresowo weryfikowane oraz aktualizowane w razie istotnych zmian. Spółka Wonga w okresie 2025 r. zaktualizowała wykorzystywaną krzywą wpłat, z uwagi na obserwowane w dłuższym horyzoncie czasu wyższe odzyski.  
+Spółka dokonuje analizy wpływu czynników makroekonomicznych na planowane odzyski oraz oczekiwane straty kredytowe dla udzielonych pożyczek wycenianych według zamortyzowanego kosztu. Analizowane zmienne makroekonomiczne to:  
+- bankructwo konsumenckie,  
+- poziom bezrobotnych (zarejestrowanych ogółem, nowo zarejestrowanych, zarejestrowanych po raz kolejny),  
+- stopa bezrobocia rejestrowanego,  
+- nowe oferty pracy w okresie.  
+W przypadku stwierdzenia poprawy dokładności prognozy z wykorzystaniem powyższych zmiennych makroekonomicznych (oprócz stosowanego skoringu behawioralnego) - są one dodawane do modelu szacowania strat kredytowych.  
+_Wpływ czynników makroekonomicznych na oszacowania oczekiwanych strat kredytowych dla portfela pożyczek Novum_  
+W obliczeniach oczekiwanych strat kredytowych uwzględnia się szacunki dotyczące oczekiwanego otoczenia makroekonomicznego. Wpływ czynników makroekonomicznych jest uwzględniany poprzez ujęcie wpływu prognozowanych zmiennych makroekonomicznych na wartości poszczególnych parametrów ryzyka (PD, LGD). Na podstawie danych historycznych weryfikowana jest zależność zmiany wartości tych parametrów lub ich składowych od zmiennych makroekonomicznych.  
+Zakres analizowanych zmiennych makroekonomicznych uwzględnia następujące pozycje:  
+- dynamika indeksu PKB,  
+- zmiana wskaźnika cen (CPI),  
+- zmiana indeksu sprzedaży detalicznej,  
+- dynamika przeciętnych wynagrodzeń w gospodarce narodowej,  
+- stopa bezrobocia.  
+Na koniec 2025 r. istotnymi statystycznie zmiennymi makroekonomicznymi była dynamika wynagrodzeń, która skorelowana była z historycznymi wpłatami, będącymi składowymi w szacunkach parametru LGD.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+Bazowy scenariusz prognozy makroekonomicznej, który został ujęty w szacunkach parametrów LGD opiera się na dostępnych prognozach makroekonomicznych, w szczególności na publikowanych przez Narodowy Bank Polski projekcjach inflacji i PKB.  
+Udzielone pożyczki wyceniane według wartości godziwej  
+Zmiany wartości księgowej udzielonych pożyczek wycenianych według wartości godziwej kształtowały się następująco:  
+| **Razem** | **586 502** | **419** | **8 018** | **(1 533)** | **15 576** | **2 980** | **15** | **(29 067)** | **582 910** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Pozostałe** **przychody** **operacyjne** | - - - - - 2 980 - - | 2 980 |  |  |  |  |  |  |  |
+| **Przychody z** **pozostałych** **usług** | 69 379 | 419 | - | - | 107 | - | 15 | (17 530) | 52 390 |
+| **Przychody z** **usług** **windykacyjnych** | - - - - 15 469 - - - | 15 469 |  |  |  |  |  |  |  |
+| **Nabyte** **pakiety** **wierzytelności** | 517 123 | - | 8 018 | (1 533) | - | - | - | (11 537) | 512 071 |
+| **Pozostałe** **przychody** **operacyjne** | - - - - - 1 252 - - | 1 252 |  |  |  |  |  |  |  |
+| **Przychody z** **pozostałych** **usług** | 68 186 | 171 | - | - | 69 | - | 734 | (12 912) | 56 248 |
+| **Przychody z** **usług** **windykacyjnych** | - - - - 12 651 - - - | 12 651 |  |  |  |  |  |  |  |
+| **Nabyte** **pakiety** **wierzytelności** | 578 997 | - | 931 | (7 476) | - | - | - | 145 001 | 717 453 |
+| _w tysiącach złotych_ |  | **Przychody odsetkowe z** **pakietów** **wierzytelności i** **udzielonych pożyczek** **wycenianych według** **zamortyzowanego** **kosztu** **Przychody odsetkowe z** **udzielonych pożyczek** **wycenianych według** **wartości godziwej** **Przychody ze sprzedaży** **wierzytelności i** **pożyczek** **Inne przychody/koszty z** **nabytych portfeli** **wierzytelności** **Przychody ze** **świadczenia innych** **usług** **Pozostałe przychody** **operacyjne** **Zmiana wartości** **inwestycji wycenianych** **według wartości** **godziwej** **Wynik na oczekiwanych** **stratach kredytowych** |  |  |  |  |  |  |  |
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **Inne przychody/koszty z nabytych portfeli wierzytelności**
+| _w tysiącach złotych_ Zyski/(straty) z różnic kursowych Koszty wyceny programu lojalnościowego Koszty rezerwy na nadpłaty | **01.01.2025-** **31.12.2025** **niebadane** **01.10.2025-** **31.12.2025** **niebadane** **01.01.2024-** **31.12.2024** **01.10.2024-** **31.12.2024** **niebadane** |  |  |
+| --- | --- | --- | --- |
+| (41 826) | (6 333) | 541 | 255 |
+| (1 778) | 39 | 1 380 | (836) |
+| (5 921) | (1 182) | (4 294) | (952) |
+| (49 525) | (7 476) | (2 373) | (1 533) |
+Odnotowane w okresie I-IV kw. 2025 roku straty z różnic kursowych związane są głównie z wahaniami kursów EUR vs RON.

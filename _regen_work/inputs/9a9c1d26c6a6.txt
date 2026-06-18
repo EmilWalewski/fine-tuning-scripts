@@ -1,0 +1,99 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.14. Przychody i koszty finansowe** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.15. Opodatkowanie** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.15.1. Podatek bieżący** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.15.2. Podatek odroczony** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **5.1. Wynik z operacji na instrumentach finansowych** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **5.2. Przychody z tytułu prowizji i opłat** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **5.3. Obszary geograficzne** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **6. Wynagrodzenia i świadczenia pracownicze** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **7. Marketing**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.14. Przychody i koszty finansowe**
+Przychody finansowe obejmują przychody odsetkowe związane z zainwestowanymi przez Grupę środkami. Koszty finansowe obejmują koszty odsetek zapłaconych klientom, odsetek zapłaconych od leasingu finansowego oraz pozostałe odsetki od zobowiązań niezwiązane z obrotem na instrumentach finansowych.  
+Przychody i koszty odsetkowe ujmuje się w działalności finansowej bieżącego okresu z zastosowaniem metody efektywnej stopy procentowej. Wyjątek stanowią odsetki od wolnych środków pieniężnych klientów, które są prezentowane w Przychodach z działalności operacyjnej.  
+Przychody z tytułu dywidend są ujmowane w momencie, kiedy zostaje ustanowione prawo akcjonariuszy do otrzymania płatności.  
+Przychody i koszty finansowe obejmują również zyski i straty z tytułu różnic kursowych, wykazywane w kwocie netto oraz niezwiązane z obrotem na instrumentach finansowych.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.15. Opodatkowanie**
+Podatek dochodowy jednostki obejmuje podatek bieżący do zapłaty oraz podatek odroczony.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.15.1. Podatek bieżący**
+Bieżące obciążenie podatkowe jest obliczane na podstawie wyniku podatkowego (podstawy opodatkowania) danego roku obrotowego. Zysk (strata) podatkowa różni się od księgowego zysku (straty) netto w związku z wyłączeniem przychodów niepodlegających opodatkowaniu i kosztów niestanowiących kosztów uzyskania przychodów. Obciążenia podatkowe są wyliczane w oparciu o stawki podatkowe obowiązujące w danym roku obrotowym i zgodnie z przepisami podatkowymi obowiązującymi w Polsce oraz odpowiednio w krajach, w których zlokalizowane są siedziby oddziałów Jednostki dominującej i jej spółek zależnych.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.15.2. Podatek odroczony**
+Podatek odroczony jest wyliczany metodą bilansową w oparciu o różnice pomiędzy wartościami bilansowymi aktywów i zobowiązań, a odpowiadającymi im wartościami podatkowymi wykorzystywanymi do wyliczenia podstawy opodatkowania.  
+21  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Rezerwa na podatek odroczony jest tworzona od wszystkich dodatnich różnic przejściowych podlegających opodatkowaniu, natomiast składnik aktywów z tytułu podatku odroczonego jest rozpoznawany do wysokości, w jakiej jest prawdopodobne, że będzie można pomniejszyć przyszłe zyski podatkowe o rozpoznane ujemne różnice przejściowe oraz straty podatkowe bądź ulgi podatkowe jakie Grupa może wykorzystać.  
+Wartość składników aktywów z tytułu podatku odroczonego podlega analizie na każdy dzień bilansowy, a w przypadku, gdy spodziewane przyszłe zyski podatkowe nie będą wystarczające dla realizacji składnika aktywów lub jego części, następuje jego odpis.  
+Podatek odroczony jest wyliczany przy użyciu stawek podatkowych, które będą obowiązywać w momencie, gdy pozycja aktywów zostanie zrealizowana lub zobowiązanie stanie się wymagalne. W sprawozdaniu z sytuacji finansowej podatek odroczony wykazywany jest po dokonaniu kompensaty w zakresie, w jakim dotyczy tej samej rezydencji podatkowej.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **5.1. Wynik z operacji na instrumentach finansowych**
+| **5.1. Wynik z operacji na instrumentach finansowych** **(w tys. PLN)** **Instrumenty pochodne kontrakty na różnice (CFD)** | **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** |  |
+| --- | --- | --- |
+| CFD na towary | 923 714 | 896 672 |
+| CFD na indeksy | 760 736 | 622 728 |
+| CFD na waluty | 290 408 | 272 276 |
+| CFD na akcje i ETF | 60 047 | 44 762 |
+| CFD na obligacje | 101 | 735 |
+| **Instrumenty pochodne CFD razem** | **2 035 006** | **1 837 173** |
+| **Akcje i ETF** | **78 310** | **30 654** |
+| **Wynik z operacji na instrumentach finansowych brutto** | **2 113 316** | **1 867 827** |
+| Bonusy i rabaty wypłacane klientom | (17 328) | (12 629) |
+| Prowizje wypłacane brokerom współpracującym | (51 406) | (54 623) |
+| **Wynik z operacji na instrumentach finansowych netto** | **2 044 582** | **1 800 575** |
+Bonusy i rabaty wypłacone klientom są związane między innymi z obrotem na instrumentach finansowych dokonywanych przez klienta z jednostkami Grupy Kapitałowej.  
+Grupa Kapitałowa zawiera umowy współpracy z brokerami współpracującymi, którzy otrzymują prowizje uzależnione od wygenerowanego obrotu w ramach współpracy. Generowane przychody i koszty pomiędzy Grupą a poszczególnymi brokerami dotyczą obrotu z brokerem a nie jego klientami.  
+Wynik z operacji na instrumentach finansowych Grupy powstaje: (i) ze spreadów (różnicy między ceną sprzedaży - offer a ceną kupna - bid); (ii) z naliczanych punktów swapowych (stanowiących kwoty wynikające z różnicy między teoretycznym kursem forward a kursem spot danego instrumentu finansowego); (iii) z prowizji i opłat naliczanych klientom przez Grupę oraz z naliczanych punktów swapowych (stanowiących kwoty wynikające z różnicy między teoretycznym kursem forward a kursem spot danego instrumentu finansowego); (iv) z wyniku netto (zysków pomniejszonych o straty) z działalności Grupy w zakresie market making. Poniższe zestawienie prezentuje procentowy udział poszczególnych kategorii przychodów w wyniku z operacji na instrumentach finansowych brutto.  
+22  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+| **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** Spread | 48% | 53% |
+| --- | --- | --- |
+| Swapy | 25% | 41% |
+| Market Making | 25% | 5% |
+| Prowizje i opłaty | 2% | 1% |
+| **Wynik z operacji na instrumentach finansowych brutto** | **100%** | **100%** |
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **5.2. Przychody z tytułu prowizji i opłat**
+| **(w tys. PLN)** | **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** |  |
+| --- | --- | --- |
+| Prowizje od partnerów instytucjonalnych | 5 266 | 3 970 |
+| Prowizje od partnerów detalicznych | 15 021 | 8 321 |
+| **Przychody z tytułu prowizji i opłat razem** | **20 287** | **12 291** |
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **5.3. Obszary geograficzne**
+| **(w tys. PLN)** **Przychody z działalności operacyjnej** | **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** |  |
+| --- | --- | --- |
+| Europa Środkowo-Wschodnia | 1 447 904 | 1 226 502 |
+| _- w tym Polska_ | _1 168 350_ | 986 531 |
+| Europa Zachodnia | 387 409 | 355 868 |
+| Ameryka Łacińska * | 128 259 | 117 930 |
+| Bliski Wschód** | 182 480 | 173 128 |
+| Azja | 4 | 8 |
+| **Razem przychody z działalności operacyjnej** | **2 146 056** | **1 873 436** |
+_* Spółka zależna XTB International Ltd. z siedzibą w Belize pozyskuje klientów z Ameryki Łacińskiej i pozostałych regionów świata (poza Europą). Z pozycji wyłączono przychody od klientów z regionu Bliskiego Wschodu pozyskanych przez tą spółkę. ** Przychody od klientów z regionu Bliskiego Wschodu, pozyskanych przez XTB International Ltd. z siedzibą w Belize a także przez XTB MENA Limited oraz XTB Financial Services L.L.C z siedzibą w Zjednoczonych Emiratach Arabskich._  
+Krajem, z którego Grupa czerpie każdorazowo więcej niż 20% przychodów jest Polska z udziałem wynoszącym 54,4% (2024 rok: 52,7%). Ze względu na ogólny udział w przychodach Grupy wydzielono prezentacyjnie Polskę jako największy przychodowo rynek w Grupie. Udział pozostałych krajów w strukturze geograficznej przychodów Grupy nie przekracza w żadnym przypadku 20%.  
+Grupa dzieli swoje przychody na obszary geograficzne według kraju, w którym klient został pozyskany. Podział krajów na poszczególne obszary geograficzne został dokonany na podstawie kryterium ekonomiczno-politycznego.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **6. Wynagrodzenia i świadczenia pracownicze**
+| **6.** **Wynagrodzenia i świadczenia pracownicze** **(w tys. PLN)** | **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** |  |
+| --- | --- | --- |
+| Wynagrodzenia | (355 778) | (267 989) |
+| Ubezpieczenia społeczne i inne świadczenia | (43 448) | (32 784) |
+| Świadczenia na rzecz pracowników | (13 793) | (10 801) |
+| **Wynagrodzenia i świadczenia pracownicze razem** | **(413 019)** | **(311 574)** |
+23  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **7. Marketing**
+| **(w tys. PLN)** | **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** |  |
+| --- | --- | --- |
+| Marketing online | (404 994) | (262 269) |
+| Marketing offline | (179 819) | (82 517) |
+| Konkursy dla klientów | (85) | (22) |
+| **Marketing razem** | **(584 898)** | **(344 808)** |
+Działania marketingowe prowadzone przez Grupę koncentrują się głównie na marketingu internetowym, który wspierany jest także innymi działaniami promocyjnymi.

@@ -1,0 +1,157 @@
+DOKUMENT SEKCJA: **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO JEDNOSTKOWEGO SPRAWOZDANIA FINANSOWEGO** > **7.23 REZERWY DŁUGOTERMINOWE**
+
+7.32 ZYSK NA AKCJĘ
+KALKULACJA ZYSKU PODSTAWOWEGO | ROZWODNIONEGO NA AKCJĘ 01.01.-31.12.2025 01.01.-31.12.2024
+PODSTAWOWY ZYSK NA AKCJĘ
+Zysk do wyliczenia podstawowego zysku na akcję 580 809 419020
+Średnia ważona liczba akcji zwykłych Spółki do wyliczenia BEI 25 786 400
+podstawowego zysku na akcję
+Podstawowy zysk na akcję (PLN) 22,51 16,25
+ROZWODNIONY ZYSK NA AKCJĘ
+Zysk do wyliczenia rozwodnionego zysku na akcję 580 809 419020
+Potencjalne akcje rozwadniające dotyczące opcji na akcje
+z Programu Opcji Menedżerskich 7 7
+Średnia ważona rozwodniona liczba akcji zwykłych Spółki do wyliczenia mrym 25 786 400
+rozwodnionego zysku na akcję
+Rozwodniony zysk na akcję (PLN) 22,51 16,25
+W Spółce nie występuje działalność zaniechana, w związku z tym zysk na akcję z działalności kontynuowanej jest równy zyskowi
+na akcję wyliczonemu powyżej.
+
+7.33 PODATEK DOCHODOWY
+Podatek dochodowy bieżący 86 904 33 674
+Podatek dochodowy odroczony (19 682) 29 673
+Razem 67 222 63 347
+Zobowiązanie Spółki z tytułu podatku dochodowego od osób prawnych na dzień 31 grudnia 2025 roku wynosiło 47 764 tys. zł.
+Na dzień 31 grudnia 2024 roku Spółka nie posiadała zobowiązań z tego tytułu.
+
+Na dzień 31 grudnia 2025 roku Spółka nie posiadała należności z tytułu podatku dochodowego od osób prawnych.
+
+Na dzień
+31 grudnia 2024 r. Spółka posiadała należności z tego tytułu w kwocie 48 425 tys. zł.
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+39
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+Uzgodnienie pomiędzy podatkiem dochodowym obliczonym jako iloczyn zysku brutto przed opodatkowaniem i ustawowej
+stawki podatku a rzeczywistym obciążeniem z tytułu podatku dochodowego wykazanym w jednostkowym rachunku zysków i
+strat Spółki zaprezentowane jest poniżej.
+
+Zysk brutto 648 031 482 367
+Według stawki podatkowej wynoszącej 19% 123 126 91650
+Trwałe różnice nie objęte podatkiem dochodowym bieżącym i odroczonym
+p H > 5 694 915
+w sprawozdaniu finansowym _ (z wyłączeniem kosztu opcji menedżerskich)
+Efekt podatkowy opcji menadżerskich trwale niestanowiących kosztu | 373
+uzyskania przychodów
+Otrzymana dywidenda (56 979) (29591)
+Inne 381 -
+Obciążenie rzeczywiste z tytułu podatku dochodowego 67 222 63 347
+Efektywna stawka podatkowa (w %) 10,37 13,13
+Regulacje dotyczące podatku od towarów i usług, podatku dochodowego od osób prawnych oraz obciążeń związanych z
+ubezpieczeniami społecznymi podlegają częstym zmianom.
+
+Te częste zmiany powodują brak odpowiednich punktów
+odniesienia, niespójne interpretacje oraz nieliczne ustanowione precedensy, które mogłyby mieć zastosowanie.
+
+Obowiązujące
+przepisy zawierają również niejasności, które powodują różnice w opiniach, co do interpretacji prawnej przepisów
+podatkowych, zarówno pomiędzy organami państwowymi jak i organami państwowymi i przedsiębiorstwami.
+
+Rozliczenia podatkowe oraz inne obszary działalności (na przykład kwestie celne czy dewizowe) mogą być przedmiotem kontroli
+organów, które uprawnione są do nakładania wysokich kar i grzywien, a wszelkie dodatkowe zobowiązania podatkowe,
+wynikające z kontroli, muszą zostać zapłacone wraz z wysokimi odsetkami.
+
+Te warunki powodują, że ryzyko podatkowe w Polsce
+jest większe niż w krajach o bardziej dojrzałym systemie podatkowym.
+
+W konsekwencji, pomimo iż Spółka prowadziła i prowadzi bardzo ostrożną politykę podatkową, chociaż jest to mało
+prawdopodobne to nie można wykluczyć, iż kwoty prezentowane i ujawniane w jednostkowych sprawozdaniach finansowych
+mogą się zmienić w przyszłości w wyniku ostatecznej decyzji organu kontroli podatkowej.
+
+Z dniem 15 lipca 2016 r. do Ordynacji Podatkowej zostały wprowadzone zmiany w celu uwzględnienia postanowień Ogólnej
+Klauzuli Zapobiegającej Nadużyciom (GAAR).
+
+GAAR ma zapobiegać powstawaniu i wykorzystywaniu sztucznych struktur
+prawnych tworzonych w celu uniknięcia zapłaty podatku w Polsce.
+
+GAAR definiuje unikanie opodatkowania jako czynność
+dokonaną przede wszystkim w celu osiągnięcia korzyści podatkowej, sprzecznej w danych okolicznościach z przedmiotem i
+celem przepisy ustawy podatkowej.
+
+Zgodnie z GAAR taka czynność nie skutkuje osiągnięciem korzyści podatkowej, jeżeli sposób
+działania był sztuczny.
+
+Wszelkie występowanie (i) nieuzasadnionego dzielenia operacji, (ii) angażowania podmiotów
+pośredniczących mimo braku uzasadnienia ekonomicznego lub gospodarczego, (iii) elementów wzajemnie się znoszących lub
+kompensujących oraz (iv) inne działania o podobnym działaniu do wcześniej wspomnianych, mogą być potraktowane jako
+przesłanka istnienia sztucznych czynności podlegających przepisom GAAr. Nowe regulacje będą wymagać znacznie większego
+osądu przy ocenie skutków podatkowych poszczególnych transakcji.
+
+Klauzulę GAAR należy stosować w odniesieniu do transakcji dokonanych po jej wejściu w życie oraz do transakcji, które zostały
+przeprowadzone przed wejściem w życie klauzuli GAAR, ale dla których po dacie wejścia klauzuli w życie korzyści były lub są
+nadal osiągane.
+
+Wdrożenie powyższych przepisów umożliwi polskim organom kontroli podatkowej kwestionowanie
+realizowanych przez podatników prawnych ustaleń i porozumień, takich jak restrukturyzacja i reorganizacja grupy.
+
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+40
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+7.34 SPRAWOZDAWCZOŚĆ SEGMENTOWA
+Działalność Spółki jest co do zasady jednorodna i polega głównie na budowie i sprzedaży lokali mieszkalnych i lokali usługowych
+(komercyjnych) i powiązanych z tym działaniach wspierających.
+
+Spółka prowadzi swoją działalność tylko na rynku warszawskim,
+natomiast Grupa Kapitałowa Dom Development S.A., której Spółka jest podmiotem dominującym, prowadzi również działalność
+na rynkach trójmiejskim, wrocławskim i krakowskim.
+
+Działalność na rynku wrocławskim, rynku trójmiejskim i rynku krakowskim
+prowadzona jest poprzez spółki zależne Grupy.
+
+W związku z powyższym segmentacja dla celów sprawozdawczych została dokonana w oparciu o kryterium lokalizacji
+geograficznej w ramach Grupy:
++ segment warszawski
++ segment trójmiejski
++ segment wrocławski
++ segment krakowski
+Ocena wyników poszczególnych segmentów dokonywana jest głównie w oparciu o przychody ze sprzedaży oraz zysk i marżę
+brutto ze sprzedaży uzyskane przez poszczególne segmenty.
+
+Z uwagi na to, że działalność operacyjna Spółki prowadzona jest na rynku warszawskim, czyli w obrębie jednego segmentu,
+niniejsze jednostkowe sprawozdanie finansowe nie zawiera informacji segmentowej.
+
+Informacja dotycząca segmentów działalności przedstawiona jest w skonsolidowanym sprawozdaniu finansowym Spółki, które
+przedstawia działalność operacyjną na wszystkich wyżej wymienionych rynkach (segmentach operacyjnych i
+sprawozdawczych).
+
+7.35 PRZYCHODY ZE SPRZEDAZY I KOSZT WŁASNY SPRZEDAŻY
+ANALIZA PRZYCHODÓW ZE SPRZEDAŻY I KOSZTU WŁASNEGO SPRZEDAŻY 01.01.-31.12.2025_ 01.01.-31.12.2024
+Przychody ze sprzedaży wyrobów gotowych 1522073 1589 252
+Przychody ze sprzedaży usług 75998 147 667
+Przychody ze sprzedaży towarów (gruntów) 10791 46 065
+Przychody ze sprzedaży - razem 1608862 1782984
+Koszty sprzedaży wyrobów gotowych (1 037 817) (1 129858)
+Koszty sprzedaży usług (45 270) (106 324)
+Koszty sprzedaży towarów (7857) (45 733)
+Korekta wartości zapasów do wartości netto możliwej do uzyskania | -
+Koszt własny sprzedaży - razem (1.090 944) (1281915)
+Zysk na sprzedaży brutto 517918 501069
+7.36 KOSZTY WEDŁUG RODZAJU
+|KOSZTY DZIAŁALNOŚCI OPERACYJNEJ 01.01.-31.12.2025 01.01.-31.12.2024
+Koszt własny sprzedaży (1 090944) (1 281 915)
+Koszty sprzedaży (66 944) (63 476)
+Koszty ogólnego zarządu (107 525) (112 167)
+Razem (1265 413) (1 457 558)
+Koszty według rodzaju
+Amortyzacja (15 686) (14 399)
+Zużycie materiałów i energii (446 330) (236 528)
+Ustugi obce (1.020 034) (1 062 373)
+Podatki i opłaty (8 426) (7 340)
+Koszty świadczeń pracowniczych (75 719) (75 118)
+Pozostałe koszty rodzajowe (2539) (4.129)
+Wartość sprzedanych towarów i materiałów (7857) (45 733)
+Zmiana stanu produktów i produkcji w toku 300 360 (20525)
+Koszt wytworzenia produktów na własne potrzeby 10818 8587
+Razem 1265 413 1457 558
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.

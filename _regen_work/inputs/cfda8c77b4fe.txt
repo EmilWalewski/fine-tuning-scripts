@@ -1,0 +1,77 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **35.2.3. Pozostałe ryzyko cenowe** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Analiza wrażliwości aktywów i zobowiązań finansowych, których przepływy pieniężne są narażone na ryzyko**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Analiza wrażliwości aktywów i zobowiązań finansowych, których przepływy pieniężne są narażone na ryzyko**
+zmiany stóp procentowych  
+Struktura aktywów i zobowiązań finansowych, których przepływy pieniężne są narażone na ryzyko zmiany stóp procentowych przedstawia się następująco:  
+| **(w tys. PLN)** **Aktywa finansowe** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Środki pieniężne i ich ekwiwalenty | 7 858 420 | 5 370 815 |
+| Instrumenty dłużne | 5 598 | 429 648 |
+| **Aktywa finansowe razem** **Zobowiązania finansowe** | **7 864 018** | **5 800 463** |
+| Zobowiązania wobec klientów | 4 595 747 | 2 676 211 |
+| Zobowiązania pozostałe | 25 867 | 33 935 |
+| **Zobowiązania finansowe razem** | **4 621 614** | **2 710 146** |
+57  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Wpływ zmian stóp procentowych o 50 punktów bazowych (pb) na zysk przed opodatkowaniem został przedstawiony poniżej. Poniższa analiza opiera się na założeniu, że inne zmienne, w szczególności kursy walutowe, pozostaną na stałym poziomie. Analiza została przeprowadzona na podstawie średnich sald środków pieniężnych w okresach objętym niniejszym skonsolidowanym sprawozdaniem finansowym.  
+Poniższa analiza została przeprowadzona na podstawie średnich sald środków pieniężnych w okresie od 1 stycznia do 31 grudnia 2025 oraz od 1 stycznia do 31 grudnia 2024 roku.  
+(w tys. PLN) OKRES 12 MIESIĘCY ZAKOŃCZONY OKRES 12 MIESIĘCY ZAKOŃCZONY
+WZROST O 50 PB SPADEK O 50 PB WZROST O 50 PB SPADEK O 50 PB
+Zysk/(strata) przed opodatkowaniem 14 667 (14 667) 5 851 (5 851)  
+**Analiza wrażliwości aktywów i zobowiązań finansowych, których wartość godziwa narażona jest na ryzyko zmiany**  
+stóp procentowych  
+W okresie objętym niniejszym skonsolidowanym sprawozdaniem finansowym Grupa posiadała aktywa finansowe, których wartość godziwa narażona jest na ryzyko zmiany stóp procentowych, w postaci portfela obligacji Skarbu Państwa, z gwarancją Skarbu Państwa oraz obligacji korporacyjnych. Poniżej przedstawiono analizę wrażliwości na zmiany stóp procentowych o 50 punktów bazowych - przesunięcie krzywych rentowności o taką wartość.  
+(w tys. PLN) OKRES 12 MIESIĘCY ZAKOŃCZONY OKRES 12 MIESIĘCY ZAKOŃCZONY
+WZROST O 50 PB SPADEK O 50 PB WZROST O 50 PB SPADEK O 50 PB
+Zysk/(strata) przed opodatkowaniem (33) 33 (5 132) 5 359
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **35.2.3. Pozostałe ryzyko cenowe**
+Pozostałe ryzyko cenowe jest to narażenie pozycji finansowej Grupy na niekorzystne zmiany cen towarów, instrumentów kapitałowych (akcje, indeksy) oraz instrumentów dłużnych (w zakresie niewynikającym ze stóp procentowych). Wartość bilansowa instrumentów finansowych narażonych na pozostałe ryzyko cenowe w podziale na klasę instrumentu bazowego została przedstawiona poniżej:  
+| została przedstawiona poniżej: **(w tys. PLN)** **Aktywa finansowe wyceniane w wartościgodziwej przez wynik finansowy** **CFD na towary** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Metale szlachetne | 116 735 | 62 347 |
+| Metale nieszlachetne | 4 220 | 3 532 |
+| Inne | 127 592 | 112 737 |
+| **CFD na towary razem** **CFD na instrumenty kapitałowe** | **248 547** | **178 616** |
+| Akcje i ETF | 104 046 | 92 648 |
+| Indeksy | 131 856 | 92 488 |
+| **CFD na instrumenty kapitałowe razem** **CFD na instrumenty dłużne** | **235 902** | **185 136** |
+| Obligacje | 37 | 267 |
+| **CFD na instrumenty dłużne razem** | **37** | **267** |
+| **Akcje i ETF** | **242 914** | **172 470** |
+| **Instrumenty dłużne** | **-** | **-** |
+| **Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy** **razem** | **727 400** | **536 489** |
+58  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+| **(w tys. PLN)** **Zobowiązania finansowe wyceniane w wartości godziwej przez wynik** **finansowy** **CFD na towary** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Metale szlachetne | 70 049 | 2 616 |
+| Metale nieszlachetne | 1 251 | 22 |
+| Inne | 8 224 | 8 899 |
+| **CFD na towary razem** **CFD na instrumenty kapitałowe** | **79 524** | **11 537** |
+| Akcje i ETF | 71 264 | 52 187 |
+| Indeksy | 13 521 | 10 447 |
+| **CFD na instrumenty kapitałowe razem** **CFD na instrumenty dłużne** | **84 785** | **62 634** |
+| Obligacje | - | 4 |
+| **CFD na instrumenty dłużne razem** | **-** | **4** |
+| **Akcje i ETF** | **-** | **-** |
+| **Instrumenty dłużne** | **-** | **-** |
+| **Zobowiązania finansowe wyceniane w wartości godziwej przez wynik** **finansowy razem** | **164 309** | **74 175** |
+Stopień wrażliwości Grupy na zmianę cen poszczególnych towarów oraz instrumentów kapitałowych o ±5% na kapitał własny i zysk przed opodatkowaniem w podziale na klasę instrumentu bazowego został przedstawiony poniżej.  
+| **(w tys. PLN)** **WZROST O 5%** **SPADEK O 5%** **WZROST O 5%** **SPADEK O 5%** **Przychody/(koszty) okresu** **CFD na towary** | **OKRES 12 MIESIĘCY ZAKOŃCZONY** **OKRES 12 MIESIĘCY ZAKOŃCZONY** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Metale szlachetne | (41 493) | 41 493 | (16 720) | 16 720 |
+| Metale nieszlachetne | 714 | (714) | (2 571) | 2 571 |
+| Inne | (34 782) | 34 782 | 14 824 | (14 824) |
+| **CFD na towary razem** **CFD na instrumenty kapitałowe** | **(75 561)** | **75 561** | **(4 467)** | **4 467** |
+| Akcje i ETF | (649) | 649 | (832) | 832 |
+| Indeksy | 28 036 | (28 036) | (4 876) | 4 876 |
+| **CFD na instrumenty kapitałowe razem** **CFD na instrumenty dłużne** | **27 387** | **(27 387)** | **(5 708)** | **5 708** |
+| Obligacje | (58) | 58 | **(525)** | **525** |
+| **CFD na instrumenty dłużne razem** | **(58)** | **58** | **(525)** | **525** |
+| **Akcje i ETF** | **12 146** | **(12 146)** | **8 624** | **(8 624)** |
+| **Instrumenty dłużne** | **-** **-** **-** **-** |  |  |  |
+| **Przychody/(koszty) okresu razem** | **(36 086)** | **36 086** | **(2 077)** | **2 077** |

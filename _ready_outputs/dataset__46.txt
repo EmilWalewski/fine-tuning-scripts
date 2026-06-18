@@ -1,0 +1,9 @@
+At 30 September 2025, financial assets with cash flows exposed to interest rate risk were 7,163.7 M PLN, up from 5,800.5 M PLN at 31 December 2024, mainly current bank cash of 7,138.1 M PLN. Related financial liabilities were 3,961.4 M PLN, up from 2,710.1 M PLN, driven mostly by customer liabilities of 3,933.3 M PLN.
+
+A 50 bp interest rate increase would raise pre-tax profit by 2.8 M PLN for Q3 2025 and 10.8 M PLN for the nine months to 30 September 2025; an equivalent decrease would reduce it by the same amounts. For 2024 comparatives, the effects were 2.0 M PLN for Q3 and 7.4 M PLN for the nine-month period.
+
+The Group also held bonds exposed to fair-value interest rate risk. For the nine-month period, a 50 bp yield-curve increase would reduce pre-tax profit by 0.03 M PLN in 2025 and 4.6 M PLN in 2024, while a 50 bp decrease would increase it by 0.03 M PLN in 2025 and 5.3 M PLN in 2024.
+
+Other price risk covered commodities, equity instruments and debt instruments not driven by interest rates. Financial assets at fair value through profit or loss exposed to this risk totaled 768.2 M PLN at 30 September 2025, up from 536.5 M PLN at 31 December 2024. Related liabilities totaled 154.5 M PLN, up from 74.2 M PLN. The largest 2025 asset exposures were equity instruments at 527.9 M PLN and commodities at 240.2 M PLN.
+
+For a +/-5% price change over nine months, total sensitivity was +14.9 M PLN or -14.9 M PLN in 2025, compared with +46.9 M PLN or -46.9 M PLN in 2024. In 2025, commodities had a -76.3 M PLN/+76.3 M PLN effect, equity instruments had a +91.3 M PLN/-91.3 M PLN effect, and debt instruments had a -0.1 M PLN/+0.1 M PLN effect.

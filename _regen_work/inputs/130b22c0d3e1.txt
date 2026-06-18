@@ -1,0 +1,168 @@
+DOKUMENT SEKCJA: **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO JEDNOSTKOWEGO SPRAWOZDANIA FINANSOWEGO** > **7.23 REZERWY DŁUGOTERMINOWE**
+
+Struktura instrumentów finansowych oprocentowanych wg zmiennej stopy procentowej na datę bilansową przedstawiała się
+następująco:
+INSTRUMENTY ZMIENNOPROCENTOWE 31.12.2025 31.12.2024
+Aktywa finansowe 796 965 787 439
+Zobowiązania finansowe 661 214 616 863
+Razem netto 135 751 170 576
+Jako aktywa finansowe wykazane są oprocentowane aktywa finansowe, tj. lokaty bankowe oraz pożyczki udzielone.
+
+Jako
+zobowiązania finansowe wykazane są oprocentowane zobowiązania finansowe, tj. kredyty oraz obligacje własne.
+
+Analiza wrażliwości wyniku finansowego na zmianę stopy procentowej
+Zmiana o 100 punktów bazowych („pb”) w oprocentowaniu instrumentów na datę bilansową zwiększyłaby (zmniejszyłaby)
+aktywa netto i rachunek zysków i strat (po opodatkowaniu) o kwoty wykazane w poniższej tabeli.
+
+W ocenie Spółki, przyjęcie do
+analizy 100 pb jest założeniem racjonalnym, biorąc pod uwagę analizę otoczenia rynkowego.
+
+Analiza ta wykonana dla okresów
+dwunastu miesięcy kończących się 31 grudnia 2025 r. i 31 grudnia 2024 r. zakłada, że wszystkie pozostałe zmienne pozostają
+stałe.
+
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+36
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+Rok bieżący
+ANALIZA WRAŻLIWOŚCI NA ZMIANĘ _ Rachunekzyskówi Rachunekzysków i Aktywa netto Wzrost o Aktywa netto Spadek
+Aktywa zmiennoprocentowe 6455 (6 455) 6455 (6 455)
+Zobowiązania zmiennoprocentowe *) (4 285) 4285 (4 285) 4285
+Wrażliwość netto 2170 (2 170) 2170 (2 170)
+Rok poprzedni
+ANALIZA WRAŻLIWOŚCI NAZMIANĘ _ Rachunekzyskówi Rachunek zyskówi Aktywa netto Wzrosto Aktywa netto
+Aktywa zmiennoprocentowe 6378 (6 378) 6378 (6 378)
+Zobowiązania zmiennoprocentowe *) (3 997) 3997 (3 997) 3997
+Wrażliwość netto 2381 (2381) 2381 (2381)
+*)Koszty finansowe dotyczące kredytów i obligacji, są częściowo kapitalizowane przez Spółkę do produkcji w toku.
+
+W przedstawionej
+wyżej analizie również przyjęto, że część kosztów finansowych naliczonych w danym okresie jest odniesiona do rachunku zysków i
+strat, natomiast pozostała część jest skapitalizowana w zapasach i zostanie odniesiona do rachunku zysków i strat w kolejnych okresach
+rozliczeniowych.
+
+RYZYKO KREDYTOWE
+Głównymi aktywami finansowymi Spółki są środki na rachunkach bankowych, gotówka, udzielone pożyczki, należności z tytułu
+dostaw i usług oraz inne należności, które reprezentują największą ekspozycję na ryzyko kredytowe w relacji do aktywów
+finansowych.
+
+Ryzyko kredytowe Spółki jest przede wszystkim przypisane do należności handlowych.
+
+Kwoty przedstawione w bilansie są
+kwotami netto, czyli z uwzględnieniem odpisów aktualizujących wartość wątpliwych należności oszacowanych przez Zarząd
+Spółki na podstawie wcześniejszych doświadczeń, specyfiki prowadzonej działalności i ich oceny obecnego otoczenia
+gospodarczego.
+
+Ryzyko kredytowe związane z funduszami płynnymi w tym środkami pieniężnymi i ich ekwiwalentami oraz krótkoterminowymi
+aktywami finansowymi, jest ograniczone, ponieważ stronami transakcji są banki o ustalonej reputacji, posiadające zwykle wysoki
+rating przyznany przez międzynarodowe agencje ratingowe, co prezentują poniższe tabele:
+Rok bieżący
+oraz krótkoterminowych aktywów finansowych]
+Moody's Ratings (Long Term deposit ratings) A2 41 965
+Fitch Ratings (Long Term Issuer Default Rating) AA- 24045
+Fitch Ratings (Long Term Issuer Default Rating) A 72
+Fitch Ratings (Long Term Issuer Default Rating) BBB 33 810
+Fitch Ratings (Long Term Issuer Default Rating) BBB- 59514
+Brak rating’u dla banku brak 57 165
+Gotówka w kasie n/d 99
+Razem 216 670
+Rok poprzedni
+oraz krótkoterminowych aktywów finansowych]
+Moody's Ratings (Long Term deposit ratings) A2 19 237
+Fitch Ratings (Long Term Issuer Default Rating) A+ 14441
+Fitch Ratings (Long Term Issuer Default Rating) A- 101 756
+Fitch Ratings (Long Term Issuer Default Rating) BBB- 43 858
+Fitch Ratings (Long Term Issuer Default Rating) BB+ 92 780
+Fitch Ratings (Long Term Issuer Default Rating) BB- -
+Gotówka w kasie n/d 117
+Razem 272 189
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+37
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+Ryzyko kredytowe związane z udzielonymi pozyczkami jest ograniczone, ponieważ stronami transakcji są tylko podmioty zależne
+od Spółki nad którymi Spółka sprawuje bieżącą kontrolę.
+
+Jednocześnie pożyczki te zabezpieczone są na nieruchomościach
+pożyczkobiorców, których wartość (rentowność prowadzonych na nich lub przyszłych projektów deweloperskich) jest na bieżąco
+przez Spółkę monitorowana.
+
+W celu utrzymania płynności finansowej oraz dostępności środków finansowych na zakładanym poziomie, w Spółce istnieje
+wyspecjalizowana komórka, która monitoruje to zagadnienie.
+
+Komórka ta na bieżąco monitoruje stan płynnych funduszy oraz
+prognozowane wartości przepływów pieniężnych i na tej podstawie podejmuje decyzje o ich odpowiednim lokowaniu w celu
+maksymalizacji możliwych do osiągnięcia przychodów finansowych przy jednoczesnym zabezpieczeniu Spółki przed ryzykiem
+kredytowym.
+
+Spółka nie posiada znaczącej koncentracji ryzyka kredytowego.
+
+Ryzyko rozłożone jest na dużą ilość partnerów i klientów.
+
+Ponadto
+należy zauważyć, że należności dotyczące głównej działalności Spółki tj. sprzedaży mieszkań, lokali usługowych i garaży, są w
+pełni zabezpieczone, gdyż wydanie przedmiotu sprzedaży następuje po zapłaceniu przez nabywców całkowitej ceny wynikającej
+z umowy przedwstępnej sprzedaży.
+
+Struktura należności handlowych w podziale na okres przeterminowania przedstawiona jest w nocie 7.11 Należności z tytułu
+dostaw i usług oraz pozostałe należności.
+
+RYZYKO PŁYNNOŚCI
+Ryzyko płynności jest to ryzyko polegające na braku możliwości regulowania przez Spółkę swoich zobowiązań finansowych w
+terminie ich zapadalności.
+
+Celem Spółki jest zapewnienie, w najwyższym możliwym stopniu, że jej płynność będzie zawsze
+zachowana na poziomie pozwalającym na regulowanie zobowiązań w terminie ich zapadalności, bez ponoszenia niemożliwych
+do przyjęcia strat lub ryzyka narażenia na szwank reputacji Spółki.
+
+Poniższa tabela przedstawia całkowitą wartość przyszłych niezdyskontowanych przepływów pieniężnych z tytułu zobowiązań
+finansowych Spółki w rozbiciu na kontraktowe terminy zapadalności:
+Rok bieżący
+STRUKTURA ZAPADALNOŚCI ZOBOWIĄZAŃ 0-6 miesięcy 6-12 miesięcy 1-2 lata 2-5 lat Razem
+Zobowiązania z tytułu kredytów 10 000 - - 1 10 000
+Obligacje własne wyemitowane 128 087 14 898 28 324 581 735 753 044
+Zobowiązania z tytułu dostaw i usług i pozostałe 408 928 13 085 18 187 6 433 446 633
+Zobowiązania z tytułu leasingu 7 000 3071 5 267 69 207 84545
+Razem 554015 31054 51778 657 375 1294 222
+Rok poprzedni
+STRUKTURA ZAPADALNOŚCI ZOBOWIĄZAŃ 0-6 miesięcy 6-12 miesięcy 1-2 lata 2-5lat Razem
+Zobowiązania z tytułu kredytów - - - 1 >
+Obligacje własne wyemitowane 18 113 117 995 137 662 456 362 730 132
+Zobowiązania z tytułu dostaw i usług i pozostałe 432 161 8 087 29642 9877 479 767
+Zobowiązania z tytułu leasingu 5 657 3 048 7 967 33 691 50 363
+Razem 455 931 129 130 175 271 499 930 1 260 262
+Zobowiązania z tytułu leasingu obejmują również okres dłuższy niż 5 lat.
+
+Zarządzanie płynnością Spółki odbywa się głównie poprzez:
++ krótko-, średnio- i długo-terminowe planowanie przepływów gotówkowych bazujących na regularnie aktualizowanych
+prognozach działalności operacyjnej i finansowej; szczegółowe plany krótkoterminowe aktualizowane są przynajmniej
+raz na miesiąc,
++ dobór odpowiednich źródeł finansowania na podstawie analizy potrzeb Spółki oraz analizy rynku,
++ bieżący monitoring wskaźników wynikających z umów z bankami,
++ dywersyfikacje źródeł finansowania prowadzonej działalności deweloperskiej,
++ współpracę z instytucjami finansowymi o ustalonej, wysokiej reputacji.
+
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+38
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+ZARZĄDZANIE KAPITAŁEM
+Polityka Zarządu zakłada utrzymywanie silnej bazy kapitałowej w celu zachowania zaufania inwestorów, wierzycieli i rynku oraz
+w celu zapewnienia dalszego rozwoju działalności Spółki.
+
+Za lata kończące się 31 grudnia 2025 i 2024 r. stopa zwrotu z kapitału (liczona jako zysk netto do średniorocznej wartości
+kapitałów własnych) wynosiła odpowiednio 36,8% i 29,5%.
+
+W tym czasie średni ważony koszt oprocentowania zadłużenia Spółki
+wynosił 5,9% w 2025 roku i 5,9% w 2024 roku.
+
+Na dzień 31 grudnia 2025 i 2024 współczynnik dźwigni finansowej netto (liczony jako zadłużenie z tytułu kredytów i obligacji
+pomniejszone o środki pieniężne i ich ekwiwalenty oraz krótkoterminowe aktywa finansowe podzielone przez kapitały własne)
+wynosił odpowiednio 26,4% i 23,4%.
+
+Spółka nie posiada zdefiniowanego planu wykupu akcji własnych.
+
+Spółka nie podlega żadnym zewnętrznie określonym wymogom kapitałowym z wyjątkiem wymogów ustawowych określonych
+w Kodeksie Spółek Handlowych.

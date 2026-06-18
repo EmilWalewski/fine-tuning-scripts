@@ -1,0 +1,18 @@
+DOKUMENT SEKCJA: **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO** > **7.6 WARTOŚCI NIEMATERIALNE**
+
+# **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO**
+## **7.6 WARTOŚCI NIEMATERIALNE**
+| **Rok bieżący** **WARTOŚCI NIEMATERIALNE** | **Inne wartości** **Oprogramowanie** **Znak towarowy** **Wartości** **Razem** |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **niematerialne** **komputerowe** |  | **niematerialne w** **realizacji** |  |  |  |
+| **Wartość brutto napoczątek okresu** | **11 456** | **47 008** | **6 990** | **2 322** | **67 776** |
+| Zwiekszia - abycispołk | - - - - - |  |  |  |  |
+| Zwieksziapzstał | 1 200 | 7 926 | - | 11 130 | 20 256 |
+| (Zmniejszenia) | (2 946) | - | - | (424) | (3 370) |
+| **Wartość brutto na koniec okresu** | **9 710** | **54 934** | **6 990** | **4 941** | **76 575** |
+| **Skumulowana amortyzacja na** **początek okresu** | **9 016** | **29 028** | **6 990** | **-** | **45 034** |
+| Zwiekszia - abycispołk | - - - - - |  |  |  |  |
+| Zwieksziapzstał | 1 387 | 6 993 | - | - | 8 380 |
+| (Zmniejszenia) | (2 832) - - - (2 832) |  |  |  |  |
+| **Skumulowana amortyzacja na** **koniec okresu** | **7 571** | **36 021** | **6 990** | **-** | **50 582** |
+| **Wartość netto na koniec okresu** | **2 139** | **18 913** | **-** |  | **4 941** **25 993** |

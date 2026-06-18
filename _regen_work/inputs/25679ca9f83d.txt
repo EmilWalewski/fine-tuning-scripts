@@ -1,0 +1,135 @@
+DOKUMENT SEKCJA: **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **S1-14 WSKAŹNIKI BEZPIECZEŃSTWA I HIGIENY PRACY**
+
+Wszyscy pracownicy spółek Grupy, którzy stanowią własnych pracowników, są objęci systemem zarządzania bezpieczeństwem i higieną pracy opartym na wymogach prawnych.
+
+System BHP obowiązujący w spółkach Grupy nie został poddany audytowi wewnętrznemu i/lub audytowi lub certyfikacji przed podmiot zewnętrzny.
+
+Spółki z Grupy nie ewidencjonują przypadków złego stanu zdrowia związanego z pracą wykrytego wśród byłych pracowników.
+
+Do wyliczenia wskaźnika odnotowanych wypadków przyjęto 1992 godziny jako roczny wymiar pracy w 2025 r.
+pracyw 2025 r.
+Odsetek osób będących własnymi pracownikami jednostki (UoP), które są
+objęte systemem zarządzania bezpieczeństwem i higieną pracy na podstawie wymogów prawnych lub uznanych normach bądź wytycznych 100% 100%
+Liczba ofiar śmiertelnych wśród własnych
+pracowników (UoP) w wyniku urazów przy pracy i złego stanu zdrowia związanych z pracą 0,00 0,00
+Wskaźnik odnotowanych wypadków
+związanych z pracą podlegających zgłoszeniu przy pracy własnych pracowników (UoP) 2,82 2,08
+Liczba odnotowanych wypadków
+związanych z pracą podlegających zgłoszeniu przy pracy własnych pracowników (UoP) 4,00 3,00
+Liczba odnotowanych przypadków złego
+stanu zdrowia własnych pracowników (UoP) związanego z pracą podlegającego zgłoszeniu 2,00 2,00
+Liczba dni straconych z powodu urazów i zgonów związanych z pracą w wyniku wypadków przy pracy, złego stanu
+zdrowia związanego z pracą oraz ofiar śmiertelnych spowodowanych złym stanem zdrowia własnych pracowników 57,00 13,00
+(UoP)
+Liczba ofiar śmiertelnych wśród osób wykonujących pracę w łańcuchu wartości
+(Podwykonawcy) w wyniku urazów przy pracy i złego stanu zdrowia związanych z pracą 0,00 2,00
+stanu zdrowia wśród osób wykonujących pracę w łańcuchu wartości (Podwykonawcy) związanego z pracą podlegającego zgłoszeniu 9,00 brak danych
+Liczba odnotowanych wypadków wśród osób wykonujących pracę w łańcuchu wartości (Podwykonawcy) 12,00 brak danych
+Liczba ofiar śmiertelnych w wyniku obrażeń związanych z pracą i złego stanu
+zdrowia innych pracowników pracujących na terenie przedsiębiorstwa 0,00 brak danych
+(współpracownicy - inne formy zatrudnienia)
+Liczba odnotowanych przypadków złego stanu zdrowia wśród osób innych brak pracowników pracujących na terenie 0,00 danych przedsiębiorstwa (współpracownicy - inne formy zatrudnienia)
+Dane dotyczące wypadków przy pracy, zdarzeń potencjalnie wypadkowych i sytuacji potencjalnie niebezpiecznych, złego stanu zdrowia oraz potwierdzonych chorób zawodowych pracowników są gromadzone za pomocą dedykowanej obszarowi BHP aplikacji eBHP oraz wewnętrznie prowadzonych rejestrów.
+
+Każdy pracownik lub współpracownik ma możliwość zgłoszenia zdarzenia za pośrednictwem aplikacji.
+
+Zgłoszenia trafiają bezpośrednio do Działu BHP, który podejmuje wymagane czynności związane z analizą i obsługą incydentu.
+
+Aplikacja umożliwia zgłaszanie wypadków oraz zdarzeń związanych ze stanem zdrowia pracowników, uzupełnianie zgromadzonych danych, generowanie oraz przechowywanie niezbędnych dokumentów, a także monitorowanie zgłoszonych przypadków oraz ich obsługę przez Dział BHP.
+
+Gromadzeniem i zarządzaniem danymi zajmują się osoby odpowiedzialne za obszar BHP, które na bieżąco analizują otrzymane zgłoszenia i podejmuje działania zgodne z obowiązującymi przepisami.
+
+Zgłoszenia dotyczące wypadków zarówno kadry własnej jak i kadry Podwykonawców są rejestrowane w dedykowanym module wypadkowym aplikacji, co umożliwia kompleksową ewidencję zdarzeń oraz efektywne zarządzanie danymi.
+
+Na budowach zgłoszenia wypadków podwykonawców dokonuje poprzez aplikację Kierownik Budowy, który następnie przekazuje je do systemu.
+
+W przypadku wypadków kadry własnej taką możliwość ma każdy pracownik i współpracownik lub kierownicy komórek organizacyjnych.
+
+Spółki z Grupy realizują działania wynikające z priorytetów Polityki Bezpieczeństwa i Higieny Pracy i Ochrony Środowiska (opisanej w S1-1).
+
+W zakresie BHP spółki Grupy pracują obecnie nad monitoringiem wdrażania Polityki i Standardu BHP.
+
+Są one stosowane w formie konkretnych klauzul w umowach, w szczególności w umowach ramowych, które wiążą Grupę z jej partnerami w perspektywie długoterminowej.
+
+Ponadto podejmowanie są działania, takie jak:
+- spotkania i szkolenia rozpoczynające pracę: kierownik budowy lub osoba przez niego wyznaczona omawia z pracownikami i pracownikami podwykonawców konkretne ryzyka związane z projektem przed
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A.
+
+I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**
+151
+rozpoczęciem prac, metody pracy, konkretne zagrożenia z zakresu BHP oraz środki ochrony indywidualnej, które mają być stosowane;
+- alerty i tzw. taski bezpieczeństwa: celem alertu bezpieczeństwa jest poinformowanie pracowników kadry, za pomocą krótkiego ogłoszenia/powiadomienia/ostrzeżenia/info rmacji, o konkretnych kwestiach związanych z bezpieczeństwem.
+
+Aby zapewnić, że alert bezpieczeństwa dotrze do każdego pracownika, jest on rozsyłany drogą mailową oraz jest dostępny na wewnętrznym intranecie;
+- alerty środowiskowe: celem alertu jest poinformowanie pracowników kadry oraz pracowników podwykonawców o konkretnych zagrożeniach związanych z prognozowanymi zdarzeniami ekstremalnymi (ulewne deszcze, intensywne opady śniegu, silne wiatry, upały), które mogą wpływać na pracę na placach budów;
+- − inspekcje/kontrole w miejscu pracy: co najmniej raz w tygodniu przeprowadzane są kontrole stanu BHP na budowach.
+
+Przeprowadzają je specjaliści BHP.
+
+Konkretne obszary robocze są sprawdzane pod kątem bezpieczeństwa, zdrowia i aspektów środowiskowych.
+
+Sprawdzane jest nie tylko bezpieczeństwo techniczne, ale także zachowania kadry własnej związane z bezpieczeństwem, takie jak zgodność z przepisami i stosowanie środków ochrony osobistej.
+
+Po kontroli sporządzane są raporty wraz ze sformułowanymi zaleceniami i wnioskami profilaktycznymi.
+- obserwacja (nie)bezpiecznych zachowań: obejmuje cotygodniowe obserwacje prowadzone przez Dział BHP mające na celu identyfikację nieprawidłowości w obszarze BHP.
+
+Obserwacje są następnie omawiane bezpośrednio z zainteresowanymi pracownikami.
+
+Wyniki są na bieżąco analizowane, czego skutkiem jest wdrożenie programu poprawy,
+- szkolenia z zakresu BHP oraz szkolenia z zakresu udzielania pierwszej pomocy dla wszystkich pracowników Spółki Dom Construction,
+- doposażenie wszystkich biur budowy Dom Construction w defibrylatory AED,
+- organizacja Dni Zdrowia obejmujących badania profilaktyczne na budowach Dom Construction.
+- W 2025 roku kontynuowano cykl komunikacji pt.
+- „Środa z dobrą praktyką”, mający na celu promowanie
+najlepszych praktyk bhp na budowach.
+
+Cyklicznie pracownicy budów otrzymują wiadomości wskazujące dobre przykłady działań, które mają inspirować innych oraz szerzyć wiedzę i pomysły na zwiększenie bezpieczeństwa na budowach.
+
+W roku 2025 przeprowadzono także zawody ratownicze, których celem było ćwiczenie i zarazem sprawdzenie wiedzy i umiejętności reagowania na sytuacje awaryjne mogące wystąpić na placu budowy podczas prac realizacyjnych.
+
+Pod koniec roku na budowach dodatkowo przeprowadzono dodatkowe szkolenie praktyczne z elementami technologii VR z zakresu gaszenia pożarów i ewakuacji.
+
+W ramach dobrej współpracy z organami państwowymi strażacy ze Specjalistycznej Grupy Poszukiwawczo-Ratowniczej w Warszawie, działającej w oparciu o Jednostkę Ratowniczo-Gaśniczą nr 15 Państwowej Straży Pożarnej, prowadzili na budowie Dom Construction ćwiczenia z zakresu zabezpieczenia osuwisk oraz wydobywania osób zasypanych w wykopach.
+
+Dom Construction udostępnił teren do ćwiczeń wraz ze specjalnie przygotowanymi w tym celu wykopami.
+
+Odbyło się także przeszkolenie dla pracowników Spółki z zasad postępowania i pierwszej pomocy w przypadku zasypania.
+
+We wszystkich lokalizacjach Dom Construction kolejny raz zostały zorganizowane Dni Zdrowia.
+
+Pracownicy podwykonawców mieli okazję porozmawiać ze specjalistami o zasadach dobrego żywienia, profilaktyce zdrowotnej, jak również zmierzyć sobie ciśnienie lub poziom cukru we krwi.
+
+Mieli również okazje wziąć udział w instruktażu z zasad udzielania pierwszej pomocy.
+
+W spółkach inwestorskich zorganizowano szkolenie z zasad udzielania pierwszej pomocy przedmedycznej.
+
+Wszyscy pracownicy Grupy mają obowiązek uczestnictwa w szkoleniach BHP (wstępnych, okresowych) organizowanych przez pracodawcę.
+
+Każda nowoprzyjęta osoba pierwszego dnia pracy uczestniczy w szkoleniu wstępnym, które przeprowadza pracownik Działu BHP lub osoba odpowiedzialna za ten obszar. Osoby, którym kończy się ważność szkolenia podstawowego uczestniczą w szkoleniach okresowych.
+
+Wtedy celem jest aktualizacja i uzupełnienie wiedzy i umiejętności, w szczególności z zakresu:
+- zagrożeń występujących w pracy oraz ryzyka związanego z nimi;
+- ochrony pracowników i tworzenia warunków pracy zgodnie z BHP;
+- metodyki prowadzenia instruktaży stanowiskowych i codziennych odpraw pracowników przed pracą (dla osób kierujących pracownikami);
+- postępowania w razie wypadków oraz w sytuacjach awaryjnych.
+
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A.
+
+I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**
+152
+W roku 2025 wdrożono przygotowane w Dziale BHP e-learningowe szkolenie okresowe BHP dla pracowników administracyjno-biurowych i kierujących pracownikami.
+
+Dzięki czemu obowiązkowe szkolenia okresowe BHP wymienionych grup stanowisk realizowane są wewnętrznie.
+
+Na potrzeby kadry budowy powstał autorski projekt „Budowa, bezpieczna przygoda” - projekt skierowany do kadry inżynieryjno-technicznej, mający na celu budowanie większej świadomości BHP u osób nadzorujących budowy.
+
+Wydatki Grupy Dom Development na działania z zakresu BHP w roku 2025 (prawie 4 mln zł)[26] wzrosły o 9% w porównaniu z rokiem 2024.
+
+W roku 2025 po raz drugi w historii działalności Dom Construction trzy budowy realizowane przez Spółkę wzięły udział w organizowanym przez Państwową Inspekcję Pracy
+konkursie „Buduj Bezpiecznie”.
+
+Celem konkursu jest promowanie wykonawców robót budowlanych, zapewniających wysokie standardy BHP w procesie realizacji obiektów budowlanych.
+
+Na poziomie etapu wojewódzkiego budowa Osiedle przy Forcie z Warszawy zajęła trzecie miejsce, budowa Osiedle Hubska z Wrocławia otrzymała drugie miejsce, a budowa Apartamenty Matecznego z Krakowa zajęła pierwsze miejsce w województwie małopolskim.

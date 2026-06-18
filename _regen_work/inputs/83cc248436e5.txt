@@ -1,0 +1,54 @@
+DOKUMENT SEKCJA: **5. Dokonane osądy i szacunki** | **6. Zarządzanie ryzykiem finansowym** | **Informacje o segmentach operacyjnych**
+
+## **5. Dokonane osądy i szacunki**
+Sporządzenie śródrocznego skonsolidowanego sprawozdania finansowego wymaga od Zarządu osądów, szacunków i założeń, wpływających na stosowanie przyjętych zasad rachunkowości oraz prezentowane wartości aktywów, zobowiązań, przychodów oraz kosztów, których rzeczywiste wartości mogą różnić się od wartości szacowanej.  
+Szacunki i założenia podlegają ciągłej ocenie przez Grupę i oparte są o doświadczenia historyczne oraz inne czynniki, w tym oczekiwania co do przyszłych zdarzeń, które w danej sytuacji wydają się uzasadnione. Zmiany szacunków księgowych są ujęte prospektywnie począwszy od okresu, w którym dokonano zmiany szacunku.  
+Informacja na temat szacunków i osądów dotyczących zastosowania zasad rachunkowości, które mają najbardziej istotny wpływ na wartości ujęte w sprawozdaniu finansowym:  
+Pozycja,której dotyczy szacunek(w tys. zł) 31.12.2025 31.12.2024 Nr noty
+Inwestycje w pakiety wierzytelności 11 632 709 10 500 278 9
+Przyjęte założenia i kalkulacja szacunków
+Wartość nabytych pakietów wierzytelności na dzień wyceny ustala się przy zastosowaniu modelu estymacji opartego na szacunkach w zakresie zdyskontowanych oczekiwanych wpływów pieniężnych. Szacowanie wartości oczekiwanych wpływów pieniężnych zostało dokonane przy pomocy metod analitycznych (analiza portfelowa) lub w oparciu o analizę prawną i ekonomiczną poszczególnych wierzytelności lub osób/podmiotów zadłużonych (analiza indywidualna). Wybór metody estymacji przepływów z pakietu wierzytelności dokonywany jest w oparciu o posiadane dane na temat portfela charakterystyk wierzytelności oraz danych historycznych zebranych w trakcie obsługi pakietów. Grupa KRUK opracowuje projekcje odzysków z pakietów wierzytelności niezależenie dla poszczególnych rynków. W prognozach uwzględniane są między innymi: historyczne realizacje procesu odzyskiwania wierzytelności na portfelach, obowiązujące i planowane regulacje prawne, rodzaj i charakter wierzytelności oraz zabezpieczeń, aktualna strategia windykacyjna,jak również warunki makroekonomiczne. Na podstawie pierwotnej prognozy oczekiwanych wpływów pieniężnych, uwzględniającej wartość początkową, wyznaczana jest efektywna stopa procentowa równa wewnętrznej stopie zwrotu zawierającej element uwzględniający ryzyko kredytowe, stosowana do dyskontowania szacowanych wpływów pieniężnych, która pozostaje niezmienna przez cały okres utrzymywania portfela.
+Udzielone pożyczki wyceniane według zamortyzowanego kosztu 610 020 499 604 9
+Saldo pożyczek brutto ustalane jest w oparciu o oczekiwane przepływy pieniężne zdyskontowane efektywną stopą procentową. Oczekiwania te są określane dla homogenicznych grup pożyczek, na podstawie tzw. tablic życia bazujących na danych historycznych o wcześniejszej spłacie pożyczek. Prawdopodobieństwo przedpłaty zmienia się między innymi w zależności od czasu, który upłynął od udzielenia pożyczki. Saldo brutto pożyczek pomniejszane jest o wartość oczekiwanych strat kredytowych. Ustala się je w oparciu o m.in. prawdopodobieństwo niewykonania zobowiązania, stratę z niewykonania zobowiązania oraz saldo pożyczki na moment niewykonania zobowiązania.  
+Pozycja,której dotyczy szacunek(w tys. zł) 31.12.2025 31.12.2024 Nr noty
+Udzielone pożyczki wyceniane według zamortyzowanego kosztu 610 020 499 604 9
+Przyjęte założenia i kalkulacja szacunków
+Saldo pożyczek brutto ustalane jest w oparciu o oczekiwane przepływy pieniężne zdyskontowane efektywną stopą procentową. Oczekiwania te są określane dla homogenicznych grup pożyczek, na podstawie tzw. tablic życia bazujących na danych historycznych o wcześniejszej spłacie pożyczek. Prawdopodobieństwo przedpłaty zmienia się między innymi w zależności od czasu, który upłynął od udzielenia pożyczki. Saldo brutto pożyczek pomniejszane jest o wartość oczekiwanych strat kredytowych. Ustala się je w oparciu o m.in. prawdopodobieństwo niewykonania zobowiązania, stratę z niewykonania zobowiązania oraz saldo pożyczki na moment niewykonania zobowiązania.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+Pozycja,której dotyczy szacunek(w tys. zł) 31.12.2025 31.12.2024 Nr noty
+Udzielone pożyczki wyceniane według wartości godziwej przez wynik finansowy 2 295 3 301 9
+Przyjęte założenia i kalkulacja szacunków
+Pożyczki, które nie spełniły kryterium testu SPPI, wyceniane są w wartości godziwej. Wartość godziwa dla pożyczek została wyznaczona na podstawie poziomu III, tj. w oparciu o prognozę oczekiwanych przepływów pieniężnych. Głównym parametrem, który ma wpływ na szacunek wartości godziwej pożyczek, jest stopa procentowa wykorzystana do zdyskontowania oczekiwanych przepływów do wartości bieżącej oraz wartość oczekiwanych strat kredytowych na portfelu.  
+| **Pozycja**,**której dotyczy osąd****_(w tys. zł)_** **31.12.2025** **31.12.2024** **Nr noty** |
+| **Przyjęte założenia osądów** |
+• Grupa KRUK posiada kontrolę nad realizacją różnic przejściowych w jednostkach zależnych, dlatego tworzy rezerwy na podatek odroczony w wysokości kwoty podatku dochodowego, przewidywanego do zapłaty w przyszłości (na bazie planów/prognoz przygotowanych na okres 3 lat). Na wartość rezerwy na podatek odroczony wpływa zmiana poziomu zakładanych przyszłych przepływów pieniężnych ze spółek inwestycyjnych do KRUK S.A. w dającej się przewidzieć przyszłości. Poziom tych przepływów zależy m.in od: potrzeb płynnościowych KRUK S.A. oraz od pozyskanego i prognozowanego dostępnego nowego finansowania dłużnego dla KRUK S.A., pozyskanego i prognozowanego dostępnego nowego finansowania dłużnego w spółkach inwestycyjnych, planowanych nakładów na pakiety wierzytelności – m.in. od ich poziomu zależy prognozowana sytuacja płynnościowa w spółkach inwestycyjnych, planowanych wpłat z zakupionych pakietów wierzytelności w spółkach inwestycyjnych. W związku z powyższym pozycja rezerwy na podatek odroczony na_Zakładane przyszłe przepływy pieniężne ze spółek_ _zależnych_może podlegać istotnym zmianom w poszczególnych okresach sprawozdawczych. Grupa KRUK dokonuje weryfikacji odzyskiwalności aktywów z tytułu podatku odroczonego na bazie zatwierdzonej prognozy wyników na następne lata.
+Pozycja,której dotyczy osąd(w tys. zł) 31.12.2025 31.12.2024 Nr noty
+Różnice kursowe z przeliczenia kapitałów i zysków ze spółki InvestCapital -148 883 -117 957
+Przyjęte założenia osądów
+Spółka InvestCapital przeprowadza istotne transakcje w trzech różnych walutach: EUR, PLN i RON. Zgodnie z MSR 21, Grupa KRUK dokonuje oceny prawidłowości dostosowania waluty funkcjonalnej do przeprowadzanych transakcji w okresach kwartalnych biorąc pod uwagę zarówno historyczne jak i planowane transakcje. Z uwagi na wolumen planowanych i posiadanych inwestycji w portfele wierzytelności, walutą funkcjonalną spółki InvestCapital jest EUR.  
+Pozycja,której dotyczy osąd(w tys. zł) 31.12.2025 31.12.2024 Nr noty
+Różnice kursowe z przeliczenia kapitałów i zysków ze spółki InvestCapital -148 883 -117 957
+Przyjęte założenia osądów
+Spółka InvestCapital przeprowadza istotne transakcje w trzech różnych walutach: EUR, PLN i RON. Zgodnie z MSR 21,
+Grupa KRUK dokonuje oceny prawidłowości dostosowania waluty funkcjonalnej do przeprowadzanych transakcji w okresach kwartalnych biorąc pod uwagę zarówno historyczne jak i planowane transakcje. Z uwagi na wolumen planowanych i posiadanych inwestycji w portfele wierzytelności, walutą funkcjonalną spółki InvestCapital jest EUR.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **6. Zarządzanie ryzykiem finansowym**
+Zasady zarządzania ryzykiem finansowym zostały przedstawione w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym sporządzonym na dzień 31 grudnia 2024 r. i za rok obrotowy kończący się tego dnia. W okresie od 1 stycznia do 31 grudnia 2025 r. nie wystąpiły istotne zmiany w podejściu do zarządzania ryzykiem finansowym.
+
+## **Informacje o segmentach operacyjnych**
+Na podstawie kryterium istotności przychodów w skonsolidowanym sprawozdaniu z zysków i strat, Grupa wyodrębnia przedstawione poniżej podstawowe segmenty operacyjne. Nie rzadziej niż raz na kwartał Zarząd Jednostki Dominującej dokonuje przeglądu wewnętrznych raportów kierownictwa każdej wyodrębnionej działalności gospodarczej. Działalność operacyjna poszczególnych segmentów operacyjnych Grupy jest następująca:  
+- nabyte pakiety wierzytelności: windykacja zakupionych pakietów wierzytelności;  
+- usługi windykacyjne: windykacja pakietów prowadzona na zlecenie, w imieniu klienta;  
+- pozostałe: udzielanie pożyczek, pośrednictwo finansowe.  
+Informacje odnośnie wyników każdego segmentu operacyjnego przedstawiono poniżej. Podstawowymi miarami efektywności każdego segmentu operacyjnego jest marża pośrednia i EBITDA, które zostały podane w wewnętrznych raportach kierownictwa analizowanych przez Prezesa Zarządu Jednostki Dominującej. Marża pośrednia i EBITDA segmentu wykorzystywane są do pomiaru jego efektywności, gdyż kierownictwo jest przekonane, że takie informacje są najbardziej odpowiednie dla oceny wyniku danego segmentu w porównaniu do innych jednostek działających w tej branży.  
+W raportowanym okresie działalność operacyjna skupiona była na kilku obszarach geograficznych – w Polsce, Rumunii, Włoszech, Hiszpanii oraz Czechach, Słowacji, Niemczech i Francji.  
+Ze względu na miejsce prowadzenia działalności wyróżniono obszary geograficzne:  
+- Polska,  
+- Rumunia,  
+- Włochy,  
+- Hiszpania,  
+- Pozostałe rynki zagraniczne.  
+W przypadku prezentowania informacji w podziale na obszary geograficzne, przychód obszaru jest oparty na geograficznym rozmieszczeniu oddziałów windykacyjnych.  
+Przychody z usług windykacyjnych oraz przychody z pozostałych produktów pochodzą od partnerów biznesowych.  
+W Grupie nie wystąpiły przychody uzyskane w wyniku transakcji zawartych między segmentami.

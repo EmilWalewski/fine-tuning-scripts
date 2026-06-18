@@ -1,0 +1,71 @@
+DOKUMENT SEKCJA: **3. Wybrane dane operacyjne** | **W poniższej tabeli przedstawiono** :
+
+## **3. Wybrane dane operacyjne**
+**Poniższa tabela przedstawia dane o obrotach Grupy (w lotach)** w podziale geograficznym we wskazanych okresach.  
+| **OKRES 3 MIESIĘCY** **ZAKOŃCZONY** | **OKRES 3 MIESIĘCY** **ZAKOŃCZONY** | **OKRES 9 MIESIĘCY** **ZAKOŃCZONY** | **OKRES 9 MIESIĘCY** **ZAKOŃCZONY** |  |
+| --- | --- | --- | --- | --- |
+| **30.09.2025** | **30.09.2024** | **30.09.2025** | **30.09.2024** |  |
+| **Segment działalności detalicznej** | **1 988 985** | **1 413 807** | **5 836 591** | **4 051 730** |
+| Europa Środkowo-Wschodnia | 869 703 | 610 419 | 2 724 918 | 1 719 393 |
+| Europa Zachodnia | 461 563 | 295 161 | 1 325 106 | 788 173 |
+| Ameryka Łacińska1 | 275 067 | 242 075 | 798 133 | 764 313 |
+| Bliski Wschód2 | 382 653 | 266 153 | 988 434 | 779 851 |
+| **Segment działalności instytucjonalnej** | 105 311 | 214 170 | 487 263 | 565 057 |
+| **Razem** | **2 094 296** | **1 627 978** | **6 323 854** | **4 616 787** |
+_1 Spółka zależna XTB International Ltd. z siedzibą w Belize pozyskuje klientów z Ameryki Łacińskiej i reszty świata (poza Europą). Z pozycji wyłączono loty od klientów pozyskanych przez tą spółkę pochodzących z regionu Bliskiego Wschodu._  
+- _2 Loty od klientów pochodzących z Bliskiego Wschodu, pozyskanych przez XTB International Ltd. z siedzibą w Belize, XTB MENA Limited oraz XTB Financial Consultation L.L.C, oba z siedzibą w Zjednoczonych Emiratach Arabskich._  
+79  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+**Poniższa tabela przedstawia dane o obrotach Grupy (w wartości nominalnej mln USD)** w podziale geograficznym we wskazanych okresach.  
+| **OKRES 3 MIESIĘCY** | **OKRES 3 MIESIĘCY** | **OKRES 9 MIESIĘCY** | **OKRES 9 MIESIĘCY** |  |
+| --- | --- | --- | --- | --- |
+| **ZAKOŃCZONY** |  | **ZAKOŃCZONY** |  |  |
+| **30.09.2025** | **30.09.2024** | **30.09.2025** | **30.09.2024** |  |
+| **Segment działalności detalicznej** | **1 102 950** | **673 952** | **3 119 621** | **1 836 263** |
+| Europa Środkowo-Wschodnia | 471 496 | 285 625 | 1 422 928 | 767 631 |
+| Europa Zachodnia | 201 537 | 144 658 | 617 560 | 368 667 |
+| Ameryka Łacińska1 | 173 966 | 114 204 | 470 244 | 345 629 |
+| Bliski Wschód2 | 255 950 | 129 465 | 608 888 | 354 337 |
+| **Segment działalności instytucjonalnej** | **15 329** | **21 363** | **81 079** | **62 460** |
+| **Razem** | **1 118 278** | **695 315** | **3 200 699** | **1 898 723** |
+_1 Spółka zależna XTB International Ltd. z siedzibą w Belize pozyskuje klientów z Ameryki Łacińskiej i reszty świata (poza Europą). Z pozycji wyłączono obroty od klientów pozyskanych przez tą spółkę pochodzących z regionu Bliskiego Wschodu._  
+_2 Obroty od klientów pochodzących z Bliskiego Wschodu, pozyskanych przez XTB International Ltd. z siedzibą w Belize, XTB MENA Limited oraz XTB Financial Consultation L.L.C, oba z siedzibą w Zjednoczonych Emiratach Arabskich._
+
+## **W poniższej tabeli przedstawiono** :
+- liczbę nowych klientów Grupy w poszczególnych okresach;  
+- całkowitą liczbę klientów;  
+- liczbę aktywnych klientów;  
+- wartość depozytów netto w poszczególnych okresach;  
+- średnie przychody operacyjne na aktywnego klienta;  
+- wolumen transakcji w lotach;  
+- rentowność na jednego lota;  
+- obrót instrumentami pochodnymi CFD w wartości nominalnej (w mln USD);  
+- rentowność za 1 milion USD obrotu instrumentami pochodnymi CFD w wartości nominalnej (w USD),  
+- oraz obrót akcjami i ETF w wartości nominalnej (w mln USD).  
+Informacje przedstawione w tabeli poniżej dotyczą działalności w segmencie klientów detalicznych i w segmencie klientów instytucjonalnych łącznie.  
+80  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+| **OKRES 3 MIESIĘCY** | **ZAKOŃCZONY** | **30.09.2025** | **30.09.2024** | **OKRES 9 MIESIĘCY** | **ZAKOŃCZONY** | **30.09.2025** | **30.09.2024** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Nowi klienci1 | 221 762 | 108 104 | 583 405 | 340 420 |  |  |  |
+| Klienci razem | 1 904 475 | 1 213 554 | 1 904 475 | 1 213 554 |  |  |  |
+| Liczba aktywnych klientów2 | 919 976 | 522 899 | 1 005 589 | 586 395 |  |  |  |
+| Depozytynetto(w tys. PLN)3 | 3 233 068 | 2 266 397 | 10 473 943 | 6 071 398 |  |  |  |
+| Średnie przychody operacyjne na aktywnego klienta(w tys. PLN)4 | 0,4 | 0,9 | 1,5 | 2,4 |  |  |  |
+| Obrót instrumentami pochodnymi CFD w lotach5 | 2 094 296 | 1 627 978 | 6 323 854 | 4 616 787 |  |  |  |
+| Rentowność na lota(w PLN)6 | 152 | 272 | 218 | 283 |  |  |  |
+| Obrót instrumentami pochodnymi CFD w wartości nominalnej (w mln USD) | 1 118 278 | 695 315 | 3 200 699 | 1 898 724 |  |  |  |
+| Rentowność za 1 milion obrotu instrumentami pochodnymi CFD w wartości nominalnej (w USD)7 | 84 | 167 | 118 | 178 |  |  |  |
+| Obrót akcjami i ETP w wartości nominalnej (w mln USD) | 5 948 | 2 401 | 14 797 | 6 449 |  |  |  |
+- _1 Liczba nowych klientów Grupy w poszczególnych okresach._  
+- _2 Liczba klientów, którzy w okresie: (i) przeprowadzili co najmniej jedną transakcję i/lub (ii) posiadali otwartą pozycję, i/lub (iii) posiadali wolne środki na rachunku objęte oprocentowaniem._  
+- _3 Depozyty netto stanowią sumę depozytów wpłaconych przez klientów, pomniejszoną o kwoty wypłacone przez klientów w danym okresie, z wyłączeniem wpłat i wypłat realizowanych za pomocą eWallet._  
+- _4 Przychody z działalności operacyjnej Grupy w danym okresie podzielone przez liczbę aktywnych klientów w danym okresie._  
+_5 Lot stanowi jednostkę transakcyjną obrotu instrumentami finansowym. Wielkość lota różni się dla poszczególnych instrumentów finansowych. W przypadku transakcji na instrumentach CFD opartych o waluty, w tym kryptowaluty, lot odpowiada 100 000 jednostek waluty bazowej. W pozostałych przypadkach wartość lota określona jest w tabeli specyfikacji instrumentów, która jest dostępna tutaj. Prezentowana wartość nie uwzględnia obrotu CFD na akcje i ETP w przypadku których 1 lot równa się 1 akcji. W związku z ujednoliceniem definicji lota dla instrumentów CFD opartych na kryptowalutach z definicją stosowaną dla instrumentów CFD opartych na walutach, gdzie wartość 1 lota to 100 000 jednostek waluty bazowej, dane zostały odpowiednio skorygowane w okresach porównawczych._  
+- _6 Wynik z operacji na instrumentach finansowych netto skorygowany o wynik na akcjach i ETP oraz wynik na CFD na akcje i ETP podzielony przez obrót instrumentami pochodnymi CFD w lotach._  
+- _7 Wynik z operacji na instrumentach finansowych netto skorygowany o wynik na akcjach i ETP przeliczony na walutę USD według kursu stanowiącego średnią arytmetyczną średnich kursów określonych przez Narodowy Bank Polski na ostatni dzień każdego miesiąca okresu sprawozdawczego, podzielony przez obrót instrumentami pochodnymi CFD w wartości nominalnej (w mln USD)._  
+81  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.

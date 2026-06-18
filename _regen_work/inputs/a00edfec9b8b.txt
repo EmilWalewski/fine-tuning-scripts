@@ -1,0 +1,111 @@
+DOKUMENT SEKCJA: **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU** > **7.21 ZYSK NA AKCJĘ** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU** > **7.22 TRANSAKCJE Z PODMIOTAMI POWIĄZANYMI** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU** > **7.23 OPCJE NA AKCJE SPÓŁKI** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU** > **Przyznanie nowych opcji na akcje w ramach programu opcji menedżerskich** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU** > **Wygaśnięcie opcji na akcje w ramach programu opcji menedżerskich** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU** > **Wykonanie opcji na akcje w ramach programu opcji menedżerskich**
+
+# **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU**
+## **7.21 ZYSK NA AKCJĘ**
+| **KALKULACJA ZYSKU PODSTAWOWEGO I ROZWODNIONEGO NA** | **Okres 6** **Okres 6** | **Okres 3** **Okres 3** |  |  |
+| --- | --- | --- | --- | --- |
+| **AKCJĘ** | **miesięcy** **miesięcy** | **miesięcy** **miesięcy** |  |  |
+| **zakończony** **zakończony** | **zakończony** **zakończony** |  |  |  |
+| **30.06.2025** | **30.06.2024** |  | **30.06.2025** | **30.06.2024** |
+| **(niebadane)** **PODSTAWOWY ZYSK NA AKCJĘ** | **(niebadane)** **(niebadane)** |  |  |  |
+| Zysk do wyliczeniapodstawowego zysku na akcję | 361 748 | 291 568 | 301 440 | 237 561 |
+| Średnia ważona liczba akcji zwykłych Spółki do wyliczenia podstawowego zysku na akcję | 25 798 422 | 25 774 246 | 25 798 422 | 25 798 422 |
+| **Podstawowy zysk na akcję (PLN)** **ROZWODNIONY ZYSK NA AKCJĘ** | **14,02** | **11,31** | **11,68** | **9,21** |
+| Zysk do wyliczenia rozwodnionego zysku na akcję | 361 748 | 291 568 | 301 440 | 237 561 |
+| Potencjalne akcje rozwadniające dotyczące opcji na akcje z Programu Opcji Menedżerskich | - | 63 506 | - | 65 699 |
+| Średnia ważona rozwodniona liczba akcji zwykłych Spółki do wyliczenia  rozwodnionego zysku na akcję | 25 798 422 | 25 837 752 | 25 798 422 | 25 864 121 |
+| **Rozwodniony zysk na akcję (PLN)** | **14,02** | **11,28** | **11,68** | **9,18** |
+W Spółce nie występuje działalność zaniechana, w związku z tym zysk na akcję z działalności kontynuowanej jest równy zyskowi na akcję wyliczonemu powyżej.
+
+# **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU**
+## **7.22 TRANSAKCJE Z PODMIOTAMI POWIĄZANYMI**
+W okresach sześciu miesięcy zakończonych 30 czerwca 2025 i 2024 r. Spółka była stroną przedstawionych poniżej transakcji z podmiotami powiązanymi.  
+Transakcje między podmiotami powiązanymi odbywają się na zasadach rynkowych.  
+| **DOM DEVELOPMENT S.A. JAKO KUPUJĄCY PRODUKTY LUB USŁUGI:** **Okres 6 miesięcy** **Okres 6 miesięcy** |
+| **zakończony** **zakończony** |
+| **(niebadane)** |
+| **Usługi konsultingowe** |
+| **Zakup nieruchomości** |
+| Dom Land sp. z o.o. - 11 073 |
+| **Umowy o współpracy** |
+| Dom Development Kraków sp. z o.o. 43 44 |
+| **Usługi budowlane** |
+| **Pozostałe** |
+| Dom Construction sp. z o.o. 36 10 |
+| Euro Styl Montownia sp. z o.o. 10 4 |
+**ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY DNIA 30 CZERWCA 2025 ROKU**  
+**DOM DEVELOPMENT S.A.**  
+22  
+| **DOM DEVELOPMENT S.A. JAKO SPRZEDAJĄCY TOWARY I ŚWIADCZĄCY USŁUGI:** **zakończony** **zakończony** **(niebadane)** **Umowy o współpracy** **Okres 6 miesięcy** **Okres 6 miesięcy** |
+| Dom Development Gruntysp. z o.o. 5 5 |
+| Dom Development Kraków 1 sp. z o.o. - 3 |
+| Euro Styl Construction sp. z o.o. 25 3 |
+| Dom Land sp. z o.o. 5 5 |
+| Dom Development Kredytysp. z o.o. 348 292 |
+| Dom Development Kraków 12 sp. z o.o. - 21 |
+| **DOM DEVELOPMENT S.A. JAKO POŻYCZKODAWCA:** **Okres 6 miesięcy** **Okres 6 miesięcy** |
+| **zakończony** **zakończony** |
+| **(niebadane)** |
+| **Udzielonapożyczka** |
+| Dom Development Wrocław sp. z o.o. - 75 000 |
+| Dom Development Kraków sp. z o.o. 158 000 - |
+| **Spłaconapożyczka** |
+| Dom Development Kraków sp. z o.o. - 60 200 |
+| **Otrzymane odsetki odpożyczki netto** |
+| **Naliczone niezapłacone odsetki odpożyczki** |
+| Dom Development Kraków Sp.z.o.o 8 - |
+| **zakończony** **zakończony** |
+| **(niebadane)** |
+| **Zwrot dopłaty do kapitału** |
+|  |
+| **DOM DEVELOPMENT S.A. JAKO ROZLICZAJĄCY KAUCJE:** **Okres 6 miesięcy** **Okres 6 miesięcy** |
+| **zakończony** **zakończony** |
+| **(niebadane)** |
+| **Zatrzymane kaucje gwarancyjne** |
+| Dom Construction sp. z o.o. - 2 598 |
+| **DOM DEVELOPMENT S.A. JAKO OTRZYMUJĄCY DYWIDENDĘ** **zakończony** **zakończony** **(niebadane)** **Dywidenda otrzymana** **Okres 6 miesięcy** **Okres 6 miesięcy** |
+| Dom Development Wrocław sp. z o.o. 35 489 - |
+| Dom Development Kraków 12 sp. z o.o. - 1 268 |
+| Dom Development Kraków Sp. z o.o. 38 192 - |
+**ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY DNIA 30 CZERWCA 2025 ROKU**  
+**DOM DEVELOPMENT S.A.**  
+23  
+| **SALDA Z PODMIOTAMI POWIĄZANYMI - salda z punktu widzenia Spółki** | **30.06.2025** | **(niebadane)** | **31.12.2024** |
+| --- | --- | --- | --- |
+| **Należności od podmiotów powiązanych** **Saldo razem** | **597 455** | **537 565** |  |
+| **Jednostki zależne** | **597 455** | **537 565** |  |
+| Dom Development Wrocław sp. z o.o. dopłatydo kapitału | - 13 500 |  |  |
+| Dom Development Wrocław sp. z o.o. udzielonepożyczki | 115 000 | 195 000 |  |
+| Dom Development Wrocław sp. z o.o. | 654 | 1 399 |  |
+| Euro Styl S.A. udzielonepożyczki | 119 250 | 119 250 |  |
+| Euro Styl S.A. | 1 637 | 1 973 |  |
+| Euro Styl Construction sp. z o.o. | 11 | 2 |  |
+| Dom Development Kredytysp. z o.o. | 171 | 203 |  |
+| Dom Construction sp. z o.o. | 1 137 | 3 952 |  |
+| Dom Development Kraków sp. z o.o. udzielonepożyczki | 359 008 | 201 000 |  |
+| Dom Development Kraków sp. z o.o. | 587 | 1 286 |  |
+| **SALDA Z PODMIOTAMI POWIĄZANYMI - salda z punktu widzenia Spółki** | **30.06.2025** | **(niebadane)** | **31.12.2024** |
+| **Zobowiązania wobec podmiotów powiązanych** **Saldo razem** | **78 981** | **175 368** |  |
+| **Jednostki zależne** | **78 853** | **175 235** |  |
+| Dom Construction sp. z o.o. | 76 890 | 173 398 |  |
+| Dom Construction sp. z o.o. kaucje | 1 963 | 1 837 |  |
+| **Pozostałepodmioty** | **128** | **133** |  |
+| Hansom PropertyCompanyLimited | 128 | 133 |  |
+
+# **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU**
+## **7.23 OPCJE NA AKCJE SPÓŁKI**
+**PLAN MOTYWACYJNY – PROGRAMY OPCJI MENEDŻERSKICH**  
+Na dzień 30 czerwca 2025 r. i na dzień 31 grudnia 2024 r. Spółka nie realizowała już żadnych Programów Opcji Menedżerskich przyjętych w ramach Planu Motywacyjnego dla kadry kierowniczej Spółki.
+
+# **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU**
+## **Przyznanie nowych opcji na akcje w ramach programu opcji menedżerskich**
+W okresach sześciu miesięcy zakończonych 30 czerwca 2025 i 2024 r. Spółka nie przyznała nowych opcji na akcje.
+
+# **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU**
+## **Wykonanie opcji na akcje w ramach programu opcji menedżerskich**
+W okresie sześciu miesięcy zakończonym 30 czerwca 2025 r. nie miało miejsca wykonanie opcji na akcje.  
+W okresie sześciu miesięcy zakończonym 30 czerwca 2024 r. miało miejsce wykonanie 100 000 opcji na akcje Spółki skutkiem czego Spółka wyemitowała 100 000 akcji zwykłych na okaziciela (50 000 akcji serii AJ i 50 000 akcji serii AK).
+
+# **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA OKRES SZEŚCIU MIESIĘCY ZAKOŃCZONY 30 CZERWCA 2025 ROKU**
+## **Wygaśnięcie opcji na akcje w ramach programu opcji menedżerskich**
+W okresach sześciu miesięcy zakończonych 30 czerwca 2025 i 2024r. w Spółce nie wygasły żadne opcje na akcje w ramach programu opcji menedżerskich.

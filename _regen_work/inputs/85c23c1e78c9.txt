@@ -1,0 +1,73 @@
+DOKUMENT SEKCJA: **10.6. Kredyty, pożyczki** | **10.7. Rezerwy** | **11.1. Kategorie i klasy instrumentów finansowych** | **Informacje o poszczególnych rezerwach i znaczących oszacowaniach**
+
+## **10.6. Kredyty, pożyczki**
+W okresie objętym niniejszym śródrocznym skróconym sprawozdaniem finansowym Spółka posiada zobowiązania z tytułu kredytów i pożyczek z tytułu debetu na kartach kredytowych w wysokości 0,7 tys. zł
+
+## **10.7. Rezerwy**
+Zmiany stanu poszczególnych rezerw w ciągu okresu 9 miesięcy zakończonych w dniu 30 września 2025 roku przedstawiono w tabeli poniżej:  
+| **Rezerwa na** **ZMIANY STANU** **REZERW** | **koszty** **przywrócenia** **stanu** **poprzedniego** | **do** | **Rezerwa na** **przygotowanie i** **audyt SF** | **Rezerwa na** **koszty** **podwykonawcy** **w projektach** | **Rezerwy na** **koszty roku** **ubiegłego** | **Razem** |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Wartość bilansowa na** **początek roku** | **3 962** |  | **59** | **1** | **698** | **4** | **720** |
+| Utworzenie rezerw |  | - | 73 | 11 479 | - | 11 | 553 |
+| Wykorzystanie rezerw |  | - | 47 | - | 698 |  | 745 |
+| **Wartość bilansowa na** **koniec okresu** | **3 962** |  | **86** | **11 481** | **-** | **15** | **529** |
+22  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+Zmiany stanu poszczególnych rezerw w ciągu okresu 12 miesięcy zakończonych w dniu 31 grudnia 2024 roku przedstawiono w tabeli poniżej:  
+| **Rezerwa na** **ZMIANY STANU** **REZERW** |  | **koszty** **przywrócenia do** **stanu** **poprzedniego** | **Rezerwa na** **przygotowanie i** **audyt SF** | **Rezerwa na** **koszty** **podwykonawcy** **w projektach** |  | **Rezerwy na** **koszty roku** **ubiegłego** | **Razem** |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Wartość bilansowa na** **początek roku** |  | **2 473** | **53** |  | **82** | **-** |  | **2 607** |
+| Utworzenie rezerw |  | 1 489 | 7 |  | - | 698 |  | 2 194 |
+| Wykorzystanie rezerw |  | - | - |  | 80 | - |  | 80 |
+| **Wartość bilansowa na** **koniec roku** |  | **3 962** | **59** |  | **1** | **698** |  | **4 720** |
+
+## **Informacje o poszczególnych rezerwach i znaczących oszacowaniach**
+Rezerwa na koszty podwykonawców w projektach - podana jest kwota wynikających z umów zobowiązań, które nie zostały zafakturowane. Na wartość 11 479 tys. zł w głównej mierze składa się rezerwa na koszty podwykonawców w projekcie „Camila” o wartości 8 015 tys. zł oraz w projekcie „Mikroglob” o wartości 2 996 tys. zł.  
+W tabeli poniżej przedstawiono rodzaje rezerw na świadczenia pracownicze na dzień 30 września 2025 roku:  
+| **REZERWY NA ŚWIADCZENIA PRACOWNICZE NA** **DZIEŃ 30.09.2025 R.** | **Krótkoterminowe** | **Długoterminowe** | **Razem** |  |
+| --- | --- | --- | --- | --- |
+| Rezerwy urlopowe | 1 347 | - |  | 1 347 |
+| Rezerwyemerytalno-rentowe | 4 | 100 |  | 104 |
+| **Razem** | **1 351** | **100** |  | **1 451** |
+W tabeli poniżej przedstawiono rodzaje rezerw na świadczenia pracownicze na dzień 31 grudnia 2024 roku:  
+| **REZERWY NA ŚWIADCZENIA PRACOWNICZE NA** **DZIEŃ 31.12.2024 R.** | **Krótkoterminowe** | **Długoterminowe** | **Razem** |  |
+| --- | --- | --- | --- | --- |
+| Rezerwy urlopowe | 1 347 | - |  | 1 347 |
+| Rezerwyemerytalno-rentowe | 4 | 100 |  | 104 |
+| **Razem** | **1 351** | **100** |  | **1 451** |
+Zmiany stanu poszczególnych rezerw na świadczenia pracownicze w ciągu okresu 9 miesięcy zakończonych w dniu 30 września 2025 roku przedstawiono w tabeli poniżej:  
+| **ZMIANY STANU REZERW** **PRACOWNICZYCH** | **Rezerwa urlopowe** | **Rezerwy emerytalno-** **rentowe** | **Razem** |  |
+| --- | --- | --- | --- | --- |
+| **Wartość bilansowa na początek roku** | **1 347** | **104** |  | **1 451** |
+| Utworzenie rezerw | - | - |  | - |
+| Rozwiązanie rezerw | - | - |  | - |
+| **Wartość bilansowa na koniec okresu** | **1 347** | **104** |  | **1 451** |
+23  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+Zmiany stanu poszczególnych rezerw na świadczenia pracownicze w ciągu 2024 roku przedstawiono w tabeli poniżej:  
+| **ZMIANY STANU REZERW** **PRACOWNICZYCH** | **Rezerwa urlopowe** | **Rezerwy emerytalno-** **rentowe** | **Razem** |  |
+| --- | --- | --- | --- | --- |
+| **Wartość bilansowa na początek roku** | **1 160** | **106** |  | **1 266** |
+| Utworzenie rezerw | 187 | - |  | 187 |
+| Rozwiązanie rezerw | - | 1 |  | 1 |
+| **Wartość bilansowa na koniec roku** | **1 347** | **104** |  | **1 451** |
+Rezerwy urlopowe ujęto w sprawozdaniu z sytuacji finansowej w pozycji _Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania._  
+24  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **11.1. Kategorie i klasy instrumentów finansowych**
+| **Aktywa finansowe** | **Aktywa finansowe** | **Kategoria** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- | --- | --- |
+| Należności z tytułu dostaw i usług |  | AFwZK | 10 210 | 7 337 |
+| Środki pieniężne i ich ekwiwalenty |  | AFwZK | 108 059 | 32 397 |
+| Kaucje |  | AFwZK | 15 668 | 14 869 |
+| **Razem** |  |  | **133 937** | **54 603** |
+| **Zobowiązania finansowe** |  | **Kategoria** | **30.09.2025** | **31.12.2024** |
+| Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania |  | ZFwZK | 21 380 | 4 768 |
+| Zobowiązania z tytułu kredytów i pożyczek |  | ZFwZK | 1 | - |
+| Zobowiązania z tytułu leasingu |  | wedługMSSF 16 | 21 454 | 22 522 |
+| **Razem** |  |  | **42 835** | **27 290** |
+Legenda oznaczeń:  
+AFwZK – Aktywa finansowe wyceniane w zamortyzowanym koszcie  
+AFwWGWF – Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy AFwWGICD – Aktywa finansowe wyceniane w wartości godziwej przez inne całkowite dochody ZFwZK – Zobowiązania finansowe wyceniane w zamortyzowanym koszcie  
+ZFwWGWF – Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy

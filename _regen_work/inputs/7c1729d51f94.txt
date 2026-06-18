@@ -1,0 +1,85 @@
+DOKUMENT SEKCJA: Główny Dokument
+
+##
+
+| Udziały niekontrolujące | **(329)** | 633 | 20 | - | - | 20 | 653 - - - - 324 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Zyski zatrzymane | **4 009 434** | 1 085 008 - - - | - | 1 085 008 | (349 252) - - | (349 252) | 4 745 190 |
+| Pozostałe kapitały rezerwowe | **188 654** | - - - - | - | - | - - 24 035 | 24 035 | 212 689 |
+| Różnice kursowe z przeliczenia jednostek działających zagranicą | **(130 734)** | - (37 942) - - | (37 942) | (37 942) | - - - | - | (168 676) |
+| Kapitał rezerwowy z wycen programów określonych świadczeń | **3 374** | - - - 1 768 | 1 768 | 1 768 | - - - | - | 5 142 |
+| Kapitał rezerwowy z wyceny instrumentów zabezpieczających | **64 779** | - - 45 985 - | 45 985 | 45 985 | - - - | - | 110 764 |
+| Kapitał z emisji akcji powyżej ich wartości nominalnej | **374 097** | - - - - | - | - | - 27 442 - | 27 442 | 401 539 |
+| Kapitał akcyjny | **19 382** | - - - - | - | - | - 110 - | 110 | 19 492 |
+| **_Nota_** |  | _10.11_ |  |  | _10.3_ |  |  |
+| **_Za okres sprawozdawczy kończący się 31 grudnia 2025 r._** _w tysiącach złotych_ | **Kapitał własny na dzień 1 stycznia 2025 r.** | **Całkowite dochody za okres sprawozdawczy** Zysk netto za okres sprawozdawczy **Inne całkowite dochody** - Różnice kursowe z przeliczenia jednostek działających za granicą -Wycena instrumentów zabezpieczających -Wyceny programów określonych świadczeń | **Inne całkowite dochody ogółem** | **Całkowite dochody ogółem za okres sprawozdawczy** | **Dopłaty od i wypłaty do właścicieli** - Wypłata dywidendy - Emisja akcji własnych - Płatności w formie akcji | **Dopłaty od i wypłaty do właścicieli ogółem** | **Kapitał własny ogółem na dzień 31 grudnia 2025 r., niebadane** |
+| Udziały niekontrolujące | **(583)** | 324 | 36 | - | - | 36 | 360 (106) - - (106) **(329)** |
+| Zyski zatrzymane | **3 283 218** | 1 073 954 - - - | - | 1 073 954 | (347 738) - - | (347 738) | **4 009 434** |
+| Pozostałe kapitały rezerwowe | **171 847** | - - - - | - | - | - - 16 807 | 16 807 | **188 654** |
+| Różnice kursowe z przeliczenia jednostek działających zagranicą | **(95 871)** | - (34 863) - - | (34 863) | (34 863) | - - - | - | **(130 734)** |
+| Kapitał rezerwowy z wycen programów określonych świadczeń | **3 331** | - - - 43 | 43 | 43 | - - - | - | **3 374** |
+| Kapitał rezerwowy z wyceny instrumentów zabezpieczających | **51 043** | - - 13 736 - | 13 736 | 13 736 | - - - | - | **64 779** |
+| Kapitał z emisji akcji powyżej ich wartości nominalnej | **358 506** | - - - - | - | - | - 15 591 - | 15 591 | **374 097** |
+| Kapitał akcyjny | **19 319** | - - - - | - | - | - 63 - | 63 | **19 382** |
+| **_Nota_** |  | _10.11_ |  |  | _10.3_ |  |  |
+| **_Za okres sprawozdawczy kończący się 31 grudnia 2024 r._** _w tysiącach złotych_ | **Kapitał własny na dzień 1 stycznia 2024 r.** | **Całkowite dochody za okres sprawozdawczy** Zysk netto za okres sprawozdawczy **Inne całkowite dochody** - Różnice kursowe z przeliczenia jednostek działających za granicą -Wycena instrumentów zabezpieczających -Wyceny programów określonych świadczeń | **Inne całkowite dochody ogółem** | **Całkowite dochody ogółem za okres sprawozdawczy** | **Dopłaty od i wypłaty do właścicieli** - Wypłata dywidendy - Emisja akcji własnych - Płatności w formie akcji | **Dopłaty od i wypłaty do właścicieli ogółem** | **Kapitał własny ogółem na dzień 31 grudnia 2024 r.** |
+
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+10<br>## **V. Skonsolidowane sprawozdanie z przepływów pieniężnych**
+
+| _w tysiącach złotych_ **Przepływy pieniężne z działalności operacyjnej** _Korekty_ | _w tysiącach złotych_ | **01.01.2025-** **31.12.2025** **niebadane** **01.10.2025-** **31.12.2025** **niebadane** **01.01.2024-** **31.12.2024** **dane** **przekształcone** **01.10.2024-** **31.12.2024** **niebadane** **dane** **przekształcone** |  |  |
+| --- | --- | --- | --- | --- |
+| Amortyzacja rzeczowych aktywów trwałych | 36 690 | 9 229 | 36 834 | 8 354 |
+| Amortyzacja wartości niematerialnych | 28 691 | 8 378 | 25 645 | 6 949 |
+| Koszty finansowe netto | 441 712 | 113 788 | 402 029 | 112 742 |
+| Spisanie prac rozwojowych w koszty | 618 | - | 1 055 | - |
+| (Zysk) /strata ze sprzedaży rzeczowych aktywów trwałych |  | (915) | (231) | 199 14 |
+| (Zysk) /strata ze sprzedaży jednostek zależnych | (2 282) | 55 | - | - |
+| Przychody odsetkowe | (2 469 682) | (647 354) | (2 129 739) | (586 921) |
+| Podatek dochodowy | 50 433 | 36 553 | (63 873) | (62 290) |
+| Zmiana stanu udzielonych pożyczek | (109 410) | (23 827) | (84 777) | (29 985) |
+| Zmiana stanu inwestycji w pakiety wierzytelności | (1 180 020) | (484 179) | (1 882 627) | (756 540) |
+| Zmiana stanu zapasów | 3 201 | 378 | 2 482 | (1 735) |
+| Zmiana stanu pozostałych aktywów | (2 392) | (1 979) | (1 103) | (3 376) |
+| pracowniczych | (8 106) | 3 970 | 9 306 | 20 934 |
+| Zmiana stanu rezerw | 1 976 | (514) | (16 062) | (2 385) |
+| Udział w zyskach mniejszości | (633) | (98) | (324) | 4 |
+| Odsetki otrzymane | 2 469 682 | 647 354 | 2 129 739 | 586 921 |
+| Podatek zapłacony **Przepływy pieniężne z działalności inwestycyjnej** | (51 171) | (17 536) | (34 482) | (29 169) |
+| Odsetki otrzymane | 2 337 | 1 499 | 6 212 | 169 |
+| Wpływy z tytułu sprzedaży wartości niematerialnych oraz rzeczowych aktywów trwałych |  | 1 441 | 460 | 559 61 |
+| Wpływy ze sprzedaży jednostek zależnych | 5 650 | 412 | - | - |
+| Wydatki na wartości niematerialne oraz rzeczowe aktywa trwałe(w tym w budowie) **Przepływy pieniężne z działalności finansowej** | (93 355) | (29 949) | (43 180) | (19 218) |
+| Wpływy z emisji akcji | 27 552 | 22 263 | 15 654 | - |
+| Wpływy z emisji dłużnych papierów wartościowych | 600 000 | - | 373 724 | 200 000 |
+| Zaciągnięcie kredytów | 2 883 556 | 884 688 | 2 929 362 | 1 144 195 |
+| Odsetki otrzymane od instrumentów zabezpieczających | 146 262 | 37 020 | 130 336 | 31 274 |
+| Wydatki na spłatę kredytów | (2 678 431) | (724 398) | (2 073 886) | (570 044) |
+| Płatności zobowiązań z tytułu umów leasingu | (30 340) | (10 931) | (34 556) | (11 607) |
+| Wypłata dywidendy | (349 252) | - | (347 844) | - |
+| Wykup dłużnych papierów wartościowych | (242 500) | - | (102 500) | - |
+| Odsetki zapłacone od instrumentów zabezpieczających | (67 436) | (22 297) | (35 727) | (10 749) |
+| Odsetki zapłacone _w tym:_ | (500 970) | (125 996) | (492 690) | (133 322) |
+| _- zmiana stanu środków pieniężnych z tytułu różnic_ _kursowych_ |  | _8 805_ | _722_ | _3 299_ _671_ |
+
+Skonsolidowane sprawozdanie z przepływów pieniężnych należy analizować łącznie z notami objaśniającymi do skróconego śródrocznego skonsolidowanego sprawozdania finansowego, które stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego.
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+11<br>- **VI. Noty objaśniające do skróconego śródrocznego skonsolidowanego sprawozdania finansowego**
+**1. Opis organizacji Grupy Kapitałowej KRUK**
+**Dane Jednostki Dominującej**
+Nazwa jednostki dominującej:
+KRUK Spółka Akcyjna (dalej „KRUK S.A.” lub „Jednostka Dominująca”)
+Siedziba jednostki dominującej:
+ul. Bolkowska 3 53-612 Wrocław
+Polska
+Z dniem 31 marca 2025 r. nastąpiła zmiana adresu siedziby Jednostki Dominującej z dotychczasowego: ul. Wołowska 8, 51-116 Wrocław na nowy: ul. Bolkowska 3, 53-612 Wrocław.
+Rejestracja w Krajowym Rejestrze Sądowym:
+Sąd Rejonowy dla Wrocławia-Fabrycznej we Wrocławiu, VI Wydział Gospodarczy Krajowego Rejestru Sądowego, ul. Poznańska 16-17, 53-230 Wrocław
+Data rejestracji: 7 września 2005 r.
+Numer rejestru: KRS 0000240829
+_Przedmiot działalności jednostki dominującej oraz jej jednostek zależnych_
+Jednostka Dominująca oraz większość jej jednostek zależnych zajmuje się restrukturyzacją i odzyskiwaniem wierzytelności nabywanych przez podmioty z Grupy oraz wierzytelności powierzanych przez instytucje finansowe i inne podmioty. Niektóre jednostki zależne prowadzą ponadto działalność w zakresie udzielania pożyczek konsumenckich.
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe za okres sprawozdawczy od 1 stycznia do 31 grudnia 2025 r. obejmuje sprawozdania finansowe Jednostki Dominującej oraz jej jednostek zależnych (zwanych łącznie „Grupą”, „Grupą KRUK” lub „Grupą Kapitałową”).
+Jednostką Dominującą najwyższego szczebla jest KRUK S.A.
+Na dzień 31 grudnia 2025 r. skład Zarządu Jednostki Dominującej przedstawiał się następująco:

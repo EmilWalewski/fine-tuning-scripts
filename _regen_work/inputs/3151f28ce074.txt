@@ -1,0 +1,100 @@
+DOKUMENT SEKCJA: **3 kwartał 2024 roku:** | **3 kwartał 2025 roku:** | **8. Struktura rzeczowa przychodów z umów z klientami** | **9. Środki pieniężne i ich ekwiwalenty**
+
+## **3 kwartał 2025 roku:**
+| **Segmenty operacyjne** **Rachunek zysków i strat** | **SOG** |  | **SWW** | **SSA** | **Inne** | **Wyłączenia** | **Razem** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Przychody z umów z klientami |  | **283** | **501** | **810** | **7** | **(154)** | **1 447** |
+| - spoza Grupy |  | 283 | 355 | 809 | 0 | 0 | 1 447 |
+| - od spółek powiązanych |  | 0 | 146 | 1 | 7 | (154) | 0 |
+| Dywidendy |  | 0 | 0 | 0 | 0 | 0 | 0 |
+| Odpis aktualizujący wartość zapasów |  | 0 | 1 | (3) | 0 | 0 | (2) |
+| **Zysk z działalności** **operacyjnej (EBIT)** |  | **52** | **22** | **173** | **(9)** | **(4)** | **234** |
+| Amortyzacja |  | 10 | 26 | 23 | 2 | (1) | 60 |
+| **EBITDA** |  | **62** | **48** | **196** | **(7)** | **(5)** | **294** |
+| Przychody z tytułu odsetek |  | 0 | 0 | 0 | 1 | (1) | 0 |
+| Koszty z tytułu odsetek |  | (3) | (4) | (7) | (5) | 1 | (18) |
+| **Zysk przed** **opodatkowaniem** |  | **50** | **20** | **164** | **(14)** | **(5)** | **215** |
+| Podatek dochodowy |  | (10) | (4) | (29) | 2 | 2 | (39) |
+| **Zysk netto** |  | **40** | **16** | **135** | **(12)** | **(3)** | **176** |
+| Nakładyna środkitrwałe |  | 6 | 15 | 16 | 1 | 0 | 38 |
+_(w milionach PLN)_  
+17  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+**9 miesięcy 2024 roku:**  
+| **Segmenty operacyjne** **Rachunek zysków i strat** | **SOG** | **SWW** | **SSA** |  | **Inne** | **Wyłączenia** | **Razem** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Przychody z umów z klientami | **900** | **1 503** | **1** | **847** | **20** | **(374)** | **3 896** |
+| - spoza Grupy | 900 | 1 150 | 1 | 846 | 0 | 0 | 3 896 |
+| - od spółek powiązanych | 0 | 353 |  | 1 | 20 | (374) | 0 |
+| Dywidendy | 0 | 0 |  | 0 | 556 | (556) | 0 |
+| Odpisy aktualizujące wartość zapasów | (5) | 0 |  | (3) | 0 | 0 | (8) |
+| Odpisy aktualizujące wartość należności | 0 | (1) |  | 1 | 0 | 0 | 0 |
+| Odpisy aktualizujące wartość aktywów trwałych | 0 | 3 |  | 0 | 0 | 0 | 3 |
+| **Zysk z działalności** **operacyjnej (EBIT)** | **170** | **105** |  | **333** | **531** | **(560)** | **579** |
+| Amortyzacja | 26 | 69 |  | 55 | 2 | 0 | 152 |
+| **EBITDA** | **196** | **174** |  | **388** | **533** | **(560)** | **731** |
+| Przychody z tytułu odsetek | 5 | 1 |  | 1 | 1 | (6) | 2 |
+| Koszty z tytułu odsetek | (9) | (14) | (22) |  | (6) | 6 | (45) |
+| **Zysk przed** **opodatkowaniem** | **165** | **93** |  | **313** | **525** | **(560)** | **536** |
+| Podatek dochodowy | (33) | 13 | (54) |  | 2 | 1 | (71) |
+| **Zysk netto** **Bilans na 30.09.2024** | **132** | **106** |  | **259** | **527** | **(559)** | **465** |
+| Aktywa razem | 930 | 1 586 | 1 | 954 | 988 | (1 115) | 4 343 |
+| Zobowiązania | 312 | 631 | 1 | 149 | 761 | (360) | 2 493 |
+| Nakładyna środki trwałe | 6 | 86 |  | 54 | 10 | 0 | 156 |
+
+## **3 kwartał 2024 roku:**
+| **Segmenty operacyjne** **Rachunek zysków i strat** | **SOG** |  | **SWW** | **SSA** | **Inne** | **Wyłączenia** | **Razem** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Przychody z umów z klientami |  | **297** | **511** | **678** | **7** | **(137)** | **1 356** |
+| - spoza Grupy |  | 297 | 381 | 678 | 0 | 0 | 1 356 |
+| - od spółek powiązanych |  | 0 | 130 | 0 | 7 | (137) | 0 |
+| Dywidendy |  | 0 | 0 | 0 | 0 | 0 | 0 |
+| Odpis aktualizujący wartość zapasów |  | (1) | 0 | (2) | 0 | 0 | (3) |
+| Odpis aktualizujący wartość należności |  | 0 | (1) | 1 | 0 | 0 | 0 |
+| Odpisy aktualizujące wartość aktywów trwałych |  | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Zysk z działalności** **operacyjnej (EBIT)** |  | **58** | **30** | **122** | **(11)** | **1** | **200** |
+| Amortyzacja |  | 8 | 24 | 21 | 0 | 0 | 53 |
+| **EBITDA** |  | **66** | **54** | **143** | **(11)** | **1** | **253** |
+| Przychody z tytułu odsetek |  | 0 | 1 | 1 | 1 | (1) | 2 |
+| Koszty z tytułu odsetek |  | (4) | (5) | (7) | (1) | 1 | (16) |
+| **Zysk przed** **opodatkowaniem** |  | **54** | **26** | **117** | **(13)** | **1** | **185** |
+| Podatek dochodowy |  | (11) | (5) | (22) | 1 | 0 | (37) |
+| **Zysk netto** |  | **43** | **21** | **95** | **(12)** | **1** | **148** |
+| Nakłady na środki trwałe |  | 3 | 16 | 11 | 5 | 0 | 35 |
+Pozycja „Wyłączenia” dotyczy eliminacji transakcji pomiędzy segmentami oraz korekt konsolidacyjnych. W rachunku zysków i strat w głównej mierze dotyczy to sprzedaży profili aluminiowych z SWW do SSA.  
+_(w milionach PLN)_  
+18  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+W zakresie aktywów oraz pasywów wyłączenia obejmują głównie inwestycje w finansowy majątek trwały (akcje i udziały) oraz rozrachunki pomiędzy segmentami.  
+Powyższe transakcje odbywają się na warunkach rynkowych.  
+W prezentowanych okresach nie występowała koncentracja sprzedaży przekraczająca 10%.
+
+## **8. Struktura rzeczowa przychodów z umów z klientami**
+| **Struktura geograficzna przychodów z** **umów z klientami** | **III kwartał** | **2025** | **9 miesięcy** | **2025** | **III kwartał** **2024** **III kwartał** **2025** **9 miesięcy** **2025** **III kwartał** **2024** **9 miesięcy** **2024** |
+| --- | --- | --- | --- | --- | --- |
+| UE (poza Polską) |  |  | 1 556 | 254 | 126 |
+| Inne kraje europejskie Pozostałe kraje | 46 | 137 |  |  |  |
+| **Razem przychody ze sprzedaży** | **1 447** | **4 243** | **1 356** |  | **3 896** |
+Sprzedaż w powyższej tabeli jest rozpoznawana na podstawie kraju kontrahenta będącego stroną transakcji sprzedaży.  
+| **3 kwartał** | **2025** | **9 miesięcy** | **2025** | **3 kwartał** | **2024** | **9 miesięcy** | **2024** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Produkty w tym:** | **1 249** | **3 694** | **1 179** | **3 393** |  |  |  |
+| _korekty konsolidacyjne*_ | (145) | (471) | (129) | (349) |  |  |  |
+| **Usługi w tym:** | **10** | **26** | **7** | **21** |  |  |  |
+| _korekty konsolidacyjne**_ | (9) | (28) | (8) | (25) |  |  |  |
+| **Materiały i towary w tym:** | **188** | **523** | **170** | **482** |  |  |  |
+| **Razem przychody ze sprzedaży** | **1 447** | **4 243** | **1 356** | **3 896** |  |  |  |
+*dotyczy głównie sprzedaży profili aluminiowych z SWW do SSA;  
+**dotyczy głównie usług kooperacji pomiędzy segmentem SSA i segmentem SWW oraz usług służb centralnych świadczonych dla segmentów.
+
+## **9. Środki pieniężne i ich ekwiwalenty**
+Środki pieniężne zgromadzone na rachunkach bankowych są oprocentowane według zmiennych stóp procentowych, uzależnionych od poziomu stóp dla jednodniowych lokat bankowych. Lokaty krótkoterminowe zawierane są na różne okresy – zazwyczaj jedno lub kilkudniowe – w zależności od bieżącego zapotrzebowania Grupy na środki pieniężne. Są one oprocentowane według stawek ustalanych indywidualnie dla danego okresu lokaty.  
+_(w milionach PLN)_  
+19  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+Wartość godziwą środków pieniężnych i ich ekwiwalentów przedstawia poniższa tabela:  
+| Depozyty bankowe (rachunki bieżące) i lokaty krótkoterminowe |  | 70 |  | 83 |
+| --- | --- | --- | --- | --- |
+| **Razem** |  | **70** |  | **83** |
+Na dzień 30.09.2025 roku Grupa posiadała na rachunkach VAT środki pieniężne o ograniczonej możliwości dysponowania w kwocie 9 mln PLN (na dzień 31.12.2024 roku: 15 mln PLN). Środki te mogą być wykorzystane tylko na płatność VAT, CIT, PIT, ZUS do urzędów lub jako płatność VAT do dostawców Spółki.  
+Na dzień 30.09.2025 roku Grupa dysponowała niewykorzystanymi limitami kredytowymi w wysokości 789 mln PLN, w odniesieniu do których, wszystkie warunki zawieszające zostały spełnione (na dzień 31.12.2024 roku: 559 mln PLN). Zawarte w tym dostępne limity kredytowe o terminie zapadalności powyżej 12 miesięcy wynosiły 460 mln PLN (na dzień 31.12.2024 roku: 319 mln PLN).

@@ -1,0 +1,38 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 >
+
+Analiza
+• rynku aplikacji do mikroinwestowania wskazuje, że w 2025 roku 78% wszystkich
+• użytkowników internetu na świecie korzystało przynajmniej z jednej aplikacji fintechowej, co
+• będzie miało dotarcie do nowych pokoleń inwestorów, dla których kluczowe są wygodne
+• rozwiązania mobilne, szybki dostęp do informacji oraz przejrzysta komunikacja.
+• **Technologia**
+• **Krótkoterminowo (1–2 lata)**
+• Spółka ocenia, że w obszarze rozwoju oraz zarządzania technologią i infrastrukturą,
+• w najbliższym okresie kluczowym celem będzie utrzymanie wysokiej stabilności,
+• bezpieczeństwa oraz dostępności systemów transakcyjnych.
+
+Infrastruktura IT musi
+• gwarantować nieprzerwane działanie platform inwestycyjnych, szybkie przetwarzanie zleceń
+• oraz odporność na awarie i przeciążenia, szczególnie w okresach zwiększonej zmienności
+• rynkowej.
+
+W perspektywie krótkoterminowej działania koncentrować się będą na modernizacji
+• istniejących systemów, zwiększeniu ich wydajności oraz wzmocnieniu mechanizmów
+• monitoringu i zarządzania incydentami.
+
+Istotne będzie również rozwijanie procesów utrzymaniowych oraz monitorowanie i wprowadzania najlepiej dopasowanych rozwiązań zwiększających redundancję i odporność infrastruktury na ewentualne zakłócenia.
+• **Średnioterminowo (3–5 lat)**
+• W średnim horyzoncie czasowym rozwój technologiczny będzie obejmował dalszą
+• optymalizację architektury systemowej, większe wykorzystanie rozwiązań chmurowych lub
+• hybrydowych oraz wdrażanie nowoczesnych narzędzi do zarządzania infrastrukturą
+• i ciągłością działania.
+
+Celem tych działań będzie utrzymanie wysokiego poziomu stabilności
+• systemów, skalowalności usług oraz zdolności do obsługi rosnącej liczby użytkowników
+• i wolumenu transakcji.
+• **Długoterminowo (5+ lat)**
+• W długoterminowej perspektywie kluczowym elementem rozwoju organizacji będzie zdolność do systematycznego monitorowania oraz adaptowania się do zmieniających się trendów
+• rynkowych i technologicznych.
+
+Szczególne znaczenie będzie miał rozwój nowych technologii, takich jak sztuczna inteligencja (AI), zaawansowana analityka danych czy automatyzacja
+• procesów finansowych, które coraz częściej są wykorzystywane do personalizacji usług,

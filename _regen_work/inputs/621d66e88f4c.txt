@@ -1,0 +1,90 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.2. Wartość firmy
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+
+## 6.2. Wartość firmy
+
+Wartość firmy powstała na objęciu kontroli nad jednostkami zależnymi jest na potrzeby testu z tytułu utraty wartości alokowana przez Grupę w następujący sposób:
+- do grupy ośrodków wypracowujących przepływy pieniężne w postaci segmentu, lub
+- do poszczególnych jednostek zależnych, lub
+- do segmentów zidentyfikowanych w Jednostce Dominującej (tj. segment "Finanse i Bankowość", "Ochrona Zdrowia i Administracja Publiczna" lub "Przedsiębiorstwa").
+W poniższej tabeli zaprezentowano wartość firmy na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku w podziale na segmenty operacyjne:
+
+| **Wartość firmy** |  | **_(przekształcone)_** |
+| --- | --- | --- |
+| **mln PLN** | **mln PLN** |  |
+| **Segment Asseco Poland, w tym:** | **2 288,7** | **2 262,5** |
+| **_Wartość firmy przypisana do poszczególnych ośrodków_** **_wypracowującychprzepływy pieniężne_** | **367,2** | **341,0** |
+| Asseco Data Systems S.A. | 245,5 | 245,5 |
+| Asseco Cloud Sp. z o.o. | 11,0 | 11,0 |
+| GSTN Consulting Sp. z o.o. | 33,1 | 33,1 |
+| ZUI Novum Sp. z o.o. | 0,3 | 0,3 |
+| DahliaMatic Sp. z o.o. | 38,8 | 38,8 |
+| Nextbank Sp. z o.o. | 12,3 | 12,3 |
+| Infocomp Sp. z o.o. | 26,2 | - |
+| **_Segmenty operacyjne zidentyfikowane w Jednostce Dominującej_** | **1 921,5** | **1 921,5** |
+| Wartość firmy przypisana do segmentu "Finanse i Bankowość" | 890,2 | 890,2 |
+
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 42
+
+| Wartość firmy przypisana do segmentu "Ochrona Zdrowia i Administracja Publiczna" | 850,3 | 850,3 |
+| --- | --- | --- |
+| Wartość firmy przypisana do segmentu "Przedsiębiorstwa" | 181,0 | 181,0 |
+| **Segment Asseco International, w tym:** | **1 835,9** | **1 871,5** |
+| Grupa Asseco Central Europe | 726,8 | 734,8 |
+| Grupa Asseco South Eastern Europe | 1 021,2 | 1 046,9 |
+| Asseco Spain S.A. | 17,8 | 18,2 |
+| Asseco Lietuva UAB1) | 0,5 | 0,5 |
+| Asseco PST Holding SGPS S.A. | 69,6 | 71,1 |
+| **Segment Formula Systems** | **2 069,7** | **2 090,9** |
+| **Razem wartość firmy** | **6 194,3** | **6 224,9** |
+
+_1) wartość firmy powstała na nabyciu spółek Sintagma UAB oraz Asseco Lietuva UAB._
+W okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku wystąpiły następujące zmiany wartości firmy z konsolidacji (w tabeli wyszczególniono tylko te pozycje, dla których wystąpiła zmiana):
+
+| **Wartość firmy wg alokacji po** **segmentach sprawozdawczych:** | **Wartość firmy** **na początek okresu** **_(przekształcone)_** | **Objęcia kontroli** | **Wpływ** **hiperinflacji** | **Różnice kursowe** | **Wartość firmy na** **koniec okresu** |
+| --- | --- | --- | --- | --- | --- |
+| **mln PLN** **_Segment Asseco Poland_** | **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** |  |
+| Infocomp Sp. z o.o. **_Segment Asseco International_** | - | 26,2 | - | - | 26,2 |
+| Grupa Asseco Central Europe | 734,8 | 0,6 | - | (8,6) | 726,8 |
+| Grupa Asseco South Eastern Europe | 1 046,9 | 3,5 | 6,4 | (35,6) | 1 021,2 |
+| Asseco Spain S.A. | 18,2 | - | - | (0,4) | 17,8 |
+| Asseco PST Holding SGPS S.A. **_Segment Formula Systems_** | 71,1 | - | - | (1,5) | 69,6 |
+| Grupa Formula | 2 090,9 | 115,1 | - | (136,3) | 2 069,7 |
+
+Zwiększenie wartości firmy z tytułu hiperinflacji wynika z zastosowania standardu MSR 29 i dotyczy tureckich spółek zależnych z grupy ASEE (segment Asseco International). Szczegółowe informacje o wpływie hiperinflacji zostały ujęte w nocie 2.11 niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego.
+Ponadto w okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku wpływ na saldo wartości firmy z konsolidacji miały transakcje objęcia kontroli opisane poniżej. Kwoty w walutach obcych w poniższych tabelach, dotyczących indywidualnych nabyć, zostały przeliczone na złote polskie po kursach z dnia nabycia, natomiast w zbiorczej tabeli ruchów powyżej do przeliczenia zmian wartości firmy na złote polskie zastosowano średni kurs za okres sprawozdawczy.
+Szczegółowy opis nabyć został zamieszczony w przypadku, gdy wartość aktywów netto nabywanej spółki przekraczała 10 mln PLN oraz dla innych istotnych nabyć. Dla pozostałych nabyć zamieszczono jedynie podstawowy opis. Opisów nie zamieszczono natomiast dla transakcji nabyć z okresu porównywalnego, których ostateczne rozliczenie nastąpiło w okresie sprawozdawczym lub których rozliczenie tymczasowe zmieniło się w stosunku do rozliczenia z dnia 31 grudnia 2024 roku, a różnice pomiędzy pierwotnymi a finalnymi lub zmienionymi rozliczeniami były niematerialne. Łączny wpływ finalnych oraz zmienionych rozliczeń nabycia na pozycje bilansu i rachunku zysków i strat został zaprezentowany w nocie 2.10 niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego.
+i. Nabycie udziałów spółki Infocomp Sp. z o.o. przez Asseco Poland S.A.
+W dniu 14 stycznia 2025 roku spółka Asseco Poland S.A. nabyła 50,83% udziałów w spółce Infocomp Sp. z o.o. z siedzibą w Polsce. Łączna cena nabycia wyniosła 31,0 mln PLN, z czego 13,8 mln PLN zostało zapłacone gotówką, a pozostała wartość obejmowała zobowiązanie z tytułu odroczonej płatności w wysokości 4,6 mln PLN oraz zobowiązanie z tytułu posiadanej przez udziałowców niekontrolujących opcji put w wysokości 12,6 mln PLN.
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 43
+Całość udziałów niekontrolujących objęta jest opcją put/call i są one ujmowane przy zastosowaniu metody oczekiwanego nabycia. W związku z powyższym Grupa rozlicza nabycie jakby zakupiła 100% udziałów w spółce Infocomp Sp. z o.o. i nie rozpoznaje udziałów niekontrolujących.
+W ramach tymczasowego rozliczenia nabycia Grupa zaalokowała nadwyżkę ceny zapłaconej nad wartością nabytych aktywów netto w kwocie 3,0 mln PLN na wartości niematerialne, a pozostała wartość, tj. 26,2 mln PLN została zaalokowana na wartość firmy.
+Na dzień 31 marca 2025 roku proces alokacji ceny nabycia nie został jeszcze przez Grupę zakończony. W związku z tym wartość firmy rozpoznana na nabyciu może ulec zmianie w okresie 12 miesięcy od dnia objęcia kontroli nad spółką.
+ii. Nabycie udziałów spółki Fawaterk for E-payments LLC przez Grupę ASEE
+W dniu 15 stycznia 2025 roku spółka Payten Holding S.A. nabyła 51% udziałów w spółce Fawaterk for E-payments LLC z siedzibą w Egipcie. Łączna cena nabycia wyniosła 0,8 mln USD (3,3 mln PLN) i obejmowała cenę zapłaconą w dniu transakcji oraz wartość godziwą zobowiązania warunkowego zależnego od osiąganych przez spółkę wyników. Udziały niekontrolujące zostały wycenione proporcjonalnie względem aktywów netto i rozpoznane na poziomie Grupy ASEE. Dodatkowo spółka Payten Holding zawarła także umowę z jednym z udziałowców niekontrolujących Fawaterk dotyczącą opcji put/call.
+W ramach rozliczenia nabycia Grupa zaalokowała nadwyżkę ceny zapłaconej nad wartością nabytych aktywów netto w kwocie 42,9 mln EGP (3,5 mln PLN) na wartość firmy.
+Na dzień 31 marca 2025 roku proces alokacji ceny nabycia nie został jeszcze przez Grupę zakończony. W związku z tym wartość firmy rozpoznana na nabyciu może ulec zmianie w okresie 12 miesięcy od dnia objęcia kontroli nad spółką.
+iii. Nabycie udziałów spółki 2397506 Ontario Inc przez Grupę Sapiens
+W dniu 20 stycznia 2025 roku spółka Sapiens North America Inc. (spółka z Grupy Sapiens) nabyła 100% udziałów w spółce 2397506 Ontario Inc z siedzibą w Kanadzie. Cena nabycia wyniosła 9,2 mln CAD (26,3 mln PLN) i w całości została zapłacona gotówką.
+W ramach tymczasowego rozliczenia nabycia Grupa zaalokowała nadwyżkę ceny zapłaconej nad wartością nabytych aktywów netto w kwocie 5,9 mln CAD (16,8 mln PLN) na wartości niematerialne, a pozostała wartość, tj. 2,5 mln CAD (7,1 mln PLN) została zaalokowana na wartość firmy.
+Na dzień 31 marca 2025 roku proces alokacji ceny nabycia nie został jeszcze przez Grupę zakończony.  W związku z tym wartość firmy rozpoznana na nabyciu może ulec zmianie w okresie 12 miesięcy od dnia objęcia kontroli nad spółką. Wartości tymczasowe możliwych do zidentyfikowania aktywów i zobowiązań spółki na dzień nabycia przedstawiają się następująco:
+
+| **Wartości tymczasowe** | **Wartości tymczasowe** |  |
+| --- | --- | --- |
+| **na dzień nabycia** | **na dzień nabycia** |  |
+| **mln CAD** **Nabywane aktywa** | **mln PLN** |  |
+| Wartości niematerialne (w tym zidentyfikowane w ramach rozliczenia nabycia(PPA)) | 5,9 | 16,8 |
+| Należności z tytułu dostaw i usług | 1,8 | 5,1 |
+| Środki pieniężne i ich ekwiwalenty | 0,7 | 2,0 |
+| Pozostałe aktywa | 0,4 | 1,2 |
+| **Razem aktywa** **Nabywane zobowiązania** | **8,8** | **25,1** |
+| Zobowiązania z tytułu dostaw i usług | 0,5 | 1,3 |
+| Rezerwa z tytułu podatku odroczonego | 1,6 | 4,6 |
+| **Razem zobowiązania** | **2,1** | **5,9** |
+| **Wartość aktywów netto** | **6,7** | **19,2** |
+| **Wartość udziałów niekontrolujących** | **-** | **-** |
+
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 44

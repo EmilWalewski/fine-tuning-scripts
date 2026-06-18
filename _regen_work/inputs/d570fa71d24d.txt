@@ -1,0 +1,75 @@
+DOKUMENT SEKCJA: **1. PODSTAWA SPORZĄDZANIA** | **2. ZMIANY SZACUNKÓW I ZAŁOŻEŃ** | **3. KOREKTY BŁĘDÓW ORAZ ZMIANA ZASAD RACHUNKOWOŚCI** | **4. SEZONOWOŚĆ DZIAŁALNOŚCI** | **5. SEGMENTY OPERACYJNE** | **6. PRZYCHODY Z UMÓW Z KLIENTAMI** | **ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH**
+
+## **ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH**
+za okres 9 miesięcy zakończony dnia 31 października 2025 roku  
+| za okres miesięcy zakończony dnia października roku | 9 | 31 | 2025 |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kapitał ze Kapitał własny | 0 |  |  |  |  |  |  |  |  |  |
+| Stan na lutego roku | 1 | 2025 | 4 | 364 | 2 980 | -66 | 2 017 | 5 299 | 3 | 5 302 |
+| Wynagrodzenie płatne akcjami | 0 | 0 | 17 | 0 | 0 | 17 | 0 | 17 |  |  |
+| Podział wyniku za rok | 2024 | 0 | 0 | 410 | 0 | -410 | 0 | 0 | 0 |  |
+| Wypłata dywidendy | 0 | 0 | 0 | 0 | -1 225 | -1 225 | 0 | -1 225 |  |  |
+| Transakcje z właścicielami | 0 | 0 | 427 | 0 | -1 635 | -1 208 | 0 | -1 208 |  |  |
+| Zysk netto za m-cy zakończony października | 9 | 31 |  |  |  |  |  |  |  |  |
+|  | 0 | 0 | 0 | 0 | 786 | 786 | -3 | 783 |  |  |
+| roku | 2025 |  |  |  |  |  |  |  |  |  |
+| Różnice kursowe z przeliczenia jednostek zagranicznych | 0 | 0 | 0 | 18 | 0 | 18 | 0 | 18 |  |  |
+| Całkowite dochody ogółem | 0 | 0 | 0 | 18 | 786 | 804 | -3 | 801 |  |  |
+| Stan na października roku | 31 | 2025 | 4 | 364 | 3 407 | -48 | 1 168 | 4 895 | 0 | 4 895 |
+| Stan na lutego roku | 1 | 2024 | 4 | 364 | 2 466 | -33 | 1 913 | 4 714 | 3 | 4 717 |
+| Wynagrodzenie płatne akcjami | 0 | 0 | 7 | 0 | 0 | 7 | 0 | 7 |  |  |
+| Podział wyniku za rok | 2023 | 0 | 0 | 494 | 0 | -494 | 0 | 0 | 0 |  |
+| Wypłata dywidendy | 0 | 0 | 0 | 0 | -1 132 | -1 132 | 0 | -1 132 |  |  |
+| Transakcje z właścicielami | 0 | 0 | 7 | 0 | -1 132 | -1 125 | 0 | -1 125 |  |  |
+| Zysk netto za m-cy zakończony października | 9 | 31 |  |  |  |  |  |  |  |  |
+|  | 0 | 0 | 0 | 0 | 1 299 | 1 299 | -2 | 1 297 |  |  |
+| roku | 2024 |  |  |  |  |  |  |  |  |  |
+| Różnice kursowe z przeliczenia jednostek zagranicznych | 0 | 0 | 0 | -7 | 0 | -7 | 0 | -7 |  |  |
+| Całkowite dochody ogółem | 0 | 0 | 0 | -7 | 1 299 | 1 292 | -2 | 1 290 |  |  |
+| Stan na października roku | 31 | 2024 | 4 | 364 | 2 473 | -40 | 2 080 | 4 881 | 1 | 4 882 |
+03<br>Dodatkowe informacje i noty do<br>śródrocznego skróconego skonsolidowanego<br>sprawozdania finansowego<br>PODSTAWA SPORZĄDZENIA ŚRÓDROCZNEGO SKRÓCONEGO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO ORAZ INFORMACJA O ZMIANACH<br>STOSOWANYCH ZASAD RACHUNKOWOŚCI I NOTY<br>
+
+## **1. PODSTAWA SPORZĄDZANIA**
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe zostało sporządzone zgodnie z Międzynarodowym Standardem Rachunkowości nr 34 „Śródroczna Sprawozdawczość Finansowa” zatwierdzonym przez UE („MSR34”).  
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe nie obejmuje wszystkich informacji oraz ujawnień wymaganych w rocznym sprawozdaniu finansowym i należy je czytać łącznie ze skonsolidowanym sprawozdaniem finansowym Grupy za rok zakończony 31 stycznia 2025 roku zatwierdzonym do publikacji w dniu 2 kwietnia 2025 roku.  
+Walutą sprawozdawczą niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego jest złoty polski, a wszystkie kwoty wyrażone są w milionach złotych polskich, o ile nie podano inaczej.  
+W okresach objętych śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym, do przeliczenia wybranych danych finansowych zastosowano następujące kursy wymiany złotego w stosunku do EUR, ustalane przez Narodowy Bank Polski:  
+- kurs obowiązujący na ostatni dzień okresu sprawozdawczego: 31.10.2025 to 4,2543 PLN/EUR a 31.01.2025 to 4,213 PLN/EUR,  
+- średni kurs w okresie, obliczony jako średnia arytmetyczna kursów obowiązujących na ostatni dzień każdego miesiąca w danym okresie: 01.02.-31.10.2025 to 4,2411 PLN/EUR, 01.02.-31.10.2024 to 4,3032 PLN/EUR.  
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe zostało sporządzone przy założeniu kontynuacji działalności i nie zawiera żadnych korekt dotyczących różnych metod  
+wyceny i klasyfikacji aktywów i zobowiązań, które mogłyby zostać uznane za konieczne, gdyby Grupa nie była w stanie kontynuować działalności w dającej się przewidzieć przyszłości.
+
+## **2. ZMIANY SZACUNKÓW I ZAŁOŻEŃ**
+W okresie bieżącym nie miała miejsca zmiana podejścia do szacunków ani założeń w porównaniu do tych przyjętych i ujawnionych w skonsolidowanym sprawozdaniu finansowym za rok obrotowy zakończony 31 stycznia 2025 roku, zatwierdzonym 2 kwietnia 2025 roku.
+
+## **3. KOREKTY BŁĘDÓW ORAZ ZMIANA ZASAD RACHUNKOWOŚCI**
+W śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym nie miała miejsca ani zmiana zasad rachunkowości ani korekta błędów.
+
+## **4. SEZONOWOŚĆ DZIAŁALNOŚCI**
+Sezonowość w sprzedaży jest zjawiskiem dotyczącym całości rynku odzieżowego tak w Polsce jak i poza granicami. Zazwyczaj marża brutto uzyskiwana w okresie sprzedaży nowej kolekcji w regularnych cenach jest wyższa od marży notowanej w okresie wyprzedaży kolekcji. Taka sytuacja wpływa na dysproporcje w wysokości marż uzyskiwanych w poszczególnych kwartałach kalendarzowego roku (największe w drugim i czwartym kwartale, najmniejsze w pierwszym i trzecim). Aby uniknąć dużych różnic w marżach pomiędzy kwartałami, Grupa zmieniła rok obrotowy dostosowując go do kalendarza kolekcji a tym samym niwelując wpływ wyprzedaży i sezonowości na marże poszczególnych kwartałów roku.
+
+## **5. SEGMENTY OPERACYJNE**
+Przychody oraz wyniki finansowe dotyczące segmentów geograficznych za okres od 01.02. do 31.10.2025 roku oraz za okres porównywalny zostały przedstawione w poniższych tabelach.  
+Wskazane poniżej obszary geograficzne obejmują poszczególne kraje, na obszarze których, został wygenerowany przychód jak i pozostałe wyniki dla GK LPP SA. Podział krajów wygląda następująco:  
+| **Polska** Polska **Europa Zachodnia** Niemcy, Włochy, Finlandia, **Europa Środkowo-** **Wschodnia** Czechy, Słowacja, Węgry **Europa Południowo-** **Wschodnia** Rumunia, Bułgaria, Grecja, **Kraje regionu Morza** **Bałtyckiego** Litwa, Łotwa, Estonia **Agenci zakupowi** w okresie przejścio- wym na bazie umowy sprzedaży spółki Re **Pozostałe** Ukraina, Kazachstan, Białoruś |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wielka Brytania Macedonia, Trading Uzbekistan |  |  |  |  |  |  |  |  |
+| Serbia, Azerbejdżan |  |  |  |  |  |  |  |  |
+| Bośnia i Hercegowina, Chorwacja, oraz sprzedaż franczy- zowa |  |  |  |  |  |  |  |  |
+| Słowenia, |  |  |  |  |  |  |  |  |
+| Albania, |  |  |  |  |  |  |  |  |
+| Kosowo |  |  |  |  |  |  |  |  |
+| Przychody ze sprzedaży | 7 374 | 1 113 | 2 112 | 3 754 | 686 | 0 | 1 610 | 16 649 |
+| **Zysk (strata) z działalności operacyjnej** | **463** | **114** | **218** | **463** | **85** | **0** | **198** | **1 541** |
+| **Zysk przed opodatkowaniem** |  |  |  |  |  |  |  | **1 208** |
+| Podatek dochodowy |  |  |  |  |  |  |  | 425 |
+| **Zysk (strata) netto** |  |  |  |  |  |  |  | **783** |
+| Przychody ze sprzedaży | 6 298 | 866 | 1 737 | 3 051 | 581 | 667 | 1 323 | 14 523 |
+| **Zysk (strata) z działalności operacyjnej** | **1 060** | **-21** | **141** | **381** | **72** | **-70** | **190** | **1 753** |
+| **Zysk przed opodatkowaniem** |  |  |  |  |  |  |  | **1 656** |
+| Podatek dochodowy |  |  |  |  |  |  |  | 359 |
+| **Zysk (strata) netto** |  |  |  |  |  |  |  | **1 297** |
+
+## **6. PRZYCHODY Z UMÓW Z KLIENTAMI**
+Tabela obok przedstawia przychody z tytułu umów z klientami w podziale na kategorie, które najtrafniej odzwierciedlają charakter współpracy oraz analizy zarządcze.  
+Krajem docelowym dla towarów sprzedawanych do Agentów zakupowych, w okresie przejściowym, na bazie umowy sprzedaży spółki Re Trading, była Federacja Rosyjska. W ramach umowy sprzedaży spółki Re Trading strony przewidziały okres przejściowy, w którym LPP SA zobowiązało się do wsparcia inwestora w procesach m.in. zakupu towarów. Proces ten został zakończony z końcem stycznia 2025 roku. W związku z powyższym, w bieżącym okresie nie miała miejsca sprzedaż towarów do Agentów zakupowych. W okresie porównawczym wartość sprzedaży, w ramach wspomnianego procesu, wyniosła 667 mln PLN.

@@ -1,0 +1,48 @@
+DOKUMENT SEKCJA: **1.2. Skład Grupy Kapitałowej** | **1.3. Skład Zarządu Jednostki dominującej**
+
+## **1.2. Skład Grupy Kapitałowej**
+W skład Grupy Kapitałowej XTB S.A. wchodzi XTB S.A. jako Jednostka dominująca oraz następujące spółki zależne:  
+| **NAZWA JEDNOSTKI** **METODA** **KONSOLIDACJI** **KRAJ** **SIEDZIBY** **PRZEDMIOT** **DZIAŁALNOŚCI** | **UDZIAŁ** **W KAPITALE** |  |
+| --- | --- | --- |
+| XTB Limited (UK) pełna Wielka Brytania Działalność maklerska | 100% | 100% |
+| XTB Limited (CY) pełna Cypr Działalność maklerska | 100% | 100% |
+| XTB International Limited pełna Belize Działalność maklerska | 100% | 100% |
+| XTB MENA Limited pełna ZEA Działalność maklerska | 100% | 100% |
+| PT XTB Indonesia Berjangka pełna Indonezja Działalność maklerska | 90% | 90% |
+| XTB Financial Consultation L.L.C pełna ZEA Działalność maklerska | 100% | 100% |
+| XTB Agente de Valores SpA pełna Chile Działalność maklerska | 100% | 100% |
+| XTB Services Limited pełna Cypr Pozyskiwanie, utrzymywanie relacji oraz negocjowanie i zawieranie umów z partnerami | 100% | 100% |
+| X Open Hub Sp. z o.o. pełna Polska Oferowanie aplikacji elektronicznych oraz technologii transakcyjnej | 100% | 100% |
+| XTB S.C. Limited pełna Seszele Spółka nie rozpoczęła jeszcze działalności operacyjnej | 100% | 100% |
+| XTB Africa (PTY) Ltd. pełna RPA Spółka nie rozpoczęła jeszcze działalności operacyjnej | 100% | 100% |
+| Tasfiye Halinde XTB Yönetim Danışmanlığı A.Ş. pełna Turcja Spółka nie prowadzi działalności operacyjnej (wtrakcielikwidacji) | 100% | 100% |
+W dniu 15 września 2020 roku rozpoczął się proces likwidacji spółki w Turcji Tasfiye Halinde XTB Yönetim Danışmanlığı A.Ş. Na dzień 30 września 2025 roku kwota ujemnych różnic kursowych z przeliczenia sald w walucie obcej spółki zależnej w Turcji wynosiła (3 600) tys. PLN, a na dzień 31 grudnia 2024 roku (3 627) tys. PLN (patrz nota 23). Różnice kursowe wynikające z przeliczenia kapitału tureckiej spółki zostaną rozpoznane w skonsolidowanym wyniku z chwilą likwidacji tej spółki.  
+W dniu 5 kwietnia 2024 roku Jednostka dominująca przeznaczyła 1,5 mln USD na kolejne podwyższenie kapitału zakładowego w jednostce zależnej XTB MENA Limited, utrzymując 100% udział w jej kapitale.  
+W dniu 17 lipca 2024 roku przeznaczono łącznie 250 tys. USD na podwyższenie kapitału zakładowego w jednostce zależnej XTB S.C. Limited utrzymując dotychczasową proporcję udziałów, tj XTB S.A. posiada 99,9% udziałów a XTB Services Limited 0,1% udziałów. Na datę sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego spółka nie prowadziła działalności operacyjnej.  
+W dnu 23 września 2025 r. został zakończony proces likwidacji spółki XTB Digital Ltd. z siedzibą na Cyprze ze skutkiem na wskazany dzień.  
+13  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+W dniu 17 stycznia 2024 roku jednostka dominująca nabyła 90 % udziałów w spółce PT Rajawali Kapital Berjangka mającej siedzibę w Indonezji, która jest brokerem instrumentów pochodnych regulowanym przez Commodity Futures Trading Supervisory Agency (w skrócie BAPPEBTI). W dniu 16 lutego 2024 roku jednostka dominująca przeznaczyła 315 tys. USD na podwyższenie kapitału zakładowego w jednostce zależnej PT Rajawali Kapital Berjangka. W dniu 29 kwietnia 2024 roku spółka zależna PT Rajawali Kapital Berjangka zmieniła nazwę na PT XTB Indonesia Berjangka. W dniu 1 października 2024 roku jednostka dominująca przeznaczyła 351 tys. EUR na kolejne podwyższenie kapitału zakładowego w jednostce zależnej PT XTB Indonesia Berjangka, utrzymując 90% udział w jej kapitale. W dniu 17 grudnia 2024 roku spółka PT XTB Indonesia Berjangka otrzymała licencję PALN wydaną przez lokalnego regulatora Bappebti Indonesia, dzięki której rezydenci Indonezji zyskają dostęp do inwestycji w akcje i ETP oferowane przez XTB. W dniu 30 lipca 2025 roku Jednostka dominująca przeznaczyła 1 557 tys. USD na kolejne podwyższenie kapitału zakładowego w jednostce zależnej PT XTB Indonesia Berjangka, utrzymując 90% udział w jej kapitale.  
+W dniu 25 lipca 2024 roku spółka XTB Financial Consultation L.L.C z siedzibą w Zjednoczonych Emiratach Arabskich została zarejestrowana w lokalnym rejestrze przedsiębiorców. Spółka XTB S.A. objęła 100% udziałów w spółce zależnej. W dniu 26 lipca 2024 roku opłacono udziały w spółce XTB Financial Consultation L.L.C. Wniesiony kapitał wyniósł 13 tys. AED. Spółka będzie świadczyła usługi maklerskie - doradztwo finansowe. W dniu 23 grudnia 2024 roku spółka XTB Financial Consultation otrzymała licencję Securities and Commodities Authority (SCA) w Emiratach Arabskich. Licencja 5-ej kategorii pozwoliła spółce na poprawę efektywności kosztowej i operacyjnej, zwiększenie zakresu usług świadczonych klientom w regionie oraz zwiększenie zatrudnienia i otwarcie nowego biura poza specjalną strefą ekonomiczną w Dubaju.  
+W dniu 11 lutego 2025 roku spółka XTB Agente de Valores SpA z siedzibą w Chile otrzymała od CMF (spa. La Comisión para el Mercado Financiero) licencję nr 216 na prowadzenie działalności maklerskiej w Chile. Licencja przyznana przez Chilijską Komisję Rynku Finansowego znacząco wzmacnia obecność XTB w jednym z najdynamiczniej rozwijających się regionów świata.
+
+## **1.3. Skład Zarządu Jednostki dominującej**
+Skład osobowy Zarządu Spółki w okresie objętym śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym oraz w okresie porównawczym był następujący:  
+| **IMIĘ I** **NAZWISKO** | **FUNKCJA** | **DATA** **PIERWSZEGO** **POWOŁANIA** | **OKRES KADENCJI** |
+| --- | --- | --- | --- |
+| Kadencja trwająca od dnia 1 lipca 2022 roku Omar Arnaout dnia 2 lipca 2028 roku. | Prezes Zarządu | 23.03.2017 | wygasła w dniu 1 lipca 2025 roku. Od dnia 2 lipca 2025 roku powołany na nową 3-letnią kadencję do |
+| Kadencja trwająca od dnia 1 lipca 2022 roku Paweł Szejko dnia 2 lipca 2028 roku. | Członek Zarządu | 28.01.2015 | wygasła w dniu 1 lipca 2025 roku. Od dnia 2 lipca 2025 roku powołany na nową 3-letnią kadencję do |
+| Kadencja trwająca od dnia 1 lipca 2022 roku Filip Kaczmarzyk dnia 2 lipca 2028 roku. | Członek Zarządu | 10.01.2017 | wygasła w dniu 1 lipca 2025 roku. Od dnia 2 lipca 2025 roku powołany na nową 3-letnią kadencję do |
+| Kadencja trwająca od dnia 1 lipca 2022 roku Jakub Kubacki dnia 2 lipca 2028 roku. | Członek Zarządu | 10.07.2018 | wygasła w dniu 1 lipca 2025 roku. Od dnia 2 lipca 2025 roku powołany na nową 3-letnią kadencję do |
+| Kadencja trwająca od dnia 1 lipca 2022 roku Andrzej Przybylski kadencjęZarządu. | Członek Zarządu | 01.05.2019 | wygasła w dniu 1 lipca 2025 roku. Pan Andrzej Przybylski nie ubiegał się o powołanie na kolejną |
+14  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Skład osobowy Zarządu Spółki na dzień zatwierdzenia niniejszego sprawozdania był następujący:  
+| **IMIĘ I** **NAZWISKO** | **FUNKCJA** | **DATA** **PIERWSZEGO** **POWOŁANIA** | **OKRES KADENCJI** |
+| --- | --- | --- | --- |
+| Kadencja trwająca od dnia 1 lipca 2022 roku Omar Arnaout dnia 2 lipca 2028 roku. | Prezes Zarządu | 23.03.2017 | wygasła w dniu 1 lipca 2025 roku. Od dnia 2 lipca 2025 roku powołany na nową 3-letnią kadencję do |
+| Kadencja trwająca od dnia 1 lipca 2022 roku Paweł Szejko dnia 2 lipca 2028 roku. | Członek Zarządu | 28.01.2015 | wygasła w dniu 1 lipca 2025 roku. Od dnia 2 lipca 2025 roku powołany na nową 3-letnią kadencję do |
+| Kadencja trwająca od dnia 1 lipca 2022 roku Filip Kaczmarzyk dnia 2 lipca 2028 roku. | Członek Zarządu | 10.01.2017 | wygasła w dniu 1 lipca 2025 roku. Od dnia 2 lipca 2025 roku powołany na nową 3-letnią kadencję do |
+| Kadencja trwająca od dnia 1 lipca 2022 roku Jakub Kubacki dnia 2 lipca 2028 roku. | Członek Zarządu | 10.07.2018 | wygasła w dniu 1 lipca 2025 roku. Od dnia 2 lipca 2025 roku powołany na nową 3-letnią kadencję do |

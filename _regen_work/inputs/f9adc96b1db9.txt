@@ -1,0 +1,54 @@
+DOKUMENT SEKCJA: **12.10. Istotne zmiany wielkości szacunkowych** | **12.12. Inne informacje, które mogą w istotny sposób wpłynąć na ocenę sytuacji majątkowej, finansowej i wyniku finansowego emitenta** | **12.13. Zatwierdzenie do publikacji** | **12.3. Zdarzenia po zakończeniu okresu sprawozdawczego** | **12.4. Sezonowość i cykliczność** | **12.5. Emisje, wykup i spłaty dłużnych i kapitałowych papierów wartościowych** | **12.6. Wypłacone dywidendy** | **12.7. Nabycie i sprzedaż rzeczowych aktywów trwałych** | **12.8. Poczynione zobowiązania na rzecz dokonania zakupu rzeczowych aktywów trwałych** | **12.9. Sprawy sądowe**
+
+## **12.3. Zdarzenia po zakończeniu okresu sprawozdawczego**
+Po zakończeniu okresu sprawozdawczego miały miejsce następujące istotne zdarzenia:  
+- **Rozpoczęcie postępowania ws. zatwierdzenia prospektu Creotech Quantum S.A. –** w dniu 2 października 2025 roku Zarząd Spółki poinformował, że w nawiązaniu do raportu bieżącego nr 28/2025 z dnia 16 kwietnia 2025 r. oraz raportu bieżącego nr 48/2025 z dnia 29 sierpnia 2025 roku, powziął informację o rozpoczęciu postępowania administracyjnego w sprawie zatwierdzenia prospektu spółki Creotech Quantum S.A. z siedzibą w Warszawie („Spółka Przejmująca”) w związku z ofertą publiczną 2 854 347 nowych akcji zwykłych na okaziciela serii B Spółki Przejmującej („Akcje Podziałowe”) oraz ubieganiem się o dopuszczenie do obrotu Akcji Podziałowych na rynku regulowanym prowadzonym przez GPW.  
+- **Informacja o rozszerzeniu zakresu umowy z Europejską Agencją Kosmiczną na realizację projektu „COUNTRY AWARENESS MISSION IN LAND ANALYSIS – CAMILA” –** w dniu 2 października 2025 roku Spółka otrzymała od Europejskiej Agencji Kosmicznej zaakceptowany aneks do umowy (Contract Change Notice) na realizację projektu „CAMILA”, o czym Spółka poinformowała raportem bieżącym nr 51/2025 z dnia 3 października 2025 roku. Aneks uwzględnia aktywację dwóch dodatkowych opcji z przedstawionej oryginalnie oferty: (i) dostawę, wyniesienie i uruchomienie na orbicie czwartego satelity obserwacyjnego oraz (ii) zapewnienie dostępu do komercyjnej sieci stacji naziemnych na potrzeby regularnych operacji orbitalnych. Zmiana skutkuje zmianą harmonogramu, w tym ustanowieniem nowych kamieni milowych obejmujących okres standardowych operacji satelitarnych. Nowy termin zakończenia projektu: listopad 2029 r. W wyniku zmiany wartość kontraktu wzrasta o 7 095 783 EUR, tj. do 59 021 294 EUR łącznie. Pozostałe istotne warunki umowy, w tym maksymalna wysokość kar umownych, pozostają bez zmian.  
+- **Podpisanie umowy z Europejską Agencją Kosmiczną na realizację projektu pn. „TELESCOPE ARRAY FUNCTIONAL PROTOTYPE” -** w dniu 7 listopada 2025 roku Zarząd Spółki poinformował raportem bieżącym nr 52/2025 o podpisaniu umowy z Europejską Agencją Kosmiczną na realizację projektu  
+30  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+„TELESCOPE ARRAY FUNCTIONAL PROTOTYPE”, będącego częścią Programu Bezpieczeństwa Kosmicznego Europejskiej Agencji Kosmicznej. Celem projektu jest opracowanie prototypu umożliwiającego weryfikację założeń i architektury uniwersalnego zdalnego obserwatorium naziemnego szukającego obiektów bliskich Ziemi. Wartość kontraktu wynosi 1 600 000 EUR, z czego Europejska Agencja Kosmiczna pokrywa 1 280 000 EUR. Pozostała kwota jest pokrywana przez podmioty zaangażowane w projekt. Creotech jest głównym wykonawcą, a jego rolą jest dostawa kamer astronomicznych sCMOS wraz z dodatkowymi akcesoriami oraz zarządzanie realizacją projektu. Wartość prac po stronie Spółki wynosi 502 778 EUR z czego 73,6% jest finansowane przez Europejską Agencję Kosmiczną, a 26,4% pokrywane ze środków własnych. Przewidywany okres realizacji projektu wynosi około 12 miesięcy.  
+- **Informacja o zaakceptowaniu przez Europejską Agencję Kosmiczną dokumentacji w ramach przeglądu CAMILA** – w dniu 26 listopada 2025 roku Zarząd Spółki poinformował raportem bieżącym nr 53/2025 o otrzymaniu od Europejskiej Agencji Kosmicznej informacji o zaakceptowaniu pozostałej części dostaw w ramach przeglądu Requirements Key Point projektu pn. „COUNTRY AWARENESS MISSION IN LAND ANALYSIS – CAMILA” („CAMILA”) i tym samym zamknięciu przeglądu z sukcesem. Z tytułu tej akceptacji Spółce przysługuje uzupełniające wynagrodzenie od Europejskiej Agencji Kosmicznej w wysokości 1 159 055 EUR. Przekłada się to na pełną wartość wynagrodzenia w ramach przeglądu Requirements Key Point w wysokości 4 337 339 EUR, przy czym ok. 35% tego wynagrodzenia przysługuje bezpośrednio Spółce, a pozostała kwota obejmie wynagrodzenie dla podwykonawców w projekcie CAMILA.
+
+## **12.4. Sezonowość i cykliczność**
+Działalność spółki charakteryzuje się wysokim poziomem zmienności sprzedaży, ale nie charakteryzuje się wyraźną sezonowością lub cyklicznością. Na ograniczenie potencjalnej sezonowości sprzedaży wpływ ma również prowadzenie działalności w wielu segmentach rynkowych oraz wysoki udział projektów długoterminowych, rozliczanych etapowo.
+
+## **12.5. Emisje, wykup i spłaty dłużnych i kapitałowych papierów wartościowych**
+**Emisja akcji serii K** – Akcje serii K zostały wyemitowane na podstawie uchwały nr 3 Nadzwyczajnego Walnego Zgromadzenia Spółki z dnia 30 stycznia 2025 r. Umowy objęcia Akcji Serii K były zawierane w dniach 14 – 19 lutego 2025 r. Objęcie Akcji Serii K nastąpiło w drodze subskrypcji prywatnej na podstawie art. 431 § 2 pkt 1 Kodeksu spółek handlowych. Akcje Serii K zostały objęte poprzez złożenie przez Zarząd Spółki ofert objęcia akcji inwestorom oraz przyjęcie złożonych ofert przez inwestorów. W związku z powyższym nie przyjmowano zapisów na Akcje Serii K ani nie dokonywano przydziału Akcji Serii K w rozumieniu art. 434 i nast. Kodeksu spółek handlowych. Zarząd Spółki w dniu 19 lutego 2025 r. podjął uchwałę, na podstawie której określił ostateczną listę subskrybentów Akcji Serii K w związku z zawarciem umów objęcia akcji. Subskrypcja obejmowała 475.000 Akcji Serii K. Cena emisyjna Akcji Serii K wynosiła 160 zł za jedną Akcję Serii K.  
+Środki pozyskane z emisji akcji mają posłużyć sfinansowaniu części niezbędnych wydatków i nakładów, które będą poniesione przez Spółkę w celu realizacji kontraktu zawartego w dniu 20 grudnia 2024 r. ze Skarbem Państwa – Agencją Uzbrojenia na wytworzenie i dostawę Satelitarnego Systemu Obserwacji Ziemi (SSOZ) „Mikroglob” obejmującą fazy B, C, D, E1. Pozostała część finansowania wyżej opisanych wydatków i nakładów będzie sfinansowana zaliczkami na wykonanie kontraktu, które będą wypłacane Spółce zgodnie z zawartym 17 lipca 2025 roku aneksem do kontraktu. Ponadto, niezbędne finansowanie na dalszym etapie może zostać uzupełnione m.in. przez finansowanie dłużne, które powinno stać się dostępne dla Spółki w kolejnych etapach realizacji kontraktu zawartego w dniu 20 grudnia 2024 roku po otrzymaniu oraz rozpoznaniu w przychodach pierwszych płatności od kontrahenta.  
+31  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+W dniu 16 kwietnia 2025 roku Sąd Rejonowy dla m.st. Warszawy w Warszawie, XIV Wydział Gospodarczy Krajowego Rejestru Sądowego, zarejestrował zmiany statutu polegające na podwyższeniu kapitału zakładowego związanym z emisją akcji serii K.
+
+## **12.6. Wypłacone dywidendy**
+W okresie objętym niniejszym śródrocznym skróconym sprawozdaniem finansowym oraz do dnia zatwierdzenia do publikacji Spółka nie dokonywała wypłat dywidend.
+
+## **12.7. Nabycie i sprzedaż rzeczowych aktywów trwałych**
+W okresie objętym niniejszym śródrocznym skróconym sprawozdaniem finansowym poniesiono nakłady w wysokości 5,9 mln PLN na inwestycję w obcy środek trwały związane z prowadzoną inwestycją w zaplecze produkcyjne Spółki w Piasecznie.  
+Nie wystąpiły inne istotne transakcje nabycia i sprzedaży rzeczowych aktywów trwałych.
+
+## **12.8. Poczynione zobowiązania na rzecz dokonania zakupu rzeczowych aktywów trwałych**
+Spółka nie posiada zobowiązań umownych do nabycia rzeczowych aktywów trwałych.
+
+## **12.9. Sprawy sądowe**
+Do dnia sporządzenia niniejszego sprawozdania nie toczyły się żadne postępowania przed sądem, organem właściwym dla postępowania arbitrażowego lub organem administracji publicznej, dotyczących zobowiązań oraz wierzytelności Spółki.
+
+## **12.10. Istotne zmiany wielkości szacunkowych**
+Nie dotyczy.  
+- **12.11. Zmiany w strukturze jednostki w ciągu okresu śródrocznego, w tym połączenie jednostek gospodarczych, przejęcie lub sprzedaż jednostek zależnych i inwestycji długoterminowych, restrukturyzacja i zaniechanie działalności**  
+W drugim kwartale 2025 roku Spółka założyła spółki Creotech Quantum S.A. oraz Creotech Geo P.S.A. i objęła w nich 100% udziałów poprzez wpłatę kapitału zakładowego odpowiednio 150 tys. PLN i 100 tys. PLN.
+
+## **12.12. Inne informacje, które mogą w istotny sposób wpłynąć na ocenę sytuacji majątkowej, finansowej i wyniku finansowego emitenta**
+Nie wystąpiły.  
+32  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **12.13. Zatwierdzenie do publikacji**
+Niniejsze śródroczne skrócone sprawozdanie finansowe zostało zatwierdzone do publikacji przez Zarząd Spółki w dniu 26 listopada 2025 roku.  
+Prezes Zarządu – Grzegorz Brona  
+Wiceprezes Zarządu ds. Finansowych – Paweł Górnicki  
+Wiceprezes Zarządu – Maciej Misiura  
+Wiceprezes Zarządu – Jacek Mandas  
+Osoba, której powierzono prowadzenie ksiąg rachunkowych – Piotr Kazimierczak  
+33  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)

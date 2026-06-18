@@ -1,0 +1,67 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **35. Zarządzanie ryzykiem** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **35.1. Wartość godziwa** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **35.1.1. Porównanie wartości bilansowej i wartości godziwej** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Poziom funduszy własnych Grupy:** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Proces zarządzania ryzykiem** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Ład w zakresie ryzyka i model Trzech linii**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Poziom funduszy własnych Grupy:**
+| **(w tys. PLN)** **Fundusze własne Grupy** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Kapitały podstawowe Tier I bez pomniejszeń | 1 336 899 | 1 122 449 |
+| Kapitały dodatkowe Tier I | - | - |
+| Pozycje pomniejszające kapitały podstawowe Tier I | (15 919) | (11 352) |
+| **Fundusze własne Grupy razem** | **1 320 980** | **1 111 097** |
+W okresach objętych sprawozdaniem finansowym nie wystąpiło naruszenie ustawowych norm adekwatności kapitałowej.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **35. Zarządzanie ryzykiem**
+W celu kontrolowania ryzyk, w Grupie funkcjonuje system zarządzania ryzykiem, który stanowią polityki, procedury, mechanizmy i narzędzia wspomagające procesy zarządzania poszczególnymi rodzajami ryzyk, odpowiednie do ich istotności i charakterystyki.  
+50  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Głównymi celami systemu zarządzania ryzykiem są:  
+- identyfikacja i określenie istotności poszczególnych typów ryzyka;  
+- właściwy pomiar lub szacowanie poziomu ryzyk (także tych trudno mierzalnych);  
+- kontrolowanie poziomu ryzyk, polegające na monitorowaniu limitów i właściwym postępowaniu w przypadku przekroczenia limitów lub poziomów ostrzegawczych;  
+- wspieranie realizacji założonych celów biznesowych poprzez kontrolę poziomu ryzyk i zapewnienie zgodności z apetytem na ryzyko.  
+Podstawę funkcjonowania systemu zarządzania ryzykiem w Grupie XTB stanowią regulacje wewnętrzne „System Zarządzania Ryzykiem w XTB S.A.” oraz „Strategia zarządzania ryzykiem w XTB S.A.”. Ich rozwinięciem są dalsze szczegółowe regulacje, m.in. odnoszące się do zarządzania poszczególnymi kategoriami ryzyka.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Ład w zakresie ryzyka i model Trzech linii**
+Aby zapewnić skuteczny nadzór nad ryzykiem, Grupa wdrożyła standard rynkowy znany jako model Trzech linii. Gwarantuje on jasny podział odpowiedzialności między biznesem, funkcjami kontrolnymi a audytem.  
+- I Linia (Trading, Marketing i Sprzedaż, Obsługa Klienta, IT) – są to tzw. „właściciele ryzyka". Traderzy, pracownicy obsługi klienta, inżynierowie IT oraz pozostali pracownicy na bieżąco podejmują decyzje operacyjne i odpowiadają za identyfikację ryzyk w swoich procesach.  
+- II Linia (Dział Kontroli Ryzyka oraz Dział Prawny i Compliance) - niezależne jednostki monitorujące i wspierające merytorycznie działania pierwszej linii. Na tym poziomie Spółka tworzy polityki, wyznacza limity i dba o zgodność z regulacjami w wielu jurysdykcjach, w których działa. Celem jest profesjonalna ocena, czy działalność operacyjna mieści się w wyznaczonych granicach apetytu na ryzyko.  
+- III Linia (Dział Audytu Wewnętrznego) - Zapewnia niezależny monitoring i okresową ocenę skuteczności całego systemu zarządzania ryzykiem i kontroli wewnętrznej. Trzecia linia raportuje bezpośrednio do Zarządu i Rady Nadzorczej, co wzmacnia niezależność i obiektywne spojrzenie na organizację oraz realizowane procesy.  
+Na poziomie strategicznym za ustalenie i monitorowanie polityki zarządzania ryzykiem odpowiada Zarząd.  
+W Jednostce dominującej działa Komitet Zarządzania Ryzykiem, w którego skład wchodzą członkowie Rady Nadzorczej.  
+Do zadań Komitetu należy w szczególności:  
+- opracowanie projektu dokumentu apetytu na ryzyko domu maklerskiego,  
+- opiniowanie strategii w zakresie zarządzania ryzykiem opracowanej przez Zarząd,  
+- wspieranie Rady Nadzorczej w nadzorze nad realizacją strategii zarządzania ryzykiem,  
+- weryfikacja polityki wynagrodzeń i zasad jej realizacji pod kątem dostosowania systemu wynagrodzeń do profilu ryzyka, kapitału i płynności oraz prawdopodobieństwa i horyzontu uzyskiwania dochodów.  
+W codziennym funkcjonowaniu systemu zarządzania ryzykiem i kontroli wewnętrznej w Grupie XTB, szczególną rolę pełnią Dział Kontroli Ryzyka oraz Dział Prawny i Compliance.  
+51  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Dział Kontroli Ryzyka odpowiada za wdrożenie i funkcjonowanie organizacyjnego systemu zarządzania ryzykiem. Wspomaga Zarząd w kształtowaniu, przeglądaniu i aktualizacji zasad zarządzania ryzykiem w sytuacji pojawienia się nowych rodzajów ryzyka, znaczących zmian w strategii i planach działania. Dział ten monitoruje także adekwatność i skuteczność wdrożonego systemu zarządzania ryzykiem, identyfikuje i monitoruje ryzyka inwestycji własnych Grupy, wyznacza całkowity wymóg kapitałowy oraz szacuje kapitał wewnętrzny. Na czele Działu Kontroli Ryzyka stoi Dyrektor, który jednocześnie pełni funkcję stałego członka Zarządu. Rozwiązanie to wzmacnia pozycję funkcji zarządzania ryzykiem w organizacji i zapewnia uwzględnienie perspektywy ryzyka w trakcie podejmowania kluczowych, strategicznych decyzji.  
+Dział Prawny i Compliance odpowiada przede wszystkim za ryzyka prawne i zgodnościowe. Kluczową rolę w tym obszarze pełni Inspektor Nadzoru (Compliance Officer), którego zadaniem jest proaktywne zarządzanie ryzykiem braku zgodności. Dział ten nie ogranicza się jedynie do funkcji kontrolnej, ale pełni istotną rolę doradczą, wspierając jednostki biznesowe w interpretacji skomplikowanego otoczenia regulacyjnego (m.in. wymogi KNF, ESMA) oraz zapewniając, że działalność maklerska prowadzona jest zgodnie z przepisami prawa i regulacjami wewnętrznymi. Ponadto, jednostka ta odpowiada za regularne badanie adekwatności i skuteczności przyjętego systemu nadzoru zgodności, prowadzenie postępowań wyjaśniających oraz monitorowanie obszarów szczególnie wrażliwych, takich jak przeciwdziałanie praniu pieniędzy (AML/CFT) czy zarządzanie konfliktami interesów. Dział Prawny i Compliance jest zarządzany i nadzorowany przez Członka Zarządu ds. Prawnych.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Proces zarządzania ryzykiem**
+Uczestnikami procesu zarządzania ryzykiem w XTB są organy Grupy oraz wszyscy jej pracownicy. Proces zarządzania ryzykiem wspiera zarówno ustalanie strategii, jak i codzienną działalność Grupy.  
+Proces zarządzania ryzykiem różni się w zależności od rodzaju ryzyka. Jednak jego wspólnymi elementami są:  
+- Identyfikacja zagrożeń i czynników ryzyka - czyli elementów mogących mieć negatywny wpływ na zadania i cele, a także na klientów i rynek,  
+- Analiza i pomiar ryzyka - analityczna dekompozycja ryzyka i jego wycena w ustalonych skalach prawdopodobieństwa i wpływu. W trakcie analizy Grupa korzysta ze zróżnicowanych metod i miar, zarówno ilościowych, jak i jakościowych,  
+- Ocena ryzyka - określenie, czy ryzyko przekracza wartości ustalone na poziomie Spółki za dopuszczalne,  
+- Postępowanie z ryzykiem - wprowadzenie kontroli, podjęcie działań, bądź programów pozwalających utrzymać ryzyko w ramach apetytu na ryzyko,  
+- Monitorowanie ryzyka - poszczególne ryzyka monitorują zarówno ich właściciele (przeważnie I linia), jak i funkcje II linii (w zależności od rodzaju ryzyka - Dział Kontroli Ryzyka i/lub Dział Prawny i Compliance),  
+- Raportowanie - jego zakres i częstotliwość wyznacza wielkość i rodzaj ryzyka. Wszystkie istotne raporty okresowe w zakresie systemu zarządzania ryzykiem, kontroli wewnętrznej i audytu wewnętrznego są przedmiotem dyskusji podczas posiedzeń Zarządu oraz Rady Nadzorczej.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **35.1. Wartość godziwa**
+Wartość godziwa to cena, którą otrzymano by za sprzedaż składnika aktywów lub zapłaconoby za przeniesienie zobowiązania w przeprowadzonej na zwykłych warunkach transakcji między uczestnikami rynku na dzień wyceny.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **35.1.1. Porównanie wartości bilansowej i wartości godziwej**
+Wartość godziwa środków pieniężnych jest szacowana jako zbliżona do ich wartości bilansowej.  
+Wartość godziwa aktywów finansowych wycenianych w wartości godziwej przez wynik finansowy, zobowiązań wobec klientów oraz zobowiązań pozostałych jest szacowana jako zbliżona do ich wartości bilansowej ze względu na krótkie terminy zapadalności tych pozycji bilansowych.  
+52  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.

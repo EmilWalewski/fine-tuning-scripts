@@ -1,0 +1,52 @@
+DOKUMENT SEKCJA: **III kwartał 2025 r.** | **Struktura przychodów względem rynków geograficznych** | **Struktura przychodów względem segmentów klienckich**
+
+## **III kwartał 2025 r.**
+8,3%<br> CFD na indeksy<br>32,4%<br> CFD na waluty<br> CFD na towary<br> Pozostałe<br>48,5%<br>10,8%<br>## **III kwartał 2024 r.**  
+2,3%<br>44,9%<br>38,2%<br>14,6%<br>## **I - III kwartał 2025 r.**  
+I - III kwartał 2024 r.  
+5,8% 3,6%<br> CFD na indeksy<br>39,8%<br>43,0%  CFD na waluty<br>36,8%<br> CFD na towary 44,9%<br> Pozostałe<br>14,4% 11,7%<br>**OKRES 3 MIESIĘCY ZAKOŃCZONY**  
+**OKRES 9 MIESIĘCY ZAKOŃCZONY**  
+**(w tys. PLN)**  
+| **t PLN** | **OKRES 3 MIESIĘCY ZAKOŃCZONY** **OKRES 9 MIESIĘCY ZAKOŃCZONY** |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **(w ys. )** | **30.09.2025** | **30.09.2024** | **ZMIANA %** | **30.09.2025** | **30.09.2024** | **ZMIANA %** |
+| CFD na towary | 178 015 | 178 586 | (0,3%) | 557 918 | 628 105 | (11,2%) |
+| CFD na indeksy | 118 984 | 209 517 | (43,2%) | 651 241 | 556 636 | 17,0% |
+| CFD na waluty | 39 589 | 68 005 | (41,8%) | 218 517 | 163 560 | 33,6% |
+| CFD na akcje i ETP | 24 633 | 8 700 | 183,1% | 45 531 | 29 633 | 53,6% |
+| CFD na obligacje | 7 | (158) | (104,4%) | 64 | 270 | (76,3%) |
+| **CFD razem** | **361 228** | **464 650** | **(22,3%)** | **1 473 271** | **1 378 204** | **6,9%** |
+| Akcje i ETP | 5 783 | 2 439 | 137,1% | 41 911 | 21 263 | 97,1% |
+| **Wynik z operacji na** **instrumentach** **finansowych brutto** | **367 011** | **467 089** | **(21,4%)** | **1 515 182** | **1 399 467** | **8,3%** |
+| Bonusy i rabaty wypłacane klientom | (4 271) | (2 650) | 61,2% | (12 531) | (6 292) | 99,2% |
+| Prowizje wypłacane brokerom współpracującym | (13 958) | (11 286) | 23,7% | (37 211) | (37 104) | 0,3% |
+| **Wynik z operacji na** **instrumentach** **finansowych netto** | **348 782** | **453 153** | **(23,0%)** | **1 465 440** | **1 356 071** | **8,1%** |
+88  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **Struktura przychodów względem rynków geograficznych**
+Grupa XTB kładzie duży nacisk na dywersyfikację geograficzną przychodów, konsekwentnie realizując strategię zbudowania marki globalnej. Krajem, z którego Grupa czerpie każdorazowo więcej niż 20% przychodów jest Polska z udziałem wynoszącym w III kwartale 2025 r. 58,8% (III kwartał 2024 r.: 47,4%). Ze względu na ogólny udział w przychodach Grupy wydzielono prezentacyjnie Polskę jako największy przychodowo rynek w Grupie.  
+Przyjęta została zasada, że przychody generowane przez danego klienta, zostają przypisane według kraju biura XTB, w którym ten klient został pozyskany Wyjątek stanowi region Bliskiego Wschodu, w ramach którego prezentowane są także przychody z klientów z tego rynku pozyskanych przez spółkę zależną XTB International Ltd. z siedzibą w Belize.  
+| **OKRES 3** | **MIESIĘCY ZAKOŃCZONY** | **MIESIĘCY ZAKOŃCZONY** | **OKRES 9** | **MIESIĘCY ZAKOŃCZONY** | **MIESIĘCY ZAKOŃCZONY** |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **(w tys. PLN)** | **30.09.2025** | **30.09.2024** | **ZMIANA %** | **30.09.2025** | **30.09.2024** | **ZMIANA %** |
+| Europa Środkowo- Wschodnia | 269 149 | 289 111 | (6,9%) | 1 026 560 | 889 716 | 15,4% |
+| _- w tym Polska_ | _220 922_ | _222 722_ | (0,8%) | _826 907_ | _699 623_ | 18,2% |
+| Europa Zachodnia | 48 691 | 103 510 | (53,0%) | 286 072 | 288 476 | (0,8%) |
+| Ameryka Łacińska1 | _35 355_ | 34 188 | 3,4% | _134 066_ | 100 497 | 33,4% |
+| Bliski Wschód2 | 22 627 | 43 425 | (47,9%) | 90 015 | 129 323 | (30,4%) |
+| Azja **Przychody z** | (1) | - | - | (1) | 8 | (112,5%) |
+| **działalności** **operacyjnej razem** | **375 821** | **470 234** | **(20,1%)** | **1 536 712** | **1 408 020** | **9,1%** |
+_1 Spółka zależna XTB International Ltd. z siedzibą w Belize pozyskuje klientów z Ameryki Łacińskiej i reszty świata (poza Europą). Z pozycji wyłączono przychody z klientów pozyskanych przez tą spółkę pochodzących z regionu Bliskiego Wschodu._  
+_2 Przychody z klientów pochodzących z Bliskiego Wschodu, pozyskanych przez XTB International Ltd. z siedzibą w Belize, XTB MENA Limited oraz XTB Financial Consultation L.L.C, oba z siedzibą w Zjednoczonych Emiratach Arabskich._  
+W 2025 r. wysiłki Zarządu skupiały się przede wszystkim na uzyskaniu niezbędnych licencji i zezwoleń do rozpoczęcia działalności w Indonezji oraz Brazylii. XTB z powodzeniem przeprowadziło oba procesy formalnoprawne, uzyskując w pierwszej kolejności licencję w Indonezji. Tamtejsza spółka zależna XTB pozyskała już pierwszych klientów, a w jej ofercie znajdują się akcje i fundusze ETF, zaś na przełomie 2025/2026 r. planowane jest dodanie także instrumentów CFD.  
+Jeżeli chodzi o Brazylię, to zgodnie z założeniami proces pozyskania licencji został zakończony w bieżącym roku. Grupa uzyskała pozwolenie na działalność i rozpoczęła procedurę wpisu na listę instytucji nadzorowanych. Z uwagi na aktualną sytuację w sektorze brokerskim na rynku brazylijskim, w szczególności lokalny protekcjonizm, XTB rozważa wszystkie możliwe opcje biznesowe, w tym zaprzestanie dalszych działań na tym rynku.  
+Jednym z głównych rynków działalności XTB pozostaje Europa. Zarząd Spółki regularnie monitoruje działalność oddziałów oraz spółek zależnych, poszukując możliwości zwiększenia udziałów XTB na danym obszarze geograficznym.  
+89  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Rozwój XTB możliwy jest także poprzez fuzje i przejęcia, zwłaszcza z podmiotami które pozwoliłyby osiągnąć Grupie synergię geograficzną (rynki wzajemnie się uzupełniające). Tego typu transakcje Zarząd zamierza realizować jedynie w przypadku, gdy wiązać się będą z wymiernymi korzyściami dla Spółki i jej akcjonariuszy.
+
+## **Struktura przychodów względem segmentów klienckich**
+Dla XTB ważna jest także dywersyfikacja segmentowa przychodów. W tym celu Grupa rozwija, poza segmentem detalicznym, działalność instytucjonalną pod marką X Open Hub (XOH), w ramach której dostarcza płynność i technologię innym instytucjom finansowym. Przychody z tego segmentu potrafią podlegać istotnym wahaniom z okresu na okres, analogicznie jak w segmencie detalicznym, co jest zjawiskiem typowym dla przyjętego przez Grupę modelu biznesowego.

@@ -1,0 +1,87 @@
+DOKUMENT SEKCJA: **KOSZTY DZIAŁALNOŚCI OPERACYJNEJ** | **KOSZTY OPERACYJNE** | **MARŻA BRUTTO** | **NAKŁADY INWESTYCYJNE** | **POZIOM ZAPASÓW** | **PRZYCHODY ZE SPRZEDAŻY WG. REGIONÓW** | **PRZYCHODY ZE SPRZEDAŻY** | **ZADŁUŻENIE** | **ZAPASY**
+
+## **PRZYCHODY ZE SPRZEDAŻY WG. REGIONÓW**
+| **Region/kraj (w mln PLN)** | **I-III kwartał 2025** **I-III kwartał 2024** | **Zmiana r/r** |  |
+| --- | --- | --- | --- |
+| Polska | 7 374 | 6 298 | 17,1% |
+| Zagranica | 9 275 | 7 558 | 22,7% |
+| Agenci zakupowi | 0 | 667 | -100,0% |
+| **Razem** | **16 649** | **14 523** | **14,6%** |
+| **Region/kraj (w mln PLN)** | **III kwartał 2025** **III kwartał 2024** | **Zmiana r/r** |  |
+| Polska | 2 717 | 2 208 | 23,1% |
+| Zagranica | 3 424 | 2 843 | 20,5% |
+| Agenci zakupowi | 0 | 162 | -100,0% |
+| **Razem** | **6 141** | **5 212** | **17,8%** |
+
+## **KOSZTY DZIAŁALNOŚCI OPERACYJNEJ**
+| **Koszty działalności operacyjnej** | **I-III kwartał 2025** **I-III kwartał 2024** | **I-III kwartał 2025** **I-III kwartał 2024** | **Zmiana r/r** |
+| --- | --- | --- | --- |
+| Koszty operacyjne (w mln PLN) | 6 789 | 5 928 | 14,5% |
+| Koszty operacyjne na m2/m-c | 290 | 312 | -7,0% |
+| Koszty operacyjne/sprzedaż | 40,8% | 40,8% | 0,0 pp. |
+| Koszty operacyjne/sprzedaż z dział. podstawowej1 | 40,8% | 42,8% | -2,0 pp. |
+_¹dla porównywalności dane za 9M24 roku zostały oczyszczone o wpływ transakcji z agentami zakupowymi w okresie przejściowym_  
+| **Koszty działalności operacyjnej** | **III kwartał 2025** **III kwartał 2024** | **III kwartał 2025** **III kwartał 2024** | **Zmiana r/r** |
+| --- | --- | --- | --- |
+| Koszty operacyjne (w mln PLN) | 2 380 | 2 096 | 13,5% |
+| Koszty operacyjne na m2/m-c | 289 | 317 | -9,0% |
+| Koszty operacyjne/sprzedaż | 38,8% | 40,2% | -1,5 pp. |
+| Koszty operacyjne/sprzedaż z dział. podstawowej1 | 38,8% | 41,5% | -2,7 pp. |
+_¹dla porównywalności dane za 3Q24 roku zostały oczyszczone o wpływ transakcji z agentami zakupowymi w okresie przejściowym_
+
+## **NAKŁADY INWESTYCYJNE**
+| **w mln PLN** **I-III kwartał 2025** | **I-III kwartał 2024** | **Zmiana r/r** |
+| --- | --- | --- |
+| Salony 1 086 | 782 | 38,8% |
+| Biura 42 | 30 | 38,7% |
+| Logistyka 937 | 274 | 242,1% |
+| IT & Pozostałe 121 | 120 | 1,1% |
+| **Razem** **2 186** | **1 206** | **81,3%** |
+| **w mln PLN** **III kwartał 2025** | **III kwartał 2024** | **Zmiana r/r** |
+| Salony 430 | 297 | 44,8% |
+| Biura 13 | 11 | 16,4% |
+| Logistyka 452 | 153 | 195,4% |
+| IT & Pozostałe 44 | 58 | -25,0% |
+| **Razem** **938** | **519** | **80,8%** |
+
+## **POZIOM ZAPASÓW**
+| **Zapasy** |  | **31.10.2025** | **31.10.2024** | **Zmiana r/r** |
+| --- | --- | --- | --- | --- |
+| Zapasy |  | 4 801 | 4 094 | 17,3% |
+| Zapasy na m2 | w PLN | 1 693 | 1 827 | -7,3% |
+
+## **ZADŁUŻENIE**
+| **w mln PLN, MSSF16** | **31.10.2025** | **31.10.2024** | **Zmiana r/r** |
+| --- | --- | --- | --- |
+| Kredyty długoterminowe | 146 | 443 | -67,0% |
+| Kredyty krótkoterminowe | 1 952 | 494 | 295,1% |
+| Obligacje | 0 | 308 | -100,0% |
+| Leasing fnansowy | 5 078 | 4 558 | 11,4% |
+| Środki pieniężne | 693 | 1 134 | -38,9% |
+| Depozyty i fundusze inwestycyjne | 849 | 845 | 0,5% |
+| **Dług netto** | **5 634** | **3 824** | **47,3%** |
+| **Dług netto/EBITDA (4Q)** | **1,1** | **1,0** | **17,2%** |
+
+## **PRZYCHODY ZE SPRZEDAŻY**
+W III kwartale 2025 Grupa LPP osiągnęła przychody na poziomie 6,1 mld PLN co było o 17,8% więcej r/r. Jednocześnie na wynikach porównywalnych (danych za III kwartał 2024 oczyszczonych o wpływ transakcji z agentami zakupowymi) przychody osiągnięte przez Grupę były wyższe o 21,6% r/r a w walutach stałych o 23,1%.  
+Wzrost przychodów Grupy został uzyskany dzięki wzrostom sprzedaży w obu kanałach tj. tradycyjnym i internetowym.  
+Wysokie dwucyfrowe dynamiki sprzedaży w sklepach stacjonarnych tj. +22,3% r/r (wg. danych za 2024 oczyszczonych o wpływ transakcji z agentami zakupowymi) Grupa uzyskała dzięki rozwojowi r/r powierzchni handlowej (w III kwartale otwarto 232 nowe sklepy) oraz pozytywnym LFL tj. 4,3% (najwyższe, dwucyfrowe w marce Reserved i House).  
+Wyższe r/r sprzedaże online tj. 20,7% zostały osiągnięte dzięki rozwojowi aplikacji  
+mobilnych wszystkich marek oraz szerszej ofercie produktowej dedykowanej sklepom internetowym, szczególnie w Sinsay. Dodatkowo rozwój programu lojalnościowego SinsayClub w tej marce wpłynął pozytywnie na sprzedaże e-commerce. Kanał online w III kwartale 2025 stanowił 27,4% całości sprzedaży Grupy (26,7% w III kwartale 2024).  
+Największe przychody w III kwartale 2025 w ujęciu nominalnym i jednocześnie pod względem dynamiki uzyskała marka Sinsay tj. 3,4 mld PLN, wzrost 25,1% r/r. Zróżnicowana i stale poszerzana oferta produktowa w przystępnych cenach, systematyczna realizacja ambitnego celu otwarć nowych sklepów stacjonarnych Sinsay oraz sytuacja ekonomiczna sprzyjająca popularności zakupów w segmencie budżetowym, do którego marka należy, to czynniki które przyczyniły się do wzrostu jej przychodów. Jednocześnie marka Reserved, druga pod względem udziału w przychodach Grupy, uzyskała 1,7 mld PLN sprzedaży, co  
+było o 23,3% więcej niż rok wcześniej. Dwucyfrowy wzrost sprzedaży tej marki to rezultat pozytywnie przyjętej kolekcji oraz bardzo dobrych dynamik sprzedaży w kanale online.  
+Pod względem geograficznym przychody ze sprzedaży omnichannelowej w III kwartale 2025 z zagranicy były wyższe niż przychody z Polski i stanowiły 55,8% sprzedaży omnichannelowej Grupy. Dwucyfrowe dynamiki sprzedaży zarówno w Polsce (+23,1% r/r) jak i za granicą (+20,5% r/r) Grupa uzyskała dzięki udanym kolekcjom w prawie wszystkich markach i dynamicznemu rozwojowi sieci. Największe sprzedaże w III kwartale 2025 poza Polską Grupa osiągnęła m.in. w Ukrainie, Rumunii, Czechach oraz na Węgrzech.
+
+## **MARŻA BRUTTO**
+Grupa w III kwartale 2025 osiągnęła marżę brutto na poziomie 57,6%, tj. o 2,8 pp. wyższą r/r. Jednocześnie po oczyszczeniu o wpływ transakcji z agentami zakupowymi w I  
+kwartale 2024, marża brutto osiągnięta w III kwartale 2025 była wyższa o 1,0 pp. r/r. Wyższa marża brutto r/r (mimo rosnącego udziału marki Sinsay rozwadniającej tą marżę), została osiągnięta dzięki korzystnemu kursowi USD/ PLN po którym zostały zamówione kolekcje oraz mniejszym akcjom promocyjnym r/r.
+
+## **ZAPASY**
+W III kwartale 2025 Grupa zwiększyła poziom zapasów w porównaniu z rokiem wcześniejszym o 707 mln PLN, tj. o 17,3%. Wzrost zapasów r/r był wynikiem otwarć nowych sklepów stacjonarnych marki Sinsay oraz szerszej oferty internetowej tej marki. Jednocześnie zapasy na m[2] spadły r/r o 7,3% z 1 827 PLN/m[2] do 1 693 PLN/ m[2] . Spadek poziomu zapasów/m[2] w III kwartale 2025 był wynikiem głównie rozłożenia w czasie przyjęć części towarów. Rotacja zapasów w III kwartale 2025 wyniosła 173 dni w porównaniu do 153 dni w III kwartale 2024.
+
+## **KOSZTY OPERACYJNE**
+Koszty operacyjne poniesione przez Grupę w okresie III kwartale 2025 wzrosły r/r o 13,5%, mimo to ich dynamika była wolniejsza od dynamiki wzrostu sprzedaży. Wzrost r/r kosztów operacyjnych wynikał głównie z intensywnego rozwoju (koszty nowych salonów) oraz wyższych kosztów logistycznych wynikających z uruchomienia nowego FC w Rumunii oraz ponoszonych dodatkowych kosztów logistyki w okresie tzw. „business  
+interruption” po pożarze magazynu w Rumunii w czerwcu 2025 (dodatkowe koszty transportu oraz najmu powierzchni).  
+Jednocześnie dzięki wdrożonej automatyzacji w logistyce, niższym wydatkom na marketing sklepowy i internetowy koszty operacyjne na m[2] Grupy spadły r/r o 9,0%, z 317 PLN/m[2] do 289 PLN/m[2] .  
+W III kwartale 2025 koszty sklepów wyniosły 1 354 mln PLN (+15,1% r/r), a koszty centrali i e-commerce 1 026 mln PLN (+11,6% r/r). Koszty sklepów własnych na m[2] spadły r/r z poziomu 177 PLN/m[2] do 164 PLN/m[2] , co było wynikiem: niższych r/r kosztów najmu/m[2] (większa liczba otwieranych salonów marki Sinsay z niższymi czynszami), niższych r/r kosztów personelu/m[2] (efektywne zarządzanie czasem pracy w salonach) oraz spadku r/r pozostałych kosztów sklepów dzięki optymalizacji zużycia energii i kosztów usług zewnętrznych.  
+W rezultacie udział kosztów operacyjnych w przychodach spadł z 40,2% w III kwartale 2024 do 38,8% w III kwartale 2025. Jednocześnie biorąc pod uwagę udział kosztów do sprzedaży porównywalnej (oczyszczonej o wpływ transakcji z agentami zakupowymi), wskaźnik ten spadł r/r z 41,5% do 38,8%.

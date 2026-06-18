@@ -1,0 +1,33 @@
+DOKUMENT SEKCJA: **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO JEDNOSTKOWEGO SPRAWOZDANIA FINANSOWEGO** > **Rok poprzedni**
+
+# **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO JEDNOSTKOWEGO SPRAWOZDANIA FINANSOWEGO**
+## **Rok poprzedni**
+| **Zmiana w okresie** **ujęta w Rachunku** **REZERWY I AKTYWA Z TYTUŁU ODROCZONEGO PODATKU** **Wartość bilansowa** |  | **zysków i strat /** | **Wartość bilansowa** |
+| --- | --- | --- | --- |
+| **DOCHODOWEGO** **na początek okresu** **całkowitych** **dochodów** **Rezerwa z tytułu odroczonego podatku dochodowego** |  | **Sprawozdaniu z** | **na koniec okresu** |
+| Rożickursw | 1 | 78 | 79 |
+| Odsetki naliczone | 448 | (448) | - |
+| Dysktwaizbwiązan 1 | 256 | (529) | 727 |
+| Rożica pmiedzy wyikim pdatkwym a ksiegwym a sprzdaych prduktach z uwzglediim rzrw a kszty 5 | 642 | 33 029 | 38 671 |
+| Kosztyfinansowe skapitalizowane | - - - |  |  |
+| Wyca aktywow fiaswych 1 | 271 | (400) | 871 |
+| Leasing | - - - |  |  |
+| Pzstał | - - **-** |  |  |
+| **Razem rezerwa z tytułu odroczonego podatku dochodowego** **8** **Aktywa z tytułu odroczonego podatku dochodowego** | **618** | **31 730** | **40 348** |
+| Rożickursw | 58 | (58) | - |
+| Rożica pmiedzy wyikim pdatkwym a ksiegwym a sprzdaych prduktach z uwzglediim rzrw a kszty | - - - |  |  |
+| Aktualizacja wycyzapasow 7 | 840 | - | 7 840 |
+| Odpisyaktualizującalżści ipzstałrzrwy | 826 | (614) | 212 |
+| Rzrwa a świadcziapracwicz 5 | 685 | 1 411 | 7 096 |
+| Rezerwa na koszty 4 | 909 | 1 024 | 5 933 |
+| Kosztyfinansowe | 224 | 188 | 412 |
+| Zdysktwaialżści | 145 | (35) | 110 |
+| Wyca aktywow fiaswych | 326 | (326) | - |
+| Stratapdatkwa mżliwa drzliczia | - | 1 112 | 1 112 |
+| Pzstał | 655 | (459) | 196 |
+| **Razem aktywa z tytułu odroczonego podatku dochodowego** **20** | **668** | **2 243** | **22 911** |
+| **Zmiana rezerwy na podatek odroczony wynikająca z nabycia spółek zależnych** **ustalona na dzień nabycia** | **-** **-** |  |  |
+| **Obciążenie z tytułu odroczonego podatku dochodowego dotyczące rachunku zysków i** **strat** | **(19 682)** | **29 673** |  |
+| **Obciążenie z tytułu odroczonego podatku dochodowego dotyczące innych całkowitych** | **dochodów netto** | **(1 499)** | **(186)** |
+| **Wykazane w bilansie aktywo z tytułu odroczonego podatku dochodowego** | **3 743** **-** |  |  |
+| **Wykazana w bilansie rezerwa netto z tytułu odroczonego podatku dochodowego** | **-** **17 437** |  |  |

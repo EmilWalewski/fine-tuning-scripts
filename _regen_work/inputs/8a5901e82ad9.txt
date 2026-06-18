@@ -1,0 +1,62 @@
+DOKUMENT SEKCJA: Główny Dokument
+
+| _w tysiącach złotych_ **_Nota_** **Aktywa** | _w tysiącach złotych_ **_Nota_** | **30.06.2025** | **niebadane** | **31.12.2024** | **30.06.2024** | **niebadane** |
+| --- | --- | --- | --- | --- | --- | --- |
+| Środki pieniężne i ich ekwiwalenty _10.17_ | 266 130 | 214 790 | 181 045 |  |  |  |
+| Instrumenty zabezpieczające _10.11_ | 114 644 | 114 326 | 136 502 |  |  |  |
+| Należności z tytułu dostaw i usług _10.16_ | 12 595 | 19 619 | 16 778 |  |  |  |
+| Pozostałe należności _10.16_ | 53 182 | 52 496 | 46 372 |  |  |  |
+| Należności z tytułu podatku dochodowego | 14 694 | 3 684 | 6 401 |  |  |  |
+| Zapasy _10.15_ | 11 741 | 12 556 | 11 641 |  |  |  |
+| Inwestycje _9_ | 11 358 743 | 11 003 183 | 9 611 557 |  |  |  |
+| Aktywa z tytułu odroczonego podatku dochodowego _10.9_ | 47 252 | 44 429 | 44 202 |  |  |  |
+| Rzeczowe aktywa trwałe | 116 823 | 89 572 | 80 417 |  |  |  |
+| Wartość firmy _10.14_ | 7 861 | 7 928 | 8 011 |  |  |  |
+| Inne wartości niematerialne | 78 135 | 69 341 | 64 449 |  |  |  |
+| Pozostałe aktywa | 17 125 | 16 955 | 14 380 |  |  |  |
+| **Aktywa ogółem** **Kapitały i zobowiązania** **Zobowiązania** |  | 12 098 925 | 11 648 879 | 10 221 755 |  |  |
+| Zobowiązania z tytułu dostaw i usług oraz pozostałe _10.19_ | 190 099 | 231 823 | 272 886 |  |  |  |
+| Zobowiązania z tytułu dywidendy _16_ | 349 252 - - |  |  |  |  |  |
+| Instrumenty pochodne | - 105 - |  |  |  |  |  |
+| Instrumenty zabezpieczające _10.11_ | 42 809 | 36 742 | 2 615 |  |  |  |
+| Zobowiązania z tytułu świadczeń pracowniczych _10.18_ | 78 061 | 85 775 | 68 026 |  |  |  |
+| Zobowiązania z tytułu podatku dochodowego | 6 208 | 5 493 | 6 824 |  |  |  |
+| Zobowiązania z tytułu kredytów, pożyczek, dłużnych papierów wartościowych oraz leasingu _10.10_ |  | 6 541 449 | 6 626 551 | 5 524 538 |  |  |
+| Rezerwy _10.20_ | 19 776 | 19 896 | 62 192 |  |  |  |
+| Rezerwa z tytułu odroczonegopodatku dochodowego _10.9_ | 107 967 | 113 837 | 177 772 |  |  |  |
+| **Zobowiązania ogółem** **Kapitał własny** |  | 7 335 621 | 7 120 222 | 6 114 853 |  |  |
+| Kapitał akcyjny | 19 403 | 19 382 | 19 319 |  |  |  |
+| Kapitał z emisji akcji powyżej ich wartości nominalnej | 379 365 | 374 097 | 358 506 |  |  |  |
+| Kapitał rezerwowy z wyceny instrumentów zabezpieczających |  | 72 033 | 64 779 | 113 363 |  |  |
+| Kapitał rezerwowy z wycen programów określonych świadczeń |  | 3 499 | 3 374 | 3 331 |  |  |
+| Różnice kursowe z przeliczenia jednostek działających za granicą |  | (154 606) | (130 734) | (105 971) |  |  |
+| Pozostałe kapitały rezerwowe | 199 577 | 188 654 | 180 672 |  |  |  |
+| Zyski zatrzymane | 4 244 200 | 4 009 434 | 3 538 137 |  |  |  |
+| **Kapitał własny akcjonariuszy jednostki dominującej** |  | 4 763 471 | 4 528 986 | 4 107 357 |  |  |
+| **Udziały niekontrolujące** |  | (167) | (329) | (455) |  |  |
+| **Kapitał własny ogółem** |  | 4 763 304 | 4 528 657 | 4 106 902 |  |  |
+| **Kapitały i zobowiązania ogółem** |  | 12 098 925 | 11 648 879 | 10 221 755 |  |  |
+
+Skonsolidowane sprawozdanie z sytuacji finansowej należy analizować łącznie z notami objaśniającymi do skróconego śródrocznego skonsolidowanego sprawozdania finansowego, które stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego.
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+6<br>01.01.2024- 01.04.2024-<br>## **II. Skonsolidowane sprawozdanie z zysków lub strat**
+Skonsolidowane sprawozdanie z zysków lub strat należy analizować łącznie z notami objaśniającymi do skróconego śródrocznego skonsolidowanego sprawozdania finansowego, które stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego.
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+7<br>01.01.2024- 01.04.2024-<br>## **III. Skonsolidowane sprawozdanie z całkowitych dochodów**
+w tysiącach złotych Nota w tysiącach złotych Nota 01.01.2025- 30.06.2025 niebadane 01.04.2025- 30.06.2025 niebadane 01.01.2024- 30.06.2024 niebadane 01.04.2024- 30.06.2024 niebadane
+Zysk netto za okres sprawozdawczy 584 154 332 472 602 854 264 660
+Inne całkowite dochody
+Pozycje, które mogą w przyszłości zostać przekwalifikowane do wyniku finansowego Różnice kursowe z przeliczenia jednostek działających za granicą
+(23 846) 33 955 (10 063) 6 014
+Instrumenty zabezpieczające przepływy pieniężne oraz inwestycje w aktywach netto w jednostce zagranicznej 9 377 (49 723) 72 547 27 763
+Pozycje, które w przyszłości nie zostaną przekwalifikowane do wyniku finansowego
+Programyokreślonych świadczeń 125 - - -
+Inne całkowite dochody brutto za okres sprawozdawczy (14 344) (15 768) 62 484 33 777
+Podatek dochodowy od instrumentów zabezpieczających przepływy pieniężne oraz
+inwestycje w aktywach netto w jednostce zagranicznej (2 123) 8 828 (10 227) (4 265)
+Inne całkowite dochody netto za okres sprawozdawczy (16 467) (6 940) 52 257 29 512
+Całkowite dochody ogółem za okres sprawozdawczy 567 687 325 532 655 111 294 172
+Całkowite dochody ogółem przypadające na:
+Akcjonariuszy jednostki dominującej 567 525 325 455 654 877 293 836
+Udziałyniekontrolujące 162 77 234 336
+Skonsolidowane sprawozdanie z całkowitych dochodów należy analizować łącznie z notami objaśniającymi do skróconego śródrocznego skonsolidowanego sprawozdania finansowego, które stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego.

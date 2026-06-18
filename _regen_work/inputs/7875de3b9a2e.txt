@@ -1,0 +1,54 @@
+DOKUMENT SEKCJA: **2 OMÓWIENIE WYNIKÓW FINANSOWYCH DOM DEVELOPMENT S.A. I JEJ GRUPY** > **2.2.1 SYTUACJA MAJĄTKOWA SPÓŁKI**
+
+# **2 OMÓWIENIE WYNIKÓW FINANSOWYCH DOM DEVELOPMENT S.A. I JEJ GRUPY**
+## **2.2.1 SYTUACJA MAJĄTKOWA SPÓŁKI**
+| **WYBRANE DANE Z BILANSU DOM** **DEVELOPMENT S.A.(tys. zł)** **31.12.2025** **Udział** **w sumie bilansowej** **31.12.2024** | **Zmiana r/r** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Inwestycje w jednostkach zależnych, | stowarzyszonych i wspólnym | przedsięwzięciu | 466 594 | 12% 449 328 4% |
+| Pożyczki udzielone długoterminowe | 580 296 | 15% | 154 500 | 276% |
+| Inne aktywa trwałe | 87 058 | 2% | 56 153 | 55% |
+| **Aktywa trwałe razem** **Aktywa obrotowe** | **1 133 948** | **29%** | **659 981** | **72%** |
+| Zapasy | 2 446 584 | 63% | 2 124 970 | 15% |
+| Należności z tytułu dostaw i usług i | pozostałe należności | 52 702 | 1% | 56 472 (7) % |
+| Należności z tytułu podatku dochodowego - 0% 48 425 | n/d |  |  |  |
+| Pozostałe aktywa obrotowe | 10 179 | <1% | 22 525 | (55)% |
+| Pożyczki udzielone | - | 0% | 360 750 | n/d |
+| Środki pieniężne i ich ekwiwalenty | oraz krótkoterminowe aktywa finansowe | 216 670 | 6% | 272 189 (20) % |
+| **Aktywa obrotowe razem** | **2 726 135** | **71%** | **2 885 331** | **(6) %** |
+| **AKTYWA RAZEM** **Kapitał własny** | **3 860 083** | **100%** | **3 545 312** | **9%** |
+| Kapitał zakładowy | 25 798 | 1% | 25 798 | 0% |
+| Nadwyżka ze sprzedaży akcji powyżej ich | wartości nominalnej | 276 458 | 7% | 276 458 0% |
+| Kapitały rezerwowe, zapasowe oraz | niepodzielonywynik finansowy | 1 381 311 | 36% | 1 168 068 18% |
+| **KAPITAŁ WŁASNY RAZEM** | **1 683 567** | **44%** | **1 470 324** | **15%** |
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+41  
+| **Zobowiązania** Zobowiązania długoterminowe razem | 610 311 | 16% | 580 095 | 5% |
+| --- | --- | --- | --- | --- |
+| Zobowiązania krótkoterminowe razem | 1 566 205 | 41% | 1 494 893 | 5% |
+| **Zobowiązania razem** | **2 176 516** | **56%** | **2 074 988** | **5%** |
+| **Kapitał własny i zobowiązania razem** | **3 860 083** | **100%** | **3 545 312** | **9%** |
+Suma bilansowa Spółki wzrosła na przestrzeni 2025 roku o 9% do wartości 3 860 mln zł. Większość aktywów Spółki stanowiły zapasy, których wartość na koniec 2025 roku wyniosła 2 447 mln zł i kształtowała się na poziomie 15% wyższym w stosunku do roku porównawczego. Pożyczki (udzielone wyłącznie do spółek zależnych) w roku 2025 zwiększyły się o 13% i wyniosły 580 mln zł.  
+Struktura pasywów Spółki pozostała na zbliżonym poziomie w porównaniu do stanu na koniec 2024 roku. Kapitały własne, stanowiące 44% sumy bilansowej, pomimo wypłaty pozostałej części dywidendy za rok 2024 (w kwocie 181 mln zł) oraz dywidendy zaliczkowej za rok 2025 (w kwocie 181 mln zł) na dzień 31 grudnia 2025  
+wzrosły do poziomu 1 684 mln zł. Zobowiązania długoterminowe Spółki oscylowały na poziomie 610 mln zł i w stosunku do poprzedniego roku wzrosły o 5%. W ich skład wchodziły przede wszystkim wyemitowane przez Spółkę obligacje o wartości 535 mln zł. Zobowiązania krótkoterminowe były na poziomie zbliżonym do 2024 roku i wyniosły 1 566 mln zł. Suma wyemitowanych przez Spółkę obligacji na koniec 2025 roku wzrosła w porównaniu z końcem roku poprzedniego o 35 mln zł.  
+Korzystna struktura bilansu Spółki znajduje odzwierciedlenie w zaprezentowanych poniżej wartościach wskaźników płynności i zadłużenia.  
+| **WSKAŹNIKI PŁYNNOŚCI SPÓŁKI** | **FORMUŁA** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- | --- |
+| **Bieżący (current ratio)** | aktywa obrotowe/zobowiązania krótkoterminowe*) | 4,13 | 4,55 |
+| **Szybki(quick ratio)** | (aktywa obrotowe – zapasy) /zobowiązania krótkoterminowe*) | 0,42 | 1,20 |
+| **Natychmiastowy (cash ratio)** | środkipieniężne/zobowiązania krótkoterminowe*) | 0,10 | 0,20 |
+*) Zobowiązania krótkoterminowe z wyłączeniem przychodów przyszłych okresów  
+| **WSKAŹNIKI ZADŁUŻENIA SPÓŁKI** | **FORMUŁA** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- | --- |
+| **Pokrycia majątku kapitałami własnymi** | kapitał własny /aktywa ogółem | 43,6% | 41,5% |
+| **Zadłużenia kapitału własnego** | zobowiązania ogółem/kapitał własny | 129,3% | 141,1% |
+| **Ogólnego zadłużenia** | zobowiązania ogółem/aktywa ogółem | 56,4% | 58,5% |
+| **Zadłużenia odsetkowego** | zobowiązania odsetkowe/kapitaływłasne | 38,9% | 41,5% |
+| **Zadłużenia odsetkowego netto** | (zobowiązania odsetkowe - środkipieniężne*) / kapitaływłasne | 26,4% | 23,9% |
+*) Środki pieniężne z uwzględnieniem środków na rachunkach powierniczych  
+Wszystkie prezentowane powyżej wskaźniki zadłużenia oraz bieżący wskaźnik płynności utrzymują się na dobrym, bezpiecznym poziomie, nadzorowanym i zarządzanym przez kierownictwo Spółki.  
+Zarówno szybki wskaźnik płynności oraz natychmiastowy wskaźnik płynności istotnie zmniejszyły swoją wartość, głównie za sprawą należności z tytułu udzielonych pożyczek (do spółek zależnych), dla których umowy zostały przedłużone i na koniec 2025 roku mają one charakter długoterminowy. Dodatkowo, w miejsce należności z tytułu podatku CIT wykazanych na koniec  
+2024 roku, Spółka wykazała zobowiązania z tego tytułu na koniec 2025 roku a także zmniejszeniu uległ poziom utrzymywanych przez Spółkę środków pieniężnych. Wszystkie te czynniki, będące efektem racjonalnego i planowanego zarządzania zasobami Spółki, należy uznać za zmiany pozytywne, a wskaźniki płynności - za utrzymane na satysfakcjonującym i bezpiecznym poziomie, co potwierdza dobrą kondycję płynnościową Grupy. Dom Development S.A. na dzień 31 grudnia 2025 roku posiada dostępne, niewykorzystane linie kredytowe w wysokości 717 mln zł w pięciu największych bankach w Polsce.  
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+42

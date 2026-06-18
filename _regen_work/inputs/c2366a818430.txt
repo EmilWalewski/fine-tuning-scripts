@@ -1,0 +1,107 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **Kontrakty realizowane przez Asseco Poland dla ZUS**
+
+- Umowa na świadczenie usług wsparcia eksploatacji i utrzymania Kompleksowego Systemu Informatycznego ZUS (KSI ZUS) zawarta w 2022 roku, aneksowana w latach 2023-2025,
+- Umowa ramowa na modyfikację i rozbudowę oprogramowania KSI ZUS z 2022 roku:
+- na koniec marca 2025 roku w jej ramach realizowano 20 umów wykonawczych, 3 z nich zawarto w I kwartale 2025 roku,
+- Umowa ramowa na modyfikację i rozbudowę oprogramowania KSI ZUS z 2018 roku:
+- na koniec marca 2025 roku w jej ramach realizowano 2 umowy wykonawcze zawarte w poprzednich okresach sprawozdawczych,
+- Umowy dotyczące przygotowania systemów informatycznych KSI oraz Portalu PUE do:
+- obsługi nowego świadczenia wspierającego dla osób z niepełnosprawnościami i ich opiekunów (umowa zawarta w 2023 roku i aneksowana w latach 2024-2025),
+- obsługi wniosków o nabycie prawa do świadczenia „Aktywny Rodzic” (umowa zawarta w sierpniu 2024 roku, aneksowana w 2024 i 2025 roku),
+- obsługi wniosku o zwolnienie z obowiązku opłacenia składek za wskazany miesiąc – „Wakacje składkowe” (umowa zawarta w sierpniu 2024 roku, aneksowana w 2024 i 2025 roku),
+- obsługi wniosku o nabycie prawa do zbiegu świadczeń „Renta wdowia” (umowa zawarta w grudniu 2024 roku),
+- Umowa na dostosowanie systemów informatycznych KSI ZUS oraz Portalu PUE do obsługi zmian dotyczących składki na ubezpieczenie zdrowotne „Składka Zdrowotna” (umowa zawarta w styczniu 2025 roku),
+- Umowa na świadczenie usług wsparcia eksploatacji i utrzymania Systemu Bezpieczeństwa Teleinformatycznego ZUS (umowa zawarta w listopadzie 2024 roku w konsorcjum z NASK).
+
+W kwietniu 2025 roku Asseco Poland zawarło z ZUS nową, 4-letnią umowę na świadczenie usług wsparcia eksploatacji i utrzymania KSI ZUS, po zakończeniu obecnie trwającej umowy z 2022 roku.
+
+Dla Ministerstwa Sprawiedliwości Spółka realizowała umowy na:
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 79
+- budowę, utrzymanie i rozwój systemu obsługującego Krajowy Rejestr Zadłużonych (KRZ), który usprawnia postępowania restrukturyzacyjne i upadłościowe – kontrakt zawarty w 2020 roku i aneksowany w latach 2020-2021 oraz w 2023 roku,
+- rozwój i utrzymanie systemu teleinformatycznego Elektroniczne Księgi Wieczyste (EKW) – kontrakt zawarty w styczniu 2024 roku,
+- utrzymanie i rozwój Krajowego Rejestru Sądowego (KRS) – kontrakt zawarty w 2023 roku,
+- utrzymanie i rozwój Systemu Losowego Przydziału Spraw (SLPS) – kontrakt zawarty w 2023 roku.
+
+W I kwartale 2025 roku Spółka realizowała podpisaną w 2024 roku z Krajowym Ośrodkiem Wsparcia Rolnictwa 2-letnią umowę na świadczenie usług asysty technicznej i konserwacji przy eksploatacji oprogramowania Zintegrowanego Systemu Informatycznego.
+
+W omawianym okresie Asseco Poland realizowało dla Głównego Inspektoratu Transportu Drogowego (GITD), obowiązujący od marca 2023 roku, 6-letni kontrakt w zakresie utrzymania i rozwoju systemu teleinformatycznego CPD CANARD.
+
+Centralny system przetwarzania wspiera GITD w zakresie obsługi wykrytych wykroczeń drogowych, w tym obsługi spraw z nimi związanych i procesu mandatowego oraz procesu płatności i windykacji.
+
+Ponadto Spółka od czerwca 2023 roku realizuje trzy, 5-letnie umowy na usługi wsparcia dla elementów infrastruktury technicznej oraz oprogramowania obcego wykorzystywanego w CPD CANARD.
+
+W ramach odrębnej umowy zawartej w 2022 roku, realizowany jest dla GITD projekt obejmujący swoim zakresem budowę, utrzymanie i rozwój systemu teleinformatycznego Centralnej Ewidencji Naruszeń 2.0., który od marca 2024 roku zastąpił system Centralnej Ewidencji Naruszeń 1.0.
+
+Nowy system wspiera zadania służb przeprowadzających kontrole drogowe oraz kontrole w przedsiębiorstwach wraz z obsługą spraw z nich wynikających, w ramach ich uprawnień określonych w ustawie o transporcie drogowym.
+
+Asseco Poland prowadziło też działania dla Resortu Finansów, obejmujące projekty utrzymania i rozwoju systemów celno-podatkowych realizowanych w ramach dofinansowywanego przez Unię Europejską programu „Platforma Usług Elektronicznych Skarbowo-Celnych (PUESC)”.
+
+Wartym wyróżnienia projektem, realizowanym wspólnie z firmą T4B Sp. z o.o. w ramach ww. programu, jest utrzymanie i rozwój systemu Cyfrowa Granica.
+
+Jest to bardzo zaawansowane i nowoczesne rozwiązanie, które zapewnia efektywną obsługę osób i podmiotów na przejściach granicznych z wykorzystaniem mechanizmów automatycznej wymiany danych m.in. z Systemem Straży Granicznej oraz automatycznej identyfikacji pojazdów i sterowania ruchem.
+
+System Cyfrowa Granica funkcjonuje w 53 lokalizacjach w obrębie drogowych i kolejowych przejść granicznych oraz granicznego ruchu lotniczego i morskiego.
+
+Usługi wsparcia utrzymania i rozwoju systemu będą świadczone do końca 2025 roku.
+
+W I kwartale 2025 roku Asseco Poland rozpoczęło prace związane z realizacją projektu dotyczącego wdrożenia obligatoryjnej awizacji w drogowym ruchu towarowym na kierunku wywozowym (ODAT).
+
+Celem projektu ODAT jest udostępnienie klientom Krajowej Administracji Skarbowej, w szczególności przewoźnikom, spedytorom i kierowcom, narzędzia umożliwiającego dokonanie rezerwacji terminu odprawy granicznej wywozowej dla samochodów ciężarowych na zewnętrznej granicy Unii Europejskiej.
+
+Usługa e-Awizacja zostanie udostępniona w ramach rozwoju systemu Cyfrowa Granica.
+
+W omawianym okresie Spółka, w konsorcjum z firmą Pentacomp, realizowała dla Ministerstwa Finansów reprezentowanego przez Izbę Administracji Skarbowej w Krakowie kontrakt na rozwój, modernizację i utrzymanie komponentów Systemu Informacyjnego Skarbowo-Celnego (SISC) w obszarze Obrotu Towarowego z Krajami Trzecimi i Przemieszczeń Akcyzowych.
+
+Ponadto – w ramach umowy podstawowej z 2021 roku i umowy uzupełniającej zawartej w 2023 roku – Asseco Poland prowadziło dla tego samego klienta prace w zakresie rozbudowy, modernizacji i rozwoju systemu ZEFIR2, obsługującego pobór i rozliczenia finansowe należności celno-podatkowych na rzecz Skarbu Państwa oraz budżetu UE.
+
+W I kwartale Spółka realizowała również zawarty w lipcu 2024 roku 21-miesięczny kontrakt na świadczenie usług utrzymania systemu ZEFIR2.
+
+W obu kontraktach Asseco rozbudowuje i utrzymuje wykonane wcześniej przez siebie systemy.
+
+Celem jest przede wszystkim dostosowanie do nowych regulacji prawnych UE zawartych w unijnym kodeksie celnym, jak również wielu regulacji krajowych, m.in. zmian w rozliczeniach podatku akcyzowego czy VAT.
+
+Natomiast we współpracy z Izbą Administracji Skarbowej w Szczecinie Spółka realizuje projekt systemu PKWD Single Window (Platforma Koordynacji i Wymiany Danych – Single Window), którego celem jest zapewnienie mechanizmów wymiany danych pomiędzy Krajową Administracją Skarbową, przedsiębiorcą/klientem (importerem/eksporterem realizującym w Polsce odprawy celne) a inspekcjami wykonującymi kontrolę towaru przed wprowadzeniem do obrotu.
+
+W omawianym okresie, na podstawie aneksu zawartego w 2024 roku, realizowano również prace związane z dostosowaniem systemu do najnowszej specyfikacji unijnego systemu EU
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 80
+Customs Single Window – CERTEX, dzięki któremu możliwa jest weryfikacja wymaganych świadectw/certyfikatów UE.
+
+Asseco Poland realizuje projekt rozbudowy funkcjonalności swojego systemu PLANUS.
+
+Jest to zaawansowany system obsługi procedur celnych, który zapewnia automatyzację i integrację z Krajową Administracją Skarbową.
+
+System wspiera import, eksport, tranzyt oraz specjalne procedury celne, umożliwiając szybkie przetwarzanie zgłoszeń, generowanie raportów w czasie rzeczywistym oraz bezpieczną wymianę danych.
+
+Asseco Poland jest jednym z największych dostawców rozwiązań i usług IT dla sektora **ochrony zdrowia** .
+
+Obecnie współpracuje z ponad 450 szpitalami w całej Polsce.
+
+Z kolei w segmencie obejmującym gabinety lekarskie, średnie i małe przychodnie oraz praktyki lekarskie obsługuje 9,2 tys. lokalizacji (39,7 tys. użytkowników), co stanowi ok.
+
+40% rynku.
+
+W I kwartale 2025 roku Asseco uczestniczyło, jako główny wykonawca bądź podwykonawca, w projektach realizowanych w konsekwencji przeprowadzonych postępowań przetargowych, dotyczących m.in. dostawy i wdrażania, a także wsparcia produkcyjnego uruchamiania e-usług czy aplikacji w szpitalach i ośrodkach medycznych w całej Polsce.
+
+W wyniku realizacji kontraktów Asseco dostarcza rozwiązania, które mają usprawnić rejestrację pacjentów na wizyty, ułatwić im sprawdzanie wyników badań, a także umożliwić dostęp do dokumentacji medycznej online.
+
+Nowe e-usługi są w pełni zintegrowane z obecnymi rozwiązaniami działającymi w szpitalach, w tym Szpitalnymi Systemami Informacyjnymi – HIS i zarządzania jednostką – ERP.
+
+W omawianym okresie Spółka realizowała również w szpitalach umowy utrzymaniowe wdrożonych już systemów, które odpowiadały za ponad 50% przychodów wygenerowanych w obszarze świadczeniodawców.
+
+Asseco jest dostawcą systemu informatycznego – Bank Krwi – dla 18 Centrów Krwiodawstwa i Krwiolecznictwa oraz Wojskowego Centrum Krwiodawstwa i Krwiolecznictwa.
+
+Głównym celem systemu jest wspomaganie zarządzania w Centrum Krwiodawstwa związane z rejestracją dawców, organizacją poboru krwi, obsługą laboratorium oraz produkcją i dystrybucją składników krwi w sposób zapewniający bezpieczeństwo dawcy i pacjenta.
+
+System umożliwia obsługę więcej niż jednego Banku Krwi w ramach jednego szpitala.
+
+W omawianym okresie Asseco Poland, w konsorcjum z Kamsoft, kontynuowało realizację podpisanej w 2019 roku z Narodowym Funduszem Zdrowia umowy na utrzymanie i rozwój Systemu Informatycznego Wspomagania Działalności NFZ – SIWDzNFZ.
+
+Wykorzystując wieloletnie doświadczenia w informatyzacji placówek medycznych, Spółka systematycznie rozwija pakiet swoich rozwiązań dedykowanych szpitalom, przychodniom i gabinetom lekarskim.
+
+W I kwartale 2025 roku Asseco Poland kontynuowało rozwój aplikacji Pulpity Medyczne (Asseco Medical Patient Desktop), która udostępniana jest w ramach systemu dla szpitali Asseco Medical Management Solutions (AMMS).
+
+Dzięki aplikacji lekarze mają dostęp do tych danych, których aktualnie potrzebują, bez konieczności przeglądania wielu modułów AMMS.
+
+Na jednym ekranie widzą całą historię choroby pacjenta, wyniki badań, przebyte zabiegi i inne informacje dotyczące jego stanu zdrowia.
+
+Asseco rozwija też swoje rozwiązania obejmujące funkcjonalności dla pacjentów.

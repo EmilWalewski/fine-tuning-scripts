@@ -1,0 +1,82 @@
+DOKUMENT SEKCJA: **10. Dywidendy wypłacone i zaproponowane do wypłaty** | **11. Podatek dochodowy** | **12.1. Nabycie i sprzedaż** | **12.2. Odpisy z tytułu utraty wartości** | **13. Odpisy aktualizujące wartość firmy** | **14. Należności krótkoterminowe** | **15. Zapasy**
+
+## **10. Dywidendy wypłacone i zaproponowane do wypłaty**
+Zgodnie z uchwałą Walnego Zgromadzenia Akcjonariuszy z dnia 28.05.2025 roku, Grupa Kęty S.A. przeznaczyła na dywidendę dla Akcjonariuszy Spółki z zysku za rok 2024 kwotę 545 mln PLN, tj. 55,46 PLN na akcję licząc według liczby akcji Spółki na dzień ustalenia prawa do dywidendy: 9 822 753 sztuk.  
+Jako dzień dywidendy ustalono 20 sierpnia 2025 roku, natomiast terminy wypłaty dywidendy ustalone zostały na 3 września 2025 roku – rata wypłacona (kwota 164 mln PLN tj. 16,69 PLN na akcję) i 5 listopada 2025 roku (kwota 381 mln PLN tj. 38,77 PLN na akcję).  
+W 2024 roku jednostka dominująca wypłaciła dywidendę w kwocie 539 mln PLN, tj. 55,40 PLN na akcję. Ponadto, w okresie 9 miesięcy 2025 roku, jednostka zależna Aluprof Netherlands B.V. wypłaciła Akcjonariuszom mniejszościowym 337 tys. PLN dywidendy (za okres 9 miesięcy roku ubiegłego: 165 tys. PLN).
+
+## **11. Podatek dochodowy**
+| **Struktura podatku dochodowego** | **3 kwartał** **2025** | **9 miesięcy** **2025** | **3 kwartał** **2024** | **9 miesięcy** **2024** |
+| --- | --- | --- | --- | --- |
+| podatek za bieżący okres | (33) | (102) | (39) | (106) |
+| podatek odroczony* | (6) | (12) | 2 | 35 |
+| **Podatek dochodowy wykazany w rachunku zysków i strat** | **(39)** | **(114)** | **(37)** | **(71)** |
+*W okresie 9 miesięcy 2025 roku w związku z wydatkami inwestycyjnymi Grupa dokonała zwiększenia aktywów z tytułu podatku odroczonego w związku z ulgami inwestycyjnymi w ramach programu Polska Strefa Inwestycji w kwocie 3 mln PLN (w okresie 9 miesięcy 2024 roku aktywa te zostały zwiększone o 35 mln PLN).  
+Grupa ocenia, że warunki określone w decyzjach o wsparciu zostaną spełnione. Na dzień 30.09.2025 roku rozpoznane aktywa podatkowe z tytułu ulg inwestycyjnych wyniosły 133 mln PLN (na dzień 31.12.2024 roku: 141 mln PLN).  
+Dla decyzji o wsparciu wydanych do końca 2023 roku Grupa rozpoznawała przyszłe korzyści podatkowe proporcjonalnie do poniesionych wydatków inwestycyjnych.  
+Dla decyzji wydanych od 2024 roku, w związku ze zmianą prawa podatkowego, Grupa rozpoznaje przyszłe korzyści podatkowe w dacie wskazanej w decyzji o wsparciu.  
+Założenia przyjęte do wyceny aktywów z tytułu odroczonego podatku dochodowego od działalności strefowej, w tym prognozy dochodów podatkowych, nie uległy zmianie w porównaniu z przyjętymi dla celów sporządzenia skonsolidowanego sprawozdania finansowego za rok zakończony 31 grudnia 2024 roku (nota 14.2).  
+Ponadto, w dniu 29.05.2025 roku Alupol Films Sp. z o.o. (Segment SOG) otrzymała decyzję nr 343/2025 z dnia 28 maja 2025 roku wydaną przez Krakowski Park Technologiczny Sp. z o.o. o wsparciu nowej inwestycji. Decyzja o wsparciu wydana jest na 15 lat licząc od dnia jej wydania, tj. do 27 maja 2040 roku.  
+Inwestycja dotyczy zwiększenia zdolności produkcyjnych - wydatki inwestycyjne będą dotyczyły rozbudowy i modernizacji powierzchni produkcyjnych oraz zakupu nowoczesnej linii do wytwarzania folii poliolefinowych.  
+_(w milionach PLN)_  
+20  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+Skorzystanie z ulgi podatkowej możliwe będzie po spełnieniu określonych warunków, w tym w szczególności:  
+- do 31.03.2028 roku poniesienie co najmniej 300 mln PLN kosztów kwalifikowanych (maksymalnie koszty kwalifikowane to 300 mln PLN, oszacowany maksymalny limit pomocy wynosi 125 mln PLN),  
+- • do 31.03.2028 roku zwiększenie zatrudnienia o 15 etatów (do 219 etatów) i utrzymanie tego poziomu co najmniej do 31.03.2033 roku.  
+Poniższa tabela przedstawia stan realizacji inwestycji wg poszczególnych decyzji o wsparciu:
+
+## **12.1. Nabycie i sprzedaż**
+| **3 kwartał** | **9 miesięcy** | **3 kwartał** | **9 miesięcy** |  |
+| --- | --- | --- | --- | --- |
+| **2025** | **2025** | **2024** | **2024** |  |
+| Nabycia rzeczowych aktywów trwałych | 38 | 141 | 36 | 157 |
+| Wartość netto sprzedanych aktywów trwałych | 1 | 1 | 0 | 1 |
+| Zysk(strata)na sprzedażyaktywów trwałych | 0 | 0 | 1 | 1 |
+
+## **12.2. Odpisy z tytułu utraty wartości**
+W związku z brakiem przesłanek utraty wartości, o których mowa w MSR 36, Grupa nie przeprowadzała testów na utratę wartości posiadanych aktywów trwałych.  
+W okresie 9 miesięcy 2025 roku Grupa nie dokonywała zmian w zakresie odpisów z tytułu utraty wartości rzeczowych aktywów trwałych. W okresie 9 miesięcy 2024 roku Grupa odwróciła odpisy z tytułu utraty wartości rzeczowych aktywów trwałych w łącznej wysokości 3 mln PLN.  
+_(w milionach PLN)_  
+21  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_
+
+## **13. Odpisy aktualizujące wartość firmy**
+W okresie 9 miesięcy 2025 roku nie wystąpiły nowe zdarzenia, które powodowałyby, iż testy na utratę wartości dokonane przez Grupę na dzień 31.12.2024 roku przestały być aktualne. W związku z powyższym, Grupa nie rozpoznała utraty wartości firmy. W okresie 9 miesięcy 2024 roku Grupa również nie rozpoznała utraty wartości firmy.
+
+## **14. Należności krótkoterminowe**
+| **Należności netto:** | **875** | **710** |
+| --- | --- | --- |
+| Handlowe | 833 | 679 |
+| Depozyty z tytułu transakcji zabezpieczających cenę aluminium | 3 | 3 |
+| Pozostałe | 3 | 5 |
+| **Razem należności finansowe netto(zakres MSSF 7)** | **839** | **687** |
+| Publicznoprawne (z wyjątkiem podatku dochodowego) | 7 | 7 |
+| Przedpłaty do dostawców (handlowe) | 18 | 7 |
+| Rozliczenia międzyokresowe czynne | 11 | 9 |
+| **Razem należności niefinansowe netto** | **36** | **23** |
+W okresie 9 miesięcy 2025 roku oraz 9 miesięcy 2024 roku zmiana odpisów aktualizujących należności finansowe wyniosła mniej niż 1 mln PLN.  
+Utworzenia/rozwiązania odpisów aktualizujących są prezentowane w osobnej pozycji Rachunku Zysków i Strat „Aktualizacja wartości aktywów finansowych MSSF9”.  
+Należności z tytułu dostaw i usług nie są oprocentowane i mają termin płatności od 14 do 120 dni. Nie występuje koncentracja należności przekraczająca 10% od jednego kontrahenta.  
+Grupa stosuje politykę sprzedaży wyłącznie wobec zweryfikowanych klientów oraz ubezpiecza należności w wyspecjalizowanych podmiotach. Dzięki temu, zdaniem kierownictwa nie istnieje dodatkowe ryzyko kredytowe ponad poziom określony odpisem aktualizującym. Wartość godziwa należności zbliżona jest do ich wartości księgowej.
+
+## **15. Zapasy**
+| Materiały | 405 | 430 |
+| --- | --- | --- |
+| Produkcja niezakończona | 261 | 208 |
+| Produkty gotowe | 215 | 199 |
+| Towary | 9 | 6 |
+| **Razem** | **890** | **843** |
+W okresie 9 miesięcy 2025 roku Grupa utworzyła odpisy aktualizujące wartość materiałów i towarów na kwotę 2 mln PLN (w okresie 9 miesięcy 2024 roku utworzono odpisy na kwotę 6 mln PLN). Utworzenia/rozwiązania odpisów aktualizujących wartość materiałów i towarów Grupa ujmuje w pozycji Rachunku zysków i strat „Materiały, energia oraz wartość sprzedanych towarów i materiałów”.  
+W okresie 9 miesięcy 2025 roku Grupa utworzyła odpis aktualizujący produkty gotowe w wysokości 1 mln PLN oraz rozwiązała odpis na półfabrykaty w wysokości 1 mln PLN. W okresie 9 miesięcy 2024 roku utworzono odpisy na produkty gotowe i półfabrykaty w wysokości 4 mln PLN. Utworzenia/rozwiązania powyższych odpisów aktualizujących zostały ujęte w pozycji „korekta zmiany stanu zapasów produktów i produkcji w toku”.  
+_(w milionach PLN)_  
+22  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+| **Odpis aktualizujący** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Materiały | (33) | (31) |
+| Produkcja niezakończona | (7) | (8) |
+| Produkty gotowe | (21) | (20) |
+| Towary | (1) | (1) |
+| **Razem odpisy aktualizujące zapasy** | **(62)** | **(60)** |
+Założenia i szacunki w zakresie wyceny zapasów oraz odpisów aktualizujących zapasy nie uległy zmianie od 31.12.2024 roku i pozostają zgodne z podejściem zaprezentowanym w nocie 10.10 skonsolidowanego sprawozdania finansowego za rok zakończony 31 grudnia 2024 roku.

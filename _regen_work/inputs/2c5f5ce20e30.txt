@@ -1,0 +1,109 @@
+DOKUMENT SEKCJA: **18. Zobowiązania wobec klientów** | **19. Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy** | **20. Zobowiązania z tytułu leasingu** | **21. Pozostałe zobowiązania** | **22.1. Rezerwy na zobowiązania** | **22.2. Zobowiązania warunkowe** | **Aktywa trwałe w podziale na obszary geograficzne** | **Program Zmiennych Składników Wynagrodzeń** | **Ruchy w pozycji rezerw za okres od 1 stycznia 2024 do 31 grudnia 2024 roku** | **Ruchy w pozycji rezerw za okres od 1 stycznia 2025 do 30 września 2025 roku** | **Rzeczowe aktywa trwałe za okres od 1 stycznia 2024 do 31 grudnia 2024 roku**
+
+## **Rzeczowe aktywa trwałe za okres od 1 stycznia 2024 do 31 grudnia 2024 roku**
+| **(w tys. PLN)** | **ZESPOŁY** **KOMPUTEROWE** | **POZOSTAŁE** **RZECZOWE** **AKTYWA TRWAŁE** | **PRAWA DO** **UŻYTKOWANIA** **LOKALE BIUROWE** | **PRAWA DO** **UŻYTKOWANIA** **SAMOCHODY** | **RZECZOWE** **AKTYWA TRWAŁE** **W BUDOWIE** | **ZALICZKI NA** **RZECZOWE** **AKTYWA TRWAŁE** | **RAZEM** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Wartość brutto na 1 stycznia 2024** | **35 382** | **14 857** | **43 595** | **570** | **298** | **-** | **94 702** |
+| Nabycie | 17 342 | 1 639 | - | - | 298 | - | 19 279 |
+| Przyjęcie w leasing | - | - | 14 884 | - | - | - | 14 884 |
+| Sprzedaż i likwidacja | (992) | (465) | (5 655) | (60) | - | - | (7 172) |
+| Różnice kursowe netto | (95) | (151) | (349) | (14) | (1) | - | (610) |
+| **Wartość brutto na 31 grudnia 2024** | **51 637** | **15 880** | **52 475** | **496** | **595** | **-** | **121 083** |
+| **Umorzenie na 1 stycznia 2024** | **(21 763)** | **(5 365)** | **(16 851)** | **(337)** | **-** | **-** | **(44 316)** |
+| Amortyzacja za bieżący okres | (7 284) | (2 278) | (9 764) | (109) | - | - | (19 435) |
+| Sprzedaż i likwidacja | 948 | 305 | 6 506 | 60 | - | - | 7 819 |
+| Różnice kursowe netto | 60 | 53 | 60 | 10 | - | - | 183 |
+| **Umorzenie na 31 grudnia 2024** | **(28 039)** | **(7 285)** | **(20 049)** | **(376)** | **-** | **-** | **(55 749)** |
+| **Wartość księgowa netto na 1 stycznia 2024** | **13 619** | **9 492** | **26 744** | **233** | **298** | **-** | **50 386** |
+| **Wartość księgowa netto na 31 grudnia 2024** | **23 598** | **8 595** | **32 426** | **120** | **595** | **-** | **65 334** |
+34  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **Aktywa trwałe w podziale na obszary geograficzne**
+| **(w tys. PLN)** **Aktywa trwałe** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Europa Środkowo-Wschodnia | 43 661 | 42 396 |
+| _- w tym Polska_ | _38 704_ | _36 692_ |
+| Europa Zachodnia | 14 309 | 12 425 |
+| Ameryka Łacińska | 531 | 1 343 |
+| Bliski Wschód | 8 310 | 10 163 |
+| Azja | 1 146 | 1 016 |
+| **Razem aktywa trwałe** | **67 957** | **67 343** |
+
+## **18. Zobowiązania wobec klientów**
+| **18. Zobowiązania wobec klientów** **(w tys. PLN)** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Zobowiązania wobec klientów detalicznych | 5 847 360 | 4 082 840 |
+| Zobowiązania wobec klientów instytucjonalnych | 86 376 | 82 055 |
+| **Zobowiązania wobec klientów** | **5 933 736** | **4 164 895** |
+Zobowiązania wobec klientów wynikają z transakcji zawieranych przez klientów (w tym środków pieniężnych zdeponowanych na rachunkach klientów).
+
+## **19. Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy**
+| **(w tys. PLN)** **Instrumenty pochodne kontrakty na różnice (CFD)** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| CFD na akcje i ETP | 84 586 | 62 210 |
+| CFD na towary | 90 674 | 23 390 |
+| CFD na waluty | 56 334 | 106 327 |
+| CFD na indeksy | 28 136 | 16 128 |
+| CFD na obligacje | 5 | 138 |
+| **Zobowiązania finansowe wyceniane w wartości godziwej przez wynik** **finansowy razem** | **259 735** | **208 193** |
+
+## **20. Zobowiązania z tytułu leasingu**
+| **20. Zobowiązania z tytułu leasingu** **(w tys. PLN)** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Krótkoterminowe | 11 345 | 10 594 |
+| Długoterminowe | 16 723 | 23 341 |
+| **Zobowiązania z tytułu leasingu razem** | **28 068** | **33 935** |
+Zobowiązania z tytułu leasingu nie obejmują leasingów krótkoterminowych oraz leasingu aktywów o niskiej wartości.  
+W okresie od 1 stycznia do 30 września 2025 roku koszt związany z leasingami krótkoterminowymi ujętymi w sprawozdaniu z dochodów całkowitych wyniósł 433 tys. PLN oraz nie było kosztów związanych z leasingami aktywów o niskiej wartości ujętymi w sprawozdaniu z dochodów całkowitych.  
+W okresie od 1 stycznia do 30 września 2024 roku koszt związany z leasingami krótkoterminowymi ujętymi w sprawozdaniu  
+z dochodów całkowitych wyniósł 399 tys. PLN oraz nie było kosztów związanych z leasingami aktywów o niskiej wartości ujętymi w sprawozdaniu z dochodów całkowitych.  
+Grupa jest leasingobiorcą w przypadku umów najmu powierzchni biurowych oraz samochodów. Wartość przedmiotu leasingu prezentuje nota 17.  
+35  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **21. Pozostałe zobowiązania**
+| **21. Pozostałe zobowiązania** **(w tys. PLN)** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Zobowiązania z tytułu dostaw i usług | 69 707 | 63 927 |
+| Zobowiązania wobec brokerów | 66 912 | 31 957 |
+| Rezerwy na pozostałe świadczenia pracownicze | 29 757 | 28 816 |
+| Zobowiązania publiczno-prawne | 21 826 | 16 177 |
+| Zobowiązania wobec KDPW | 8 929 | 14 797 |
+| Zobowiązania z tytułu wynagrodzeń | 1 107 | 1 210 |
+| **Pozostałe zobowiązania razem** | **198 238** | **156 884** |
+Zobowiązania z tytułu świadczeń pracowniczych obejmują szacowane na dzień bilansowy wypłaty premii dla pracowników za dany okres sprawozdawczy oraz rezerwy na niewykorzystane urlopy.
+
+## **Program Zmiennych Składników Wynagrodzeń**
+Zgodnie z obowiązującą w Grupie Polityką Zmiennych Składników Wynagrodzeń, osoby mające istotny wpływ na profil ryzyka Jednostki dominującej, otrzymują corocznie wynagrodzenie zmienne, wypłacane w formie instrumentu finansowego, którym są akcje XTB S.A. Koszty związane z płatnościami w formie akcji zostały uwzględnione w kapitałach własnych Grupy.
+
+## **22.1. Rezerwy na zobowiązania**
+| **22.1. Rezerwy na zobowiązania** **(w tys. PLN)** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Rezerwy na świadczenia emerytalne | 504 | 518 |
+| Rezerwy na ryzyko prawne | 2 982 | 3 012 |
+| **Rezerwy razem** | **3 486** | **3 530** |
+Rezerwy na świadczenia emerytalne są tworzone w oparciu o wyceny aktuarialne na podstawie obowiązujących przepisów i umów związanych z obowiązkowymi świadczeniami emerytalnymi do poniesienia przez pracodawcę.  
+Rezerwy na ryzyko prawne obejmują oczekiwane kwoty wypłaty świadczeń w sprawach spornych, w których Grupa jest stroną. Na dzień sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupa nie jest w stanie określić spodziewanego terminu płatności powyższych zobowiązań. Informacje o istotnych postępowaniach toczących się przed sądem, organem właściwym dla postępowania arbitrażowego lub organem administracji publicznej zostały opisane w sekcji „Inne informacje” Sprawozdania Zarządu z działalności Grupy i Spółki.  
+Zgodnie z najlepszą wiedzą i przekonaniem opisane tam postępowania oraz przyszłe rozstrzygnięcie tych postępowań w kontekście ewentualnego wpływu na innych klientów Grupy nie mają istotnego wpływu na niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe.
+
+## **Ruchy w pozycji rezerw za okres od 1 stycznia 2025 do 30 września 2025 roku**
+| **(w tys. PLN)** **WARTOŚĆ** **NA 01.01.2025** **ZWIĘKSZENIA** | **ZMNIEJSZENIA** **WARTOŚĆ** **NA 30.09.2025** **WYKORZYSTANIE** **ROZWIĄZANIE** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Rezerwy na świadczenia emerytalne 518 - |  | - | 14 | 504 |
+| Rezerwy na ryzyko prawne 3 012 - |  | - | 30 | 2 982 |
+| **Rezerwy razem** **3 530** **-** | **-** | **44** | **3 486** |  |
+36  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **Ruchy w pozycji rezerw za okres od 1 stycznia 2024 do 31 grudnia 2024 roku**
+| **(w tys. PLN)** **WARTOŚĆ** **NA 01.01.2024** **ZWIĘKSZENIA** | **ZMNIEJSZENIA** **WARTOŚĆ NA** **31.12.2024** **WYKORZYSTANIE** **ROZWIĄZANIE** |
+| --- | --- |
+| Rezerwy na świadczenia | emerytalne 338 180 - - 518 |
+
+## **22.2. Zobowiązania warunkowe**
+Jednostka dominująca oraz Spółki Grupy są stronami kilku postępowań sądowych związanych z prowadzoną przez Grupę działalnością. Postępowania, w których Jednostka dominująca i Spółki Grupy występują w charakterze pozwanych, dotyczą przede wszystkim roszczeń pracowniczych oraz roszczeń klientów. Na dzień 30 września 2025 roku łączna wartość roszczeń dochodzonych przeciwko Jednostce dominującej i Spółkom Grupy wynosiła ok. 16 540 tys. PLN, natomiast wartość roszczeń nieobjęta rezerwą wynosiła ok. 16 039 tys. PLN (na dzień 31 grudnia 2024 roku było to odpowiednio: 16 134 tys. PLN i ok. 14 924 tys. PLN). Grupa nie utworzyła rezerw w związku z powyższymi postępowaniami. W ocenie Grupy istnieje niskie prawdopodobieństwo przegranej w tych postępowaniach.  
+W dniu 9 maja 2014 roku Jednostka dominująca udzieliła gwarancji w kwocie 54 tys. PLN na zabezpieczenie umowy zawartej przez spółkę zależną XTB Limited z siedzibą w Wielkiej Brytanii a PayPal (Europe) Sarl & Cie, SCA z siedzibą w Luksemburgu. Gwarancja udzielona została na okres trwania umowy głównej, która została zawarta na czas nieokreślony.

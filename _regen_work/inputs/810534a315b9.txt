@@ -1,0 +1,61 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **Kontrakty realizowane przez Asseco Poland dla ZUS**
+
+Zaawansowane funkcje opracowanego przez spółkę rozwiązania – systemu LEO – zapewniają kompleksową obsługę cyklu życia kontraktów leasingowych wraz z produktami dodatkowymi, takimi jak różnego rodzaju ubezpieczenia, usługi CFM (karty paliwowe, opony, przeglądy).
+
+W omawianym okresie ADS prowadziło prace związane z wdrożeniem u klientów nowej wersji systemu LEO 4, modyfikacjami systemu LEO, m.in. pod kątem komunikacji z Krajowym Systemem eFaktur czy dostosowaniem systemu do indywidualnych wymagań klientów, a także z szeregiem projektów rozwojowych.
+
+W I kwartale 2025 roku, należąca do ADS spółka **Pirios** – lider polskiego rynku rozwiązań Contact Center – wspierała firmy i instytucje w skutecznej komunikacji z klientem detalicznym.
+
+Z jej rozwiązań, tzw. wirtualnych agentów, realizujących dziesiątki tysięcy różnych procesów biznesowych, korzystają największe polskie firmy z branży energetycznej, bankowości, ubezpieczeń, telekomunikacji, a także administracja publiczna.
+
+Pirios posiada również doświadczenie w realizacji projektów Smart City i oferuje dedykowane rozwiązania, które odpowiadają na potrzeby współczesnych metropolii.
+
+W I kwartale 2025 roku **Asseco Cloud** kontynuowało działalność związaną z projektowaniem i wdrażaniem rozwiązań własnych oraz rozwiązań wiodących dostawców chmury, świadcząc pełne wsparcie od projektu po implementację i utrzymanie, a także dostarczając wiedzę ekspercką z outsourcingiem usług IT w modelu managed services.
+
+Spółka kontynuowała i rozszerzała współpracę w obszarze cloud computing z klientami z różnych branż, umacniając pozycję silnego integratora i eksperta na polskim rynku.
+
+W obszarze handlu kontynuowano współpracę m.in. z Dino Polska.
+
+Dla klienta realizowany jest kontrakt na utrzymanie kluczowych systemów produkcyjnych oraz umowa dotycząca wsparcia wdrożenia nowego systemu ERP.
+
+W ramach tej współpracy prowadzony jest również konsulting strategiczny w zakresie transformacji cyfrowej Dino Polska.
+
+W omawianym okresie Asseco Cloud kontynuowało współpracę z Carrefour Polska w zakresie zapewniania zaawansowanych kompetencji oraz zasobów IT, co ma na celu wsparcie i rozwój kluczowych procesów biznesowych spółki.
+
+W ramach współpracy z Asseco Data Systems realizowane są działania na rzecz firm z sektora motoryzacyjnego, specjalizujących się w oferowaniu produktów i usług finansowych, m.in. BMW Financial Services (Leasing), w zakresie udostepnienia mocy obliczeniowej i kompetencji IT w modelu usługowym.
+
+Spółka jest cenionym dostawcą rozwiązań dla sektora publicznego.
+
+W konsorcjum z ADS świadczy usługi utrzymania i rozwoju Nowego Systemu Informatycznego Ubezpieczeń (nSIU) dla KRUS.
+
+W omawianym okresie kontynuowano również realizację zawartej w 2023 roku w konsorcjum z ADS umowy na utrzymanie i rozwój systemu do obsługi świadczeń emerytalno-rentowych Farmer.
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 86
+Ponadto I kwartale 2025 roku Asseco Cloud realizowała umowy na świadczenie usług utrzymania i rozwoju systemów IT na wewnętrzne potrzeby Asseco Poland i Asseco Data Systems.
+
+Ostatnie miesiące stanowiły intensywny okres dla spółki **DahliaMatic** , oferującej szeroką gamę systemów Enterprise Resource Planning.
+
+DahliaMatic, bazując na ponad dwudziestoletnim doświadczeniu, niezmiennie umacnia swoją pozycję eksperta w zakresie wdrażania, utrzymania oraz rozwoju wiodących na świecie systemów ERP dedykowanych dla dużych i średnich przedsiębiorstw (Oracle E-Business Suite, SAP S/4HANA, Microsoft Dynamics 365, Softlab ERP).
+
+Portfolio produktowe DahliaMatic, oprócz standardowych wdrożeń systemów ERP, obejmuje również autorskie rozwiązania, które nie tylko uzupełniają te systemy, lecz także z powodzeniem funkcjonują jako samodzielne narzędzia.
+
+Wśród nich znajduje się Archillea – system elektronicznego obiegu dokumentów, który wspiera pełną cyfryzację, automatyzację i optymalizację procesów biznesowych w takich obszarach działalności przedsiębiorstw jak finanse i księgowość, administracja, produkcja, zakupy, logistyka czy zarządzanie zasobami ludzkimi.
+
+Oferta obejmuje także platformę zakupową Carthena, wyposażoną w predefiniowane scenariusze procesów zakupowych, dostosowane do potrzeb średnich i dużych organizacji.
+
+Uzupełnieniem portfolio jest autorski system do weryfikacji list sankcyjnych, działający dwutorowo – jako rozszerzenie funkcjonalności platformy Carthena oraz jako niezależne narzędzie weryfikacyjne.
+
+Ponadto DahliaMatic świadczy usługi w ramach dedykowanych rozwiązań w zakresie Web Design & Development, Big Data & Data Analysis, a także DevOps, które w swoim portfolio posiada jeden z jej zespołów – Octark.
+
+Poza wymienionymi usługami, Octark aktywnie rozszerza swoją ofertę o rozwiązania oparte o AI, w tym czat tworzony z wykorzystaniem rozwiązań AWS.
+
+W ostatnich miesiącach DahliaMatic z powodzeniem rozpoczęła ekspansję na nowy, perspektywiczny rynek – edukacji i szkolnictwa wyższego.
+
+Efektem tych działań jest nawiązanie współpracy z Politechniką Krakowską, obejmującej wdrożenie oraz opiekę nad systemem Microsoft Dynamics 365 oraz rozpoczęcie relacji biznesowej z Akademią Leona Koźmińskiego.
+
+W okresie sprawozdawczym DahliaMatic kontynuowała realizację istotnych projektów dla dotychczasowych klientów.
+
+Wśród nich – świadczenie usług utrzymania i rozwoju Systemu Oracle E-Business Suite (EBS) dla Agencji Restrukturyzacji i Modernizacji Rolnictwa na podstawie 29-miesięcznego kontraktu podpisanego we wrześniu 2023 roku.
+
+System ten ma strategiczne znaczenie dla ARiMR, gdyż wykorzystywany jest nie tylko do zarządzania obszarem księgowo-finansowym, ale również do obsługi procesów związanych z dystrybucją i rozliczaniem pomocy z Unii Europejskiej dla ponad 2 milionów rolników.
+
+W maju 2024 roku, w ramach umowy ramowej, DahliaMatic rozpoczęła prace nad kompleksowym upgrade'em systemu Oracle E-Business Suite i baz danych Oracle w ARiMr.

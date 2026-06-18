@@ -1,0 +1,76 @@
+DOKUMENT SEKCJA: **32. Zarządzanie kapitałem**
+
+## **32. Zarządzanie kapitałem**
+Zasady zarządzania kapitałem w Grupie są uregulowane w „Polityce zarządzania kapitałem w XTB S.A.” Jednostki dominującej. Dokument ten jest zatwierdzany przez Radę Nadzorczą Jednostki dominującej.
+45  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Polityka określa podstawowe koncepcje, cele i zasady, które stanowią strategię kapitałową Jednostki dominującej. Określa ona w szczególności długoterminowe cele kapitałowe, obecną i preferowaną strukturę kapitału, kapitałowe plany awaryjne oraz zasady planowania kapitałowego. Polityka jest odpowiednio aktualizowana, aby odzwierciedlać zmiany dotyczące Grupy oraz środowiska biznesowego.  
+Celem polityki kapitałowej jest aktywne zapewnienie zrównoważonego długoterminowego wzrostu wartości dla akcjonariuszy i utrzymanie kapitału na poziomie, który umożliwi Grupie działanie w sposób ostrożny, a jednocześnie skuteczny. Osiągnięcie tego celu jest realizowane poprzez utrzymanie odpowiedniej bazy kapitałowej, biorąc pod uwagę profil ryzyka Grupy i przepisy ostrożnościowe, a także uwzględniając zarządzanie kapitałem w oparciu o ryzyko w ramach planowanych celów w działalności gospodarczej.  
+Określenie celów kapitałowych ma podstawowe znaczenie dla zarządzania kapitałem i stanowi podstawowe odniesienie w kontekście planowania kapitału, alokacji kapitału i awaryjnych planów kapitałowych. Grupa określa cele kapitałowe, które zapewniają stabilną bazę kapitałową, realizację celu strategii kapitałowej (zgodnie z jej zasadami ogólnymi), a także są zgodne z apetytem Grupy na ryzyko. Ustalając cele kapitałowe, Grupa bierze pod uwagę swoje plany strategiczne i przewidywany rozwój działalności oraz warunki zewnętrzne, w tym sytuację makroekonomiczną oraz inne czynniki środowiska biznesowego. Cele kapitałowe mają podobny horyzont jak strategia biznesowa i są zatwierdzane przez Zarząd.  
+Planowanie kapitału koncentruje się na ocenie bieżących i prognozowanych wymogów kapitałowych Grupy (zarówno regulacyjnych, jak i wewnętrznych), a także porównywaniu ich z bieżącym i prognozowanym kapitałem dostępnym. Grupa posiada Kapitałowe plany awaryjne na wypadek wystąpienia kryzysu adekwatności kapitałowej, szczegółowo opisane w procedurze „System zarządzania ryzykiem w XTB S.A.”.  
+W procesie ICARAP Jednostka dominująca szacuje Kapitał wewnętrzny w celu ustalenia całkowitego wymaganego poziomu kapitału na pokrycie wszystkich istotnych rodzajów ryzyka występujących w działalności Grupy oraz dokonuje jego jakościowej oceny. Jednostka dominująca szacuje Kapitał wewnętrzny w celu ustalenia całkowitego wymaganego poziomu kapitału na pokrycie wszystkich istotnych rodzajów ryzyka występujących w działalności Grupy oraz dokonuje jego jakościowej oceny. Jednostka dominująca szacuje Kapitał wewnętrzny na pokrycie zidentyfikowanych ryzyk istotnych zgodnie z przyjętymi w Grupie procedurami oraz z uwzględnieniem wyników testów warunków skrajnych.  
+Jednostka dominująca jest zobowiązana do utrzymywania poziomu kapitałów (funduszy własnych) w kwocie przewyższającej każdą z następujących wartości:  
+- wymogów kapitałowych wyliczanych zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 roku w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (IFR)  
+- kapitału wewnętrznego szacowanego zgodnie z Rozporządzeniem Ministra Rozwoju i Finansów z dnia 8 grudnia 2021 roku w sprawie szacowania kapitału wewnętrznego i aktywów płynnych, systemu zarządzania ryzykiem, badania i oceny nadzorczej, a także polityki wynagrodzeń w domu maklerskim oraz małym domu maklerskim.  
+Wymóg kapitałowy wyliczany zgodnie z rozporządzeniem IFR stanowi wyższa z wartości:  
+- wymóg kapitałowy z tytułu stałych kosztów pośrednich  
+- stały minimalny wymóg kapitału założycielskiego;  
+- wymóg kapitałowy dotyczący współczynnika K  
+Na dzień sporządzenia sprawozdania finansowego najwyższą z tych wartości stanowi dla Jednostki dominującej wymóg kapitałowy dotyczący współczynnika K.  
+Jednostka dominująca wylicza fundusze własne zgodnie z częścią drugą Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 roku w sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniające rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 („IFR”).  
+46  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Zasady wyliczania poziomu funduszy własnych są określone w Rozporządzeniu CRR i IFR, „Procedurze wyliczania współczynników adekwatności kapitałowej w XTB S.A.” Jednostki dominującej i nie są regulowane przez MSSF.  
+Grupa posiada obecnie wyłącznie fundusze własne najlepszej kategorii - Tier I.  
+Konsolidacji ostrożnościowej zgodnie z IFR podlegają jednostki zależne będące firmami inwestycyjnymi, instytucjami finansowymi przedsiębiorstwami usług pomocniczych lub agentami. W zastosowaniu do Grupy, Jednostka dominująca uwzględnia w konsolidacji ostrożnościowej następujące jednostki zależne:  
+- od 31 października 2015 roku spółka zależna XTB Limited (UK),  
+- od 30 kwietnia 2017 roku spółka zależna XTB International,  
+- od 31 lipca 2018 roku spółka zależna XTB Limited (CY),  
+- od 31 lipca 2022 roku spółka zależna XTB MENA Limited,  
+- od 31 sierpnia 2022 roku spółka zależna XTB Africa (PTY) Ltd,  
+- od 31 grudnia 2023 roku spółka zależna XTB S.C. Limited,  
+- od 17 stycznia 2024 roku spółka zależna PT XTB Indonesia Berjangka,  
+- od 30 września 2024 roku spółka zależna XTB Financial Consultation L.L.C,  
+- od 11 lutego 2025 roku spółka zależna XTB Agente de Valores SpA.  
+Grupa nie jest zobowiązana do utrzymywania buforów kapitałowych wynikających z ustawy o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym w systemie finansowym.  
+Poziom kluczowych wartości w zakresie zarządzania kapitałem:  
+| **(w tys. PLN)** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| **Fundusze własne Grupy** | **1 319 597** | **1 111 097** |
+| Kapitał Tier I | 1 319 597 | 1 111 097 |
+| Kapitał podstawowy Tier I | 1 319 597 | 1 111 097 |
+| **Łączny wymóg kapitałowy IFR** | **803 617** | **577 897** |
+| **Łączny współczynnik kapitałowy IFR** | **164,2%** | **192,3%** |
+| **Minimalny wymagany poziom łącznego współczynnika kapitałowego (art. 9 ust.** **1 lit. c) IFR)** | **100%** | **100%** |
+W okresach objętych śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym nie wystąpiło naruszenie ustawowych norm adekwatności kapitałowej.  
+Poniższa tabela prezentuje dane o poziomie funduszy własnych w podziale na poszczególne składniki i o całkowitym wymogu kapitałowym w podziale na wymogi z tytułu poszczególnych typów ryzyka, obliczonych zgodnie z odrębnymi przepisami wraz z wartościami średniomiesięcznymi. Wartości średniomiesięczne zostały oszacowane w oparciu o codzienne stany.
+47  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+| **(w tys. PLN)** | **STAN NA** **30.09.2025** | **ŚREDNIA WARTOŚĆ** **W OKRESIE** | **STAN NA** **31.12.2024** |
+| --- | --- | --- | --- |
+| 1. Kapitały podstawowe/Fundusze Własne | 1 319 597 | 1 215 501 | 1 111 097 |
+| 1.1. Kapitały podstawowe Tier I bez pomniejszeń | 1 336 899 | 1 231 429 | 1 122 449 |
+| 1.2. Kapitały dodatkowe Tier I | - | - | - |
+| 1.3. Pozycje pomniejszające kapitały podstawowe Tier I | (17 302) | (15 928) | (11 352) |
+| **I. Fundusze własne** | **1 319 597** | **1 215 501** | **1 111 097** |
+| 1. Ryzyko dla klienta, w tym: | 24 807 | 20 744 | 16 385 |
+| 1.1. K-AUM | - | - | - |
+| 1.2. K-CMH | 18 320 | 15 566 | 12 612 |
+| 1.3. K-ASA | 6 487 | 5 178 | 3 773 |
+| 1.4. K-COH | - | - | - |
+| 2. Ryzyko dla rynku, w tym: | 562 351 | 478 235 | 400 662 |
+| 2.1. K-NPR | 562 351 | 478 235 | 400 662 |
+| 2.2. K-CMG | - | - | - |
+| 3. Ryzyko dla firmy, w tym: | 216 458 | 172 681 | 160 850 |
+| 3.1. K-TCD | 212 022 | 169 071 | 157 911 |
+| 3.2. K-DTF | 4 436 | 3 610 | 2 939 |
+| 3.3. K-CON | - | - | - |
+| **II. Łączny wymóg kapitałowych dotyczący współczynnika K (IFR)** | **803 616** | **671 660** | **577 897** |
+Zgodnie z IFR jednostka dominująca wylicza wymóg z tytułu stałych kosztów pośrednich oraz stały minimalny wymóg kapitałowy. Są one jednak znacząco niższe od wymogu kapitałowego dotyczącego współczynnika K.  
+Poniższa tabela prezentuje alokację procentową kapitału wewnętrznego do najistotniejszych klas ryzyka.  
+| Ryzyko operacyjne | 38,0% | 46,2% |
+| --- | --- | --- |
+| Ryzyko rynkowe | 37,7% | 34,4% |
+| Ryzyko kredytowe | 23,9% | 19,1% |
+| Inne ryzyka | 0,4% | 0,3% |

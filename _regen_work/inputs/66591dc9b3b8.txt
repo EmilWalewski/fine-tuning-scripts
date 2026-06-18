@@ -1,0 +1,98 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 5.1. Struktura przychodów operacyjnych
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 5.1. Struktura przychodów operacyjnych
+Przychody operacyjne w okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku oraz w okresie porównywalnym kształtowały się następująco:  
+| **Przychody operacyjne** | **3 miesiące do** **31 marca 2025** | **3 miesiące do** **31 marca 2024** |
+| --- | --- | --- |
+| **mln PLN** **_Przychody operacyjne według rodzaju_** | **mln PLN** |  |
+| Oprogramowanie i usługi własne | 3 617,6 | 3 298,1 |
+| Oprogramowanie i usługi obce | 417,9 | 420,3 |
+| Sprzęt i infrastruktura | 541,4 | 531,2 |
+| **Razem** **_Przychody operacyjne według grupy produktów_** | **4 576,9** | **4 249,6** |
+| Rozwiązania dla finansów | 1 428,0 | 1 322,9 |
+| Rozwiązania dla instytucji publicznych | 975,5 | 820,5 |
+| Rozwiązania ERP | 402,7 | 372,1 |
+| Pozostałe rozwiązania IT | 730,8 | 715,8 |
+| Infrastruktura | 852,7 | 825,7 |
+| Pozostałe (inne niż IT) | 187,2 | 192,6 |
+| **Razem przychody operacyjne** | **4 576,9** | **4 249,6** |
+i. Struktura przychodów operacyjnych segmentów w rozbiciu na rodzaje  
+Przychody operacyjne poszczególnych segmentów w rozbiciu na rodzaj przychodów w okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku oraz w okresie porównywalnym kształtowały się następująco:  
+| **Segment Asseco** **Poland** | **Segment Asseco** **International** | **Segment Formula** **Systems** | **Eliminacje** | **Razem** |  |
+| --- | --- | --- | --- | --- | --- |
+| **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** |  |
+| Oprogramowanie i usługi własne | 498,8 | 732,2 | 2 392,3 | (5,7) | 3 617,6 |
+| Oprogramowanie i usługi obce | 36,1 | 125,6 | 266,3 | (10,1) | 417,9 |
+| Sprzęt i infrastruktura | 9,2 | 200,5 | 331,7 | - | 541,4 |
+| **Razem przychody operacyjne** | **544,1** | **1 058,3** | **2 990,3** | **(15,8)** | **4 576,9** |
+| **Segment Asseco** **Poland** | **Segment Asseco** **International** | **Segment Formula** **Systems** | **Eliminacje** | **Razem** |  |
+| **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** |  |
+| Oprogramowanie i usługi własne | 452,2 | 679,1 | 2 174,7 | (7,9) | 3 298,1 |
+| Oprogramowanie i usługi obce | 46,0 | 125,5 | 256,6 | (7,8) | 420,3 |
+| Sprzęt i infrastruktura | 10,5 | 150,5 | 370,3 | (0,1) | 531,2 |
+| **Razem przychody operacyjne** | **508,7** | **955,1** | **2 801,6** | **(15,8)** | **4 249,6** |
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 35  
+ii. Struktura przychodów operacyjnych segmentów w rozbiciu na sektory  
+Przychody operacyjne poszczególnych segmentów w rozbiciu na sektory w okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku oraz w okresie porównywalnym kształtowały się następująco:  
+| **Segment Asseco** **Poland** | **Segment Asseco** **International** | **Segment Formula** **Systems** | **Eliminacje** | **Razem** |  |
+| --- | --- | --- | --- | --- | --- |
+| **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** |  |
+| Rozwiązania dla finansów | 150,1 | 385,6 | 896,1 | (3,8) | 1 428,0 |
+| Rozwiązania dla instytucji publicznych | 284,8 | 107,7 | 585,4 | (2,4) | 975,5 |
+| Rozwiązania ERP | 16,3 | 235,8 | 151,6 | (1,0) | 402,7 |
+| Pozostałe rozwiązania IT | 50,5 | 23,0 | 656,1 | 1,2 | 730,8 |
+| Infrastruktura | 38,4 | 303,8 | 517,5 | (7,0) | 852,7 |
+| Pozostałe (inne niż IT) | 4,0 | 2,4 | 183,6 | (2,8) | 187,2 |
+| **Razem przychody operacyjne** | **544,1** | **1 058,3** | **2 990,3** | **(15,8)** | **4 576,9** |
+| **Segment Asseco** **Poland** | **Segment Asseco** **International** | **Segment Formula** **Systems** | **Eliminacje** | **Razem** |  |
+| **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** |  |
+| Rozwiązania dla finansów | 139,6 | 339,9 | 846,9 | (3,5) | 1 322,9 |
+| Rozwiązania dla instytucji publicznych | 244,9 | 92,2 | 485,6 | (2,2) | 820,5 |
+| Rozwiązania ERP | 15,7 | 225,2 | 132,1 | (0,9) | 372,1 |
+| Pozostałe rozwiązania IT | 55,2 | 23,4 | 640,9 | (3,7) | 715,8 |
+| Infrastruktura | 50,3 | 272,6 | 506,2 | (3,4) | 825,7 |
+| Pozostałe (inne niż IT) | 3,0 | 1,8 | 189,9 | (2,1) | 192,6 |
+| **Razem przychody operacyjne** | **508,7** | **955,1** | **2 801,6** | **(15,8)** | **4 249,6** |
+iii. Struktura przychodów operacyjnych w podziale na kraje, w których zostały wygenerowane  
+| **3 miesiące do** | **3 miesiące do** |  |
+| --- | --- | --- |
+| **mln PLN** | **mln PLN** |  |
+| Izrael | 1 981,2 | 1 759,6 |
+| Polska | 618,7 | 588,4 |
+| USA | 610,1 | 629,1 |
+| Hiszpania | 174,6 | 140,1 |
+| Czechy | 128,6 | 110,4 |
+| Słowacja | 124,8 | 104,5 |
+| Niemcy | 105,4 | 111,7 |
+| Serbia | 98,6 | 91,9 |
+| Wielka Brytania | 91,4 | 124,5 |
+| Chorwacja | 49,8 | 45,2 |
+| Dania | 49,6 | 30,2 |
+| Turcja | 47,0 | 45,4 |
+| Rumunia | 44,5 | 40,5 |
+| Pozostałe kraje | 452,6 | 428,1 |
+| **Razem** | **4 576,9** | **4 249,6** |
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 36  
+_iv. Przychody z tytułu umów z klientami w przychodach operacyjnych ogółem_  
+| **3 miesiące do** **31 marca 2025** **3 miesiące do** **31 marca 2024** **mln PLN** **mln PLN** | **3 miesiące do** **31 marca 2025** **3 miesiące do** **31 marca 2024** |  |
+| --- | --- | --- |
+| **Przychody z umów z klientami rozpoznawane zgodnie z MSSF 15,** | **w tym:** | **4 549,3** **4 224,9** |
+| **Z tytułu dóbr i usług przekazanych w określonym momencie** | **813,5** | **863,6** |
+| Segment Asseco Poland | 26,4 | 60,2 |
+| Segment Asseco International | 320,5 | 283,9 |
+| Segment Formula Systems | 474,8 | 526,6 |
+| Transakcje wewnątrzgrupowe | (8,2) | (7,1) |
+| **Z tytułu dóbr i usług przekazywanych w miarę upływu czasu** | **3 735,8** | **3 361,3** |
+| Segment Asseco Poland | 515,8 | 446,9 |
+| Segment Asseco International | 710,8 | 647,0 |
+| Segment Formula Systems | 2 515,5 | 2 275,0 |
+| Transakcje wewnątrzgrupowe | (6,3) | (7,6) |
+| **Przychody operacyjne z leasingu rozpoznawane zgodnie z MSSF 16** | **27,6** | **24,7** |
+| Segment Asseco Poland | 1,9 | 1,6 |
+| Segment Asseco International | 27,0 | 24,2 |
+| Transakcje wewnątrzgrupowe | (1,3) | (1,1) |
+| **Razem przychody operacyjne** | **4 576,9** | **4 249,6** |
+Przychody operacyjne z leasingu rozpoznane zgodnie z MSSF 16 w powyższej tabeli dotyczą głównie przychodów segmentu Asseco International (w tym głównie Grupy Asseco South Eastern Europe) z tytułu usług outsourcingu bankomatów i terminali płatniczych. Dodatkowo przychody te obejmują przychody z tytułu wynajmu powierzchni, w tym powierzchni biurowej (głównie w segmencie Asseco Poland). Umowy takie traktowane są jako umowy leasingu operacyjnego, a przychody ujmowane są zgodnie z wytycznymi MSSF 16 jako przychody z leasingu operacyjnego.

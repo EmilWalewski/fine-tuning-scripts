@@ -1,0 +1,99 @@
+DOKUMENT SEKCJA: **10.2. Usługi obce** | **10.3. Koszty wynagrodzeń i świadczeń pracowniczych** | **10.4. Opłaty sądowe** | **10.5. Inne koszty operacyjne** | **Pozostałe przychody operacyjne** | **Wynik na oczekiwanych stratach kredytowych od nabytych portfeli wierzytelności** | _Przychody z tytułu udzielonych pożyczek wycenianych według wartości godziwej_ | _Przychody z tytułu udzielonych pożyczek wycenianych według zamortyzowanego kosztu_
+
+## **Wynik na oczekiwanych stratach kredytowych od nabytych portfeli wierzytelności**
+| _w tysiącach złotych_ Aktualizacja prognozy wpływów Odchylenia wpłat rzeczywistych, zmniejszenia z tytułu wcześniejszej realizacji wpłat na sprawach zabezpieczonych, wpłaty od pierwotnego wierzyciela | **01.01.2025-** **31.12.2025** **niebadane** **01.10.2025-** **31.12.2025** **niebadane** **01.01.2024-** **31.12.2024** **01.10.2024-** **31.12.2024** **niebadane** |  |  |
+| --- | --- | --- | --- |
+| 496 902 | 111 083 | 390 102 | (64 045) |
+| 225 382 | 33 918 | 351 020 | 52 508 |
+| 722 284 | 145 001 | 741 122 | (11 537) |
+
+## _Przychody z tytułu udzielonych pożyczek wycenianych według zamortyzowanego kosztu_
+| _w tysiącach złotych_ | **01.01.2025-** **31.12.2025** **niebadane** **01.10.2025-** **31.12.2025** **niebadane** **01.01.2024-** **31.12.2024** **01.10.2024-** **31.12.2024** **niebadane** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Przychody odsetkowe | 257 646 | 68 186 | 244 099 | 69 379 |
+| Odpis na oczekiwane stratykredytowe | (33 571) | (12 912) | (44 269) | (17 530) |
+| 224 075 | 55 274 | 199 830 | 51 849 |  |
+
+## _Przychody z tytułu udzielonych pożyczek wycenianych według wartości godziwej_
+| _w tysiącach złotych_ | **01.01.2025-** **31.12.2025** **niebadane** **01.10.2025-** **31.12.2025** **niebadane** **01.01.2024-** **31.12.2024** **01.10.2024-** **31.12.2024** **niebadane** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Przychody odsetkowe | 1 078 | 171 | 2 000 | 419 |
+| Aktualizacja wyceny | 807 | 734 | (461) | 15 |
+| 1 885 | 905 | 1 539 | 434 |  |
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+38<br>01.01.2024- 01.10.2024-<br>## **Przychody ze świadczenia innych usług**  
+| _w tysiącach złotych_ | **01.01.2025-** **31.12.2025** **niebadane** **01.10.2025-** **31.12.2025** **niebadane** **01.01.2024-** **31.12.2024** **01.10.2024-** **31.12.2024** **niebadane** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Przychody z usług windykacyjnych | 55 822 | 12 651 | 58 007 | 15 469 |
+| Przychody z tytułu odsprzedaży materiałów, pośrednictwa i świadczeniapozostałych usług | 248 | 69 | 626 | 107 |
+| 56 070 | 12 720 | 58 633 | 15 576 |  |
+
+## **Pozostałe przychody operacyjne**
+| _w tysiącach złotych_ | **01.01.2025-** **31.12.2025** **niebadane** **01.10.2025-** **31.12.2025** **niebadane** **01.01.2024-** **31.12.2024** **01.10.2024-** **31.12.2024** **niebadane** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Wynik na sprzedaży nieruchomości | 2 656 | 61 | 6 156 | 650 |
+| Refakturowane koszty usług i opłat sądowych | 2 324 | 167 | 2 528 | 1 796 |
+| Sprzedaż akcji i udziałów jednostek zależnych* | 2 282 | (55) | - | - |
+| Zwrot odszkodowań z tytułu szkód komunikacyjnych | 1 024 | 261 | 68 | 33 |
+| Zysk ze zbycia rzeczowych aktywów trwałych | 915 | 231 | - | - |
+| Dotacje | 183 | 183 | - | - |
+| Najem | 97 | 16 | 77 | 21 |
+| Pozostała współpraca | 56 | 8 | 496 | 496 |
+| Pozostałe | 897 | 380 | 628 | (16) |
+| 10 434 | 1 252 | 9 953 | 2 980 |  |
+_* W dniu 8 września 2025 r. została podpisana umowa sprzedaży udziałów KRUK Deutschland GmbH przez KRUK S.A. do podmiotu niepowiązanego za cenę 1 328 tys. EUR. Rozliczenie nastąpiło przelewem bankowym. Przeniesienie własności udziałów nastąpiło z dniem 30.09.2025 r. Wynik na sprzedaży jednostki zależnej został rozpoznany w kwocie 2 282 tys. zł._  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **10.2. Usługi obce**
+_1 koszty usług obsługi wierzytelności świadczonych przez serwiserów zewnętrznych_  
+_2 usługi wsparcia prawnego dotyczą głównie obsługi portfeli wierzytelności_  
+Zauważalny w okresie I-IV kw. 2025 roku wzrost kosztów usług informatycznych oraz usług wsparcia administracyjnego i księgowego podyktowany był wydatkami na zestaw usług związanych z transformacją cyfrową Grupy.
+
+## **10.3. Koszty wynagrodzeń i świadczeń pracowniczych**
+| _w tysiącach złotych_ | **01.01.2025-** **31.12.2025** **niebadane** **01.10.2025-** **31.12.2025** **niebadane** **01.01.2024-** **31.12.2024** **01.10.2024-** **31.12.2024** **niebadane** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Wynagrodzenia | (458 215) | (116 745) | (445 786) | (133 979) |
+| Ubezpieczenia społeczne pozostałe | (91 942) | (24 530) | (83 444) | (22 980) |
+| Ubezpieczenia emerytalne i rentowe | (38 284) | (9 533) | (32 456) | (8 087) |
+| Koszt programu opcji rozliczany w instrumentach kapitałowych | (24 035) | (4 134) | (16 807) | (3 521) |
+| Składka na PFRON | (2 520) | (634) | (2 216) | (593) |
+| (614 996) | (155 576) | (580 709) | (169 160) |  |
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **10.4. Opłaty sądowe**
+| _w tysiącach złotych_ | **01.01.2025-** **31.12.2025** **niebadane** **01.10.2025-** **31.12.2025** **niebadane** **01.01.2024-** **31.12.2024** **01.10.2024-** **31.12.2024** **niebadane** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Koszty prawne | (334 411) | (86 330) | (315 205) | (81 095) |
+| Opłaty komornicze | (131 345) | (38 416) | (132 786) | (34 335) |
+| Opłatyskarbowe | (2 771) | (663) | (2 955) | (940) |
+| (468 527) | (125 409) | (450 946) | (116 370) |  |
+
+## **10.5. Inne koszty operacyjne**
+| _w tysiącach złotych_ | **01.01.2025-** **31.12.2025** **niebadane** **01.10.2025-** **31.12.2025** **niebadane** **01.01.2024-** **31.12.2024** **01.10.2024-** **31.12.2024** **niebadane** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Podatki i opłaty | (29 132) | (6 864) | (35 957) | (12 021) |
+| Zużycie materiałów i energii | (17 537) | (4 364) | (13 546) | (4 899) |
+| Reklama | (20 548) | (12 226) | (7 374) | (3 667) |
+| Szkolenie pracowników | (12 309) | (4 308) | (10 662) | (3 899) |
+| Podróże służbowe | (6 817) | (3 027) | (5 279) | (1 822) |
+| Koszty reprezentacji | (5 887) | (2 187) | (6 194) | (2 616) |
+| Vat niepodlegający odliczeniu | (2 029) | (680) | (1 914) | (322) |
+| Ubezpieczenia samochodów | (1 574) | (940) | (915) | (291) |
+| Ubezpieczenia majątkowe | (1 286) | (332) | (1 053) | (303) |
+| Straty z tytułu szkód komunikacyjnych | (1 174) | (304) | (667) | (247) |
+| Zwrot kosztów procesu | (726) | (54) | (894) | (238) |
+| Spisanie prac rozwojowych w koszty | (618) | - | (1 055) | - |
+| Składki członkowskie | (524) | (270) | (374) | (106) |
+| Umowy o zakazie konkurencji | (449) | (70) | (321) | (91) |
+| Odpisy na oczekiwane straty kredytowe z tytułu należności | (17) - - - |  |  |  |
+| Koszty usług i opłat do zrefakturowania | (2) | 118 | (171) | 77 |
+| Rezerwa na ewentualne różnice z tytułu rozliczenia liniowego | - | - | 7 535 | 2 940 |
+| Strata ze zbycia rzeczowych aktywów trwałych | - | - | (199) | (14) |
+| Pozostałe | (1 332) | (421) | (1 730) | (500) |
+| (101 961) | (35 929) | (80 770) | (28 019) |  |
+Zwiększone koszty zużycia materiałów i energii w porównaniu do okresu I-IV kw. 2024 r. związane są ze zmianą siedziby Jednostki Dominującej i wynikają z wydatków poniesionych na wyposażenie biurowe.  
+W okresie I-IV kw. 2025 r. realizowano kampanię telewizyjną i radiową, co przełożyło się na zwiększone koszty reklamy w porównaniu do analogicznego okresu poprzedniego roku.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+41<br>01.01.2024- 01.10.2024-<br>## **10.6. Przychody finansowe**  
+| _w tysiącach złotych_ **01.01.2025-** **31.12.2025** **niebadane** **01.10.2025-** **31.12.2025** **niebadane** **01.01.2024-** **31.12.2024** **01.10.2024-** **31.12.2024** **niebadane** |
+|  |

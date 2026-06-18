@@ -1,0 +1,80 @@
+DOKUMENT SEKCJA: **3.3. Wycena wartości godziwej** | **3.4. Inne wartości szacunkowe** | **4. Przyjęte istotne zasady rachunkowości** | **5. Sezonowość działalności** | **6.1. Wynik z operacji na instrumentach finansowych** | **6.2. Przychody z tytułu prowizji i opłat** | **6.3. Obszary geograficzne** | **7. Wynagrodzenia i świadczenia pracownicze** | _Aktywa z tytułu odroczonego podatku dochodowego_
+
+## _Aktywa z tytułu odroczonego podatku dochodowego_
+Na dzień bilansowy rocznego okresu sprawozdawczego Grupa ocenia prawdopodobieństwo rozliczenia nierozliczonych strat podatkowych z szacowanym przyszłym dochodem do opodatkowania i rozpoznaje aktywa z tytułu odroczonego podatku dochodowego tylko w tym zakresie, w którym jest prawdopodobne, że będzie dostępny przyszły dochód do opodatkowania, od którego można odliczyć nierozliczone straty podatkowe.  
+17  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Grupa rozpoznaje składnik aktywów z tytułu podatku odroczonego bazując na założeniu, że w przyszłości zostanie osiągnięty zysk podatkowy pozwalający na jego wykorzystanie. Pogorszenie uzyskiwanych wyników podatkowych w przyszłości mogłoby spowodować, że założenie to stałoby się nieuzasadnione. Aktywa na podatek odroczony dotyczą głównie aktywowanych strat generowanych przez zagraniczne oddziały w okresie ich początkowego rozwoju działalności. Grupa analizuje możliwość rozpoznania takich aktywów z uwzględnieniem lokalnych przepisów podatkowych oraz dokonuje analizy przyszłych budżetów podatkowych oceniając możliwość odzyskania tych aktywów.
+
+## **3.3. Wycena wartości godziwej**
+Informacje o szacunkach związanych z wyceną wartości godziwej zostały zamieszczone w nocie 33 - Zarządzanie ryzykiem. W ramach wyceny do wartości godziwej stosowane są techniki wyceny, które są odpowiednie do okoliczności i w przypadku, których są dostępne dostateczne dane do wyceny wartości godziwej, przy maksymalnym wykorzystaniu odpowiednich obserwowalnych danych wejściowych i minimalnym wykorzystaniu nieobserwowalnych danych wejściowych. Wypracowana przez Grupę metodologia ustalania wartości godziwej zakłada dostosowanie modelu wyceny do wartości godziwej do charakterystyki wycenianego aktywa finansowego.
+
+## **3.4. Inne wartości szacunkowe**
+Rezerwa na zobowiązania związane z odprawami emerytalnymi, rentowymi i pośmiertnymi wyliczana jest metodą aktuarialną przez niezależnego aktuariusza jako wartość obecna przyszłych zobowiązań Grupy wobec pracowników według stanu zatrudnienia i płac na dzień bilansowy. Wyliczenie rezerw jest oparte na szeregu założeń, zarówno co do warunków makroekonomicznych jak i założeń dotyczących rotacji pracowników, ryzyka śmierci i innych.  
+Rezerwa na niewykorzystane urlopy jest wyliczana w oparciu o szacowaną wypłatę świadczenia urlopowego na podstawie ilości dni niewykorzystanego urlopu i wynagrodzenia na dzień bilansowy.  
+Rezerwa na ryzyko prawne ustalana jest indywidualnie w oparciu o okoliczności danej sprawy spornej. Grupa dokonuje oceny szans na wygranie danej sprawy, a w konsekwencji ocenia potrzebę ustanowienia rezerwy na wypadek przegranej, w odniesieniu do wszystkich spraw sądowych.
+
+## **4. Przyjęte istotne zasady rachunkowości**
+Zasady (polityki) rachunkowości zastosowane do sporządzenia śródrocznego skróconego skonsolidowanego sprawozdania finansowego są spójne z tymi, które zastosowano przy sporządzaniu rocznego skonsolidowanego sprawozdania finansowego Grupy za rok zakończony 31 grudnia 2024 roku, z wyjątkiem zastosowania nowych lub zmienionych standardów oraz interpretacji obowiązujących dla okresów rocznych rozpoczynających się w dniu lub po 1 stycznia 2025 roku.
+
+## **5. Sezonowość działalności**
+Działalność Grupy nie ma charakteru sezonowego.  
+18  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **6.1. Wynik z operacji na instrumentach finansowych**
+| **(w tys. PLN)** | **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** | **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** |  |  |
+| --- | --- | --- | --- | --- |
+| **30.09.2025** **Instrumenty pochodne kontrakty na różnice** **(CFD)** | **30.09.2025** | **30.09.2024** | **30.09.2024** |  |
+| CFD na towary | 178 015 | 557 918 | 178 586 | 628 105 |
+| CFD na indeksy | 118 984 | 651 241 | 209 517 | 556 636 |
+| CFD na waluty | 39 589 | 218 517 | 68 005 | 163 560 |
+| CFD na akcje i ETP | 24 633 | 45 531 | 8 700 | 29 633 |
+| CFD na obligacje | 7 | 64 | (158) | 270 |
+| **Instrumenty pochodne CFD razem** | **361 228** | **1 473 271** |  | **464 650** **1 378 204** |
+| **Akcje i ETP** | **5 783** | **41 911** |  | **2 439** **21 263** |
+| **Wynik z operacji na instrumentach finansowych** **brutto** | **367 011** | **1 515 182** |  | **467 089** **1 399 467** |
+| Bonusyi rabatywypłacane klientom | (4 271) | (12 531) | (2 650) | (6 292) |
+| Prowizje wypłacane brokerom współpracującym | (13 958) | (37 211) | (11 286) | (37 104) |
+| **Wynik z operacji na instrumentach finansowych** **netto** | **348 782** | **1 465 440** |  | **453 153** **1 356 071** |
+Bonusy i rabaty wypłacone klientom są związane między innymi z obrotem na instrumentach finansowych dokonywanych przez klienta z jednostkami Grupy Kapitałowej.  
+Grupa Kapitałowa zawiera umowy współpracy z brokerami współpracującymi, którzy otrzymują prowizje uzależnione od  
+wygenerowanego obrotu w ramach współpracy. Generowane przychody i koszty pomiędzy Grupą a poszczególnymi brokerami dotyczą obrotu z brokerem a nie jego klientami.  
+Przychody operacyjne Grupy powstają: (i) ze spreadów (różnicy między ceną sprzedaży - offer a ceną kupna - bid); (ii) z naliczanych punktów swapowych (stanowiących kwoty wynikające z różnicy między teoretycznym kursem forward a kursem spot danego instrumentu finansowego); (iii) z prowizji i opłat naliczanych klientom przez Grupę oraz z naliczanych punktów swapowych (stanowiących kwoty wynikające z różnicy między teoretycznym kursem forward a kursem spot danego instrumentu finansowego); (iv) z wyniku netto (zysków pomniejszonych o straty) z działalności Grupy w zakresie market making.
+
+## **6.2. Przychody z tytułu prowizji i opłat**
+| **6.2. Przychody z tytułu prowizji i opłat** **(w tys. PLN)** | **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** |  |  |  |
+| --- | --- | --- | --- | --- |
+| **30.09.2025** | **30.09.2025** | **30.09.2025** | **30.09.2024** |  |
+| Prowizje odpartnerów instytucjonalnych | 1 161 | 3 896 | 936 | 3 049 |
+| Prowizje odpartnerów detalicznych | 3 853 | 10 368 | 1 837 | 5 638 |
+| **Przychody z tytułuprowizji i opłat razem** | **5 014** | **14 264** | **2 773** | **8 687** |
+19  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **6.3. Obszary geograficzne**
+| **6.3. Obszary geograficzne** **(w tys. PLN)** | **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** |  |  |  |
+| --- | --- | --- | --- | --- |
+| **30.09.2025** **Przychody z działalności operacyjnej** | **30.09.2025** | **30.09.2024** | **30.09.2024** |  |
+| Europa Środkowo-Wschodnia | 269 149 | 1 026 560 | 289 111 | 889 716 |
+| _- w tym Polska_ | _220 922_ | _826 907_ | _222 722_ | _699 623_ |
+| Europa Zachodnia | 48 691 | 286 072 | 103 510 | 288 476 |
+| Ameryka Łacińska * | 35 355 | 134 066 | 34 188 | 100 497 |
+| Bliski Wschód** | 22 627 | 90 015 | 43 425 | 129 323 |
+| Azja | (1) | (1) | - | 8 |
+| **Razem przychody z działalności operacyjnej** | **375 821** | **1 536 712** | **470 234** | **1 408 020** |
+_* Spółka zależna XTB International Ltd. z siedzibą w Belize pozyskuje klientów z Ameryki Łacińskiej i reszty świata (poza Europą). Z pozycji wyłączono przychody klientów pozyskanych przez tą spółkę pochodzących z regionu Bliskiego Wschodu. ** Przychody z klientów pochodzących z Bliskiego Wschodu pozyskanych przez XTB International Ltd. z siedzibą w Belize oraz XTB MENA Limited i XTB Financial Consultation L.L.C z siedzibą w Zjednoczonych Emiratach Arabskich._  
+Krajem, z którego Grupa czerpie każdorazowo więcej niż 20% przychodów jest Polska z udziałem wynoszącym 53,8% (3Q2024: 49,7%). Ze względu na ogólny udział w przychodach Grupy wydzielono prezentacyjnie Polskę jako największy przychodowo rynek w Grupie. Udział pozostałych krajów w strukturze geograficznej przychodów Grupy nie przekracza w żadnym przypadku 20%.  
+Grupa dzieli swoje przychody na obszary geograficzne według kraju, w którym klient został pozyskany.
+
+## **7. Wynagrodzenia i świadczenia pracownicze**
+| **(w tys. PLN)** | **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** |  |  |  |
+| --- | --- | --- | --- | --- |
+| **30.09.2025** | **30.09.2025** | **30.09.2024** | **30.09.2024** |  |
+| Wynagrodzenia | (91 249) | (256 632) | (68 350) | (195 002) |
+| Ubezpieczenia społeczne i inne świadczenia | (10 633) | (32 130) | (8 236) | (24 902) |
+| Świadczenia na rzecz pracowników | (3 275) | (9 095) | (2 432) | (7 393) |
+| **Wynagrodzenia i świadczenia pracownicze** **razem** | **(105 157)** | **(297 857)** | **(79 018)** | **(227 297)** |

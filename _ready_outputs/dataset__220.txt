@@ -1,0 +1,19 @@
+KRUK Group condensed interim consolidated financial statements (quarterly report, unaudited); income-statement note disclosures in PLN thousands, FY 2025 (01.01-31.12.2025) versus FY 2024, with Q4 columns (01.10-31.12). All FY 2025 figures unaudited.
+
+Result on expected credit losses from acquired debt portfolios: FY 2025 total 722.3M PLN (Q4 145.0M), versus FY 2024 741.1M (Q4 negative 11.5M); comprising forecast-of-collections update 496.9M PLN FY 2025 (390.1M FY 2024) and deviations of actual collections / reductions from early realization on secured cases plus payments from original creditor 225.4M PLN FY 2025 (351.0M FY 2024).
+
+Revenue on loans measured at amortized cost: FY 2025 net 224.1M PLN (Q4 55.3M), up from FY 2024 199.8M; interest income 257.6M PLN (FY 2024 244.1M) less expected-credit-loss allowance 33.6M PLN (FY 2024 44.3M). Revenue on loans measured at fair value: FY 2025 net 1.9M PLN (FY 2024 1.5M); interest income 1.1M PLN (FY 2024 2.0M) plus fair-value remeasurement positive 0.8M PLN (FY 2024 negative 0.5M).
+
+Revenue from other services: FY 2025 56.1M PLN (Q4 12.7M), versus FY 2024 58.6M; collection-services revenue 55.8M PLN (FY 2024 58.0M) plus resale of materials, brokerage and other services 0.2M PLN.
+
+Other operating income: FY 2025 10.4M PLN (Q4 1.3M), versus FY 2024 10.0M; key items property-sale result 2.7M PLN (FY 2024 6.2M), re-invoiced service and court costs 2.3M, sale of shares/interests in subsidiaries 2.3M (none FY 2024), motor-damage compensation refunds 1.0M, gain on disposal of property/plant/equipment 0.9M, grants 0.2M, lease 0.1M, other cooperation 0.1M, other 0.9M. On 8 September 2025 KRUK S.A. signed an agreement to sell its interests in KRUK Deutschland GmbH to a non-related party for 1,328 thousand EUR, settled by bank transfer; title transferred 30.09.2025; gain on disposal of the subsidiary recognized at 2,282 thousand PLN.
+
+External services (10.2): note explains qualitative drivers only - service costs of debt servicing by external servicers; legal-support services relating mainly to debt-portfolio servicing; in I-IV Q 2025 a notable rise in IT-services costs and administrative/accounting-support services driven by spending on a bundle of services tied to the Group's digital transformation.
+
+Employee remuneration and benefits (10.3): FY 2025 total cost 615.0M PLN (Q4 155.6M), versus FY 2024 580.7M; salaries 458.2M PLN (FY 2024 445.8M), other social insurance 91.9M, pension/disability insurance 38.3M, cost of equity-settled share-option program 24.0M PLN (FY 2024 16.8M), PFRON (disabled-persons fund) contribution 2.5M.
+
+Court fees (10.4): FY 2025 total 468.5M PLN (Q4 125.4M), versus FY 2024 450.9M; legal costs 334.4M PLN (FY 2024 315.2M), bailiff fees 131.3M (FY 2024 132.8M), stamp duties 2.8M.
+
+Other operating costs (10.5): FY 2025 total 102.0M PLN (Q4 35.9M), versus FY 2024 80.8M; taxes and charges 29.1M PLN (FY 2024 36.0M), materials and energy consumption 17.5M (FY 2024 13.5M), advertising 20.5M PLN (FY 2024 7.4M), employee training 12.3M, business travel 6.8M, representation 5.9M, non-deductible VAT 2.0M, vehicle insurance 1.6M, property insurance 1.3M, losses on motor damage 1.2M, litigation-cost refunds 0.7M, write-off of development work to costs 0.6M, membership fees 0.5M, non-compete agreements 0.4M, expected-credit-loss allowances on receivables negligible, services/charges to be re-invoiced negligible, other 1.3M. FY 2024 included a 7.5M PLN reserve for potential differences on straight-line settlement (none FY 2025). Higher materials/energy consumption versus I-IV Q 2024 relates to relocation of the Parent's registered office and office-equipment outlays; advertising increased due to a television and radio campaign run in I-IV Q 2025.
+
+Note 10.6 Financial income header appears (page 41) but contains no data in this excerpt.

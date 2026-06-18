@@ -1,0 +1,20 @@
+DOKUMENT SEKCJA: **30.2. Instrumenty finansowe klientów** | **30.3. Limity transakcyjne** | **31. Pozycje dotyczące systemu rekompensat**
+
+## **30.2. Instrumenty finansowe klientów**
+Zestawienie instrumentów posiadanych przez klientów na rachunkach domu maklerskiego zostało przedstawione poniżej:  
+| **(w tys. PLN)** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Akcje notowane, ETP i prawa do akcji zapisane na rachunkach papierów wartościowych | 23 802 104 | 13 681 390 |
+| Pozostałe papiery wartościowe zapisane na rachunkach papierów wartościowych klientów | 207 | 207 |
+| **Instrumenty finansowe klientów razem** | **23 802 311** | **13 681 597** |
+
+## **30.3. Limity transakcyjne**
+Kwota niewykorzystanych limitów transakcyjnych przyznanych klientom instytucjonalnym wynosiła na dzień 30 września 2025 roku 13 110 tys. PLN, na dzień 31 grudnia 2024 roku 14 763 tys. PLN.
+
+## **31. Pozycje dotyczące systemu rekompensat**
+| **(w tys. PLN)** **1. Wpłaty wniesione do systemu rekompensat** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| a) stan na początek okresu | 17 923 | 13 986 |
+| _- zwiększenia_ | _4 346_ | _3 937_ |
+| b) stan na koniec okresu | 22 269 | 17 923 |
+| **2. Udział XTB w pożytkach z systemu rekompensat** | **2 157** | **1 848** |

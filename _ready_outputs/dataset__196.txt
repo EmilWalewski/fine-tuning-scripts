@@ -1,0 +1,13 @@
+Asseco Group interim condensed consolidated financial statements, operating-segment disclosures (Section 4), within the quarterly report for the three months ended 31 March 2025; figures stated in millions of PLN. Explanatory footnotes define segment interest income as arising from loans granted, acquired debt securities, leasing, trade receivables, and bank deposits; interest expense from credit facilities, loans, issued debt securities, leasing, and trade payables; and operating cash flow as cash from operating activities before income tax paid.
+
+Selected balance-sheet positions as at 31 December 2024 (restated), disaggregated across three operating segments — Asseco Poland, Asseco International, and Formula Systems — plus consolidation eliminations and Group total.
+
+Non-current assets totaled 10,861.2M PLN (Asseco Poland 3,180.6M; Asseco International 2,713.8M; Formula Systems 4,978.0M; eliminations (11.2M)), of which goodwill amounted to 6,224.9M PLN (Asseco Poland 2,262.5M; Asseco International 1,871.5M; Formula Systems 2,090.9M; no eliminated goodwill).
+
+Current assets and non-current assets held for sale totaled 9,465.3M PLN (Asseco Poland 967.1M; Asseco International 2,284.8M; Formula Systems 6,228.4M; eliminations (15.0M)), including trade receivables and contract assets of 4,810.7M PLN (Asseco Poland 570.6M; Asseco International 821.3M; Formula Systems 3,432.0M; eliminations (13.2M)) and cash of 3,299.3M PLN (Asseco Poland 322.3M; Asseco International 895.0M; Formula Systems 2,082.0M).
+
+Non-current liabilities totaled 3,704.0M PLN (Asseco Poland 830.6M; Asseco International 774.1M; Formula Systems 2,109.5M; eliminations (10.2M)), including bank loans, borrowings, and debt securities of 1,748.2M PLN (Asseco Poland 630.5M; Asseco International 98.7M; Formula Systems 1,019.0M) and lease liabilities of 726.5M PLN (Asseco Poland 53.9M; Asseco International 190.3M; Formula Systems 490.5M; eliminations (8.2M)).
+
+Current liabilities totaled 6,973.5M PLN (Asseco Poland 654.8M; Asseco International 1,494.1M; Formula Systems 4,834.8M; eliminations (10.2M)), including bank loans, borrowings, and debt securities of 1,187.6M PLN (Asseco Poland 98.3M; Asseco International 143.3M; Formula Systems 946.0M); lease liabilities of 250.5M PLN (Asseco Poland 15.5M; Asseco International 51.9M; Formula Systems 185.5M; eliminations (2.4M)); and trade payables and contract liabilities of 3,203.8M PLN (Asseco Poland 276.1M; Asseco International 777.3M; Formula Systems 2,157.6M; eliminations (7.2M)).
+
+Formula Systems represents the largest segment by current assets, current liabilities, and goodwill, while consolidation eliminations remain modest across all categories.

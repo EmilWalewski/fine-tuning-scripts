@@ -1,0 +1,101 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **Bilans** | **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **Przepływy pieniężne** | **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **Struktura przychodów** | **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **Struktura walutowa przychodów** | **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **Wskaźniki rentowności**
+
+# **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco**
+## **Struktura przychodów**
+Poniższa tabela przedstawia skonsolidowane przychody za okres 3 miesięcy zakończony 31 marca 2025 roku oraz w okresie porównywalnym w podziale na rodzaje.  
+| **Przychody ze sprzedaży według rodzaju** **mln PLN** | **Q1 2025** | **Q1 2024** | **Zmiana** **Q1'25 / Q1'24** |
+| --- | --- | --- | --- |
+| Oprogramowanie i usługi własne | 3 617,6 | 3 298,1 | 9,7% |
+| Oprogramowanie i usługi obce | 417,9 | 420,3 | (0,6%) |
+| Sprzęt i infrastruktura | 541,4 | 531,2 | 1,9% |
+| **Razem** | **4 576,9** | **4 249,6** | **7,7%** |
+Poniższa tabela przedstawia skonsolidowane przychody za okres 3 miesięcy zakończony 31 marca 2025 roku oraz w okresie porównywalnym w podziale na grupy produktów.  
+| **Przychody ze sprzedaży według grup produktów** **mln PLN** | **Q1 2025** | **Q1 2024** | **Zmiana** **Q1'25 / Q1'24** |
+| --- | --- | --- | --- |
+| Rozwiązania dla finansów | 1 428,0 | 1 322,9 | 7,9% |
+| Rozwiązania dla instytucji publicznych | 975,5 | 820,5 | 18,9% |
+| Rozwiązania ERP | 402,7 | 372,1 | 8,2% |
+| Pozostałe rozwiązania IT | 730,8 | 715,8 | 2,1% |
+| Infrastruktura | 852,7 | 825,7 | 3,3% |
+| Pozostałe (inne niż IT) | 187,2 | 192,6 | (2,8%) |
+| **Razem** | **4 576,9** | **4 249,6** | **7,7%** |
+Szczegółowe dane w zakresie skonsolidowanych przychodów z uwzględnieniem segmentów operacyjnych są - dostępne w pliku excel na stronie internetowej Asseco: https://inwestor.asseco.com/informacje finansowe/wybrane-dane-finansowe/.
+
+# **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco**
+## **Struktura walutowa przychodów**
+Poniżej zaprezentowano strukturę walutową sprzedaży za okres 3 miesięcy zakończony dnia 31 marca 2025 roku oraz w okresie porównywalnym.  
+| **Waluty** | **Q1 2025** | **Q1 2024** |
+| --- | --- | --- |
+| NIS (nowy szekel izraelski) | 43,3% | 41,5% |
+| EUR (euro) | 17,2% | 17,5% |
+| USD (dolar amerykański) | 14,3% | 15,4% |
+| PLN (złoty polski) | 13,3% | 13,6% |
+| CZK (korona czeska) | 2,7% | 2,6% |
+| GBP (funt brytyjski) | 2,1% | 2,3% |
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 68  
+| RSD (dinar serbski) | 2,1% | 2,2% |
+| --- | --- | --- |
+| RON (nowy lej rumuński) | 0,9% | 0,1% |
+| DKK (korona duńska) | 0,6% | 0,4% |
+| Pozostałe waluty | 3,5% | 4,4% |
+| **Razem** | **100,0%** | **100,0%** |
+
+# **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco**
+## **Przepływy pieniężne**
+W okresie pierwszych 3 miesięcy 2025 roku środki pieniężne brutto z działalności operacyjnej (przed zapłaconym podatkiem) Grupy Asseco były wyższe niż w analogicznym okresie przed rokiem o 16,5% i wyniosły 516,5 mln PLN.  
+W okresie sprawozdawczym środki wykorzystane w działalności inwestycyjnej (CFI) wyniosły 266,8 mln PLN wobec 54,9 mln PLN w porównywalnym okresie 2024 roku, na co wpływ miało m.in. nabycie spółek w Grupach Matrix i Sapiens. Odpływy środków pieniężnych z tytułu działalności finansowej (CFF) wyniosły 266,7 mln PLN wobec 325,9 mln PLN przed rokiem, co wynikało m.in. ze zwiększenia wpływów z tytułu zaciągnięcia pożyczek, kredytów w Grupach Matrix i Magic.  
+| **CF** | **Q1 2025** | **Q1 2024** | **Zmiana** **Q1'25 / Q1'24** |
+| --- | --- | --- | --- |
+| CFO BT | 516,5 | 443,5 | 16,5% |
+| Zapłacony podatek | (99,2) | (99,9) | (0,7%) |
+| CFI | (266,8) | (54,9) | 386,0% |
+| CAPEX | (84,0) | (68,8) | 22,1% |
+| CFF | (266,7) | (325,9) | (18,2%) |
+| Wypłata dywidendy | - | - | - |
+| Zmiana stanu środków pieniężnych | (116,2) | (37,2) | 212,4% |
+_CFO BT, tj. środki pieniężne z działalności operacyjnej przed zapłaconym podatkiem dochodowym. CFI, tj. środki pieniężne netto wygenerowane (wykorzystane) z (w) działalności inwestycyjnej. CAPEX obejmuje wydatki na nabycie aktywów trwałych i wartości niematerialnych, wydatki z tytułu prowadzonych projektów badawczo-rozwojowych oraz pomniejszenie z tytułu otrzymanych dotacji. CFF, tj. środki pieniężne netto z działalności finansowej._
+
+# **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco**
+## **Bilans**
+Poniższa tabela przedstawia wybrane dane bilansowe na dzień 31 marca 2025 roku:  
+| **31 marca 2025** **mln PLN** | **Grupa Asseco** | **Segment** **Formula Systems** | **Segment** **Asseco International** **Segment** **Asseco Poland** **Eliminacje** |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **Środki pieniężne** | **3 075,3** | **1 781,9** | **850,2** | **443,2** | **-** |
+| **Zobowiązania odsetkowe (KT)** | **(1 430,3)** | **(1 091,2)** | **(223,5)** | **(118,1)** | **2,5** |
+| _Zobowiązania z tytułu kredytów i pożyczek (KT)_ | _(1 190,3)_ | _(920,2)_ | _(168,4)_ | _(101,7)_ | _-_ |
+| _Leasing (KT)_ | _(240,0)_ | _(171,0)_ | _(55,1)_ | _(16,4)_ | _2,5_ |
+| **Gotówka netto (KT)** | **1 645,0** | **690,7** | **626,7** | **325,1** | **2,5** |
+| **Zapasy + należności KT - zobowiązania KT*** | **737,8** | **498,3** | **85,2** | **153,1** | **1,2** |
+| **Aktywa operacyjne netto (KT)** | **2 382,8** | **1 189,0** | **711,9** | **478,2** | **3,7** |
+| **Gotówka netto (KT + DT)** | **(636,5)** | **(634,5)** | **332,2** | **(344,5)** | **10,3** |
+_* Zapasy + należności krótkoterminowe + rozliczenia międzyokresowe krótkoterminowe - zobowiązania krótkoterminowe z wyłączeniem kredytów i leasingu._  
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 69  
+Poniższa tabela przedstawia wybrane dane bilansowe na dzień 31 grudnia 2024 roku:  
+| **31 grudnia 2024** **mln PLN** | **Grupa Asseco** | **Segment** **Formula Systems** | **Segment** **Asseco International** **Segment** **Asseco Poland** **Eliminacje** |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **Środki pieniężne** | **3 299,3** | **2 082,0** | **895,0** | **322,3** | **-** |
+| **Zobowiązania odsetkowe (KT)** | **(1 438,1)** | **(1 131,5)** | **(195,2)** | **(113,8)** | **2,4** |
+| _Zobowiązania z tytułu kredytów i pożyczek (KT)_ | _(1 187,6)_ | _(946,0)_ | _(143,3)_ | _(98,3)_ | _-_ |
+| _Leasing (KT)_ | _(250,5)_ | _(185,5)_ | _(51,9)_ | _(15,5)_ | _2,4_ |
+| **Gotówka netto (KT)** | **1 861,2** | **950,5** | **699,8** | **208,5** | **2,4** |
+| **Zapasy + należności KT - zobowiązania KT*** | **632,1** | **444,6** | **90,9** | **103,8** | **(7,2)** |
+| **Aktywa operacyjne netto (KT)** | **2 493,3** | **1 395,1** | **790,7** | **312,3** | **(4,8)** |
+| **Gotówka netto (KT + DT)** | **(613,5)** | **(559,0)** | **410,8** | **(475,9)** | **10,6** |
+_* Zapasy + należności krótkoterminowe + rozliczenia międzyokresowe krótkoterminowe - zobowiązania krótkoterminowe z wyłączeniem kredytów i leasingu._
+
+# **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco**
+## **Wskaźniki rentowności**
+Poniższa tabela prezentuje podstawowe wskaźniki rentowności Grupy za okres 3 miesięcy zakończony dnia 31 marca 2025 roku oraz za okres porównywalny:  
+| **Rentowność** | **Q1 2025** | **Q1 2024** | **Zmiana** **Q1'25 / Q1'24** |
+| --- | --- | --- | --- |
+| Marża zysku brutto ze sprzedaży | 22,8% | 21,4% | +1,4 p.p. |
+| Marża EBITDA | 14,9% | 14,7% | +0,2 p.p. |
+| Marża EBITDA non-IFRS | 15,6% | 15,2% | +0,4 p.p. |
+| Marża EBIT | 10,3% | 9,9% | +0,4 p.p. |
+| Marża EBIT non-IFRS | 12,3% | 11,8% | +0,5 p.p. |
+| Marża zysku netto | 7,6% | 7,4% | +0,2 p.p. |
+| Marża zysku netto non-IFRS | 9,4% | 8,8% | +0,6 p.p. |
+_Marża zysku brutto ze sprzedaży = zysk brutto ze sprzedaży / przychody ze sprzedaży. Marża EBITDA = EBITDA / przychody ze sprzedaży. Marża EBITDA non-IFRS = EBITDA non-IFRS / przychody ze sprzedaży. Marża EBIT = zysk operacyjny / przychody ze sprzedaży. Marża EBIT non-IFRS = zysk operacyjny non-IFRS / przychody ze sprzedaży. Marża zysku netto = zysk netto / przychody ze sprzedaży. Marża zysku netto non-IFRS = zysk netto non-IFRS / przychody ze sprzedaży._  
+W okresie pierwszych 3 miesięcy 2025 roku skonsolidowana marża EBITDA Grupy wynosiła 14,9% (wzrost o 0,2 p.p.), a marża zysku operacyjnego 10,3% (wzrost o 0,4 p.p.). Marża zysku netto wyniosła 7,6% wobec 7,4% przed rokiem.  
+W okresie sprawozdawczym skonsolidowana marża EBITDA non-IFRS Grupy wynosiła 15,6% (wzrost o 0,4 p.p.), a marża zysku operacyjnego non-IFRS 12,3% (wzrost o 0,5 p.p.). Marża zysku netto non-IFRS wyniosła 9,4% wobec 8,8% przed rokiem.

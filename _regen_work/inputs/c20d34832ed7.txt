@@ -1,0 +1,171 @@
+DOKUMENT SEKCJA: **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO**
+
+Budynki i budowle są amortyzowane stawkami od 2,5% do 4,5%, środki transportu są
+amortyzowane stawką 20% a urządzenia i pozostałe środki trwałe od 10% do 30%.
+
+Prawo do użytkowania powierzchni biurowych wykazane jest zgodnie z zasadami określonymi w MSSF 16 Leasing i
+amortyzowane jest przez okres trwania umowy najmu.
+
+ZAPASY
+Wyroby gotowe
+Wyroby gotowe to przede wszystkim jednostki mieszkalne i miejsca parkingowe.
+
+Wyroby gotowe wyceniane są według niższej
+z dwóch wartości: kosztu wytworzenia i możliwej do uzyskania ceny sprzedaży netto.
+
+Cena sprzedaży netto jest to szacowana cena sprzedaży oceniana przez Zarząd Spółki na podstawie cen rynkowych.
+
+Produkcja w toku
+Produkcja w toku jest wyceniana wg niższej z dwóch wartości: cena nabycia/koszt wytworzenia i możliwej do uzyskania ceny
+sprzedaży netto.
+
+W przypadku rozbieżności dokonywany jest odpis aktualizacyjny.
+
+W przypadku projektów deweloperskich
+Grupy/spółek z Grupy, ocena konieczności dokonania odpisu aktualizacyjnego dokonywana jest na podstawie opisanego niżej
+„testu na utratę wartości” opartego na analizie kosztu wytworzenia i możliwej do uzyskania ceny sprzedaży netto.
+
+Test na utratę wartości zapasów
+Jeśli przewiduje się, że projekt deweloperski będzie generował stratę, skutkuje to odpisem aktualizującym wartość produkcji w
+toku, który ujmowany jest niezwłocznie w rachunku zysków i strat.
+
+Odpis aktualizacyjny może również dotyczyć nieruchomości,
+dla których proces deweloperski obarczony jest ryzykiem istotnego przesunięcia w czasie.
+
+Dla każdego projektu deweloperskiego przygotowywane są budżety, które obejmują zarówno dokonane jak i przyszłe
+przepływy środków pieniężnych dla każdego realizowanego projektu.
+
+Budżety te aktualizowane są przynajmniej raz na kwartał.
+
+Dla celów badania utraty wartości budżety projektów obejmują wszelkie przeszłe i przewidywane przychody netto
+pomniejszone o bezpośrednie koszty nabycia gruntu, projektowania, budowy oraz inne koszty związane z przygotowaniem
+projektu, lokalami pokazowymi oraz biurem sprzedaży na terenie budowy.
+
+Budżety te są również obciążane powiązanymi z nimi
+przeszłymi i przewidywanymi kosztami finansowania zewnętrznego oraz przewidywanymi roszczeniami klientów (jeśli dotyczy
+to projektu).
+
+Budżety projektów opracowywane są z zastosowaniem zasady ostrożnej wyceny.
+
+Jeśli marża na projekcie, wyliczona z uwzględnieniem wszystkich przychodów i ww. kosztów, jest dodatnia, wówczas nie ma
+potrzeby tworzenia odpisu z tytułu utraty wartości zapasów.
+
+Ujemna marża wskazuje na potencjalny problem utraty wartości,
+co po dokładnej weryfikacji przepływów środków pieniężnych dla danego projektu skutkuje zaksięgowaniem odpisu na utratę
+wartości zapasów w kwocie oszacowanej ujemnej wartości tej marży.
+
+Odpis aktualizacyjny ujmowany jest w koszcie własnym sprzedaży w pozycji Korekta wartości zapasów do wartości netto
+możliwej do uzyskania.
+
+Ewentualne odwrócenie takiego odpisu na utratę wartości dla danego projektu jest możliwe, jeśli
+przewidywana wartość marży na tym projekcie przybierze wartość dodatnią.
+
+Jeśli projekt składa się z kilku etapów, wówczas badanie utraty wartości zapasów przeprowadza się w następujący sposób:
+a) wszelkie przyszłe etapy projektu traktowane są jako jeden projekt dla celów badania utraty wartości,
+b) każdy etap projektu, w którym rozpoczęto sprzedaż i proces budowy, zostaje odłączony od reszty projektu (budowy)
+i dla celów badania utraty wartości rozpatruje się go osobno.
+
+SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPA KAPITAŁOWA DOM 15
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU DEVELOPMENT S.A.
+
+KOSZTY FINANSOWANIA ZEWNĘTRZNEGO
+Koszty finansowania zewnętrznego ujmuje się jako koszty w rachunku zysków i strat w okresie w którym je poniesiono z
+wyjątkiem kosztów aktywowanych, czyli kosztów które można przyporządkować do kosztów wytworzenia dostosowanych
+składników aktywów (w przypadku Grupy: do produkcji w toku) jako część ich kosztu wytworzenia.
+
+Koszty finansowe aktywowane są do produkcji w toku tylko w okresie, kiedy projekt deweloperski jest aktywny.
+
+Projekt uważa
+się za aktywny, gdy dla zakupionych gruntów prowadzone są prace projektowe lub budowlane oraz podczas procesu
+uzyskiwania kluczowych decyzji administracyjnych potrzebnych do prowadzenia projektu
+Koszty finansowe przestają być aktywowane z chwilą, gdy zasadniczo wszystkie działania, których przeprowadzenie jest
+konieczne do przygotowania mieszkań do przekazania klientom zostały zakończone.
+
+Aktywowanie kosztów finansowych jest zawieszane w przypadku wstrzymania działań związanych z działalnością inwestycyjną
+na projekcie, w tym prac związanych z projektowaniem, procesem budowlanym lub uzyskiwaniem odpowiednich zezwoleń i
+postanowień administracyjnych dotyczących projektu.
+
+NALEŻNOŚCI Z TYTUŁU DOSTAW I USŁUG ORAZ POZOSTAŁE NALEŻNOŚCI
+Należności z tytułu dostaw i usług oraz pozostałe należności wyceniane są w oparciu o MSSF 9, który wprowadził koncepcję
+szacowania odpisów z tytułu utraty wartości aktywów finansowych z zastosowaniem modelu bazującym na stratach
+oczekiwanych.
+
+LOKATY BANKOWE POWYŻEJ TRZECH MIESIĘCY
+Lokaty bankowe z okresem zapadalności powyżej trzech miesięcy (na dzień ich utworzenia) prezentowane są w pozycji
+Krótkoterminowe aktywa finansowe.
+
+ŚRODKI PIENIĘŻNE I EKWIWALENTY ŚRODKÓW PIENIĘŻNYCH
+Środki pieniężne i lokaty krótkoterminowe z okresem zapadalności do trzech miesięcy (na dzień ich utworzenia) wykazane są w
+bilansie w wartości nominalnej i obejmują środki pieniężne w banku i w kasie oraz lokaty krótkoterminowe o pierwotnym
+okresie zapadalności nie przekraczającym trzech miesięcy.
+
+Saldo środków pieniężnych i ich ekwiwalentów wykazane w
+sprawozdaniu w rachunku przepływów pieniężnych składa się z określonych powyżej środków pieniężnych i ich ekwiwalentów
+pomniejszonych o niespłacone kredyty w rachunkach bieżących.
+
+OPROCENTOWANE KREDYTY BANKOWE, POŻYCZKI I PAPIERY DŁUŻNE
+W momencie początkowego ujęcia, wszystkie kredyty bankowe, pożyczki i papiery dłużne są ujmowane według wartości
+godziwej, pomniejszonej o koszty związane z uzyskaniem kredytu lub pożyczki.
+
+Po początkowym ujęciu oprocentowane kredyty, pożyczki i papiery dłużne są wyceniane według zamortyzowanego kosztu, przy
+zastosowaniu metody efektywnej stopy procentowej.
+
+Przy ustalaniu zamortyzowanego kosztu uwzględnia się koszty związane z uzyskaniem kredytu lub pożyczki oraz dyskonta lub
+premie uzyskane w związku z ich pozyskaniem.
+
+Zaciągnięcia i spłaty dokonywane dla kredytów bankowych, pożyczek i papierów dłużnych, prezentowane są w rachunku
+przepływów pieniężnych odpowiednio jako wpływy lub wydatki w działalności finansowej i nie są ze sobą netowane w okresie
+sprawozdawczym.
+
+Wyjątek stanowią zaciągnięcia i spłaty dokonywane dla kredytów w rachunku bieżącym (typu „overdraft”)
+dla których zaciągnięcia i spłaty prezentowane są per saldo ze względu na krótkie terminy płatności, duże i szybkie kwoty
+spłat/zaciągnięć.
+
+ZOBOWIĄZANIA Z TYTUŁU DOSTAW, USŁUG I PODATKÓW ORAZ POZOSTAŁE ZOBOWIĄZANIA
+Zobowiązania krótkoterminowe z tytułu dostaw, usług i podatków oraz pozostałe zobowiązania wykazywane są w kwocie
+wymagającej zapłaty.
+
+W przypadku, gdy wpływ wartości pieniądza w czasie jest istotny (w szczególności dotyczy to zatrzymanych kaucji
+gwarancyjnych), wartość zobowiązań jest ustalana poprzez zdyskontowanie prognozowanych przyszłych przepływów
+pieniężnych do wartości bieżącej.
+
+Jeżeli zastosowana została metoda polegająca na dyskontowaniu, zwiększenie zobowiązania
+w związku z upływem czasu jest ujmowane jako koszty finansowe.
+
+SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPA KAPITAŁOWA DOM 16
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU DEVELOPMENT S.A.
+
+REZERWY
+Rezerwy tworzone są wówczas, gdy na spółkach Grupy ciąży istniejący obowiązek (prawny lub zwyczajowo oczekiwany)
+wynikający ze zdarzeń przeszłych i gdy prawdopodobne jest, że wypełnienie tego obowiązku spowoduje konieczność wypływu
+korzyści ekonomicznych oraz można dokonać wiarygodnego oszacowania kwoty tego zobowiązania.
+
+Koszty dotyczące danej
+rezerwy są wykazane w rachunku zysków i strat po pomniejszeniu o wszelkie zwroty.
+
+UJMOWANIE PRZYCHODÓW
+Przychody są ujmowane w takiej wysokości, w jakiej jest prawdopodobne, że Grupa uzyska korzyści ekonomiczne związane z
+daną transakcją oraz gdy kwotę przychodów można wycenić w wiarygodny sposób.
+
+Zanim przychody zostaną ujęte, muszą
+zostać spełnione następujące kryteria:
+Sprzedaż produktów
+Przychody ze sprzedaży nieruchomości (jednostek mieszkalnych, powierzchni komercyjnych itp.) są rozpoznawane w momencie
+przejścia na nabywcę nieruchomości kontroli nad nabywaną nieruchomością oraz znaczących ryzyk i korzyści właściwych dla
+prawa własności.
+
+Według oceny Grupy/spółek z Grupy następuje to w momencie wydania nieruchomości kupującemu na
+podstawie podpisanego przez strony protokołu odbioru, pod warunkiem dokonania przez kupującego 100% wpłat na poczet
+ceny nabycia nieruchomości.
+
+W przypadku gdy projekt deweloperski związany ze sprzedażą nieruchomości (jednostek mieszkalnych, powierzchni
+komercyjnych itp.) prowadzony jest na nieruchomości (gruncie) należącym do strony trzeciej, jednak realizacja projektu
+(marketing, sprzedaż, obsługa klienta i obsługa projektowo-budowlana) prowadzona jest przez Spółkę oraz ryzyka związane z
+prowadzeniem takiego projektu leżą po stronie Spółki, przychody ze sprzedaży takich nieruchomości są rozpoznawane
+analogicznie jak to zostało wyżej opisane w odniesieniu do projektów deweloperskich prowadzonych na nieruchomościach
+należących do Spółki lub będących w jej wieczystym użytkowaniu.
+
+Sprzedaż usług budowlanych
+W przypadku, kiedy istnieje prawdopodobieństwo, iż łączne koszty związane z realizacją kontraktu przekroczą łączne przychody,
+przewidywana strata (nadwyżka łącznych szacowanych kosztów nad łącznymi szacowanymi przychodami) obciąża koszty okresu
+i wykazywana jest w koszcie własnym sprzedaży (koszt sprzedaży usług).

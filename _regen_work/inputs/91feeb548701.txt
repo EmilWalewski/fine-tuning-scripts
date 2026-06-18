@@ -1,0 +1,59 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **35.1.2. Hierarchia wartości godziwej** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **35.2. Ryzyko rynkowe** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **35.2.1. Ryzyko walutowe** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **35.2.2. Ryzyko stopy procentowej**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **35.1.2. Hierarchia wartości godziwej**
+Grupa prezentuje wycenę wartości godziwej instrumentów finansowych wycenianych w wartości godziwej wykorzystując następującą hierarchię wartości godziwej, która obrazuje istotność danych wejściowych wykorzystanych przy wycenie wartości godziwej:  
+- **Poziom 1** : ceny notowane (nieskorygowane) z aktywnych rynków dla tych aktywów lub zobowiązań;  
+- **Poziom 2:** dane wejściowe inne niż ceny notowane zaliczane do Poziomu 1, które są obserwowalne dla składnika aktywów lub zobowiązań w sposób bezpośredni (tj. jako ceny) lub pośrednio (tj. bazujące na cenach). Ta kategoria obejmuje aktywa i zobowiązania finansowe wycenione za pomocą cen notowanych z aktywnych rynków dla identycznych aktywów i zobowiązań, które uważane są za mniej aktywne lub pozostałe metody wyceny, gdzie wszystkie istotne dane wejściowe pochodzą bezpośrednio lub niebezpośrednio z rynków;  
+- **Poziom 3:** dane wejściowe do wyceny składnika aktywów lub zobowiązań, które nie są oparte na możliwych do zaobserwowania danych rynkowych (dane wejściowe nieobserwowalne).  
+| Okres | Pozycja | POZIOM 1 | POZIOM 2 | POZIOM 3 | ŁĄCZNIE |
+| --- | --- | --- | --- | --- | --- |
+| 31.12.2025 | Aktywa finansowe |  |  |  |  |
+| 31.12.2025 | Aktywa finansowe - Aktywa razem | 248 525 | 758 448 | - | 1 006 973 |
+| 31.12.2025 | Zobowiązania finansowe |  |  |  |  |
+| 31.12.2025 | Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy | - | 271 159 | - | 271 159 |
+| 31.12.2025 | Zobowiązania finansowe - Zobowiązania razem | - | 271 159 | - | 271 159 |
+| Okres | Pozycja | POZIOM 1 | POZIOM 2 | POZIOM 3 | ŁĄCZNIE |
+| 31.12.2024 | Aktywa finansowe |  |  |  |  |
+| 31.12.2024 | Aktywa finansowe - Aktywa razem | 592 116 | 531 807 | - | 1 123 923 |
+| 31.12.2024 | Zobowiązania finansowe |  |  |  |  |
+| 31.12.2024 | Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy | - | 208 193 | - | 208 193 |
+| 31.12.2024 | Zobowiązania finansowe - Zobowiązania razem | - | 208 193 | - | 208 193 |
+W okresach objętych skonsolidowanym sprawozdaniem finansowym nie wystąpiły transfery pozycji pomiędzy poziomami hierarchii wartości godziwej.  
+Wartość godziwa kontraktów na różnice kursowe (CFD) wyznaczona jest na podstawie rynkowych cen instrumentów bazowych, pochodzących z niezależnych źródeł, tj. od sprawdzonych dostawców płynności oraz renomowanych serwisów informacyjnych, skorygowanych o spread określony przez Grupę. Do wyceny wykorzystywane są ceny zamknięcia lub ostatnie ceny bid i ask. Kontrakty CFD wyceniane są jako różnica między ceną bieżącą a ceną otwarcia z uwzględnieniem naliczonych prowizji i punktów swapowych.  
+Oszacowany przez Grupę wpływ korekt z tytułu ryzyka kredytowego kontrahenta nie był znaczący z punktu widzenia całości wyceny zawartych przez Grupę transakcji pochodnych. W konsekwencji, Grupa nie uznaje wpływu nieobserwowalnych danych wejściowych zastosowanych do wyceny transakcji pochodnych za znaczący i zgodnie z postanowieniami MSSF 13.73 nie klasyfikuje takich transakcji na 3 poziomie hierarchii wartości godziwej.  
+53  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **35.2. Ryzyko rynkowe**
+Grupa w okresie objętym niniejszym skonsolidowanym sprawozdaniem finansowym zawierała na rynku OTC kontrakty na różnice cenowe (CFD) oraz nabywała papiery wartościowe. Grupa może również zawierać kontrakty terminowe na rachunek własny na regulowanych rynkach giełdowych.  
+Biorąc pod uwagę czynnik ryzyka wyszczególniamy następujące rodzaje ryzyka:  
+- Ryzyko walutowe, związane ze zmianą kursów walutowych  
+- Ryzyko stopy procentowej  
+- Ryzyko cen towarów  
+- Ryzyko cen instrumentów kapitałowych  
+Podstawowym celem Grupy w obszarze zarządzania ryzykiem rynkowym jest ograniczenie negatywnego wpływu tego ryzyka na rentowność prowadzonej działalności.  
+W ramach wewnętrznych procedur stosowane są limity ograniczające ryzyko rynkowe związane z utrzymywaniem otwartej pozycji na instrumentach finansowych. Są to, w szczególności: limit maksymalnej otwartej pozycji na danym instrumencie finansowym, limity ekspozycji walutowych, limit wartości pojedynczego zlecenia.  
+Dział Tradingu na bieżąco monitoruje otwarte pozycje ograniczone limitami i w przypadku ich przekroczeń zawiera odpowiednie transakcje zabezpieczające. Dział Kontroli Ryzyka regularnie sprawdza wykorzystanie limitów oraz zasadność wykonania ewentualnych transakcji zabezpieczających.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **35.2.1. Ryzyko walutowe**
+Grupa zawiera transakcje głównie na instrumentach obarczonych ryzykiem walutowym. Oprócz transakcji, których instrumentem bazowym jest kurs walutowy, Grupa oferuje również instrumenty, których cena wyrażona jest w walucie obcej. Dodatkowo, Grupa posiada aktywa utrzymywane w walutach obcych, tzw. pozycje walutowe. Na pozycje walutowe składają się środki własne domu maklerskiego nominowane w walutach obcych w celu rozliczenia transakcji na rynkach zagranicznych oraz związane z prowadzeniem oddziałów zagranicznych.  
+Wartość bilansowa aktywów oraz zobowiązań Grupy w walutach obcych na dzień bilansowy została przedstawiona poniżej. Wartości przedstawione dla poszczególnych walut bazowych są wyrażone w tysiącach złotych:
+54  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Zmiana kursów wymiany walutowej, w tym w szczególności PLN na waluty obce, wpływa na wycenę bilansową instrumentów finansowych Grupy oraz na wynik z przeliczenia sald walutowych dla pozostałych pozycji bilansowych. Stopień wrażliwości na zmiany kursów wymiany skalkulowany został przy założeniu równoległej zmiany kursów wymiany wszystkich walut obcych do PLN o ±5%. Bilansowa wartość instrumentów finansowych została ponownie wyceniona.  
+Stopień wrażliwości Grupy na 5% wzrost lub spadek kursu wymiany PLN na waluty obce na kapitał własny i zysk przed opodatkowaniem przedstawiony jest w poniższej tabeli:  
+| **(w tys. PLN)** **WZROST** **KURSÓW** **WYMIANY O 5%** **SPADEK** **KURSÓW** **WYMIANY O 5%** **WZROST** **KURSÓW** **WYMIANY O 5%** **SPADEK** **KURSÓW** **WYMIANY O 5%** | **OKRES 12 MIESIĘCY ZAKOŃCZONY** **OKRES 12 MIESIĘCY ZAKOŃCZONY** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Zysk/(strata) przed opodatkowaniem | 75 439 | (75 439) | 73 590 | (73 590) |
+| Kapitał własny | 6 808 | (6 808) | 4 935 | (4 935) |
+Wrażliwość kapitału własnego związana jest z różnicami kursowymi z przeliczenia jednostek zagranicznych, które posiadają swoje kapitały w walutach funkcjonalnych.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **35.2.2. Ryzyko stopy procentowej**
+Ryzyko stopy procentowej jest to ryzyko wynikające z narażenia aktualnego i przyszłego wyniku finansowego Grupy oraz jej kapitału na niekorzystny wpływ zmian stóp procentowych. Źródłami tego ryzyka mogą być umowy zawierane przez Grupę, z których wynikają należności lub zobowiązania uzależnione od stopy procentowej oraz posiadanie aktywów lub zobowiązań w instrumentach finansowych uzależnionych od stóp procentowych. Podstawowym źródłem ryzyka stopy procentowej dla Grupy jest zmienność oprocentowania rachunków bankowych i depozytów bankowych, na których przechowywane są środki pieniężne własne Grupy, niedopasowanie stóp oprocentowania jakie Grupa płaci swoim klientom z tytułu utrzymywania przez nich wolnych środków na ich rachunkach pieniężnych oraz wpływ zmienności stóp procentowych na wycenę posiadanych przez Grupę obligacji skarbowych i poręczonych przez Skarb Państwa oraz obligacji korporacyjnych.  
+Dodatkowo, źródłem zmienności wyniku finansowego Grupy, związanym z poziomem rynkowych stóp procentowych, są kwoty zapłacone i otrzymane w związku z występowaniem różnicy stóp procentowych dla różnych walut (punkty swapowe) a także posiadanie dłużnych instrumentów finansowych.  
+Biorąc pod uwagę, iż Grupa utrzymuje niski poziom czasu trwania (duration) aktywów i zobowiązań oraz minimalizuje lukę czasu trwania, wrażliwość rynkowej wartości aktywów i pasywów na zmiany poziomu rynkowych stóp procentowych jest niska.

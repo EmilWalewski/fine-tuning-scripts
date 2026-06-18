@@ -1,0 +1,56 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.4. Należności oraz aktywa z tytułu umów z klientami
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 6.4. Należności oraz aktywa z tytułu umów z klientami
+W tabeli poniżej zostały przedstawione salda należności oraz salda aktywów z tytułu umów na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku.  
+| **31 marca 2025** | **31 marca 2025** | **31 grudnia 2024** | **31 grudnia 2024** |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **Długoterminowe** | **Krótkoterminowe** | **Długoterminowe** | **Krótkoterminowe** |  |  |
+| **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** |  |  |
+| **Należności z tytułu dostaw i usług, w** | **tym:** |  |  |  |  |
+| **Należności zafakturowane** |  | **5,6** | **3 264,8** | **7,2** | **3 485,8** |
+| od jednostek powiązanych |  | 0,2 | 8,8 | 0,4 | 18,6 |
+| od jednostek pozostałych |  | 5,4 | 3 256,0 | 6,8 | 3 467,2 |
+| **Należności niezafakturowane** |  | **31,5** | **972,7** | **21,8** | **912,8** |
+| od jednostek powiązanych |  | - | 12,9 | - | 34,7 |
+| od jednostek pozostałych |  | 31,5 | 959,8 | 21,8 | 878,1 |
+| **Należności z tytułu leasingu operacyjnego** |  | **-** | **9,4** | **-** | **11,7** |
+| od jednostek pozostałych |  | - | 9,4 | - | 11,7 |
+| **Inwestycja leasingowa netto** |  | **0,7** | **0,7** | **0,9** | **0,7** |
+| **Odpis** **na** **oczekiwane** **straty** **kredytowe** **dot.  należności z tytułu dostaw i usług (-)** |  | **(0,4)** | **(152,8)** | **-** | **(154,9)** |
+| **Razem należności z tytułu dostaw i usług** |  | **37,4** | **4 094,8** | **29,9** | **4 256,1** |
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 48  
+| **Należności z tytułu** **od osóbprawnych** | **podatku** | **dochodowego** | **dochodowego** | **-** | **94,6** | **-** | **135,2** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Należności budżetowe** |  |  |  | **-** | **69,9** | **-** | **46,5** |
+| Podatek VAT |  |  |  | - | 54,7 | - | 31,3 |
+| Pozostałe |  |  |  | - | 15,2 | - | 15,2 |
+| **Pozostałe należności** |  |  |  | **69,9** | **141,2** | **64,6** | **126,2** |
+| Inne należności |  |  |  | 69,9 | 145,1 | 64,6 | 130,2 |
+| Odpis na oczekiwane straty kredytowe dot. pozostałych należności(-) |  |  |  | - | (3,9) | - | (4,0) |
+| **Razem** **należności** **należności** | **budżetowe** | **i** | **pozostałe** | **69,9** | **211,1** | **64,6** | **172,7** |
+| **Razem należności** |  |  |  | **107,3** | **4 400,5** | **94,5** | **4 564,0** |
+Aktywa z tytułu umów z klientami wynikają z przewagi stopnia zaawansowania realizacji kontraktów wdrożeniowych w stosunku do wystawionych faktur.  
+| **31 marca 2025** | **31 marca 2025** | **31 grudnia 2024** | **31 grudnia 2024** |
+| --- | --- | --- | --- |
+| **Długoterminowe** | **Krótkoterminowe** | **Długoterminowe** | **Krótkoterminowe** |
+| **mln PLN** **Aktywa z tytułu umów z klientami** | **mln PLN** | **mln PLN** | **mln PLN** |
+| od jednostek powiązanych | - | 29,3 | - 30,0 |
+| od jednostek pozostałych | - | 528,2 | - 524,6 |
+| **Razem aktywa z tytułu umów z klientami** | **-** | **557,5** | **-** **554,6** |
+Wartość bilansowa należności oraz aktywów z tytułu umów na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku nie odbiega od ich wartości godziwej.  
+Transakcje z podmiotami powiązanymi zostały przedstawione w punkcie 6.15 not objaśniających do niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego.  
+Grupa posiada odpowiednią politykę w zakresie dokonywania sprzedaży tylko zweryfikowanym klientom. W związku z panującą w Polsce i na świecie dynamiczną sytuacją makroekonomiczną i geopolityczną, Grupa wdrożyła jednak proces jeszcze dokładniejszego monitorowania swoich należności oraz zintensyfikowała standardowe procedury windykacyjne. Na dzień publikacji niniejszego raportu nie stwierdzono jednak przesłanek do tego, aby zwiększać odpis na oczekiwane straty kredytowe ani też zmieniać politykę Grupy w tym zakresie.  
+Zmiany wartości odpisu aktualizującego należności z tytułu dostaw i usług w okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku oraz w okresie porównywalnym zostały przedstawione w tabeli poniżej:  
+| **Odpis aktualizujący należności z tytułu dostaw i usług** | **3 miesiące do** **31 marca 2025** | **3 miesiące do** **31 marca 2024** |
+| --- | --- | --- |
+| **mln PLN** | **mln PLN** |  |
+| **Odpis na dzień 1 stycznia** | **(154,9)** | **(131,3)** |
+| Utworzenie w trakcie okresu sprawozdawczego | (20,3) | (10,7) |
+| Wykorzystanie w trakcie okresu sprawozdawczego | 2,1 | 3,9 |
+| Rozwiązanie w trakcie okresu sprawozdawczego | 14,3 | 7,9 |
+| Objęcie kontroli nad jednostkami zależnymi | (1,0) | - |
+| Różnice kursowe | 6,6 | 0,7 |
+| **Odpis na dzień 31 marca** | **(153,2)** | **(129,5)** |
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 49

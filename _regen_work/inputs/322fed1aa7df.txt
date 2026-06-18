@@ -1,0 +1,56 @@
+DOKUMENT SEKCJA: **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **Progi istotności dla pozytywnego rzeczywistego wpływu [skala, zakres]**
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **Progi istotności dla pozytywnego rzeczywistego wpływu [skala, zakres]**
+| Próg istotności | Skala dotkliwości |
+| --- | --- |
+| Krytyczna | 10 |
+| Znacząca | 8 - 9 |
+| Ważna | 5 - 7 |
+| Informacyjna | 2 - 4 |
+| Brak | 0 - 1 |
+**Progi istotności dla potencjalnego negatywnego wpływu [skala, zakres, nieodwracalność, prawdopodobieństwo]**  
+| Próg istotności | Skala |
+| --- | --- |
+| Krytyczny | 16 - 20 |
+| Znaczący | 13 - 15 |
+| Ważny | 9 - 12 |
+| Informacyjny | 6 - 8 |
+| Brak | 0 - 5 |
+_Faza 4: Identyfikacja i ocena ryzyk i szans_  
+W następnym kroku opracowano ryzyka i szanse dotyczące obszarów środowiskowych, społecznych i zarządczych, wynikające z zidentyfikowanych wpływów.  
+W analizie podwójnej istotności, spółki z Grupy uwzględniły zarówno finansowe, jak i pozafinansowe aspekty ryzyk i szans, łącząc je z zidentyfikowanymi wpływami. Takie podejście pozwoliło na pełniejsze zrozumienie, jak czynniki zewnętrzne i wewnętrzne wpływają na długoterminową strategię i model biznesowy. Poprzez zintegrowane podejście, spółki z Grupy mogą skutecznie zarządzać swoimi zasobami, minimalizować ryzyka oraz wykorzystywać szanse do poprawy wyników finansowych, reputacji oraz trwałości działalności w kontekście zmieniającego się otoczenia rynkowego.  
+Ustalanie hierarchii ryzyk związanych ze zrównoważonym rozwojem w stosunku do innych rodzajów ryzyka odbywa się w ramach systemu zarządzania ryzykiem. Mimo specyfiki fizycznych  
+ryzyk klimatycznych (często mają długoterminowy charakter), spółki z Grupy włączyły ryzyka związane ze zrównoważonym rozwojem do ogólnego rejestru ryzyk (BRM). Podobnie jak w przypadku innych ryzyk, ryzyka ESG są oceniane pod kątem prawdopodobieństwa ich wystąpienia oraz potencjalnych skutków. Po dokonaniu oceny prawdopodobieństwa i skutków, ryzyka ESG zostały klasyfikowane według ich istotności dla realizacji strategicznych celów organizacji. Kluczowe znaczenie mają ryzyka, które mogą negatywnie wpłynąć na działalność operacyjną, wyniki finansowe lub relacje z interesariuszami.  
+W celu ustalenia istotności finansowej, wewnętrznie (przez osoby koordynujące obszar ESG oraz obszar zarządzania ryzykiem i zgodnością) wykonano ocenę prawdopodobieństwa wystąpienia danego ryzyka/szansy w skali 0-5 (0 - zjawisko najprawdopodobniej nie wystąpi; 5 - wystąpienie zdarzenia jest bardzo prawdopodobne) i skali skutków w skali 0-5 (skutki zagadnienia nie mają znaczenia dla działalności; 5 – skutki katastrofalne dla działalności).  
+| prawdopodobieństwo [jak prawdopodobne jest, że dane zagadnienie będzie miało miejsce] | prawdopodobieństwo [jak prawdopodobne jest, że dane zagadnienie będzie miało miejsce] | skala skutków finansowych | skala skutków finansowych |
+| --- | --- | --- | --- |
+| 0 Brak | brak | 0 brak | skutki zagadnienia nie mają znaczenia dla działalności |
+| 1 bardzo małe / praktycznie niemożliwe | bardzo małe prawdopodobieństwo wystąpienia | 1 bardzo mały | minimalne oddziaływanie, które można złagodzić standardowymi środkami |
+| 2 małe / niskie | uwzględniając obecnie stosowane praktyki i procedury, wystąpienie takiego zdarzenia jest mało prawdopodobne | 2 mały | zdarzenie wpływające na normalne funkcjonowanie projektu o lokalnym zakresie |
+| 3 średnie | zdarzenie wystąpiło w sytuacji o podobnych okolicznościach/warunkach | 3 średni | poważne zdarzenie wymagające podjęcia dodatkowych działań, którego konsekwencją są oddziaływania o charakterze umiarkowanym |
+| 4 duże / wysokie | wystąpienie zdarzenia jest prawdopodobne | 4 duży | krytyczne zdarzenie wymagające podjęcia działań nadzwyczajnych, którego konsekwencją są oddziaływania o charakterze długoterminowym |
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+106  
+bardzo duże / wystąpienie zdarzenia jest 5 praktycznie bardzo prawdopodobne, pewne może się zdarzyć kilkukrotnie  
+5  
+Skutki katastrofalne mogące potencjalnie bardzo prowadzić do likwidacji aktywów, duży wywołując znaczące szkody  
+_Faza 5: Zatwierdzenie istotnych tematów przez Zarząd Dom Development S.A._  
+Przeprowadzenie i zrozumienie procesu było ważne w celu dostarczenia informacji zwrotnych i ustalenia priorytetów oraz uwzględnienia różnych interesariuszy, którzy są odpowiedzialni za wpływ, ryzyko i możliwości Wyniki analizy podwójnej  
+istotności zostały przedstawione Zarządowi spółki dominującej w Grupie w celu uzyskania iteracyjnych informacji zwrotnych i walidacji procesu. Zarząd Dom Development S.A. zatwierdził wybrane istotne tematy zrównoważonego rozwoju, które będą raportowane przez Grupę. Wyniki zostały także przedstawione Komitetowi Audytu Rady Nadzorczej.  
+**Proces decyzyjny w analizie podwójnej istotności oraz powiązane procedury kontroli wewnętrznej**  
+| **Proces** | **Działania** | **Odpowiedzialność** |
+| --- | --- | --- |
+| Zakres analizy | Analiza regulacji prawnych | Zespół Raportowania Niefinansowego, Zespół Risk & Compliance |
+| Identyfikacja wpływów, ryzyk i szans | Przeprowadzenie analiz wstępnych | Zespół Raportowania Niefinansowego, kadra zarządzająca spółek z Grupy |
+| Ocena wpływów | Ocena istotności wpływu zidentyfikowanych zagadnień | Zespół Raportowania Niefinansowego, Zespół Risk & Compliance |
+| Ocena finansowa | Ocena wpływu ryzyk i szans na wyniki finansowe przy użyciu progów istotności | Zespół Raportowania Niefinansowego, Zespół Risk & Compliance |
+| Decyzje dotyczące priorytetowych działań mających wpływ na Decyzje strategiczne energię pochodzącąz OZE). | strategię i model biznesowy. Działania obejmują zarówno krótkoterminowe inicjatywy (np. dostosowanie procedur operacyjnych), jak i długoterminowe strategie (np. inwestycje w | Zarząd |
+Decyzjom podejmowanym podczas procesu analizy podwójnej istotności, towarzyszyły powiązane procedury kontroli wewnętrznej. Należały do nich: 1. Przyjęcie wewnętrznych polityk z zakresu zrównoważonego rozwoju.  
+2. Dokumentacja procesu identyfikacji i oceny ryzyk związanych z podwójną istotnością.  
+3. Regularna weryfikacja zgodności analizy podwójnej istotności z wytycznymi regulacyjnymi i wewnętrznymi standardami.  
+4. Wewnętrzne prace nad gromadzeniem danych dotyczących zużycia zasobów.  
+5. Wprowadzenie zasad dotyczących regularnych szkoleń w zakresie zrównoważonego rozwoju i budowanie świadomości w organizacji w tym zakresie.  
+Za monitoring i zarządzanie istotnymi wpływami, ryzykami i szansami odpowiadają właściciele biznesowi poszczególnych obszarów. Wpływy, ryzyka i szanse są regularnie (co najmniej raz na rok) monitorowane pod kątem prawdopodobieństwa oraz skutków ich materializacji. Analizie poddawane są także nowe ryzyka i szanse związane z realizacją inwestycji.  
+Grupa włączyła istotne kwestie w zakresie zrównoważonego rozwoju w proces zarządzania. Funkcjonujące w Grupie narzędzia w ramach procesu należytej staranności umożliwiają bieżący monitoring skuteczności podejmowanych działań. Umożliwia to nie tylko identyfikację i ocenę potencjalnych negatywnych wpływów i ryzyk, ale także wdrażanie skutecznych działań naprawczych.

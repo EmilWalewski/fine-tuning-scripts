@@ -1,0 +1,138 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **Kontrakty realizowane przez Asseco Poland dla ZUS**
+
+Są one wykorzystywane zarówno bezpośrednio przez placówki medyczne, jak i na poziomie regionalnym oraz branżowym, integrując wiele jednostek.
+
+Umożliwiają nowoczesną komunikację za pośrednictwem portali internetowych i aplikacji mobilnych, dając pacjentom szeroki wachlarz możliwości załatwiania spraw zdrowotnych bez konieczności osobistej wizyty w szpitalu lub przychodni.
+
+Cyfryzacja służby zdrowia pozwala nie tylko na uproszczenie i przyspieszenie funkcjonujących procesów, ale otwiera też możliwości budowy nowych, innowacyjnych usług.
+
+W 2021 roku Asseco powołało spółkę **Krajowy Operator Chmury Medycznej (Chmura dla zdrowia)** , której celem jest umożliwienie jednostkom medycznym – we współpracy z Asseco Cloud – świadczenia usług w modelu SaaS (Software as a Service) z zachowaniem najwyższych standardów bezpieczeństwa.
+
+Chmura dla zdrowia specjalizuje się we wdrożeniach EDM w chmurze oraz rozwiązań opartych o technologię Voicebot, takich jak Wirtualna Recepcjonistka.
+
+W I kwartale Spółka wprowadziła na rynek nowy produkt: Centralny Portal Personelu (CPP), który został pomyślnie wdrożony u pierwszego klienta.
+
+Dzięki dostarczanym rozwiązaniom, Asseco zwiększa bezpieczeństwo przechowywanych i udostępnianych danych klientów oraz umożliwia elektroniczne rozliczanie programu Profilaktyka 40 PLUS.
+
+Obecnie Krajowy Operator Chmury Medycznej współpracuje z ponad 300 klientami.
+
+Chmura dla zdrowia stanowi także atrakcyjną propozycję dla innych firm produkujących oprogramowanie dla sektora ochrony zdrowia.
+
+Firmy te, zamiast rozwijać własne rozwiązania z obszaru EDM, mogą skorzystać z usługi
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 81
+oferowanej przez Chmurę dla zdrowia i dostarczyć ją swoim klientom.
+
+Już prawie 10 firm produkujących własne oprogramowania skorzystało z oferowanego repozytorium EDM.
+
+W I kwartale 2025 roku, w obszarze zdrowia Asseco Poland sfinalizowało przejęcie 51% udziałów w spółce Infocomp z Torunia specjalizującej się w zaawansowanych usługach outsourcingu informatycznego i procesowego systemów szpitalnych.
+
+Zespół składający się z 80 specjalistów zapewnia ciągłą i kompleksową obsługę (outsourcing) 13 szpitali, użytkujących systemy Asseco AMMS+ i Infomedica+.
+
+Infocomp łącznie dostarcza usługi kilkudziesięciu klientom z sektora opieki zdrowotnej.
+
+Asseco Poland jest uznanym dostawcą rozwiązań i usług szytych na miarę, których odbiorcami są krajowe i międzynarodowe instytucje związane z **bezpieczeństwem** .
+
+Dotychczas Spółka sfinalizowała ponad 70 zaawansowanych technologicznie projektów dla agencji Unii Europejskiej i NATO.
+
+Wśród jej klientów są takie instytucje jak Sojusz Północnoatlantycki (NATO), Europejska Agencja Ochrony Granic (Frontex), Europejska Agencja Chemikaliów (ECHA), Europejska Agencja Obrony (EDA), Europejska Agencja Kosmiczna (ESA), Ministerstwo Obrony Narodowej czy Narodowe Centrum Bezpieczeństwa Cyberprzestrzeni.
+
+W I kwartale 2025 roku Spółka kontynuowała rozwój wprowadzonego w ubiegłym roku rozwiązania, umożliwiającego przesyłanie i wykorzystywanie danych z wojskowych serwerów CSD (Coalition Shared Data) bezpośrednio z poziomu oprogramowania analitycznego.
+
+Systemy CSD umożliwiają w szybki sposób udostępnianie między stronami danych rozpoznawczych, tj. zdjęć satelitarnych, raportów, map czy materiałów wideo z dronów.
+
+Rozwiązanie CSD_eP oparte jest na platformie ArcGIS Pro i pozwala na gromadzenie, przechowywanie oraz udostępnianie danych rozpoznawczych w ramach koalicji NATO.
+
+Asseco umacnia swoją pozycję w segmencie doradztwa w obszarze cyberbezpieczeństwa dzięki spółce **ComCERT** .
+
+ComCERT jest pierwszą w Polsce firmą doradczą, specjalizującą się w usługach typu CERT (Computer Emergency Response Team) dla przedsiębiorstw i instytucji, niezwiązaną z żadnym operatorem telekomunikacyjnym.
+
+Eksperci ComCERT analizują podatności na ataki hakerskie w systemach klientów, wspierają ich w czasie incydentu i analizują stan systemów po zdarzeniu.
+
+Na styku tych trzech usług rozwijają także zespoły Centrum Operacji Cyberbezpieczeństwa (Security Operations Center, SOC) u klientów – nie tylko aktywnie pomagając w utrzymaniu wysokiego poziomu bezpieczeństwa sieci, ale również poszerzając ich kompetencje.
+
+Prowadzą w outsourcingu komórki SOC dla kilku największych podmiotów w Polsce.
+
+ComCERT dysponuje kompetencjami w zakresie projektowania, wdrażania oraz utrzymywania rozwiązań sprzętowych i programowych wiodących światowych producentów.
+
+Jego oferta obejmuje też własny produkt do zabezpieczania kodu oprogramowania.
+
+Skuteczność zastosowanej w nim technologii została zweryfikowana przez izraelskich ekspertów z TSG IT Advanced Systems i uznana za unikatową.
+
+Spółka posiada certyfikaty ISO/IEC 27001:2022, ISO 22301:2019 oraz Poświadczenie Bezpieczeństwa Przemysłowego na poziomie krajowym, jak i międzynarodowym, które potwierdzają wysokie standardy i procedury bezpieczeństwa w spółce.
+
+W omawianym okresie ComCERT rozpoczęło współpracę z Biurem Informacji Kredytowej (BIK).
+
+Alerty BIK zostały wzbogacone o funkcję monitorowania darknetu.
+
+Zaawansowane rozwiązania technologiczne i usługi dostarczane przez spółkę umożliwiają BIK szybkie wykrywanie czy dane takie jak adres e-mail, hasło, PESEL czy numer dowodu osobistego użytkownika pojawiły się w nieautoryzowanych bazach w darknecie.
+
+W razie wykrycia wycieku użytkownik otrzymuje alert z informacją, kiedy, skąd i jakie dane wyciekły.
+
+W I kwartale 2025 roku spółka kontynuowała realizację zawartej w 2024 roku 2-letniej umowy z Bankiem Gospodarstwa Krajowego na świadczenie usług: pierwszej linii SOC, CSIRT – monitoringu infrastruktury serwerowej i sieciowej.
+
+ComCERT współpracuje z innymi spółkami z Grupy Asseco przy realizacji projektów z zakresu cyberbezpieczeństwa.
+
+Przykładowo, wspólnie z Asseco Poland, bierze udział w projekcie CYBER4DE – „Cyber Rapid Response Toolbox for Defence Use”.
+
+Jako podwykonawca Asseco Data Systems ComCERT świadczy usługi związane z utrzymaniem wdrożonych w Republice Togijskiej rozwiązań CERT i SOC.
+
+Dodatkowo ComCERT prowadzi prace przygotowawcze do wsparcia klientów w dostosowaniu się do regulacji związanych z nowelizacją Ustawy o krajowym systemie cyberbezpieczeństwa, jak również opublikowanej 27 grudnia 2022 roku w Dzienniku Urzędowym UE dyrektywy w sprawie środków na rzecz wysokiego wspólnego poziomu cyberbezpieczeństwa na terytorium Unii (dyrektywa NIS2).
+
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 82
+Asseco współpracuje z klientami działającymi w sektorach: **telekomunikacyjnym i energetycznym** .
+
+W I kwartale 2025 roku kontynuowano prace dla wiodących grup energetycznych w ramach wcześniej podpisanych umów i pozyskanych nowych zleceń.
+
+Spółka jest liderem wśród polskich producentów rozwiązań informatycznych dla krajowego sektora energetycznego.
+
+Oferowany przez nią Asseco Utility Management Solutions (AUMS) stanowi zestaw zintegrowanych ze sobą produktów zapewniających kompleksową obsługę wielu obszarów działalności tego sektora.
+
+W Polsce ponad 65% rachunków za energię jest generowanych w oparciu o AUMS Billing & CIS (system do rozliczeń i obsługi klientów).
+
+Wśród krajowych firm, które wybrały system bilingowy AUMS są koncerny energetyczne: Enea, Tauron, PGE.
+
+Asseco kontynuuje również współpracę z PGNiG Obrót Detaliczny, związaną z wdrożonym w 2023 roku centralnym systemem bilingowym.
+
+W omawianym okresie Asseco Poland kontynuowało realizację zawartej z PSE umowy na wykonanie usługi migracji danych do Centralnego Systemu Informacji Rynku Energii (CSIRE).
+
+Celem współpracy jest przygotowanie danych niezbędnych do uruchomienia CSIRE.
+
+W ramach budowy Narzędzia Migracji Danych inicjalnych do CSIRE Asseco stworzyło specjalistyczne oprogramowanie, wykorzystując do tego chmurę Amazon Web Services (AWS).
+
+Wdrożono technologie, które zapewniają bardzo wysoką wydajność przetwarzania oraz skalowalność i elastyczność rozwiązania.
+
+Budowa systemu CSIRE wymaga migracji danych od ok.
+
+300 uczestników rynku energii elektrycznej.
+
+Docelowo CSIRE będzie gromadzić informacje z ponad 19 mln punktów pomiaru energii elektrycznej.
+
+W CSIRE będą gromadzone oraz przetwarzane informacje niezbędne do realizacji określonych w przepisach prawa procesów na rynku energii, m.in. sprzedaż energii elektrycznej i dokonywanie rozliczeń za jej dostarczanie czy zmiany sprzedawcy energii elektrycznej.
+
+Najważniejsze zadania CSIRE to zapewnienie skutecznej i bezpiecznej wymiany informacji na rynku energii elektrycznej, co pozwoli jego uczestnikom realizować ich ustawowe prawa i obowiązki.
+
+Asseco intensywnie pracuje z klientami nad realizacją zmian w systemach billingowych związanych z wprowadzeniem CSIRE.
+
+Projekty dostosowania systemów bilingowych AUMS do CSIRE, realizowane dla koncernów energetycznych, przebiegają zgodnie z założonymi harmonogramami realizacji.
+
+Asseco Poland rozwija także system AUMS Market Connector 1.0.
+
+Rozwiązanie, budowane do uruchomienia w modelu zarówno on-premise, jak i SaaS, zostało stworzone z myślą o sprzedawcach energii i gazu, podmiotach odpowiedzialnych za bilansowanie oraz przedsiębiorstwach dystrybucji energii.
+
+Umożliwia integrację systemów dziedzinowych w organizacji z systemami partnerów zewnętrznych, m.in. z CSIRE, PSG (Edi), KSeF.
+
+Pozwala też na szybkie dołączanie nowych rozwiązań różnych dostawców oraz utrzymanie pełnej kontroli nad realizacją procesów biznesowych.
+
+W I kwartale 2025 roku kontynuowano realizację projektu inwestycyjnego AUMS Elmo, w ramach którego powstanie dostępna publicznie dla kierowców samochodów elektrycznych aplikacja mobilna w technologii PWA (Progressive Web Application).
+
+Umożliwi ona prezentację dostępnych w systemie centralnym stacji ładowania, realizację sesji ładowania pojazdów elektrycznych oraz rozliczenie sesji ładowania za pomocą zarejestrowanych na koncie użytkownika kart płatniczych.
+
+Innym elementem projektu będzie panel dostawcy, który pozwoli dostawcom usług ładowania na dostęp do swoich stacji ładowania oraz zarządzanie taryfami na swoich stacjach.
+
+Rozwiązanie dostępne będzie zarówno w wersji chmurowej, jak i on-premise.
+
+W I kwartale 2025 roku Asseco Poland kontynuowało współpracę z Polkomtel Sp. z o.o. w ramach złożonego z trzech etapów projektu obejmującego transformację systemów automatyzacji sprzedaży, obsługi i rozliczeń klientów indywidualnych (B2C) Grupy Polsat Plus.
+
+Współpraca w ramach projektu prowadzona była na podstawie zawartej w 2021 roku umowy ramowej określającej ogólny zakres i zasady współpracy partnerów w ramach projektu.
+
+Umowa ramowa objęła swoim zakresem również prace prowadzone na podstawie wcześniejszych zamówień i dookreśliła warunki współpracy w ramach pierwszego etapu projektu.

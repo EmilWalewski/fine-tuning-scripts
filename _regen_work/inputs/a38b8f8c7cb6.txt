@@ -1,0 +1,75 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **35.5. Ryzyko związane z klimatem** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **36. Zdarzenia po dniu bilansowym** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Aktywa finansowe wyceniane w zamortyzowanym koszcie** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Środki pieniężne i ich ekwiwalenty**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Środki pieniężne i ich ekwiwalenty**
+Ryzyko kredytowe w zakresie środków pieniężnych i ich ekwiwalentów związane jest z utrzymywaniem środków pieniężnych zarówno własnych jak i klientów na rachunkach bankowych. Ryzyko kredytowe dotyczące środków pieniężnych jest ograniczane poprzez wybór banków o wysokim ratingu kredytowym przyznawanym przez międzynarodowe agencje ratingowe oraz poprzez dywersyfikację banków, w których otwierane są rachunki. Na dzień 31 grudnia 2025 roku Grupa posiada rachunki bankowe w 69 bankach i instytucjach (31 grudnia 2024 roku: 63 banków i instytucji). 10 największych ekspozycji zostało przedstawionych w poniższej tabeli (numeracja banków i instytucji ustalona jednolicie dla okresu sprawozdawczego i porównawczego oraz tabeli koncentracji ryzyka kredytowego kontrahenta, zgodnie z kolejnością w bieżącym okresie):  
+| **PODMIOT** **(w tys. PLN)** | **31.12.2025** **PODMIOT** **(w tys. PLN)** | **31.12.2024** |
+| --- | --- | --- |
+| Bank 1 | 3 582 151 Bank 1 | 2 191 374 |
+| Bank 2 | 1 948 448 Bank 2 | 1 918 500 |
+| Bank 3 | 1 001 916 Instytucja 2 | 172 627 |
+| Instytucja 1 | 215 019 Instytucja 1 | 121 820 |
+| Instytucja 2 | 211 201 Bank 5 | 99 938 |
+| Instytucja 3 | 92 071 Bank 7 | 99 102 |
+| Bank 4 | 86 996 Instytucja 5 | 94 953 |
+| Instytucja 4 | 78 877 Instytucja 6 | 85 482 |
+| Bank 5 | 66 448 Instytucja 3 | 69 653 |
+| Instytucja 5 | 52 260 Instytucja 4 | 56 265 |
+| Pozostałe | 523 033 Pozostałe | 461 101 |
+| **Razem** | **7 858 420** Razem | **5 370 815** |
+63  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Poniższa tabela prezentuje krótkoterminową ocenę jakości kredytowej środków pieniężnych Grupy według stopni jakości kredytowej wyznaczonych na podstawie zewnętrznych ocen jakości kredytowej (stopień 1 oznacza najlepszą jakość kredytową, stopień 6 najgorszą) i wag ryzyka przypisywanych na podstawie rozporządzenia CRR. W przypadku braku oceny krótkoterminowej lub ekspozycji o terminie zapadalności wynoszącym ponad 3 miesiące wykorzystano oceny długoterminowe.  
+| **STOPIEŃ JAKOŚCI KREDYTOWEJ** **Środki pieniężne i ich ekwiwalenty** | **WARTOŚĆ BILANSOWA (w tys. PLN)** |  |
+| --- | --- | --- |
+| Stopień 1 | 7 030 758 | 4 726 258 |
+| Stopień 2 | 135 188 | 66 024 |
+| Stopień 3 | 689 410 | 575 943 |
+| Stopień 4 | 1 236 | 2 590 |
+| Stopień 5 | - - |  |
+| Stopień 6 | 1 828 - |  |
+| **Razem** | **7 858 420** | **5 370 815** |
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy**
+Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy wynikają z transakcji instrumentami finansowymi, zawartych z klientami Grupy oraz powiązanych z nimi transakcji zabezpieczających.  
+Ryzyko kredytowe w zakresie aktywów finansowych wycenianych w wartości godziwej przez wynik finansowy związane jest z ryzykiem niewypłacalności klienta lub kontrahenta. W stosunku do transakcji zawartych z klientami na rynku OTC, Grupa prowadzi politykę zabezpieczania się przed ryzykiem kredytowym kontrahenta poprzez stosowanie mechanizmu tzw. „stop out”. Zabezpieczeniem są środki pieniężne klienta zdeponowane w domu maklerskim. Jeśli saldo bieżące rachunku klienta jest równe lub niższe niż 50% wpłaconego zabezpieczenia zablokowanego w ramach danego systemu transakcyjnego, pozycja generująca największą stratę zamykana jest automatycznie po aktualnej cenie rynkowej. Wielkość początkowego depozytu zabezpieczającego wyznaczana jest w zależności od rodzaju instrumentu finansowego, rachunku klienta, waluty rachunku i kwoty salda na rachunku pieniężnym w systemie transakcyjnym, jako procent wartości nominalnej transakcji. Szczegółowy opis mechanizmu zawarty jest w obowiązujących klientów regulaminach. Dodatkowo, w celu zabezpieczenia ryzyka kredytowego kontrahenta Grupa stosuje w umowach z wybranymi klientami inne klauzule, w szczególności wymogi odnośnie minimalnego poziomu salda na rachunku pieniężnym.  
+Ze względu na stosowane mechanizmy ograniczające ryzyko kredytowe, jakość kredytowa aktywów finansowych wycenianych w wartości godziwej przez wynik finansowy jest wysoka i nie wykazuje istotnego zróżnicowania.  
+10 największych ekspozycji Grupy na ryzyko kredytowe kontrahenta z uwzględnieniem zabezpieczenia (ekspozycja netto) zostało przedstawione w poniższej tabeli (numeracja kontrahentów ustalona jednolicie dla okresu sprawozdawczego i porównawczego oraz tabeli koncentracji środków pieniężnych):  
+| **PODMIOT** **EKSPOZYCJA NETTO** **(w tys. PLN)** | **31.12.2025** **PODMIOT** **EKSPOZYCJA NETTO** **(w tys. PLN)** | **31.12.2024** |
+| --- | --- | --- |
+| Instytucja 2 | 16 799 Instytucja 2 | 5 943 |
+| Podmiot 21 | 1 375 Instytucja 3 | 2 038 |
+| Podmiot 2 | 1 354 Instytucja 5 | 1 889 |
+| Instytucja 11 | 1047 Instytucja 11 | 921 |
+| Instytucja 5 | 577 Podmiot 9 | 784 |
+| Podmiot 23 | 394 Podmiot 10 | 537 |
+| Podmiot 24 | 349 Podmiot 11 | 363 |
+| Podmiot 25 | 231 Podmiot 12 | 249 |
+| Podmiot 26 | 186 Podmiot 13 | 113 |
+| Podmiot 27 | 141 Podmiot 14 | 108 |
+| **Razem** | **22 453** **Razem** | **12 945** |
+64  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Aktywa finansowe wyceniane w zamortyzowanym koszcie**
+Aktywa finansowe wyceniane w zamortyzowanym koszcie nie wykazują istotnej koncentracji i powstały w toku normalnej działalności Grupy. Maksymalna ekspozycja na ryzyko kredytowe dla należności objętych odpisem to ich wartość bilansowa brutto pomniejszona o dokonane odpisy aktualizujące (czyli wartość bilansowa netto). Szczegółowe informacje na temat dokonanych odpisów aktualizujących znajdują się w nocie 16 - Aktywa finansowe wyceniane w zamortyzowanym koszcie. Nieprzedawnione należności pozostałe są regularnie spłacane i z punktu widzenia jakości kredytowej nie stanowią dla Grupy istotnego ryzyka.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **35.5. Ryzyko związane z klimatem**
+Ryzyka związane z klimatem są częścią wewnętrznego systemu zarządzania ryzykiem, którym zarządza Dział Kontroli Ryzyka, a celem jednostki jest m.in. zapewnienie kompleksowego i świadomego zarządzania ryzykiem w ramach Grupy XTB, zabezpieczając ciągłość procesów i działania organizacji. Za identyfikację, weryfikację oraz monitoring ryzyk klimatycznych odpowiedzialny jest Zespół ESG, którym zarządzają przydzieleni właściciele poszczególnych obszarów. Za wcielenie ryzyk ESG do wewnętrznego Systemu Zarządzania Ryzykiem XTB odpowiada Dział Kontroli Ryzyka.  
+Kwestie związane z obowiązującą polityką klimatyczną, celami klimatycznymi oraz podjętymi i planowanymi inicjatywami szerzej opisano na stronie internetowej XTB S.A.  
+Podczas sporządzania niniejszego sprawozdania finansowego oceniono wpływ zidentyfikowanych ryzyk związanych z klimatem i nie stwierdzono istotnego oddziaływania kwestii środowiskowych na prezentowane ujawnienia.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **36. Zdarzenia po dniu bilansowym**
+W dniu 17 lutego 2026 r. pomiędzy Jednostką dominującą XTB S.A., spółką zależną XTB Africa (PTY) Ltd. z siedzibą w RPA oraz stroną kupującą zawarta została warunkowa umowa sprzedaży 100% udziałów we wskazanej Spółce na rzecz kupującego. W przypadku ziszczenia się warunku wskazanej umowy, XTB Africa (PTY) Ltd. przestanie być częścią struktury Grupy, a XTB w ramach tej transakcji otrzyma 645 tys. USD. Wartość umowy nie stanowi kwoty istotnej w rozumieniu przyjętych przez XTB kryteriów wartości aktywów własnych, a transakcja nie ma istotnego wpływu na sytuację finansową Grupy. Zawarcie umowy jest rezultatem niepodjęcia przez spółkę zależną działalności operacyjnej.  
+W dniu 18 lutego 2026 r. w ramach procesu licencyjnego w Brazylii, został zarejestrowany podmiot celowy i otrzymał lokalny numer podatkowy. Na dzień publikacji niniejszego Sprawozdania podmiot ten nie ma wpłaconego kapitału zakładowego. Zarząd Spółki podtrzymuje wcześniej wyrażoną opinię, że z uwagi na aktualną sytuację w sektorze brokerskim na rynku brazylijskim, w szczególności lokalny protekcjonizm, rozważane są wszystkie możliwe opcje biznesowe, w tym zaprzestanie dalszych działań na tym rynku.  
+W dniu 24 lutego 2026 roku Jednostka dominująca przeznaczyła 3 000 tys. EUR na podwyższenie kapitału zakładowego w spółce zależnej XTB Limited (CY) z siedzibą na Cyprze  
+W dniu 3 marca 2026 roku do Jednostki dominującej wpłynęła rezygnacja Pana Jakuba Kubackiego z pełnionej funkcji Członka Zarządu XTB S.A. ze skutkiem na koniec dnia 30 czerwca 2026 roku.  
+65  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.

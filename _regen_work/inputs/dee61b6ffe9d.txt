@@ -1,0 +1,69 @@
+DOKUMENT SEKCJA: **12.1.2. Zobowiązania warunkowe** | **12.2. Transakcje z podmiotami powiązanymi** | **12.2.1. Transakcje z podmiotami powiązanymi poprzez członków Zarządu, Rady Nadzorczej oraz pozostałych członków kluczowego personelu kierowniczego** | **12.2.2. Wynagrodzenia należne lub potencjalnie należne członkom Zarządu, Rady Nadzorczej Spółki oraz pozostałym członkom kluczowego personelu kierowniczego Spółki** | **12.2.3. Transakcje oraz stan rozrachunków Spółki z podmiotami powiązanymi** | **12.2.4. Transakcje z podmiotami powiązanymi, jeżeli zostały zawarte na warunkach innych niż rynkowe**
+
+## **12.1.2. Zobowiązania warunkowe**
+Na dzień sporządzenia niniejszego śródrocznego skróconego sprawozdania finansowego Spółka posiadała zobowiązania warunkowe obejmujące zabezpieczenia kwot dofinansowania w okresie trwałości projektów badawczo-rozwojowych na rzecz instytucji zarządzających dofinansowaniem. Poniżej w tabeli ujęto zobowiązania warunkowe.  
+| Lp. | Nazwa podmiotu | Kwota ekspozycji (w tys. PLN)* | Data zawarcia umowy) | Data całkowitej spłaty | Rodzaj Zabezpieczenia |
+| --- | --- | --- | --- | --- | --- |
+| 1 | mBank S.A. – kredyt w rachunku bieżącym | _2 000 + odsetki_ | 13.01.2022 | 30.01.2026 | weksel własny in blanco, gwarancja de minimis |
+| Narodowe Centrum Badań 2 okresie trwałości projektu | i Rozwoju - zabezpieczenie kwoty dofinansowania w | _2 325 + odsetki_ | 11.02.2016 | 09.05.2025** | weksel własny in blanco |
+| Narodowe Centrum Badań 3 okresie trwałości projektu | i Rozwoju - zabezpieczenie kwoty dofinansowania w | _14 988 +_ _odsetki_ | 24.11.2017 | 29.03.2025** | weksel własny in blanco |
+26  
+Raport Creotech Instruments Spółka Akcyjna za okres 6 miesięcy zakończony 30 czerwca 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+| Narodowe Centrum Badań 4 okresie trwałości projektu | i Rozwoju - zabezpieczenie kwoty dofinansowania w | _2 630 + odsetki_ | 10.08.2018 | 14.09.2025 weksel własny in blanco |
+| --- | --- | --- | --- | --- |
+| Polska Agencja Rozwoju Przedsiębiorczości - 5 dofinansowania w okresie trwałości projektu | zabezpieczenie kwoty | _355 + odsetki_ | 02.12.2019 | 02.04.2027 weksel własny in blanco |
+| Narodowe Centrum Badań 6 okresie trwałości projektu | i Rozwoju - zabezpieczenie kwoty dofinansowania w | _5 452 + odsetki_ | 06.12.2019 | 31.12.2028 weksel własny in blanco |
+| Narodowe Centrum Badań 7 okresie trwałości projektu | i Rozwoju - zabezpieczenie kwoty dofinansowania w | _6 689 + odsetki_ | 03.12.2019 | 30.09.2029 weksel własny in blanco |
+| Narodowe Centrum Badań 8 okresie trwałości projektu | i Rozwoju - zabezpieczenie kwoty dofinansowania w | _14 353 +_ _odsetki_ | 03.12.2019 | 30.06.2029 weksel własny in blanco |
+| Narodowe Centrum Badań 9 okresie trwałości projektu | i Rozwoju - zabezpieczenie kwoty dofinansowania w | _2 158 + odsetki_ | 27.07.2020 | 30.09.2028 weksel własny in blanco |
+| Narodowe Centrum Badań 10 okresie trwałości projektu | i Rozwoju - zabezpieczenie kwoty dofinansowania w | _27 253 +_ _odsetki_ | 17.06.2020 | 05.05.2028 weksel własny in blanco |
+| Narodowe Centrum Badań 11 okresie trwałości projektu | i Rozwoju - zabezpieczenie kwoty dofinansowania w | _12 725 +_ _odsetki_ | 07.12.2020 | 05.07.2027 weksel własny in blanco |
+| Narodowe Centrum Badań 12 okresie trwałości projektu | i Rozwoju - zabezpieczenie kwoty dofinansowania w | _30 909 +_ _odsetki_ | 26.05.2021 | 31.05.2030 brak zabezpieczeń |
+| Narodowe Centrum Badań 13 okresie trwałości projektu | i Rozwoju - zabezpieczenie kwoty dofinansowania w | _5 024 + odsetki_ | 21.10.2021 | 31.10.2026 weksel własny in blanco |
+| Narodowe Centrum Badań 14 okresie trwałości projektu | i Rozwoju - zabezpieczenie kwoty dofinansowania w | _1 835 + odsetki_ | 08.02.2023 | 31.10.2028 weksel własny in blanco |
+| 15 | European Union | _2 210 EUR +_ _odsetki_ | 31.03.2023 | 31.08.2026 brak zabezpieczeń |
+| 16 | European Union | _4 524 EUR +_ _odsetki_ | 17.12.2022 | 28.02.2026 brak zabezpieczeń |
+| 17 | European Union | _229 EUR +_ _odsetki_ | 24.11.2023 | 19.12.2026 brak zabezpieczeń |
+27  
+Raport Creotech Instruments Spółka Akcyjna za okres 6 miesięcy zakończony 30 czerwca 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+| 18 European Union _167 EUR +_ _odsetki_ 14.12.2023 31.07.2026 brak zabezpieczeń |
+| 19 European Union _1 054 EUR +_ _odsetki_ 27.12.2023 30.09.2025 brak zabezpieczeń |
+| Polska Agencja Rozwoju |
+| Przedsiębiorczości - |
+| 20 dofinansowania w okresie trwałości projektu zabezpieczenie kwoty _361 + odsetki_ 28.06.2024 31.12.2031 weksel własny in blanco |
+| Polska Agencja Rozwoju |
+| Przedsiębiorczości - |
+| 21 dofinansowania w okresie trwałości projektu zabezpieczenie kwoty _238 + odsetki_ 28.06.2024 31.12.2031 weksel własny in blanco |
+| 22 European Health and Digital Executive Agency (HADEA) _301 EUR +_ _odsetki_ 06.11.2024 31.05.2027 brak zabezpieczeń |
+| Polska Agencja Rozwoju |
+| Przedsiębiorczości - |
+| 23 dofinansowania w okresie trwałości projektu zabezpieczenie kwoty _7 625 + odsetki_ 19.12.2024 31.05.2030 weksel własny in blanco |
+*Chyba, że podano inną walutę, odsetki ustawowe.  
+** Na dzień sporządzenia niniejszego sprawozdania Spółka czeka na zatwierdzenie dokumentów końcowych w projekcie.  
+Na dzień 30 czerwca 2025 roku oraz do dnia zatwierdzenia sprawozdania finansowego do publikacji nie nastąpiły zdarzenia mogące spowodować realizację wyżej wymienionych zobowiązań warunkowych.
+
+## **12.2. Transakcje z podmiotami powiązanymi**
+Transakcje między Spółką a jej jednostkami zależnymi i pozostałymi stronami powiązanymi przedstawiono w poniższych notach.
+
+## **12.2.1. Transakcje z podmiotami powiązanymi poprzez członków Zarządu, Rady Nadzorczej oraz pozostałych członków kluczowego personelu kierowniczego**
+W okresie 6 miesięcy zakończonych w dniu 30 czerwca 2025 roku oraz w 2024 roku oraz na dzień 30 czerwca 2025 roku oraz na dzień 31 grudnia 2024 roku nie wystąpiły transakcje Spółki z członkami Zarządu, Rady Nadzorczej i z bliskimi im osobami. Spółka nie identyfikuje członków kluczowego personelu kierowniczego Spółki poza członkami Zarządu oraz Rady Nadzorczej.
+
+## **12.2.2. Wynagrodzenia należne lub potencjalnie należne członkom Zarządu, Rady Nadzorczej Spółki oraz pozostałym członkom kluczowego personelu kierowniczego Spółki**
+| **WYSZCZEGÓLNIENIE** | **01.01.2025** | **30.06.2025** | **01.01.2024** | **30.06.2024** |
+| --- | --- | --- | --- | --- |
+| Krótkoterminowe świadczenia pracownicze | 1 592 | 910 |  |  |
+| Świadczenie po okresie zatrudnienia | - | - |  |  |
+| Pozostałe świadczenia długoterminowe | - | - |  |  |
+| Świadczenie z rozwiązania stosunku pracy | - | - |  |  |
+| Płatności w formie akcji | - | - |  |  |
+| **Razem** | **1 592** | **910** |  |  |
+28  
+Raport Creotech Instruments Spółka Akcyjna za okres 6 miesięcy zakończony 30 czerwca 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+Powyższa tabela przedstawia wynagrodzenia należne lub potencjalnie należne kluczowemu personelowi kierowniczemu Spółki za okres sprawozdawczy.
+
+## **12.2.3. Transakcje oraz stan rozrachunków Spółki z podmiotami powiązanymi**
+Creotech Instruments S.A. posiada 40% udziałów w spółce Newmap Sp. z o.o. W okresie od 1 stycznia 2025 do 30 czerwca 2025 roku nie było żadnych transakcji oraz rozrachunków z Newmap Sp. z o.o.  
+W drugim kwartale 2025 roku Spółka założyła spółki Creotech Quantum S.A. oraz Creotech Geo P.S.A. i objęła w nich 100% udziałów poprzez wpłatę kapitału zakładowego odpowiednio 150 tys. PLN i 100 tys. PLN. W okresie do 30 czerwca 2025 roku nie było innych transakcji oraz rozrachunków z wyżej wymienionymi podmiotami.
+
+## **12.2.4. Transakcje z podmiotami powiązanymi, jeżeli zostały zawarte na warunkach innych niż rynkowe**
+Nie dotyczy.

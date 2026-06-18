@@ -1,0 +1,187 @@
+DOKUMENT SEKCJA: **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO JEDNOSTKOWEGO SPRAWOZDANIA FINANSOWEGO**
+
+**JEDNOSTKOWE SPRAWOZDANIE FINANSOWE ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU**
+**DOM DEVELOPMENT S.A.**
+10
+7.1 PODSTAWOWE INFORMACJE O DOM DEVELOPMENT S.A.
+
+Spółka Akcyjna Dom Development S.A. („Spółka”) jest jednostką dominującą Grupy Kapitałowej Dom Development S.A.
+(„Grupa”).
+
+Siedziba Spółki mieści się w Warszawie (00-078 Warszawa, Pl.
+
+Piłsudskiego 3).
+
+Spółka wpisana jest do Krajowego
+Rejestru Sądowego pod numerem 0000031483, Sąd Rejonowy dla m.st.
+
+Warszawy w Warszawie XII Wydział Gospodarczy
+Krajowego Rejestru Sądowego
+Według Polskiej Klasyfikacji Działalności przedmiotem działalności Spółki jest realizacja projektów budowlanych związanych ze
+wznoszeniem budynków — PKD 41102.
+
+Miejscem prowadzenia działalności Spółki jest przede wszystkim Warszawa i jej okolice
+Spółka posiada również podmioty zależne prowadzące działalność deweloperską na rynku wrocławskim, trójmiejskim i
+krakowskim.
+
+Spółka jest w większości własnością Groupe Belleforét S.a r.l. z siedzibą w Luksemburgu (patrz nota 7.15), która na dzień
+31 grudnia 2025 r. posiadała 54,81% akcji Spółki.
+
+Jednostką dominującą najwyższego szczebla Grupy Kapitałowej Dom
+Development S.A. jest SCOP 2003 Trust, podmiot ustanowiony zgodnie z prawem Anglii i Walii.
+
+SCOP 2003 Trust jest jedynym
+akcjonariuszem SCOP Luxembourg 2007 5.8 r.l., który z kolei jest większościowym udziałowcem Groupe Belleforet S.4 r.l.
+
+Podstawowym przedmiotem działalności Spółki jest budowa i sprzedaż nieruchomości mieszkalnych.
+
+Spółka prowadzi działalność gospodarczą na terytorium Polski zgodnie z Kodeksem Spółek Handlowych a czas jej trwania jest
+nieograniczony.
+
+Wokresie dwunastu miesięcy zakończonym 31 grudnia 2025 r. Spółka nie zaniechała żadnego rodzaju prowadzonej działalności
+7.2 PODSTAWA SPORZĄDZANIA SPRAWOZDAŃ FINANSOWYCH
+Niniejsze jednostkowe sprawozdanie finansowe zostało sporządzone w konwencji kosztu historycznego
+Niniejsze jednostkowe sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności gospodarczej
+Spółki w dającej się przewidzieć przyszłości.
+
+Dokonana w dniu 24 lutego 2022 roku rosyjska inwazja na Ukrainę oraz eskalacja konfliktu na Bliskim Wschodzie są czynnikami
+destabilizującymi otoczenie gospodarcze w całym regionie.
+
+Spółka i jej podmioty zależne prowadzą działalność wyłącznie
+na terenie Polski.
+
+W ocenie Zarządu Spółki, wojna w Ukrainie oraz eskalacja konfliktu na Bliskim Wschodzie mogą wywierać
+wpływ na popyt na mieszkania, koszty budowy oraz dostępność podwykonawców.
+
+Na dzień sporządzenia niniejszego
+jednostkowego sprawozdania finansowego wszystkie inwestycje Spółki postępowały zgodnie z planem lub nawet wyprzedzały
+zakładany harmonogram.
+
+Zarząd Spółki na bieżąco monitoruje sytuację i analizuje jej potencjalny wpływ, zarówno z
+perspektywy poszczególnych projektów, jak i całej Spółki oraz jej długofalowych zamierzeń.
+
+W ocenie Zarządu Spółki, na dzień
+zatwierdzenia niniejszego jednostkowego sprawozdania finansowego nie stwierdza się istnienia okoliczności wskazujących na
+zagrożenie kontynuowania działalności przez Spółkę w dającej się przewidzieć przyszłości.
+
+Waluta funkcjonalną Spółki jest złoty polski.
+
+Niniejsze jednostkowe sprawozdanie finansowe zostało sporządzone w złotych
+polskich („PLN”, „zł”).
+
+Dane finansowe prezentowane w jednostkowym sprawozdaniu finansowym wyrażone są w tysiącach
+złotych polskich, o ile nie zaznaczono inaczej.
+
+Spółka sporządziła również skonsolidowane sprawozdanie finansowe Grupy Kapitałowej Dom Development S.A. za okres
+dwunastu miesięcy zakończony 31 grudnia 2025 roku, które zostało zatwierdzone przez Zarząd Spółki w dniu 16 marca 2026
+roku
+Skonsolidowane sprawozdanie najwyższego szczebla sporządzane jest przez SCOP Luxembourg 2007 S.A r.l., który jest
+większościowym udziałowcem Groupe Belleforet 8.4 r.l.
+
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+11
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+Polskie regulacje prawne nakładają na Spółkę obowiązek sporządzania jednostkowego sprawozdania finansowego zgodnie
+z Międzynarodowymi Standardami Sprawozdawczości Finansowej („MSSF”) przyjętymi przez Unię Europejską („UE”).
+
+Biorąc
+pod uwagę toczący się w UE proces wprowadzania standardów MSSF oraz prowadzoną przez Spółkę działalność, w zakresie
+stosowanych przez Spółkę zasad rachunkowości nie ma różnicy między standardami MSSF, które weszły w życie, a standardami
+MSSF zatwierdzonymi przez UE dla roku finansowego zakończonego 31 grudnia 2025 roku.
+
+Niniejsze sprawozdanie finansowe stanowi jednostkowe sprawozdanie finansowe Spółki w rozumieniu MSR 27 i zostało
+sporządzone zgodnie ze wszystkimi mającymi zastosowanie MSSF przyjętymi przez Unię Europejską.
+
+MSSF obejmują standardy i interpretacje zaakceptowane przez Radę Międzynarodowych Standardów Rachunkowości („RMSR”)
+oraz Komitet ds.
+
+Interpretacji Międzynarodowej Sprawozdawczości Finansowej („KIMSF”).
+
+Zasady (polityki) rachunkowości zastosowane do sporządzenia niniejszego jednostkowego sprawozdania finansowego są spójne
+z tymi, które zastosowano przy sporządzaniu jednostkowego sprawozdania finansowego Spółki za rok zakończony dnia 31
+grudnia 2024 roku, z wyjątkiem zastosowania następujących zmian do standardów oraz nowych interpretacji obowiązujących
+dla okresów rocznych rozpoczynających się w dniu 1 stycznia 2025 roku:
+© Zmiany do MSR 21 Skutki zmian kursów wymiany walut obcych.
+
+W sierpniu 2023 r. Rada opublikowała zmiany do MSR 21 Skutki
+zmian kursów wymiany walut obcych.
+
+Wprowadzone zmiany mają ułatwić jednostkom ustalenie, czy dana waluta jest
+wymienialna na inną walutę oraz oszacowanie natychmiastowego kursu wymiany, w przypadku braku wymienialności danej
+waluty.
+
+Ponadto, zmiany do standardu wprowadzają dodatkowe ujawnienia w przypadku braku wymienialności walut na temat
+sposobu ustalenia alternatywnego kursu wymiany.
+
+Wprowadzone ww. zmiany zostały przeanalizowane przez Zarząd Spółki i nie mają istotnego wpływu na sytuację finansową,
+wyniki działalności Spółki, ani też na zakres informacji prezentowanych w niniejszym jednostkowym sprawozdaniu finansowym.
+
+Opublikowane standardy i interpretacje, które jeszcze nie obowiązują i nie zostały wcześniej zastosowane przez Spółkę
+W niniejszym jednostkowym sprawozdaniu finansowym Spółka nie zdecydowała o wcześniejszym zastosowaniu następujących
+opublikowanych standardów, interpretacji lub poprawek do istniejących standardów przed ich datą wejścia w życie:
+* Zmiany do MSSF 10 i MSR 28 dotyczące sprzedaży lub wniesienia aktywów pomiędzy inwestorem a jego jednostkami
+stowarzyszonymi lub wspólnymi przedsięwzięciami.
+
+Zmiany rozwiązują problem aktualnej niespójności pomiędzy MSSF 10
+a MSR 28.
+
+Ujęcie księgowe zależy od tego, czy aktywa niepieniężne sprzedane lub wniesione do jednostki stowarzyszonej lub
+wspólnego przedsięwzięcia stanowią „biznes” (ang. business).
+
+W przypadku, gdy aktywa niepieniężne stanowią „biznes”,
+inwestor wykazuje pełny zysk lub stratę na transakcji.
+
+Jeżeli zaś aktywa nie spełniają definicji biznesu, inwestor ujmuje zysk lub
+stratę z tylko w zakresie części stanowiącej udziały innych inwestorów.
+
+Na dzień sporządzenia niniejszego jednostkowego
+sprawozdania finansowego, zatwierdzenie tej zmiany jest odroczone przez Unię Europejską,
+*_ MSSF 18 Prezentacja i ujawnienia w sprawozdaniach finansowych.
+
+W kwietniu 2024 r. Rada opublikowała nowy standard MSSF
+18 Prezentacja i ujawnienia w sprawozdaniach finansowych.
+
+Standard ma zastąpić MSR 1 — Prezentacja sprawozdań
+finansowych i będzie obowiązywał od 1 stycznia 2027 r. Zmiany w stosunku do zastępowanego standardu dotyczą głównie
+trzech kwestii: sprawozdania z zysku lub strat, wymaganych ujawnień dotyczących miar wyników oraz kwestii związanych z
+agregacją i dezagregacją informacji zawartej w sprawozdaniach finansowych.
+
+Opublikowany standard obowiązywał będzie dla
+sprawozdań finansowych za okresy rozpoczynające się z dniem 1 stycznia 2027 r. lub po tej dacie.
+
+*_ Roczne zmiany MSSF.
+
+Roczne zmiany MSSF wprowadzają zmiany do standardów: MSSF 1 Zastosowanie Międzynarodowych
+Standardów Sprawozdawczości Finansowej po raz pierwszy, MSSF 7 Instrumenty finansowe: ujawnianie informacji, MSSF 9
+Instrumenty finansowe, MSSF 10 Skonsolidowane sprawozdania finansowe oraz MSR 7 Sprawozdanie z przepływów
+pieniężnych.
+
+Poprawki zawierają wyjaśnienia oraz doprecyzowują wytyczne standardów w zakresie ujmowania oraz wyceny.
+
+Opublikowane zmiany obowiązują dla sprawozdań finansowych za okresy rozpoczynające się z dniem 1 stycznia 2026 r. lub po
+tej dacie.
+
+* Zmiany w klasyfikacji i wycenie instrumentów finansowych — Zmiany do MSSF9 i MSSF 7.
+
+W maju 2024 roku RMSR
+opublikowała zmiany do MSSF 9 i MSSF 7 mające na celu: a/ doprecyzowanie daty ujęcia i zaprzestania ujmowania niektórych
+aktywów i zobowiązań finansowych, ze zwolnieniem dla niektórych zobowiązań finansowych rozliczanych za pośrednictwem
+elektronicznego systemu przekazów pieniężnych; b/ wyjaśnienie i dodanie dalszych wytycznych dotyczących oceny, czy
+składnik aktywów finansowych spełnia kryteria SPPI; c/ dodanie nowych ujawnień dotyczących niektórych instrumentów,
+których warunki umowne mogą zmieniać przepływy pieniężne; oraz d/aktualizuje ujawnienia dotyczące instrumentów
+kapitałowych wycenianych w wartości godziwej przez inne całkowite dochody (FVOCI).
+
+Opublikowane zmiany obowiązują dla
+sprawozdań finansowych za okresy rozpoczynające się z dniem 1 stycznia 2026 r. lub po tej dacie.
+
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+12
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+Zarząd jest w trakcie weryfikowania wpływu powyższych standardów na sytuację finansową, wyniki działalności Spółki oraz na
+zakres informacji prezentowanych w jednostkowym sprawozdaniu finansowym.
+
+Zarząd Spółki nie przewiduje, aby nowe
+standardy oraz zmiany do obecnie obowiązujących standardów mogły mieć istotny wpływ na jednostkowe sprawozdanie
+finansowe Spółki za okres, w którym będą one zastosowane po raz pierwszy.

@@ -1,0 +1,4522 @@
+[
+ {
+  "key": "5e109c2a5be7",
+  "file": "dataset.jsonl",
+  "id": 1,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5e109c2a5be7.txt",
+  "input_chars": 10023,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__1.txt",
+  "out_char_budget": 4730
+ },
+ {
+  "key": "9fec667077b3",
+  "file": "dataset.jsonl",
+  "id": 2,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9fec667077b3.txt",
+  "input_chars": 1331,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__2.txt",
+  "out_char_budget": 15735
+ },
+ {
+  "key": "b9166ec3c290",
+  "file": "dataset.jsonl",
+  "id": 3,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b9166ec3c290.txt",
+  "input_chars": 6806,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__3.txt",
+  "out_char_budget": 7974
+ },
+ {
+  "key": "2e9642d432eb",
+  "file": "dataset.jsonl",
+  "id": 4,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/2e9642d432eb.txt",
+  "input_chars": 4075,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__4.txt",
+  "out_char_budget": 12542
+ },
+ {
+  "key": "2e808436a763",
+  "file": "dataset.jsonl",
+  "id": 5,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/2e808436a763.txt",
+  "input_chars": 9132,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__5.txt",
+  "out_char_budget": 5302
+ },
+ {
+  "key": "08df08ca1f81",
+  "file": "dataset.jsonl",
+  "id": 6,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/08df08ca1f81.txt",
+  "input_chars": 8557,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__6.txt",
+  "out_char_budget": 4942
+ },
+ {
+  "key": "017132a1d009",
+  "file": "dataset.jsonl",
+  "id": 7,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/017132a1d009.txt",
+  "input_chars": 3133,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__7.txt",
+  "out_char_budget": 13032
+ },
+ {
+  "key": "3151f28ce074",
+  "file": "dataset.jsonl",
+  "id": 8,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/3151f28ce074.txt",
+  "input_chars": 7840,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__8.txt",
+  "out_char_budget": 5641
+ },
+ {
+  "key": "8606eee94429",
+  "file": "dataset.jsonl",
+  "id": 9,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/8606eee94429.txt",
+  "input_chars": 6861,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__9.txt",
+  "out_char_budget": 8949
+ },
+ {
+  "key": "71c77c5d870a",
+  "file": "dataset.jsonl",
+  "id": 10,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/71c77c5d870a.txt",
+  "input_chars": 4255,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__10.txt",
+  "out_char_budget": 12301
+ },
+ {
+  "key": "9bcd11d212ac",
+  "file": "dataset.jsonl",
+  "id": 11,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9bcd11d212ac.txt",
+  "input_chars": 1757,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__11.txt",
+  "out_char_budget": 15505
+ },
+ {
+  "key": "2f85aedc8714",
+  "file": "dataset.jsonl",
+  "id": 12,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/2f85aedc8714.txt",
+  "input_chars": 9034,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__12.txt",
+  "out_char_budget": 3949
+ },
+ {
+  "key": "6056d8e84355",
+  "file": "dataset.jsonl",
+  "id": 13,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/6056d8e84355.txt",
+  "input_chars": 1278,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__13.txt",
+  "out_char_budget": 16207
+ },
+ {
+  "key": "f8a7ba7d6542",
+  "file": "dataset.jsonl",
+  "id": 14,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f8a7ba7d6542.txt",
+  "input_chars": 4180,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__14.txt",
+  "out_char_budget": 12654
+ },
+ {
+  "key": "425339e7701d",
+  "file": "dataset.jsonl",
+  "id": 15,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/425339e7701d.txt",
+  "input_chars": 7701,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__15.txt",
+  "out_char_budget": 5871
+ },
+ {
+  "key": "5f5dbdc7c150",
+  "file": "dataset.jsonl",
+  "id": 16,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5f5dbdc7c150.txt",
+  "input_chars": 8274,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__16.txt",
+  "out_char_budget": 6098
+ },
+ {
+  "key": "36de37eec29b",
+  "file": "dataset.jsonl",
+  "id": 17,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/36de37eec29b.txt",
+  "input_chars": 10431,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__17.txt",
+  "out_char_budget": 4136
+ },
+ {
+  "key": "63e6395649d1",
+  "file": "dataset.jsonl",
+  "id": 18,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/63e6395649d1.txt",
+  "input_chars": 9747,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__18.txt",
+  "out_char_budget": 5590
+ },
+ {
+  "key": "303f7dd6fb54",
+  "file": "dataset.jsonl",
+  "id": 19,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/303f7dd6fb54.txt",
+  "input_chars": 9243,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__19.txt",
+  "out_char_budget": 5061
+ },
+ {
+  "key": "4364f12f5823",
+  "file": "dataset.jsonl",
+  "id": 20,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/4364f12f5823.txt",
+  "input_chars": 8648,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__20.txt",
+  "out_char_budget": 5238
+ },
+ {
+  "key": "0ce18dc98814",
+  "file": "dataset.jsonl",
+  "id": 21,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0ce18dc98814.txt",
+  "input_chars": 8841,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__21.txt",
+  "out_char_budget": 5025
+ },
+ {
+  "key": "818ecfecaa26",
+  "file": "dataset.jsonl",
+  "id": 22,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/818ecfecaa26.txt",
+  "input_chars": 1786,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__22.txt",
+  "out_char_budget": 15242
+ },
+ {
+  "key": "864700ebfe3c",
+  "file": "dataset.jsonl",
+  "id": 23,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/864700ebfe3c.txt",
+  "input_chars": 10327,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__23.txt",
+  "out_char_budget": 4798
+ },
+ {
+  "key": "36a745d95599",
+  "file": "dataset.jsonl",
+  "id": 24,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/36a745d95599.txt",
+  "input_chars": 9534,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__24.txt",
+  "out_char_budget": 4791
+ },
+ {
+  "key": "3eb4390a6654",
+  "file": "dataset.jsonl",
+  "id": 25,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/3eb4390a6654.txt",
+  "input_chars": 8946,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__25.txt",
+  "out_char_budget": 4903
+ },
+ {
+  "key": "5109d3001e37",
+  "file": "dataset.jsonl",
+  "id": 26,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5109d3001e37.txt",
+  "input_chars": 1569,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__26.txt",
+  "out_char_budget": 16020
+ },
+ {
+  "key": "9f308848c4de",
+  "file": "dataset.jsonl",
+  "id": 27,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9f308848c4de.txt",
+  "input_chars": 9422,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__27.txt",
+  "out_char_budget": 3844
+ },
+ {
+  "key": "231e26b650f2",
+  "file": "dataset.jsonl",
+  "id": 28,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/231e26b650f2.txt",
+  "input_chars": 7168,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__28.txt",
+  "out_char_budget": 8348
+ },
+ {
+  "key": "c82a49cc7502",
+  "file": "dataset.jsonl",
+  "id": 29,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c82a49cc7502.txt",
+  "input_chars": 8606,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__29.txt",
+  "out_char_budget": 4460
+ },
+ {
+  "key": "d3aa206c98d6",
+  "file": "dataset.jsonl",
+  "id": 30,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d3aa206c98d6.txt",
+  "input_chars": 6981,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__30.txt",
+  "out_char_budget": 7430
+ },
+ {
+  "key": "7875de3b9a2e",
+  "file": "dataset.jsonl",
+  "id": 31,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7875de3b9a2e.txt",
+  "input_chars": 5910,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__31.txt",
+  "out_char_budget": 8676
+ },
+ {
+  "key": "9951703c0963",
+  "file": "dataset.jsonl",
+  "id": 32,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9951703c0963.txt",
+  "input_chars": 9444,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__32.txt",
+  "out_char_budget": 4924
+ },
+ {
+  "key": "a8718723beb8",
+  "file": "dataset.jsonl",
+  "id": 33,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a8718723beb8.txt",
+  "input_chars": 8119,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__33.txt",
+  "out_char_budget": 6436
+ },
+ {
+  "key": "a0dd065ea45f",
+  "file": "dataset.jsonl",
+  "id": 34,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a0dd065ea45f.txt",
+  "input_chars": 8537,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__34.txt",
+  "out_char_budget": 6246
+ },
+ {
+  "key": "62c1cdc1268b",
+  "file": "dataset.jsonl",
+  "id": 35,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/62c1cdc1268b.txt",
+  "input_chars": 4370,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__35.txt",
+  "out_char_budget": 12178
+ },
+ {
+  "key": "f4816b25211c",
+  "file": "dataset.jsonl",
+  "id": 36,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f4816b25211c.txt",
+  "input_chars": 6774,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__36.txt",
+  "out_char_budget": 7524
+ },
+ {
+  "key": "497d495b0572",
+  "file": "dataset.jsonl",
+  "id": 37,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/497d495b0572.txt",
+  "input_chars": 8862,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__37.txt",
+  "out_char_budget": 5277
+ },
+ {
+  "key": "5724d257c4f2",
+  "file": "dataset.jsonl",
+  "id": 38,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5724d257c4f2.txt",
+  "input_chars": 5081,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__38.txt",
+  "out_char_budget": 10285
+ },
+ {
+  "key": "134d16656e93",
+  "file": "dataset.jsonl",
+  "id": 39,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/134d16656e93.txt",
+  "input_chars": 5525,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__39.txt",
+  "out_char_budget": 10609
+ },
+ {
+  "key": "106cdbd2c616",
+  "file": "dataset.jsonl",
+  "id": 40,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/106cdbd2c616.txt",
+  "input_chars": 9737,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__40.txt",
+  "out_char_budget": 5000
+ },
+ {
+  "key": "52a1ea208939",
+  "file": "dataset.jsonl",
+  "id": 41,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/52a1ea208939.txt",
+  "input_chars": 7976,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__41.txt",
+  "out_char_budget": 7617
+ },
+ {
+  "key": "611a67c420e6",
+  "file": "dataset.jsonl",
+  "id": 42,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/611a67c420e6.txt",
+  "input_chars": 9798,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__42.txt",
+  "out_char_budget": 5068
+ },
+ {
+  "key": "03a39a6d77ad",
+  "file": "dataset.jsonl",
+  "id": 43,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/03a39a6d77ad.txt",
+  "input_chars": 7675,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__43.txt",
+  "out_char_budget": 7585
+ },
+ {
+  "key": "2fe6206eeec2",
+  "file": "dataset.jsonl",
+  "id": 44,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/2fe6206eeec2.txt",
+  "input_chars": 1980,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__44.txt",
+  "out_char_budget": 15037
+ },
+ {
+  "key": "9a9c1d26c6a6",
+  "file": "dataset.jsonl",
+  "id": 45,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9a9c1d26c6a6.txt",
+  "input_chars": 10160,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__45.txt",
+  "out_char_budget": 3600
+ },
+ {
+  "key": "64aed281a5a1",
+  "file": "dataset.jsonl",
+  "id": 46,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/64aed281a5a1.txt",
+  "input_chars": 5720,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__46.txt",
+  "out_char_budget": 9381
+ },
+ {
+  "key": "ac3152cdfe7b",
+  "file": "dataset.jsonl",
+  "id": 47,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ac3152cdfe7b.txt",
+  "input_chars": 9871,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__47.txt",
+  "out_char_budget": 4626
+ },
+ {
+  "key": "143840037caf",
+  "file": "dataset.jsonl",
+  "id": 48,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/143840037caf.txt",
+  "input_chars": 9549,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__48.txt",
+  "out_char_budget": 5806
+ },
+ {
+  "key": "be38bae087d7",
+  "file": "dataset.jsonl",
+  "id": 49,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/be38bae087d7.txt",
+  "input_chars": 11074,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__49.txt",
+  "out_char_budget": 4132
+ },
+ {
+  "key": "f74f4e83a0e3",
+  "file": "dataset.jsonl",
+  "id": 50,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f74f4e83a0e3.txt",
+  "input_chars": 14681,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__50.txt",
+  "out_char_budget": 300
+ },
+ {
+  "key": "5add0df31843",
+  "file": "dataset.jsonl",
+  "id": 51,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5add0df31843.txt",
+  "input_chars": 9410,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__51.txt",
+  "out_char_budget": 4363
+ },
+ {
+  "key": "e228f8a944f4",
+  "file": "dataset.jsonl",
+  "id": 52,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e228f8a944f4.txt",
+  "input_chars": 10409,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__52.txt",
+  "out_char_budget": 4924
+ },
+ {
+  "key": "10c128c6b432",
+  "file": "dataset.jsonl",
+  "id": 53,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/10c128c6b432.txt",
+  "input_chars": 6852,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__53.txt",
+  "out_char_budget": 8661
+ },
+ {
+  "key": "7de5c652c98f",
+  "file": "dataset.jsonl",
+  "id": 54,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7de5c652c98f.txt",
+  "input_chars": 6483,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__54.txt",
+  "out_char_budget": 8143
+ },
+ {
+  "key": "e59d3f2479f0",
+  "file": "dataset.jsonl",
+  "id": 55,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e59d3f2479f0.txt",
+  "input_chars": 10064,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__55.txt",
+  "out_char_budget": 4575
+ },
+ {
+  "key": "ddfb0c2bec52",
+  "file": "dataset.jsonl",
+  "id": 56,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ddfb0c2bec52.txt",
+  "input_chars": 8727,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__56.txt",
+  "out_char_budget": 4806
+ },
+ {
+  "key": "7648233d4169",
+  "file": "dataset.jsonl",
+  "id": 57,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7648233d4169.txt",
+  "input_chars": 9043,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__57.txt",
+  "out_char_budget": 4654
+ },
+ {
+  "key": "d6d532954ba7",
+  "file": "dataset.jsonl",
+  "id": 58,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d6d532954ba7.txt",
+  "input_chars": 9125,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__58.txt",
+  "out_char_budget": 4377
+ },
+ {
+  "key": "b87075287ebb",
+  "file": "dataset.jsonl",
+  "id": 59,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b87075287ebb.txt",
+  "input_chars": 6502,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__59.txt",
+  "out_char_budget": 9504
+ },
+ {
+  "key": "67d5192024ee",
+  "file": "dataset.jsonl",
+  "id": 60,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/67d5192024ee.txt",
+  "input_chars": 1580,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__60.txt",
+  "out_char_budget": 15253
+ },
+ {
+  "key": "3547298a95ee",
+  "file": "dataset.jsonl",
+  "id": 61,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/3547298a95ee.txt",
+  "input_chars": 2251,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__61.txt",
+  "out_char_budget": 14551
+ },
+ {
+  "key": "eb56589c1994",
+  "file": "dataset.jsonl",
+  "id": 62,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/eb56589c1994.txt",
+  "input_chars": 8275,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__62.txt",
+  "out_char_budget": 6984
+ },
+ {
+  "key": "7a40cdb54435",
+  "file": "dataset.jsonl",
+  "id": 63,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7a40cdb54435.txt",
+  "input_chars": 3172,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__63.txt",
+  "out_char_budget": 13773
+ },
+ {
+  "key": "58d3ba26d264",
+  "file": "dataset.jsonl",
+  "id": 64,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/58d3ba26d264.txt",
+  "input_chars": 3033,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__64.txt",
+  "out_char_budget": 13172
+ },
+ {
+  "key": "e536edc51132",
+  "file": "dataset.jsonl",
+  "id": 65,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e536edc51132.txt",
+  "input_chars": 2804,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__65.txt",
+  "out_char_budget": 14464
+ },
+ {
+  "key": "0c812bc35339",
+  "file": "dataset.jsonl",
+  "id": 66,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0c812bc35339.txt",
+  "input_chars": 2849,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__66.txt",
+  "out_char_budget": 13107
+ },
+ {
+  "key": "3cc3a708f935",
+  "file": "dataset.jsonl",
+  "id": 67,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/3cc3a708f935.txt",
+  "input_chars": 8734,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__67.txt",
+  "out_char_budget": 5205
+ },
+ {
+  "key": "242aec261cec",
+  "file": "dataset.jsonl",
+  "id": 68,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/242aec261cec.txt",
+  "input_chars": 4769,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__68.txt",
+  "out_char_budget": 10753
+ },
+ {
+  "key": "0aecfeb6a1e4",
+  "file": "dataset.jsonl",
+  "id": 69,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0aecfeb6a1e4.txt",
+  "input_chars": 10514,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__69.txt",
+  "out_char_budget": 4813
+ },
+ {
+  "key": "35cc205e2a26",
+  "file": "dataset.jsonl",
+  "id": 70,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/35cc205e2a26.txt",
+  "input_chars": 5121,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__70.txt",
+  "out_char_budget": 10087
+ },
+ {
+  "key": "8cd7a2d7a692",
+  "file": "dataset.jsonl",
+  "id": 71,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/8cd7a2d7a692.txt",
+  "input_chars": 7307,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__71.txt",
+  "out_char_budget": 7754
+ },
+ {
+  "key": "06bbaa24be18",
+  "file": "dataset.jsonl",
+  "id": 72,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/06bbaa24be18.txt",
+  "input_chars": 9956,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__72.txt",
+  "out_char_budget": 4575
+ },
+ {
+  "key": "26bcef9bf539",
+  "file": "dataset.jsonl",
+  "id": 73,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/26bcef9bf539.txt",
+  "input_chars": 9749,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__73.txt",
+  "out_char_budget": 3880
+ },
+ {
+  "key": "1b63647930b5",
+  "file": "dataset.jsonl",
+  "id": 74,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1b63647930b5.txt",
+  "input_chars": 8782,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__74.txt",
+  "out_char_budget": 6116
+ },
+ {
+  "key": "1fc440aab6f7",
+  "file": "dataset.jsonl",
+  "id": 75,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1fc440aab6f7.txt",
+  "input_chars": 8527,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__75.txt",
+  "out_char_budget": 5461
+ },
+ {
+  "key": "e375692caaea",
+  "file": "dataset.jsonl",
+  "id": 76,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e375692caaea.txt",
+  "input_chars": 10875,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__76.txt",
+  "out_char_budget": 4561
+ },
+ {
+  "key": "7c5c543467a3",
+  "file": "dataset.jsonl",
+  "id": 77,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7c5c543467a3.txt",
+  "input_chars": 7837,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__77.txt",
+  "out_char_budget": 7282
+ },
+ {
+  "key": "48162535574c",
+  "file": "dataset.jsonl",
+  "id": 78,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/48162535574c.txt",
+  "input_chars": 1213,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__78.txt",
+  "out_char_budget": 16470
+ },
+ {
+  "key": "e02ef7d4a217",
+  "file": "dataset.jsonl",
+  "id": 79,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e02ef7d4a217.txt",
+  "input_chars": 1512,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__79.txt",
+  "out_char_budget": 15346
+ },
+ {
+  "key": "c4581e8ac94f",
+  "file": "dataset.jsonl",
+  "id": 80,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c4581e8ac94f.txt",
+  "input_chars": 5990,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__80.txt",
+  "out_char_budget": 9694
+ },
+ {
+  "key": "d0f6fb092500",
+  "file": "dataset.jsonl",
+  "id": 81,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d0f6fb092500.txt",
+  "input_chars": 7118,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__81.txt",
+  "out_char_budget": 8132
+ },
+ {
+  "key": "976c7fbdcad1",
+  "file": "dataset.jsonl",
+  "id": 82,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/976c7fbdcad1.txt",
+  "input_chars": 7637,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__82.txt",
+  "out_char_budget": 7239
+ },
+ {
+  "key": "55bab74027a0",
+  "file": "dataset.jsonl",
+  "id": 83,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/55bab74027a0.txt",
+  "input_chars": 7951,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__83.txt",
+  "out_char_budget": 6685
+ },
+ {
+  "key": "8a5901e82ad9",
+  "file": "dataset.jsonl",
+  "id": 84,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/8a5901e82ad9.txt",
+  "input_chars": 5420,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__84.txt",
+  "out_char_budget": 9435
+ },
+ {
+  "key": "fa369947f92a",
+  "file": "dataset.jsonl",
+  "id": 85,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/fa369947f92a.txt",
+  "input_chars": 7237,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__85.txt",
+  "out_char_budget": 7786
+ },
+ {
+  "key": "b40d3f0e197a",
+  "file": "dataset.jsonl",
+  "id": 86,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b40d3f0e197a.txt",
+  "input_chars": 9881,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__86.txt",
+  "out_char_budget": 5108
+ },
+ {
+  "key": "5adf429a681c",
+  "file": "dataset.jsonl",
+  "id": 87,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5adf429a681c.txt",
+  "input_chars": 7964,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__87.txt",
+  "out_char_budget": 7308
+ },
+ {
+  "key": "68c319774315",
+  "file": "dataset.jsonl",
+  "id": 88,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/68c319774315.txt",
+  "input_chars": 9026,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__88.txt",
+  "out_char_budget": 4550
+ },
+ {
+  "key": "30a45a2585f3",
+  "file": "dataset.jsonl",
+  "id": 89,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/30a45a2585f3.txt",
+  "input_chars": 7744,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__89.txt",
+  "out_char_budget": 4860
+ },
+ {
+  "key": "5a9b69b17fa6",
+  "file": "dataset.jsonl",
+  "id": 90,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5a9b69b17fa6.txt",
+  "input_chars": 8860,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__90.txt",
+  "out_char_budget": 6022
+ },
+ {
+  "key": "3c44bd67b34d",
+  "file": "dataset.jsonl",
+  "id": 91,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/3c44bd67b34d.txt",
+  "input_chars": 10016,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__91.txt",
+  "out_char_budget": 4676
+ },
+ {
+  "key": "3eb4ed9edd07",
+  "file": "dataset.jsonl",
+  "id": 92,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/3eb4ed9edd07.txt",
+  "input_chars": 6864,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__92.txt",
+  "out_char_budget": 8535
+ },
+ {
+  "key": "fd9b3d0e8796",
+  "file": "dataset.jsonl",
+  "id": 93,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/fd9b3d0e8796.txt",
+  "input_chars": 6024,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__93.txt",
+  "out_char_budget": 9896
+ },
+ {
+  "key": "84826438078f",
+  "file": "dataset.jsonl",
+  "id": 94,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/84826438078f.txt",
+  "input_chars": 6602,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__94.txt",
+  "out_char_budget": 9097
+ },
+ {
+  "key": "b2af6e788f3a",
+  "file": "dataset.jsonl",
+  "id": 95,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b2af6e788f3a.txt",
+  "input_chars": 9604,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__95.txt",
+  "out_char_budget": 5029
+ },
+ {
+  "key": "936c8eadb9e9",
+  "file": "dataset.jsonl",
+  "id": 96,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/936c8eadb9e9.txt",
+  "input_chars": 9036,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__96.txt",
+  "out_char_budget": 6105
+ },
+ {
+  "key": "c798cbcc26e7",
+  "file": "dataset.jsonl",
+  "id": 97,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c798cbcc26e7.txt",
+  "input_chars": 9476,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__97.txt",
+  "out_char_budget": 4269
+ },
+ {
+  "key": "25fab44165be",
+  "file": "dataset.jsonl",
+  "id": 98,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/25fab44165be.txt",
+  "input_chars": 8803,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__98.txt",
+  "out_char_budget": 3841
+ },
+ {
+  "key": "57792c03b804",
+  "file": "dataset.jsonl",
+  "id": 99,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/57792c03b804.txt",
+  "input_chars": 8541,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__99.txt",
+  "out_char_budget": 5367
+ },
+ {
+  "key": "ef5e4d5405b6",
+  "file": "dataset.jsonl",
+  "id": 100,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ef5e4d5405b6.txt",
+  "input_chars": 8381,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__100.txt",
+  "out_char_budget": 6148
+ },
+ {
+  "key": "84baa26a2ba2",
+  "file": "dataset.jsonl",
+  "id": 101,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/84baa26a2ba2.txt",
+  "input_chars": 9661,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__101.txt",
+  "out_char_budget": 4917
+ },
+ {
+  "key": "47e44ecf773b",
+  "file": "dataset.jsonl",
+  "id": 102,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/47e44ecf773b.txt",
+  "input_chars": 8836,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__102.txt",
+  "out_char_budget": 5590
+ },
+ {
+  "key": "bb2097f9e646",
+  "file": "dataset.jsonl",
+  "id": 103,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/bb2097f9e646.txt",
+  "input_chars": 2116,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__103.txt",
+  "out_char_budget": 14788
+ },
+ {
+  "key": "ca202808903a",
+  "file": "dataset.jsonl",
+  "id": 104,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ca202808903a.txt",
+  "input_chars": 4340,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__104.txt",
+  "out_char_budget": 12297
+ },
+ {
+  "key": "730be5a59f56",
+  "file": "dataset.jsonl",
+  "id": 105,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/730be5a59f56.txt",
+  "input_chars": 9296,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__105.txt",
+  "out_char_budget": 5302
+ },
+ {
+  "key": "08056398facb",
+  "file": "dataset.jsonl",
+  "id": 106,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/08056398facb.txt",
+  "input_chars": 10271,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__106.txt",
+  "out_char_budget": 3794
+ },
+ {
+  "key": "1cf832f54d04",
+  "file": "dataset.jsonl",
+  "id": 107,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1cf832f54d04.txt",
+  "input_chars": 8826,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__107.txt",
+  "out_char_budget": 4734
+ },
+ {
+  "key": "43f8f5f0d1df",
+  "file": "dataset.jsonl",
+  "id": 108,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/43f8f5f0d1df.txt",
+  "input_chars": 7123,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__108.txt",
+  "out_char_budget": 6566
+ },
+ {
+  "key": "ce14eb59e4c3",
+  "file": "dataset.jsonl",
+  "id": 109,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ce14eb59e4c3.txt",
+  "input_chars": 8261,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__109.txt",
+  "out_char_budget": 4932
+ },
+ {
+  "key": "d43a6d4d9cc8",
+  "file": "dataset.jsonl",
+  "id": 110,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d43a6d4d9cc8.txt",
+  "input_chars": 9141,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__110.txt",
+  "out_char_budget": 5475
+ },
+ {
+  "key": "844c19c8861d",
+  "file": "dataset.jsonl",
+  "id": 111,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/844c19c8861d.txt",
+  "input_chars": 8175,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__111.txt",
+  "out_char_budget": 3787
+ },
+ {
+  "key": "61c77d064778",
+  "file": "dataset.jsonl",
+  "id": 112,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/61c77d064778.txt",
+  "input_chars": 9350,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__112.txt",
+  "out_char_budget": 4402
+ },
+ {
+  "key": "f35ce694c705",
+  "file": "dataset.jsonl",
+  "id": 113,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f35ce694c705.txt",
+  "input_chars": 8691,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__113.txt",
+  "out_char_budget": 5904
+ },
+ {
+  "key": "7043e43548d7",
+  "file": "dataset.jsonl",
+  "id": 114,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7043e43548d7.txt",
+  "input_chars": 9633,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__114.txt",
+  "out_char_budget": 5806
+ },
+ {
+  "key": "c9dff93531b0",
+  "file": "dataset.jsonl",
+  "id": 115,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c9dff93531b0.txt",
+  "input_chars": 2290,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__115.txt",
+  "out_char_budget": 15192
+ },
+ {
+  "key": "e66f6981da07",
+  "file": "dataset.jsonl",
+  "id": 116,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e66f6981da07.txt",
+  "input_chars": 7755,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__116.txt",
+  "out_char_budget": 7898
+ },
+ {
+  "key": "561f5b2cad93",
+  "file": "dataset.jsonl",
+  "id": 117,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/561f5b2cad93.txt",
+  "input_chars": 7533,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__117.txt",
+  "out_char_budget": 7333
+ },
+ {
+  "key": "ab185c983846",
+  "file": "dataset.jsonl",
+  "id": 118,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ab185c983846.txt",
+  "input_chars": 8209,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__118.txt",
+  "out_char_budget": 5018
+ },
+ {
+  "key": "17e16db1089b",
+  "file": "dataset.jsonl",
+  "id": 119,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/17e16db1089b.txt",
+  "input_chars": 8361,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__119.txt",
+  "out_char_budget": 5896
+ },
+ {
+  "key": "fb1b1580cb12",
+  "file": "dataset.jsonl",
+  "id": 120,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/fb1b1580cb12.txt",
+  "input_chars": 8714,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__120.txt",
+  "out_char_budget": 4597
+ },
+ {
+  "key": "ea52c7965250",
+  "file": "dataset.jsonl",
+  "id": 121,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ea52c7965250.txt",
+  "input_chars": 9941,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__121.txt",
+  "out_char_budget": 4600
+ },
+ {
+  "key": "2963684b3934",
+  "file": "dataset.jsonl",
+  "id": 122,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/2963684b3934.txt",
+  "input_chars": 8962,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__122.txt",
+  "out_char_budget": 6861
+ },
+ {
+  "key": "977358aedee7",
+  "file": "dataset.jsonl",
+  "id": 123,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/977358aedee7.txt",
+  "input_chars": 5510,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__123.txt",
+  "out_char_budget": 10573
+ },
+ {
+  "key": "9cc5723353d9",
+  "file": "dataset.jsonl",
+  "id": 124,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9cc5723353d9.txt",
+  "input_chars": 7621,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__124.txt",
+  "out_char_budget": 8038
+ },
+ {
+  "key": "572348a82855",
+  "file": "dataset.jsonl",
+  "id": 125,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/572348a82855.txt",
+  "input_chars": 8293,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__125.txt",
+  "out_char_budget": 6040
+ },
+ {
+  "key": "94b294602b35",
+  "file": "dataset.jsonl",
+  "id": 126,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/94b294602b35.txt",
+  "input_chars": 7970,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__126.txt",
+  "out_char_budget": 6436
+ },
+ {
+  "key": "1f536356c092",
+  "file": "dataset.jsonl",
+  "id": 127,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1f536356c092.txt",
+  "input_chars": 9291,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__127.txt",
+  "out_char_budget": 5806
+ },
+ {
+  "key": "faad0b2426fc",
+  "file": "dataset.jsonl",
+  "id": 128,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/faad0b2426fc.txt",
+  "input_chars": 8780,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__128.txt",
+  "out_char_budget": 5594
+ },
+ {
+  "key": "d3ec344e07ba",
+  "file": "dataset.jsonl",
+  "id": 129,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d3ec344e07ba.txt",
+  "input_chars": 9013,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__129.txt",
+  "out_char_budget": 5547
+ },
+ {
+  "key": "c20d34832ed7",
+  "file": "dataset.jsonl",
+  "id": 130,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c20d34832ed7.txt",
+  "input_chars": 9995,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__130.txt",
+  "out_char_budget": 4608
+ },
+ {
+  "key": "7f83a4378f81",
+  "file": "dataset.jsonl",
+  "id": 131,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7f83a4378f81.txt",
+  "input_chars": 2397,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__131.txt",
+  "out_char_budget": 14396
+ },
+ {
+  "key": "dd84f08ffd98",
+  "file": "dataset.jsonl",
+  "id": 132,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/dd84f08ffd98.txt",
+  "input_chars": 9816,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__132.txt",
+  "out_char_budget": 4636
+ },
+ {
+  "key": "a21741f4af95",
+  "file": "dataset.jsonl",
+  "id": 133,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a21741f4af95.txt",
+  "input_chars": 8672,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__133.txt",
+  "out_char_budget": 5346
+ },
+ {
+  "key": "725694e8be17",
+  "file": "dataset.jsonl",
+  "id": 134,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/725694e8be17.txt",
+  "input_chars": 9487,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__134.txt",
+  "out_char_budget": 4280
+ },
+ {
+  "key": "71ea356ad90e",
+  "file": "dataset.jsonl",
+  "id": 135,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/71ea356ad90e.txt",
+  "input_chars": 2091,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__135.txt",
+  "out_char_budget": 15102
+ },
+ {
+  "key": "d2c7a2c02c52",
+  "file": "dataset.jsonl",
+  "id": 136,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d2c7a2c02c52.txt",
+  "input_chars": 8769,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__136.txt",
+  "out_char_budget": 6181
+ },
+ {
+  "key": "6ce57f60bc5c",
+  "file": "dataset.jsonl",
+  "id": 137,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/6ce57f60bc5c.txt",
+  "input_chars": 9337,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__137.txt",
+  "out_char_budget": 4654
+ },
+ {
+  "key": "bb30a6c79a06",
+  "file": "dataset.jsonl",
+  "id": 138,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/bb30a6c79a06.txt",
+  "input_chars": 10441,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__138.txt",
+  "out_char_budget": 4539
+ },
+ {
+  "key": "f7daeb61ff69",
+  "file": "dataset.jsonl",
+  "id": 139,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f7daeb61ff69.txt",
+  "input_chars": 2747,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__139.txt",
+  "out_char_budget": 14043
+ },
+ {
+  "key": "62c76615d614",
+  "file": "dataset.jsonl",
+  "id": 140,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/62c76615d614.txt",
+  "input_chars": 8349,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__140.txt",
+  "out_char_budget": 6584
+ },
+ {
+  "key": "4e02744f7085",
+  "file": "dataset.jsonl",
+  "id": 141,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/4e02744f7085.txt",
+  "input_chars": 7485,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__141.txt",
+  "out_char_budget": 6667
+ },
+ {
+  "key": "ebb910c76ba2",
+  "file": "dataset.jsonl",
+  "id": 142,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ebb910c76ba2.txt",
+  "input_chars": 7250,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__142.txt",
+  "out_char_budget": 7855
+ },
+ {
+  "key": "3fded20a0861",
+  "file": "dataset.jsonl",
+  "id": 143,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/3fded20a0861.txt",
+  "input_chars": 10393,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__143.txt",
+  "out_char_budget": 4726
+ },
+ {
+  "key": "501132ab967a",
+  "file": "dataset.jsonl",
+  "id": 144,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/501132ab967a.txt",
+  "input_chars": 8907,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__144.txt",
+  "out_char_budget": 5299
+ },
+ {
+  "key": "b6e2866945bf",
+  "file": "dataset.jsonl",
+  "id": 145,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b6e2866945bf.txt",
+  "input_chars": 10104,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__145.txt",
+  "out_char_budget": 4510
+ },
+ {
+  "key": "af9554d460f9",
+  "file": "dataset.jsonl",
+  "id": 146,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/af9554d460f9.txt",
+  "input_chars": 9411,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__146.txt",
+  "out_char_budget": 3171
+ },
+ {
+  "key": "26689647ef65",
+  "file": "dataset.jsonl",
+  "id": 147,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/26689647ef65.txt",
+  "input_chars": 2712,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__147.txt",
+  "out_char_budget": 13644
+ },
+ {
+  "key": "9014aee1caf0",
+  "file": "dataset.jsonl",
+  "id": 148,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9014aee1caf0.txt",
+  "input_chars": 10494,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__148.txt",
+  "out_char_budget": 5119
+ },
+ {
+  "key": "a076caf889e6",
+  "file": "dataset.jsonl",
+  "id": 149,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a076caf889e6.txt",
+  "input_chars": 10998,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__149.txt",
+  "out_char_budget": 4561
+ },
+ {
+  "key": "9db7a052aa85",
+  "file": "dataset.jsonl",
+  "id": 150,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9db7a052aa85.txt",
+  "input_chars": 8476,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__150.txt",
+  "out_char_budget": 5248
+ },
+ {
+  "key": "791256f519a0",
+  "file": "dataset.jsonl",
+  "id": 151,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/791256f519a0.txt",
+  "input_chars": 10370,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__151.txt",
+  "out_char_budget": 4172
+ },
+ {
+  "key": "0a5040308544",
+  "file": "dataset.jsonl",
+  "id": 152,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0a5040308544.txt",
+  "input_chars": 5370,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__152.txt",
+  "out_char_budget": 10220
+ },
+ {
+  "key": "674ebceaa270",
+  "file": "dataset.jsonl",
+  "id": 153,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/674ebceaa270.txt",
+  "input_chars": 8943,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__153.txt",
+  "out_char_budget": 5014
+ },
+ {
+  "key": "d9b08ba9c630",
+  "file": "dataset.jsonl",
+  "id": 154,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d9b08ba9c630.txt",
+  "input_chars": 9872,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__154.txt",
+  "out_char_budget": 4327
+ },
+ {
+  "key": "a9f163eaa0a2",
+  "file": "dataset.jsonl",
+  "id": 155,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a9f163eaa0a2.txt",
+  "input_chars": 9493,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__155.txt",
+  "out_char_budget": 4726
+ },
+ {
+  "key": "ce264c688551",
+  "file": "dataset.jsonl",
+  "id": 156,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ce264c688551.txt",
+  "input_chars": 6575,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__156.txt",
+  "out_char_budget": 9036
+ },
+ {
+  "key": "9c199d0eadf7",
+  "file": "dataset.jsonl",
+  "id": 157,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9c199d0eadf7.txt",
+  "input_chars": 8361,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__157.txt",
+  "out_char_budget": 7642
+ },
+ {
+  "key": "91feeb548701",
+  "file": "dataset.jsonl",
+  "id": 158,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/91feeb548701.txt",
+  "input_chars": 8738,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__158.txt",
+  "out_char_budget": 5828
+ },
+ {
+  "key": "1b67147ef0e2",
+  "file": "dataset.jsonl",
+  "id": 159,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1b67147ef0e2.txt",
+  "input_chars": 3241,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__159.txt",
+  "out_char_budget": 13687
+ },
+ {
+  "key": "cfda8c77b4fe",
+  "file": "dataset.jsonl",
+  "id": 160,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/cfda8c77b4fe.txt",
+  "input_chars": 6337,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__160.txt",
+  "out_char_budget": 8377
+ },
+ {
+  "key": "5f8f765412f9",
+  "file": "dataset.jsonl",
+  "id": 161,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5f8f765412f9.txt",
+  "input_chars": 8954,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__161.txt",
+  "out_char_budget": 5670
+ },
+ {
+  "key": "dcdb5c2e8cc3",
+  "file": "dataset.jsonl",
+  "id": 162,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/dcdb5c2e8cc3.txt",
+  "input_chars": 7688,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__162.txt",
+  "out_char_budget": 5328
+ },
+ {
+  "key": "c2366a818430",
+  "file": "dataset.jsonl",
+  "id": 163,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c2366a818430.txt",
+  "input_chars": 10563,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__163.txt",
+  "out_char_budget": 4582
+ },
+ {
+  "key": "1b4bc0ed2cb5",
+  "file": "dataset.jsonl",
+  "id": 164,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1b4bc0ed2cb5.txt",
+  "input_chars": 5440,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__164.txt",
+  "out_char_budget": 10058
+ },
+ {
+  "key": "7686250b4464",
+  "file": "dataset.jsonl",
+  "id": 165,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7686250b4464.txt",
+  "input_chars": 7745,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__165.txt",
+  "out_char_budget": 6674
+ },
+ {
+  "key": "5f757df03952",
+  "file": "dataset.jsonl",
+  "id": 166,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5f757df03952.txt",
+  "input_chars": 9044,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__166.txt",
+  "out_char_budget": 6044
+ },
+ {
+  "key": "15e4eee76df1",
+  "file": "dataset.jsonl",
+  "id": 167,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/15e4eee76df1.txt",
+  "input_chars": 10179,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__167.txt",
+  "out_char_budget": 4946
+ },
+ {
+  "key": "af4101a4cb95",
+  "file": "dataset.jsonl",
+  "id": 168,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/af4101a4cb95.txt",
+  "input_chars": 9513,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__168.txt",
+  "out_char_budget": 4629
+ },
+ {
+  "key": "821baef93b61",
+  "file": "dataset.jsonl",
+  "id": 169,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/821baef93b61.txt",
+  "input_chars": 4148,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__169.txt",
+  "out_char_budget": 11124
+ },
+ {
+  "key": "d570fa71d24d",
+  "file": "dataset.jsonl",
+  "id": 170,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d570fa71d24d.txt",
+  "input_chars": 8290,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__170.txt",
+  "out_char_budget": 4780
+ },
+ {
+  "key": "2dcbc48a9823",
+  "file": "dataset.jsonl",
+  "id": 171,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/2dcbc48a9823.txt",
+  "input_chars": 10007,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__171.txt",
+  "out_char_budget": 4590
+ },
+ {
+  "key": "a04ccccb8416",
+  "file": "dataset.jsonl",
+  "id": 172,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a04ccccb8416.txt",
+  "input_chars": 10079,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__172.txt",
+  "out_char_budget": 4615
+ },
+ {
+  "key": "cdc2cb91410d",
+  "file": "dataset.jsonl",
+  "id": 173,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/cdc2cb91410d.txt",
+  "input_chars": 3128,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__173.txt",
+  "out_char_budget": 13604
+ },
+ {
+  "key": "b0f99f580650",
+  "file": "dataset.jsonl",
+  "id": 174,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b0f99f580650.txt",
+  "input_chars": 10215,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__174.txt",
+  "out_char_budget": 4521
+ },
+ {
+  "key": "03852e6bc04c",
+  "file": "dataset.jsonl",
+  "id": 175,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/03852e6bc04c.txt",
+  "input_chars": 5745,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__175.txt",
+  "out_char_budget": 10422
+ },
+ {
+  "key": "a48c43fe7871",
+  "file": "dataset.jsonl",
+  "id": 176,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a48c43fe7871.txt",
+  "input_chars": 5413,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__176.txt",
+  "out_char_budget": 10699
+ },
+ {
+  "key": "dd75423f0e13",
+  "file": "dataset.jsonl",
+  "id": 177,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/dd75423f0e13.txt",
+  "input_chars": 10223,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__177.txt",
+  "out_char_budget": 3675
+ },
+ {
+  "key": "0324a124415a",
+  "file": "dataset.jsonl",
+  "id": 178,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0324a124415a.txt",
+  "input_chars": 8968,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__178.txt",
+  "out_char_budget": 5533
+ },
+ {
+  "key": "d07ee593d25c",
+  "file": "dataset.jsonl",
+  "id": 179,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d07ee593d25c.txt",
+  "input_chars": 8645,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__179.txt",
+  "out_char_budget": 4568
+ },
+ {
+  "key": "9e66f120767c",
+  "file": "dataset.jsonl",
+  "id": 180,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9e66f120767c.txt",
+  "input_chars": 5827,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__180.txt",
+  "out_char_budget": 9385
+ },
+ {
+  "key": "f890b7057448",
+  "file": "dataset.jsonl",
+  "id": 181,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f890b7057448.txt",
+  "input_chars": 10272,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__181.txt",
+  "out_char_budget": 4017
+ },
+ {
+  "key": "03b57759eeef",
+  "file": "dataset.jsonl",
+  "id": 182,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/03b57759eeef.txt",
+  "input_chars": 8341,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__182.txt",
+  "out_char_budget": 4899
+ },
+ {
+  "key": "d5ea229d9c88",
+  "file": "dataset.jsonl",
+  "id": 183,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d5ea229d9c88.txt",
+  "input_chars": 10281,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__183.txt",
+  "out_char_budget": 4737
+ },
+ {
+  "key": "c81ed5e44e06",
+  "file": "dataset.jsonl",
+  "id": 184,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c81ed5e44e06.txt",
+  "input_chars": 7812,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__184.txt",
+  "out_char_budget": 5684
+ },
+ {
+  "key": "69a66cb54108",
+  "file": "dataset.jsonl",
+  "id": 185,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/69a66cb54108.txt",
+  "input_chars": 10419,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__185.txt",
+  "out_char_budget": 4791
+ },
+ {
+  "key": "9f386a6e37a8",
+  "file": "dataset.jsonl",
+  "id": 186,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9f386a6e37a8.txt",
+  "input_chars": 4461,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__186.txt",
+  "out_char_budget": 11746
+ },
+ {
+  "key": "8d6460333af5",
+  "file": "dataset.jsonl",
+  "id": 187,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/8d6460333af5.txt",
+  "input_chars": 7817,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__187.txt",
+  "out_char_budget": 7441
+ },
+ {
+  "key": "d91f413da259",
+  "file": "dataset.jsonl",
+  "id": 188,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d91f413da259.txt",
+  "input_chars": 4815,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__188.txt",
+  "out_char_budget": 9871
+ },
+ {
+  "key": "1a1895e932a1",
+  "file": "dataset.jsonl",
+  "id": 189,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1a1895e932a1.txt",
+  "input_chars": 9167,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__189.txt",
+  "out_char_budget": 6040
+ },
+ {
+  "key": "a06274289c2b",
+  "file": "dataset.jsonl",
+  "id": 190,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a06274289c2b.txt",
+  "input_chars": 7818,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__190.txt",
+  "out_char_budget": 6937
+ },
+ {
+  "key": "a864d6926ba9",
+  "file": "dataset.jsonl",
+  "id": 191,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a864d6926ba9.txt",
+  "input_chars": 6855,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__191.txt",
+  "out_char_budget": 8845
+ },
+ {
+  "key": "c2c2647fd762",
+  "file": "dataset.jsonl",
+  "id": 192,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c2c2647fd762.txt",
+  "input_chars": 6766,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__192.txt",
+  "out_char_budget": 7862
+ },
+ {
+  "key": "6a1ae061d876",
+  "file": "dataset.jsonl",
+  "id": 193,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/6a1ae061d876.txt",
+  "input_chars": 9872,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__193.txt",
+  "out_char_budget": 5515
+ },
+ {
+  "key": "a556e00a4802",
+  "file": "dataset.jsonl",
+  "id": 194,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a556e00a4802.txt",
+  "input_chars": 7042,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__194.txt",
+  "out_char_budget": 8056
+ },
+ {
+  "key": "7b78f4a64914",
+  "file": "dataset.jsonl",
+  "id": 195,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7b78f4a64914.txt",
+  "input_chars": 3243,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__195.txt",
+  "out_char_budget": 13698
+ },
+ {
+  "key": "b238764a39c5",
+  "file": "dataset.jsonl",
+  "id": 196,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b238764a39c5.txt",
+  "input_chars": 2198,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__196.txt",
+  "out_char_budget": 14475
+ },
+ {
+  "key": "1deb2816b1c3",
+  "file": "dataset.jsonl",
+  "id": 197,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1deb2816b1c3.txt",
+  "input_chars": 9839,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__197.txt",
+  "out_char_budget": 4240
+ },
+ {
+  "key": "0b93f9d223a4",
+  "file": "dataset.jsonl",
+  "id": 198,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0b93f9d223a4.txt",
+  "input_chars": 3389,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__198.txt",
+  "out_char_budget": 12866
+ },
+ {
+  "key": "d342db0124cc",
+  "file": "dataset.jsonl",
+  "id": 199,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d342db0124cc.txt",
+  "input_chars": 9902,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__199.txt",
+  "out_char_budget": 5270
+ },
+ {
+  "key": "bd99b6ad337e",
+  "file": "dataset.jsonl",
+  "id": 200,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/bd99b6ad337e.txt",
+  "input_chars": 922,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__200.txt",
+  "out_char_budget": 16581
+ },
+ {
+  "key": "4523a872becf",
+  "file": "dataset.jsonl",
+  "id": 201,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/4523a872becf.txt",
+  "input_chars": 8242,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__201.txt",
+  "out_char_budget": 7117
+ },
+ {
+  "key": "c0f238dbc812",
+  "file": "dataset.jsonl",
+  "id": 202,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c0f238dbc812.txt",
+  "input_chars": 8600,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__202.txt",
+  "out_char_budget": 4651
+ },
+ {
+  "key": "70f50f965652",
+  "file": "dataset.jsonl",
+  "id": 203,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/70f50f965652.txt",
+  "input_chars": 9781,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__203.txt",
+  "out_char_budget": 4604
+ },
+ {
+  "key": "ba7494ef4850",
+  "file": "dataset.jsonl",
+  "id": 204,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ba7494ef4850.txt",
+  "input_chars": 8860,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__204.txt",
+  "out_char_budget": 4586
+ },
+ {
+  "key": "1afa6155039d",
+  "file": "dataset.jsonl",
+  "id": 205,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1afa6155039d.txt",
+  "input_chars": 10345,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__205.txt",
+  "out_char_budget": 3423
+ },
+ {
+  "key": "fb30de23ca47",
+  "file": "dataset.jsonl",
+  "id": 206,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/fb30de23ca47.txt",
+  "input_chars": 9688,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__206.txt",
+  "out_char_budget": 3780
+ },
+ {
+  "key": "b5a500b54ab2",
+  "file": "dataset.jsonl",
+  "id": 207,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b5a500b54ab2.txt",
+  "input_chars": 6940,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__207.txt",
+  "out_char_budget": 8737
+ },
+ {
+  "key": "307bc5b035d9",
+  "file": "dataset.jsonl",
+  "id": 208,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/307bc5b035d9.txt",
+  "input_chars": 6734,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__208.txt",
+  "out_char_budget": 8517
+ },
+ {
+  "key": "25679ca9f83d",
+  "file": "dataset.jsonl",
+  "id": 209,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/25679ca9f83d.txt",
+  "input_chars": 10496,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__209.txt",
+  "out_char_budget": 4438
+ },
+ {
+  "key": "6dc9486739fe",
+  "file": "dataset.jsonl",
+  "id": 210,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/6dc9486739fe.txt",
+  "input_chars": 9447,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__210.txt",
+  "out_char_budget": 4345
+ },
+ {
+  "key": "dee61b6ffe9d",
+  "file": "dataset.jsonl",
+  "id": 211,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/dee61b6ffe9d.txt",
+  "input_chars": 7935,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__211.txt",
+  "out_char_budget": 6498
+ },
+ {
+  "key": "6109760fe386",
+  "file": "dataset.jsonl",
+  "id": 212,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/6109760fe386.txt",
+  "input_chars": 10429,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__212.txt",
+  "out_char_budget": 4730
+ },
+ {
+  "key": "6e767871cc2e",
+  "file": "dataset.jsonl",
+  "id": 213,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/6e767871cc2e.txt",
+  "input_chars": 8586,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__213.txt",
+  "out_char_budget": 7174
+ },
+ {
+  "key": "8fcb9d41a650",
+  "file": "dataset.jsonl",
+  "id": 214,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/8fcb9d41a650.txt",
+  "input_chars": 8891,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__214.txt",
+  "out_char_budget": 6206
+ },
+ {
+  "key": "1ca5b73880b4",
+  "file": "dataset.jsonl",
+  "id": 215,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1ca5b73880b4.txt",
+  "input_chars": 8163,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__215.txt",
+  "out_char_budget": 7574
+ },
+ {
+  "key": "c6f48844a8ee",
+  "file": "dataset.jsonl",
+  "id": 216,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c6f48844a8ee.txt",
+  "input_chars": 8291,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__216.txt",
+  "out_char_budget": 5508
+ },
+ {
+  "key": "e4de549e27da",
+  "file": "dataset.jsonl",
+  "id": 217,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e4de549e27da.txt",
+  "input_chars": 9678,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__217.txt",
+  "out_char_budget": 4550
+ },
+ {
+  "key": "778fffad5671",
+  "file": "dataset.jsonl",
+  "id": 218,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/778fffad5671.txt",
+  "input_chars": 9791,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__218.txt",
+  "out_char_budget": 4323
+ },
+ {
+  "key": "71fe1387c5ca",
+  "file": "dataset.jsonl",
+  "id": 219,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/71fe1387c5ca.txt",
+  "input_chars": 10616,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__219.txt",
+  "out_char_budget": 4546
+ },
+ {
+  "key": "64e752cb6de3",
+  "file": "dataset.jsonl",
+  "id": 220,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/64e752cb6de3.txt",
+  "input_chars": 7933,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__220.txt",
+  "out_char_budget": 5252
+ },
+ {
+  "key": "aae717ec9ace",
+  "file": "dataset.jsonl",
+  "id": 221,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/aae717ec9ace.txt",
+  "input_chars": 4825,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__221.txt",
+  "out_char_budget": 10418
+ },
+ {
+  "key": "7ecb49f9ac49",
+  "file": "dataset.jsonl",
+  "id": 222,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7ecb49f9ac49.txt",
+  "input_chars": 4009,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__222.txt",
+  "out_char_budget": 11332
+ },
+ {
+  "key": "d0176c1663b8",
+  "file": "dataset.jsonl",
+  "id": 223,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d0176c1663b8.txt",
+  "input_chars": 4016,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__223.txt",
+  "out_char_budget": 12056
+ },
+ {
+  "key": "1d5a65fda992",
+  "file": "dataset.jsonl",
+  "id": 224,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1d5a65fda992.txt",
+  "input_chars": 8766,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__224.txt",
+  "out_char_budget": 4312
+ },
+ {
+  "key": "c6ed319adfb2",
+  "file": "dataset.jsonl",
+  "id": 225,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c6ed319adfb2.txt",
+  "input_chars": 9267,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__225.txt",
+  "out_char_budget": 4708
+ },
+ {
+  "key": "8141c9dc242f",
+  "file": "dataset.jsonl",
+  "id": 226,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/8141c9dc242f.txt",
+  "input_chars": 10696,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__226.txt",
+  "out_char_budget": 4719
+ },
+ {
+  "key": "3a11e6352c26",
+  "file": "dataset.jsonl",
+  "id": 227,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/3a11e6352c26.txt",
+  "input_chars": 9805,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__227.txt",
+  "out_char_budget": 4550
+ },
+ {
+  "key": "05f0d99f6b56",
+  "file": "dataset.jsonl",
+  "id": 228,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/05f0d99f6b56.txt",
+  "input_chars": 9237,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__228.txt",
+  "out_char_budget": 5824
+ },
+ {
+  "key": "7851584f1627",
+  "file": "dataset.jsonl",
+  "id": 229,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7851584f1627.txt",
+  "input_chars": 8175,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__229.txt",
+  "out_char_budget": 6058
+ },
+ {
+  "key": "ffa11b0d2af2",
+  "file": "dataset.jsonl",
+  "id": 230,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ffa11b0d2af2.txt",
+  "input_chars": 4750,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__230.txt",
+  "out_char_budget": 11026
+ },
+ {
+  "key": "de8c47c7e948",
+  "file": "dataset.jsonl",
+  "id": 231,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/de8c47c7e948.txt",
+  "input_chars": 10884,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__231.txt",
+  "out_char_budget": 2912
+ },
+ {
+  "key": "fdb9fbb4c2e4",
+  "file": "dataset.jsonl",
+  "id": 232,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/fdb9fbb4c2e4.txt",
+  "input_chars": 7614,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__232.txt",
+  "out_char_budget": 6638
+ },
+ {
+  "key": "24367c3b13e3",
+  "file": "dataset.jsonl",
+  "id": 233,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/24367c3b13e3.txt",
+  "input_chars": 8669,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__233.txt",
+  "out_char_budget": 6876
+ },
+ {
+  "key": "5ab7d00342f7",
+  "file": "dataset.jsonl",
+  "id": 234,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5ab7d00342f7.txt",
+  "input_chars": 7963,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__234.txt",
+  "out_char_budget": 5360
+ },
+ {
+  "key": "62b4882c9cdb",
+  "file": "dataset.jsonl",
+  "id": 235,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/62b4882c9cdb.txt",
+  "input_chars": 4887,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__235.txt",
+  "out_char_budget": 10774
+ },
+ {
+  "key": "601678b84377",
+  "file": "dataset.jsonl",
+  "id": 236,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/601678b84377.txt",
+  "input_chars": 8434,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__236.txt",
+  "out_char_budget": 4629
+ },
+ {
+  "key": "ea9a02982101",
+  "file": "dataset.jsonl",
+  "id": 237,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ea9a02982101.txt",
+  "input_chars": 6968,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__237.txt",
+  "out_char_budget": 8564
+ },
+ {
+  "key": "97a222607cb7",
+  "file": "dataset.jsonl",
+  "id": 238,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/97a222607cb7.txt",
+  "input_chars": 7505,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__238.txt",
+  "out_char_budget": 6498
+ },
+ {
+  "key": "efacb2ce9d21",
+  "file": "dataset.jsonl",
+  "id": 239,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/efacb2ce9d21.txt",
+  "input_chars": 7273,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__239.txt",
+  "out_char_budget": 7732
+ },
+ {
+  "key": "e942a578915f",
+  "file": "dataset.jsonl",
+  "id": 240,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e942a578915f.txt",
+  "input_chars": 2599,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__240.txt",
+  "out_char_budget": 14616
+ },
+ {
+  "key": "825a45aae073",
+  "file": "dataset.jsonl",
+  "id": 241,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/825a45aae073.txt",
+  "input_chars": 8176,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__241.txt",
+  "out_char_budget": 5756
+ },
+ {
+  "key": "388c33e37466",
+  "file": "dataset.jsonl",
+  "id": 242,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/388c33e37466.txt",
+  "input_chars": 8490,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__242.txt",
+  "out_char_budget": 7189
+ },
+ {
+  "key": "dc86301d00cf",
+  "file": "dataset.jsonl",
+  "id": 243,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/dc86301d00cf.txt",
+  "input_chars": 7655,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__243.txt",
+  "out_char_budget": 7110
+ },
+ {
+  "key": "66efd2492df5",
+  "file": "dataset.jsonl",
+  "id": 244,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/66efd2492df5.txt",
+  "input_chars": 9730,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__244.txt",
+  "out_char_budget": 4849
+ },
+ {
+  "key": "4fbf67c4ec44",
+  "file": "dataset.jsonl",
+  "id": 245,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/4fbf67c4ec44.txt",
+  "input_chars": 9189,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__245.txt",
+  "out_char_budget": 4330
+ },
+ {
+  "key": "2c5f5ce20e30",
+  "file": "dataset.jsonl",
+  "id": 246,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/2c5f5ce20e30.txt",
+  "input_chars": 9438,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__246.txt",
+  "out_char_budget": 3794
+ },
+ {
+  "key": "96b1e02bbed4",
+  "file": "dataset.jsonl",
+  "id": 247,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/96b1e02bbed4.txt",
+  "input_chars": 9759,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__247.txt",
+  "out_char_budget": 2376
+ },
+ {
+  "key": "28cc847dda3d",
+  "file": "dataset.jsonl",
+  "id": 248,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/28cc847dda3d.txt",
+  "input_chars": 8900,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__248.txt",
+  "out_char_budget": 4442
+ },
+ {
+  "key": "ae6d89889a4e",
+  "file": "dataset.jsonl",
+  "id": 249,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ae6d89889a4e.txt",
+  "input_chars": 10359,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__249.txt",
+  "out_char_budget": 4762
+ },
+ {
+  "key": "a00edfec9b8b",
+  "file": "dataset.jsonl",
+  "id": 250,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a00edfec9b8b.txt",
+  "input_chars": 8260,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__250.txt",
+  "out_char_budget": 4374
+ },
+ {
+  "key": "7723e3b910a6",
+  "file": "dataset.jsonl",
+  "id": 251,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7723e3b910a6.txt",
+  "input_chars": 3188,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__251.txt",
+  "out_char_budget": 12988
+ },
+ {
+  "key": "e4f8ebbc043a",
+  "file": "dataset.jsonl",
+  "id": 252,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e4f8ebbc043a.txt",
+  "input_chars": 4898,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__252.txt",
+  "out_char_budget": 11682
+ },
+ {
+  "key": "0cfc318dedff",
+  "file": "dataset.jsonl",
+  "id": 253,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0cfc318dedff.txt",
+  "input_chars": 8343,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__253.txt",
+  "out_char_budget": 4874
+ },
+ {
+  "key": "1df3e88f335b",
+  "file": "dataset.jsonl",
+  "id": 254,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1df3e88f335b.txt",
+  "input_chars": 8590,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__254.txt",
+  "out_char_budget": 5720
+ },
+ {
+  "key": "e8ba5267e203",
+  "file": "dataset.jsonl",
+  "id": 255,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e8ba5267e203.txt",
+  "input_chars": 2223,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__255.txt",
+  "out_char_budget": 14598
+ },
+ {
+  "key": "66591dc9b3b8",
+  "file": "dataset.jsonl",
+  "id": 256,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/66591dc9b3b8.txt",
+  "input_chars": 6941,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__256.txt",
+  "out_char_budget": 7236
+ },
+ {
+  "key": "a3853f7b5089",
+  "file": "dataset.jsonl",
+  "id": 257,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a3853f7b5089.txt",
+  "input_chars": 8900,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__257.txt",
+  "out_char_budget": 4719
+ },
+ {
+  "key": "71dd260b0d4f",
+  "file": "dataset.jsonl",
+  "id": 258,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/71dd260b0d4f.txt",
+  "input_chars": 5713,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__258.txt",
+  "out_char_budget": 10314
+ },
+ {
+  "key": "23d2fcb7063d",
+  "file": "dataset.jsonl",
+  "id": 259,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/23d2fcb7063d.txt",
+  "input_chars": 10351,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__259.txt",
+  "out_char_budget": 4474
+ },
+ {
+  "key": "9f63135f3643",
+  "file": "dataset.jsonl",
+  "id": 260,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9f63135f3643.txt",
+  "input_chars": 4293,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__260.txt",
+  "out_char_budget": 12459
+ },
+ {
+  "key": "c8f2a5f6ece3",
+  "file": "dataset.jsonl",
+  "id": 261,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c8f2a5f6ece3.txt",
+  "input_chars": 2605,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__261.txt",
+  "out_char_budget": 13809
+ },
+ {
+  "key": "f5c914e03b9e",
+  "file": "dataset.jsonl",
+  "id": 262,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f5c914e03b9e.txt",
+  "input_chars": 9371,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__262.txt",
+  "out_char_budget": 3643
+ },
+ {
+  "key": "37e5ea750a8f",
+  "file": "dataset.jsonl",
+  "id": 263,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/37e5ea750a8f.txt",
+  "input_chars": 9138,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__263.txt",
+  "out_char_budget": 5468
+ },
+ {
+  "key": "d36f11910f35",
+  "file": "dataset.jsonl",
+  "id": 264,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d36f11910f35.txt",
+  "input_chars": 8322,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__264.txt",
+  "out_char_budget": 7578
+ },
+ {
+  "key": "73ac1103aec8",
+  "file": "dataset.jsonl",
+  "id": 265,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/73ac1103aec8.txt",
+  "input_chars": 9360,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__265.txt",
+  "out_char_budget": 5090
+ },
+ {
+  "key": "d511f62a2621",
+  "file": "dataset.jsonl",
+  "id": 266,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d511f62a2621.txt",
+  "input_chars": 9879,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__266.txt",
+  "out_char_budget": 3718
+ },
+ {
+  "key": "d062c315be33",
+  "file": "dataset.jsonl",
+  "id": 267,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d062c315be33.txt",
+  "input_chars": 9494,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__267.txt",
+  "out_char_budget": 5079
+ },
+ {
+  "key": "c8696e93f160",
+  "file": "dataset.jsonl",
+  "id": 268,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c8696e93f160.txt",
+  "input_chars": 9318,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__268.txt",
+  "out_char_budget": 4640
+ },
+ {
+  "key": "549a58575cd5",
+  "file": "dataset.jsonl",
+  "id": 269,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/549a58575cd5.txt",
+  "input_chars": 5602,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__269.txt",
+  "out_char_budget": 10393
+ },
+ {
+  "key": "b089965b3bb8",
+  "file": "dataset.jsonl",
+  "id": 270,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b089965b3bb8.txt",
+  "input_chars": 3757,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__270.txt",
+  "out_char_budget": 13024
+ },
+ {
+  "key": "83a63a3e31bb",
+  "file": "dataset.jsonl",
+  "id": 271,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/83a63a3e31bb.txt",
+  "input_chars": 7470,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__271.txt",
+  "out_char_budget": 7682
+ },
+ {
+  "key": "3d75c74bc69e",
+  "file": "dataset.jsonl",
+  "id": 272,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/3d75c74bc69e.txt",
+  "input_chars": 6347,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__272.txt",
+  "out_char_budget": 9205
+ },
+ {
+  "key": "db7a09bdeeb7",
+  "file": "dataset.jsonl",
+  "id": 273,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/db7a09bdeeb7.txt",
+  "input_chars": 8512,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__273.txt",
+  "out_char_budget": 5425
+ },
+ {
+  "key": "863b0ac72728",
+  "file": "dataset.jsonl",
+  "id": 274,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/863b0ac72728.txt",
+  "input_chars": 2266,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__274.txt",
+  "out_char_budget": 15156
+ },
+ {
+  "key": "443374ca025b",
+  "file": "dataset.jsonl",
+  "id": 275,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/443374ca025b.txt",
+  "input_chars": 3368,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__275.txt",
+  "out_char_budget": 12769
+ },
+ {
+  "key": "60bae4fd32d2",
+  "file": "dataset.jsonl",
+  "id": 276,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/60bae4fd32d2.txt",
+  "input_chars": 1380,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__276.txt",
+  "out_char_budget": 16038
+ },
+ {
+  "key": "b2e95a8a00a1",
+  "file": "dataset.jsonl",
+  "id": 277,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b2e95a8a00a1.txt",
+  "input_chars": 9388,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__277.txt",
+  "out_char_budget": 4654
+ },
+ {
+  "key": "2bd909d2ae7f",
+  "file": "dataset.jsonl",
+  "id": 278,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/2bd909d2ae7f.txt",
+  "input_chars": 7772,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__278.txt",
+  "out_char_budget": 7527
+ },
+ {
+  "key": "6643e3aed903",
+  "file": "dataset.jsonl",
+  "id": 279,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/6643e3aed903.txt",
+  "input_chars": 10922,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__279.txt",
+  "out_char_budget": 3225
+ },
+ {
+  "key": "50073bb2add6",
+  "file": "dataset.jsonl",
+  "id": 280,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/50073bb2add6.txt",
+  "input_chars": 8091,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__280.txt",
+  "out_char_budget": 7372
+ },
+ {
+  "key": "0ebb116155e5",
+  "file": "dataset.jsonl",
+  "id": 281,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0ebb116155e5.txt",
+  "input_chars": 9597,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__281.txt",
+  "out_char_budget": 4543
+ },
+ {
+  "key": "83cc248436e5",
+  "file": "dataset.jsonl",
+  "id": 282,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/83cc248436e5.txt",
+  "input_chars": 9944,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__282.txt",
+  "out_char_budget": 4849
+ },
+ {
+  "key": "c50f3e9e7554",
+  "file": "dataset.jsonl",
+  "id": 283,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c50f3e9e7554.txt",
+  "input_chars": 3358,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__283.txt",
+  "out_char_budget": 13413
+ },
+ {
+  "key": "f9529e9649c5",
+  "file": "dataset.jsonl",
+  "id": 284,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f9529e9649c5.txt",
+  "input_chars": 6948,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__284.txt",
+  "out_char_budget": 7664
+ },
+ {
+  "key": "b6e7efff2873",
+  "file": "dataset.jsonl",
+  "id": 285,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b6e7efff2873.txt",
+  "input_chars": 7507,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__285.txt",
+  "out_char_budget": 7358
+ },
+ {
+  "key": "0657c313088d",
+  "file": "dataset.jsonl",
+  "id": 286,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0657c313088d.txt",
+  "input_chars": 5180,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__286.txt",
+  "out_char_budget": 11070
+ },
+ {
+  "key": "9ab60d2ed2c7",
+  "file": "dataset.jsonl",
+  "id": 287,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9ab60d2ed2c7.txt",
+  "input_chars": 10009,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__287.txt",
+  "out_char_budget": 4233
+ },
+ {
+  "key": "d3ddc3bb1b6f",
+  "file": "dataset.jsonl",
+  "id": 288,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d3ddc3bb1b6f.txt",
+  "input_chars": 9824,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__288.txt",
+  "out_char_budget": 4586
+ },
+ {
+  "key": "56f1f8a58a36",
+  "file": "dataset.jsonl",
+  "id": 289,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/56f1f8a58a36.txt",
+  "input_chars": 2549,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__289.txt",
+  "out_char_budget": 13626
+ },
+ {
+  "key": "182915f77d3d",
+  "file": "dataset.jsonl",
+  "id": 290,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/182915f77d3d.txt",
+  "input_chars": 1686,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__290.txt",
+  "out_char_budget": 15476
+ },
+ {
+  "key": "b603b3f6ddd2",
+  "file": "dataset.jsonl",
+  "id": 291,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b603b3f6ddd2.txt",
+  "input_chars": 3425,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__291.txt",
+  "out_char_budget": 13309
+ },
+ {
+  "key": "91e20211e5d7",
+  "file": "dataset.jsonl",
+  "id": 292,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/91e20211e5d7.txt",
+  "input_chars": 8611,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__292.txt",
+  "out_char_budget": 6314
+ },
+ {
+  "key": "c6ca930ff1eb",
+  "file": "dataset.jsonl",
+  "id": 293,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c6ca930ff1eb.txt",
+  "input_chars": 2436,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__293.txt",
+  "out_char_budget": 14731
+ },
+ {
+  "key": "f0ef289f6c75",
+  "file": "dataset.jsonl",
+  "id": 294,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f0ef289f6c75.txt",
+  "input_chars": 9585,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__294.txt",
+  "out_char_budget": 3099
+ },
+ {
+  "key": "e90592a05be3",
+  "file": "dataset.jsonl",
+  "id": 295,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e90592a05be3.txt",
+  "input_chars": 5881,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__295.txt",
+  "out_char_budget": 7804
+ },
+ {
+  "key": "0d9979e7c671",
+  "file": "dataset.jsonl",
+  "id": 296,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0d9979e7c671.txt",
+  "input_chars": 7764,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__296.txt",
+  "out_char_budget": 5850
+ },
+ {
+  "key": "c5277cc3774f",
+  "file": "dataset.jsonl",
+  "id": 297,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c5277cc3774f.txt",
+  "input_chars": 10507,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__297.txt",
+  "out_char_budget": 4982
+ },
+ {
+  "key": "ab1620a599b7",
+  "file": "dataset.jsonl",
+  "id": 298,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ab1620a599b7.txt",
+  "input_chars": 8786,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__298.txt",
+  "out_char_budget": 5320
+ },
+ {
+  "key": "50ace9c1d84e",
+  "file": "dataset.jsonl",
+  "id": 299,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/50ace9c1d84e.txt",
+  "input_chars": 9550,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__299.txt",
+  "out_char_budget": 5868
+ },
+ {
+  "key": "c07682653c30",
+  "file": "dataset.jsonl",
+  "id": 300,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c07682653c30.txt",
+  "input_chars": 6917,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__300.txt",
+  "out_char_budget": 8456
+ },
+ {
+  "key": "45ea63ea3489",
+  "file": "dataset.jsonl",
+  "id": 301,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/45ea63ea3489.txt",
+  "input_chars": 8151,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__301.txt",
+  "out_char_budget": 7736
+ },
+ {
+  "key": "5a09181a5c02",
+  "file": "dataset.jsonl",
+  "id": 302,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5a09181a5c02.txt",
+  "input_chars": 8113,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__302.txt",
+  "out_char_budget": 6055
+ },
+ {
+  "key": "b8071a8fc0ce",
+  "file": "dataset.jsonl",
+  "id": 303,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b8071a8fc0ce.txt",
+  "input_chars": 1025,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__303.txt",
+  "out_char_budget": 16628
+ },
+ {
+  "key": "fcd7043cd4a1",
+  "file": "dataset.jsonl",
+  "id": 304,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/fcd7043cd4a1.txt",
+  "input_chars": 2339,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__304.txt",
+  "out_char_budget": 14140
+ },
+ {
+  "key": "8702d1357bae",
+  "file": "dataset.jsonl",
+  "id": 305,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/8702d1357bae.txt",
+  "input_chars": 11399,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__305.txt",
+  "out_char_budget": 2858
+ },
+ {
+  "key": "2e4ad2cd52b5",
+  "file": "dataset.jsonl",
+  "id": 306,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/2e4ad2cd52b5.txt",
+  "input_chars": 7557,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__306.txt",
+  "out_char_budget": 7196
+ },
+ {
+  "key": "2f9cfa1120b8",
+  "file": "dataset.jsonl",
+  "id": 307,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/2f9cfa1120b8.txt",
+  "input_chars": 8987,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__307.txt",
+  "out_char_budget": 4428
+ },
+ {
+  "key": "79c9ab6a9535",
+  "file": "dataset.jsonl",
+  "id": 308,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/79c9ab6a9535.txt",
+  "input_chars": 5590,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__308.txt",
+  "out_char_budget": 9673
+ },
+ {
+  "key": "bd46f4847797",
+  "file": "dataset.jsonl",
+  "id": 309,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/bd46f4847797.txt",
+  "input_chars": 6530,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__309.txt",
+  "out_char_budget": 7419
+ },
+ {
+  "key": "735a895a1a93",
+  "file": "dataset.jsonl",
+  "id": 310,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/735a895a1a93.txt",
+  "input_chars": 5913,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__310.txt",
+  "out_char_budget": 8989
+ },
+ {
+  "key": "1eca68902f45",
+  "file": "dataset.jsonl",
+  "id": 311,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1eca68902f45.txt",
+  "input_chars": 880,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__311.txt",
+  "out_char_budget": 16866
+ },
+ {
+  "key": "36df95ec975a",
+  "file": "dataset.jsonl",
+  "id": 312,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/36df95ec975a.txt",
+  "input_chars": 8376,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__312.txt",
+  "out_char_budget": 6483
+ },
+ {
+  "key": "d05e875f24e0",
+  "file": "dataset.jsonl",
+  "id": 313,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d05e875f24e0.txt",
+  "input_chars": 1505,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__313.txt",
+  "out_char_budget": 15580
+ },
+ {
+  "key": "130b22c0d3e1",
+  "file": "dataset.jsonl",
+  "id": 314,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/130b22c0d3e1.txt",
+  "input_chars": 8845,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__314.txt",
+  "out_char_budget": 5436
+ },
+ {
+  "key": "0b38eb263940",
+  "file": "dataset.jsonl",
+  "id": 315,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0b38eb263940.txt",
+  "input_chars": 9386,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__315.txt",
+  "out_char_budget": 5932
+ },
+ {
+  "key": "70e3de7a2682",
+  "file": "dataset.jsonl",
+  "id": 316,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/70e3de7a2682.txt",
+  "input_chars": 7650,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__316.txt",
+  "out_char_budget": 7286
+ },
+ {
+  "key": "85c23c1e78c9",
+  "file": "dataset.jsonl",
+  "id": 317,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/85c23c1e78c9.txt",
+  "input_chars": 6271,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__317.txt",
+  "out_char_budget": 8492
+ },
+ {
+  "key": "65a362200c99",
+  "file": "dataset.jsonl",
+  "id": 318,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/65a362200c99.txt",
+  "input_chars": 4060,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__318.txt",
+  "out_char_budget": 12826
+ },
+ {
+  "key": "ffd7cba1611e",
+  "file": "dataset.jsonl",
+  "id": 319,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ffd7cba1611e.txt",
+  "input_chars": 3977,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__319.txt",
+  "out_char_budget": 12924
+ },
+ {
+  "key": "63fb2c66efe2",
+  "file": "dataset.jsonl",
+  "id": 320,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/63fb2c66efe2.txt",
+  "input_chars": 9273,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__320.txt",
+  "out_char_budget": 3668
+ },
+ {
+  "key": "9d13f9ddef85",
+  "file": "dataset.jsonl",
+  "id": 321,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9d13f9ddef85.txt",
+  "input_chars": 6341,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__321.txt",
+  "out_char_budget": 10018
+ },
+ {
+  "key": "d4a4e883c95c",
+  "file": "dataset.jsonl",
+  "id": 322,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d4a4e883c95c.txt",
+  "input_chars": 7285,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__322.txt",
+  "out_char_budget": 8377
+ },
+ {
+  "key": "a5d539109086",
+  "file": "dataset.jsonl",
+  "id": 323,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a5d539109086.txt",
+  "input_chars": 10331,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__323.txt",
+  "out_char_budget": 4568
+ },
+ {
+  "key": "57cd74c7f1e1",
+  "file": "dataset.jsonl",
+  "id": 324,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/57cd74c7f1e1.txt",
+  "input_chars": 10082,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__324.txt",
+  "out_char_budget": 3470
+ },
+ {
+  "key": "d9445950c93d",
+  "file": "dataset.jsonl",
+  "id": 325,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d9445950c93d.txt",
+  "input_chars": 7384,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__325.txt",
+  "out_char_budget": 8229
+ },
+ {
+  "key": "5af38ab68489",
+  "file": "dataset.jsonl",
+  "id": 326,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5af38ab68489.txt",
+  "input_chars": 1896,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__326.txt",
+  "out_char_budget": 15393
+ },
+ {
+  "key": "322fed1aa7df",
+  "file": "dataset.jsonl",
+  "id": 327,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/322fed1aa7df.txt",
+  "input_chars": 7274,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__327.txt",
+  "out_char_budget": 8305
+ },
+ {
+  "key": "f430022f3761",
+  "file": "dataset.jsonl",
+  "id": 328,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f430022f3761.txt",
+  "input_chars": 8351,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__328.txt",
+  "out_char_budget": 5108
+ },
+ {
+  "key": "c0a62e7a9c21",
+  "file": "dataset.jsonl",
+  "id": 329,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c0a62e7a9c21.txt",
+  "input_chars": 9597,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__329.txt",
+  "out_char_budget": 2530
+ },
+ {
+  "key": "f9adc96b1db9",
+  "file": "dataset.jsonl",
+  "id": 330,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f9adc96b1db9.txt",
+  "input_chars": 9988,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__330.txt",
+  "out_char_budget": 4590
+ },
+ {
+  "key": "fdd101845a9b",
+  "file": "dataset.jsonl",
+  "id": 331,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/fdd101845a9b.txt",
+  "input_chars": 4373,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__331.txt",
+  "out_char_budget": 12528
+ },
+ {
+  "key": "360c3eb8eb23",
+  "file": "dataset.jsonl",
+  "id": 332,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/360c3eb8eb23.txt",
+  "input_chars": 6260,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__332.txt",
+  "out_char_budget": 8989
+ },
+ {
+  "key": "07ddb268b6e3",
+  "file": "dataset.jsonl",
+  "id": 333,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/07ddb268b6e3.txt",
+  "input_chars": 11256,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__333.txt",
+  "out_char_budget": 3031
+ },
+ {
+  "key": "375c34083cd5",
+  "file": "dataset.jsonl",
+  "id": 334,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/375c34083cd5.txt",
+  "input_chars": 6404,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__334.txt",
+  "out_char_budget": 9363
+ },
+ {
+  "key": "621d66e88f4c",
+  "file": "dataset.jsonl",
+  "id": 335,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/621d66e88f4c.txt",
+  "input_chars": 9219,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__335.txt",
+  "out_char_budget": 4748
+ },
+ {
+  "key": "4f00e84ef45a",
+  "file": "dataset.jsonl",
+  "id": 336,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/4f00e84ef45a.txt",
+  "input_chars": 8365,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__336.txt",
+  "out_char_budget": 5137
+ },
+ {
+  "key": "214a50424053",
+  "file": "dataset.jsonl",
+  "id": 337,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/214a50424053.txt",
+  "input_chars": 10597,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__337.txt",
+  "out_char_budget": 4719
+ },
+ {
+  "key": "5c2974632bac",
+  "file": "dataset.jsonl",
+  "id": 338,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5c2974632bac.txt",
+  "input_chars": 8953,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__338.txt",
+  "out_char_budget": 4996
+ },
+ {
+  "key": "e675abbd2978",
+  "file": "dataset.jsonl",
+  "id": 339,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e675abbd2978.txt",
+  "input_chars": 9241,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__339.txt",
+  "out_char_budget": 4568
+ },
+ {
+  "key": "1c3d19f94c74",
+  "file": "dataset.jsonl",
+  "id": 340,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1c3d19f94c74.txt",
+  "input_chars": 7487,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__340.txt",
+  "out_char_budget": 7365
+ },
+ {
+  "key": "fc5172b63c08",
+  "file": "dataset.jsonl",
+  "id": 341,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/fc5172b63c08.txt",
+  "input_chars": 5354,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__341.txt",
+  "out_char_budget": 9802
+ },
+ {
+  "key": "9f737590d9eb",
+  "file": "dataset.jsonl",
+  "id": 342,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9f737590d9eb.txt",
+  "input_chars": 9181,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__342.txt",
+  "out_char_budget": 6246
+ },
+ {
+  "key": "3fffd7f9b55a",
+  "file": "dataset.jsonl",
+  "id": 343,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/3fffd7f9b55a.txt",
+  "input_chars": 9087,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__343.txt",
+  "out_char_budget": 5000
+ },
+ {
+  "key": "e0cf01371e80",
+  "file": "dataset.jsonl",
+  "id": 344,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e0cf01371e80.txt",
+  "input_chars": 2693,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__344.txt",
+  "out_char_budget": 14374
+ },
+ {
+  "key": "74b5ec490cb9",
+  "file": "dataset.jsonl",
+  "id": 345,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/74b5ec490cb9.txt",
+  "input_chars": 5664,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__345.txt",
+  "out_char_budget": 9799
+ },
+ {
+  "key": "7aa4931de751",
+  "file": "dataset.jsonl",
+  "id": 346,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7aa4931de751.txt",
+  "input_chars": 9393,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__346.txt",
+  "out_char_budget": 4168
+ },
+ {
+  "key": "37ed875ab8d0",
+  "file": "dataset.jsonl",
+  "id": 347,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/37ed875ab8d0.txt",
+  "input_chars": 6755,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__347.txt",
+  "out_char_budget": 8197
+ },
+ {
+  "key": "01d552c60136",
+  "file": "dataset.jsonl",
+  "id": 348,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/01d552c60136.txt",
+  "input_chars": 4020,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__348.txt",
+  "out_char_budget": 12848
+ },
+ {
+  "key": "247c1ba8dbc9",
+  "file": "dataset.jsonl",
+  "id": 349,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/247c1ba8dbc9.txt",
+  "input_chars": 3787,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__349.txt",
+  "out_char_budget": 13010
+ },
+ {
+  "key": "b88c6e77c2d2",
+  "file": "dataset.jsonl",
+  "id": 350,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b88c6e77c2d2.txt",
+  "input_chars": 8116,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__350.txt",
+  "out_char_budget": 6786
+ },
+ {
+  "key": "7960733b1fac",
+  "file": "dataset.jsonl",
+  "id": 351,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7960733b1fac.txt",
+  "input_chars": 8066,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__351.txt",
+  "out_char_budget": 4964
+ },
+ {
+  "key": "78f007263843",
+  "file": "dataset.jsonl",
+  "id": 352,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/78f007263843.txt",
+  "input_chars": 2461,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__352.txt",
+  "out_char_budget": 14943
+ },
+ {
+  "key": "5403c2707700",
+  "file": "dataset.jsonl",
+  "id": 353,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5403c2707700.txt",
+  "input_chars": 8504,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__353.txt",
+  "out_char_budget": 6210
+ },
+ {
+  "key": "cf09ef3ad428",
+  "file": "dataset.jsonl",
+  "id": 354,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/cf09ef3ad428.txt",
+  "input_chars": 7524,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__354.txt",
+  "out_char_budget": 6836
+ },
+ {
+  "key": "6a94b4e41561",
+  "file": "dataset.jsonl",
+  "id": 355,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/6a94b4e41561.txt",
+  "input_chars": 6121,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__355.txt",
+  "out_char_budget": 9442
+ },
+ {
+  "key": "82360149197d",
+  "file": "dataset.jsonl",
+  "id": 356,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/82360149197d.txt",
+  "input_chars": 7565,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__356.txt",
+  "out_char_budget": 7351
+ },
+ {
+  "key": "53c811933a1e",
+  "file": "dataset.jsonl",
+  "id": 357,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/53c811933a1e.txt",
+  "input_chars": 8365,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__357.txt",
+  "out_char_budget": 4939
+ },
+ {
+  "key": "77df05851dbf",
+  "file": "dataset.jsonl",
+  "id": 358,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/77df05851dbf.txt",
+  "input_chars": 1893,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__358.txt",
+  "out_char_budget": 14724
+ },
+ {
+  "key": "0cda52732351",
+  "file": "dataset.jsonl",
+  "id": 359,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0cda52732351.txt",
+  "input_chars": 2315,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__359.txt",
+  "out_char_budget": 14299
+ },
+ {
+  "key": "45ad3a76009e",
+  "file": "dataset.jsonl",
+  "id": 360,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/45ad3a76009e.txt",
+  "input_chars": 3119,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__360.txt",
+  "out_char_budget": 13842
+ },
+ {
+  "key": "a290f32d325e",
+  "file": "dataset.jsonl",
+  "id": 361,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a290f32d325e.txt",
+  "input_chars": 8891,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__361.txt",
+  "out_char_budget": 4014
+ },
+ {
+  "key": "7c1729d51f94",
+  "file": "dataset.jsonl",
+  "id": 362,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7c1729d51f94.txt",
+  "input_chars": 8439,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__362.txt",
+  "out_char_budget": 4968
+ },
+ {
+  "key": "3bad9a972ced",
+  "file": "dataset.jsonl",
+  "id": 363,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/3bad9a972ced.txt",
+  "input_chars": 5859,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__363.txt",
+  "out_char_budget": 9028
+ },
+ {
+  "key": "7f05a47f0daa",
+  "file": "dataset.jsonl",
+  "id": 364,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7f05a47f0daa.txt",
+  "input_chars": 7903,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__364.txt",
+  "out_char_budget": 6127
+ },
+ {
+  "key": "709e3a5a49d0",
+  "file": "dataset.jsonl",
+  "id": 365,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/709e3a5a49d0.txt",
+  "input_chars": 9723,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__365.txt",
+  "out_char_budget": 4906
+ },
+ {
+  "key": "c56a16a53005",
+  "file": "dataset.jsonl",
+  "id": 366,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c56a16a53005.txt",
+  "input_chars": 7414,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__366.txt",
+  "out_char_budget": 8384
+ },
+ {
+  "key": "1e8b1a82e4e4",
+  "file": "dataset.jsonl",
+  "id": 367,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1e8b1a82e4e4.txt",
+  "input_chars": 6226,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__367.txt",
+  "out_char_budget": 8456
+ },
+ {
+  "key": "235a1ee7d584",
+  "file": "dataset.jsonl",
+  "id": 368,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/235a1ee7d584.txt",
+  "input_chars": 2847,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__368.txt",
+  "out_char_budget": 13975
+ },
+ {
+  "key": "04bfb0deb1ac",
+  "file": "dataset.jsonl",
+  "id": 369,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/04bfb0deb1ac.txt",
+  "input_chars": 8450,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__369.txt",
+  "out_char_budget": 5760
+ },
+ {
+  "key": "c14450ee29b4",
+  "file": "dataset.jsonl",
+  "id": 370,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c14450ee29b4.txt",
+  "input_chars": 10238,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__370.txt",
+  "out_char_budget": 4870
+ },
+ {
+  "key": "0313c7742879",
+  "file": "dataset.jsonl",
+  "id": 371,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0313c7742879.txt",
+  "input_chars": 9959,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__371.txt",
+  "out_char_budget": 5011
+ },
+ {
+  "key": "6ecf70ddfbea",
+  "file": "dataset.jsonl",
+  "id": 372,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/6ecf70ddfbea.txt",
+  "input_chars": 9006,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__372.txt",
+  "out_char_budget": 4798
+ },
+ {
+  "key": "16d033f58edf",
+  "file": "dataset.jsonl",
+  "id": 373,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/16d033f58edf.txt",
+  "input_chars": 3199,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__373.txt",
+  "out_char_budget": 13410
+ },
+ {
+  "key": "6f345eb7fa8f",
+  "file": "dataset.jsonl",
+  "id": 374,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/6f345eb7fa8f.txt",
+  "input_chars": 1921,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__374.txt",
+  "out_char_budget": 14979
+ },
+ {
+  "key": "4273adb79226",
+  "file": "dataset.jsonl",
+  "id": 375,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/4273adb79226.txt",
+  "input_chars": 7469,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__375.txt",
+  "out_char_budget": 7120
+ },
+ {
+  "key": "b2cf6edd9585",
+  "file": "dataset.jsonl",
+  "id": 376,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b2cf6edd9585.txt",
+  "input_chars": 9089,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__376.txt",
+  "out_char_budget": 3225
+ },
+ {
+  "key": "fca558025a33",
+  "file": "dataset.jsonl",
+  "id": 377,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/fca558025a33.txt",
+  "input_chars": 8511,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__377.txt",
+  "out_char_budget": 6706
+ },
+ {
+  "key": "f450f1e30f18",
+  "file": "dataset.jsonl",
+  "id": 378,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f450f1e30f18.txt",
+  "input_chars": 10164,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__378.txt",
+  "out_char_budget": 4428
+ },
+ {
+  "key": "1b4d0131a401",
+  "file": "dataset.jsonl",
+  "id": 379,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1b4d0131a401.txt",
+  "input_chars": 6459,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__379.txt",
+  "out_char_budget": 8452
+ },
+ {
+  "key": "f0fd0e40828e",
+  "file": "dataset.jsonl",
+  "id": 380,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f0fd0e40828e.txt",
+  "input_chars": 1372,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__380.txt",
+  "out_char_budget": 15717
+ },
+ {
+  "key": "5659805bf2cb",
+  "file": "dataset.jsonl",
+  "id": 381,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5659805bf2cb.txt",
+  "input_chars": 8139,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__381.txt",
+  "out_char_budget": 4885
+ },
+ {
+  "key": "0e3c9b263757",
+  "file": "dataset.jsonl",
+  "id": 382,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0e3c9b263757.txt",
+  "input_chars": 1670,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__382.txt",
+  "out_char_budget": 15141
+ },
+ {
+  "key": "923bea0d4e2b",
+  "file": "dataset.jsonl",
+  "id": 383,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/923bea0d4e2b.txt",
+  "input_chars": 9278,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__383.txt",
+  "out_char_budget": 4273
+ },
+ {
+  "key": "3c4d0b282d42",
+  "file": "dataset.jsonl",
+  "id": 384,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/3c4d0b282d42.txt",
+  "input_chars": 6886,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__384.txt",
+  "out_char_budget": 8798
+ },
+ {
+  "key": "962bd12ff21c",
+  "file": "dataset.jsonl",
+  "id": 385,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/962bd12ff21c.txt",
+  "input_chars": 6896,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__385.txt",
+  "out_char_budget": 7956
+ },
+ {
+  "key": "c6f179cf81d4",
+  "file": "dataset.jsonl",
+  "id": 386,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c6f179cf81d4.txt",
+  "input_chars": 7288,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__386.txt",
+  "out_char_budget": 6796
+ },
+ {
+  "key": "4b03123dc449",
+  "file": "dataset.jsonl",
+  "id": 387,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/4b03123dc449.txt",
+  "input_chars": 2433,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__387.txt",
+  "out_char_budget": 14407
+ },
+ {
+  "key": "dccf4c98980b",
+  "file": "dataset.jsonl",
+  "id": 388,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/dccf4c98980b.txt",
+  "input_chars": 10215,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__388.txt",
+  "out_char_budget": 4132
+ },
+ {
+  "key": "9aae5d0960d0",
+  "file": "dataset.jsonl",
+  "id": 389,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9aae5d0960d0.txt",
+  "input_chars": 10413,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__389.txt",
+  "out_char_budget": 4554
+ },
+ {
+  "key": "f1cd61451248",
+  "file": "dataset.jsonl",
+  "id": 390,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f1cd61451248.txt",
+  "input_chars": 2280,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__390.txt",
+  "out_char_budget": 14853
+ },
+ {
+  "key": "df7bdd5ad84b",
+  "file": "dataset.jsonl",
+  "id": 391,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/df7bdd5ad84b.txt",
+  "input_chars": 9339,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__391.txt",
+  "out_char_budget": 5090
+ },
+ {
+  "key": "cc1ad76d89f8",
+  "file": "dataset.jsonl",
+  "id": 392,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/cc1ad76d89f8.txt",
+  "input_chars": 7482,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__392.txt",
+  "out_char_budget": 6566
+ },
+ {
+  "key": "74494aaee61e",
+  "file": "dataset.jsonl",
+  "id": 393,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/74494aaee61e.txt",
+  "input_chars": 8291,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__393.txt",
+  "out_char_budget": 6840
+ },
+ {
+  "key": "731beb5c6cc0",
+  "file": "dataset.jsonl",
+  "id": 394,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/731beb5c6cc0.txt",
+  "input_chars": 9008,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__394.txt",
+  "out_char_budget": 6541
+ },
+ {
+  "key": "0252b78727e8",
+  "file": "dataset.jsonl",
+  "id": 395,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0252b78727e8.txt",
+  "input_chars": 10340,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__395.txt",
+  "out_char_budget": 4201
+ },
+ {
+  "key": "5e7ce60667ea",
+  "file": "dataset.jsonl",
+  "id": 396,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5e7ce60667ea.txt",
+  "input_chars": 1435,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__396.txt",
+  "out_char_budget": 15912
+ },
+ {
+  "key": "6d60ea88442a",
+  "file": "dataset.jsonl",
+  "id": 397,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/6d60ea88442a.txt",
+  "input_chars": 9779,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__397.txt",
+  "out_char_budget": 4294
+ },
+ {
+  "key": "b0115be4db76",
+  "file": "dataset.jsonl",
+  "id": 398,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b0115be4db76.txt",
+  "input_chars": 6995,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__398.txt",
+  "out_char_budget": 8870
+ },
+ {
+  "key": "879cdee271ec",
+  "file": "dataset.jsonl",
+  "id": 399,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/879cdee271ec.txt",
+  "input_chars": 8690,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__399.txt",
+  "out_char_budget": 5716
+ },
+ {
+  "key": "647c38b67cc3",
+  "file": "dataset.jsonl",
+  "id": 400,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/647c38b67cc3.txt",
+  "input_chars": 9311,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__400.txt",
+  "out_char_budget": 4442
+ },
+ {
+  "key": "0fbc8c6cef0a",
+  "file": "dataset.jsonl",
+  "id": 401,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0fbc8c6cef0a.txt",
+  "input_chars": 8582,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__401.txt",
+  "out_char_budget": 4622
+ },
+ {
+  "key": "10569c3f891a",
+  "file": "dataset.jsonl",
+  "id": 402,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/10569c3f891a.txt",
+  "input_chars": 9786,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__402.txt",
+  "out_char_budget": 4597
+ },
+ {
+  "key": "7076e2b7cb08",
+  "file": "dataset.jsonl",
+  "id": 403,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7076e2b7cb08.txt",
+  "input_chars": 3088,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__403.txt",
+  "out_char_budget": 13845
+ },
+ {
+  "key": "5eff86c7f9e7",
+  "file": "dataset.jsonl",
+  "id": 404,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5eff86c7f9e7.txt",
+  "input_chars": 1500,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__404.txt",
+  "out_char_budget": 16052
+ },
+ {
+  "key": "85d2743006cc",
+  "file": "dataset.jsonl",
+  "id": 405,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/85d2743006cc.txt",
+  "input_chars": 7863,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__405.txt",
+  "out_char_budget": 6098
+ },
+ {
+  "key": "86d7a6955d66",
+  "file": "dataset.jsonl",
+  "id": 406,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/86d7a6955d66.txt",
+  "input_chars": 6929,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__406.txt",
+  "out_char_budget": 6123
+ },
+ {
+  "key": "42507d426476",
+  "file": "dataset.jsonl",
+  "id": 407,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/42507d426476.txt",
+  "input_chars": 9702,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__407.txt",
+  "out_char_budget": 5702
+ },
+ {
+  "key": "1fefbd377ab0",
+  "file": "dataset.jsonl",
+  "id": 408,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1fefbd377ab0.txt",
+  "input_chars": 3187,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__408.txt",
+  "out_char_budget": 13489
+ },
+ {
+  "key": "b436d9001b75",
+  "file": "dataset.jsonl",
+  "id": 409,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b436d9001b75.txt",
+  "input_chars": 7739,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__409.txt",
+  "out_char_budget": 6148
+ },
+ {
+  "key": "a943614595ac",
+  "file": "dataset.jsonl",
+  "id": 410,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a943614595ac.txt",
+  "input_chars": 9570,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__410.txt",
+  "out_char_budget": 4212
+ },
+ {
+  "key": "1d3b43c767bd",
+  "file": "dataset.jsonl",
+  "id": 411,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/1d3b43c767bd.txt",
+  "input_chars": 8534,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__411.txt",
+  "out_char_budget": 4777
+ },
+ {
+  "key": "ba941b6c958f",
+  "file": "dataset.jsonl",
+  "id": 412,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ba941b6c958f.txt",
+  "input_chars": 10952,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__412.txt",
+  "out_char_budget": 4665
+ },
+ {
+  "key": "9765d2b59fc8",
+  "file": "dataset.jsonl",
+  "id": 413,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/9765d2b59fc8.txt",
+  "input_chars": 10118,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__413.txt",
+  "out_char_budget": 4330
+ },
+ {
+  "key": "98d250cfd0d6",
+  "file": "dataset.jsonl",
+  "id": 414,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/98d250cfd0d6.txt",
+  "input_chars": 4706,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__414.txt",
+  "out_char_budget": 11498
+ },
+ {
+  "key": "2981adae1c16",
+  "file": "dataset.jsonl",
+  "id": 415,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/2981adae1c16.txt",
+  "input_chars": 10291,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__415.txt",
+  "out_char_budget": 3096
+ },
+ {
+  "key": "0ed15c24cc28",
+  "file": "dataset.jsonl",
+  "id": 416,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/0ed15c24cc28.txt",
+  "input_chars": 6951,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__416.txt",
+  "out_char_budget": 7344
+ },
+ {
+  "key": "7f6d7a3f5972",
+  "file": "dataset.jsonl",
+  "id": 417,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/7f6d7a3f5972.txt",
+  "input_chars": 9206,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__417.txt",
+  "out_char_budget": 4557
+ },
+ {
+  "key": "ced8686252e1",
+  "file": "dataset.jsonl",
+  "id": 418,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ced8686252e1.txt",
+  "input_chars": 9750,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__418.txt",
+  "out_char_budget": 5364
+ },
+ {
+  "key": "cba8be52d767",
+  "file": "dataset.jsonl",
+  "id": 419,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/cba8be52d767.txt",
+  "input_chars": 8526,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__419.txt",
+  "out_char_budget": 5461
+ },
+ {
+  "key": "d24e4fc15076",
+  "file": "dataset.jsonl",
+  "id": 420,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d24e4fc15076.txt",
+  "input_chars": 5776,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__420.txt",
+  "out_char_budget": 10663
+ },
+ {
+  "key": "c4228aef8eaa",
+  "file": "dataset.jsonl",
+  "id": 421,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c4228aef8eaa.txt",
+  "input_chars": 8750,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__421.txt",
+  "out_char_budget": 6552
+ },
+ {
+  "key": "a38b8f8c7cb6",
+  "file": "dataset.jsonl",
+  "id": 422,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a38b8f8c7cb6.txt",
+  "input_chars": 9491,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__422.txt",
+  "out_char_budget": 4561
+ },
+ {
+  "key": "03cbdeea6dd0",
+  "file": "dataset.jsonl",
+  "id": 423,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/03cbdeea6dd0.txt",
+  "input_chars": 8031,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__423.txt",
+  "out_char_budget": 6447
+ },
+ {
+  "key": "810534a315b9",
+  "file": "dataset.jsonl",
+  "id": 424,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/810534a315b9.txt",
+  "input_chars": 6100,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__424.txt",
+  "out_char_budget": 10652
+ },
+ {
+  "key": "8f1dbb48fd98",
+  "file": "dataset.jsonl",
+  "id": 425,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/8f1dbb48fd98.txt",
+  "input_chars": 3713,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__425.txt",
+  "out_char_budget": 12931
+ },
+ {
+  "key": "e38be355db18",
+  "file": "dataset.jsonl",
+  "id": 426,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e38be355db18.txt",
+  "input_chars": 1617,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__426.txt",
+  "out_char_budget": 16066
+ },
+ {
+  "key": "fa6e955fdb01",
+  "file": "dataset.jsonl",
+  "id": 427,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/fa6e955fdb01.txt",
+  "input_chars": 10364,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__427.txt",
+  "out_char_budget": 3880
+ },
+ {
+  "key": "5b8d01688972",
+  "file": "dataset.jsonl",
+  "id": 428,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5b8d01688972.txt",
+  "input_chars": 4519,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__428.txt",
+  "out_char_budget": 11239
+ },
+ {
+  "key": "923e902445f2",
+  "file": "dataset.jsonl",
+  "id": 429,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/923e902445f2.txt",
+  "input_chars": 10219,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__429.txt",
+  "out_char_budget": 4460
+ },
+ {
+  "key": "d2d92d8ecc42",
+  "file": "dataset.jsonl",
+  "id": 430,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/d2d92d8ecc42.txt",
+  "input_chars": 10614,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__430.txt",
+  "out_char_budget": 4564
+ },
+ {
+  "key": "71a1dd1abde9",
+  "file": "dataset.jsonl",
+  "id": 431,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/71a1dd1abde9.txt",
+  "input_chars": 10125,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__431.txt",
+  "out_char_budget": 4608
+ },
+ {
+  "key": "c55d9630dcb8",
+  "file": "dataset.jsonl",
+  "id": 432,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/c55d9630dcb8.txt",
+  "input_chars": 6336,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__432.txt",
+  "out_char_budget": 9406
+ },
+ {
+  "key": "058c36e0f9b2",
+  "file": "dataset.jsonl",
+  "id": 433,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/058c36e0f9b2.txt",
+  "input_chars": 4599,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__433.txt",
+  "out_char_budget": 11707
+ },
+ {
+  "key": "5e2252181b51",
+  "file": "dataset.jsonl",
+  "id": 434,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5e2252181b51.txt",
+  "input_chars": 8203,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__434.txt",
+  "out_char_budget": 6148
+ },
+ {
+  "key": "6087c7201b3c",
+  "file": "dataset.jsonl",
+  "id": 435,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/6087c7201b3c.txt",
+  "input_chars": 6510,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__435.txt",
+  "out_char_budget": 7556
+ },
+ {
+  "key": "06e406eee6e5",
+  "file": "dataset.jsonl",
+  "id": 436,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/06e406eee6e5.txt",
+  "input_chars": 2625,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__436.txt",
+  "out_char_budget": 13874
+ },
+ {
+  "key": "43b6c2c81e47",
+  "file": "dataset.jsonl",
+  "id": 437,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/43b6c2c81e47.txt",
+  "input_chars": 9722,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__437.txt",
+  "out_char_budget": 5266
+ },
+ {
+  "key": "e2d44b60979b",
+  "file": "dataset.jsonl",
+  "id": 438,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/e2d44b60979b.txt",
+  "input_chars": 10914,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__438.txt",
+  "out_char_budget": 2930
+ },
+ {
+  "key": "b8c448d54a97",
+  "file": "dataset.jsonl",
+  "id": 439,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/b8c448d54a97.txt",
+  "input_chars": 2400,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__439.txt",
+  "out_char_budget": 14151
+ },
+ {
+  "key": "115eb9947b1f",
+  "file": "dataset.jsonl",
+  "id": 440,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/115eb9947b1f.txt",
+  "input_chars": 7745,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__440.txt",
+  "out_char_budget": 8074
+ },
+ {
+  "key": "a4e1cfca6eb4",
+  "file": "dataset.jsonl",
+  "id": 441,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/a4e1cfca6eb4.txt",
+  "input_chars": 9066,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__441.txt",
+  "out_char_budget": 4395
+ },
+ {
+  "key": "ce59869a17a5",
+  "file": "dataset.jsonl",
+  "id": 442,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/ce59869a17a5.txt",
+  "input_chars": 10380,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__442.txt",
+  "out_char_budget": 3646
+ },
+ {
+  "key": "cf4bc080aaf6",
+  "file": "dataset.jsonl",
+  "id": 443,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/cf4bc080aaf6.txt",
+  "input_chars": 8724,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__443.txt",
+  "out_char_budget": 5428
+ },
+ {
+  "key": "645d9027f5a5",
+  "file": "dataset.jsonl",
+  "id": 444,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/645d9027f5a5.txt",
+  "input_chars": 5605,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__444.txt",
+  "out_char_budget": 10026
+ },
+ {
+  "key": "85562d5d6f85",
+  "file": "dataset.jsonl",
+  "id": 445,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/85562d5d6f85.txt",
+  "input_chars": 5632,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__445.txt",
+  "out_char_budget": 10029
+ },
+ {
+  "key": "51f04661d154",
+  "file": "dataset.jsonl",
+  "id": 446,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/51f04661d154.txt",
+  "input_chars": 8876,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__446.txt",
+  "out_char_budget": 6433
+ },
+ {
+  "key": "5a8b119c4183",
+  "file": "dataset.jsonl",
+  "id": 447,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5a8b119c4183.txt",
+  "input_chars": 1712,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__447.txt",
+  "out_char_budget": 15404
+ },
+ {
+  "key": "f4f2880520e0",
+  "file": "dataset.jsonl",
+  "id": 448,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/f4f2880520e0.txt",
+  "input_chars": 10112,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__448.txt",
+  "out_char_budget": 4669
+ },
+ {
+  "key": "5f86739a2972",
+  "file": "dataset.jsonl",
+  "id": 449,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/5f86739a2972.txt",
+  "input_chars": 9914,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__449.txt",
+  "out_char_budget": 4903
+ },
+ {
+  "key": "88fa86e63f5c",
+  "file": "dataset.jsonl",
+  "id": 450,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/88fa86e63f5c.txt",
+  "input_chars": 7648,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__450.txt",
+  "out_char_budget": 7444
+ },
+ {
+  "key": "cf88f8cda347",
+  "file": "dataset.jsonl",
+  "id": 451,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/cf88f8cda347.txt",
+  "input_chars": 8145,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__451.txt",
+  "out_char_budget": 6602
+ },
+ {
+  "key": "31048dacfb45",
+  "file": "dataset.jsonl",
+  "id": 452,
+  "stem": "dataset",
+  "input_path": "/app/fine-tuning-scripts/_regen_work/inputs/31048dacfb45.txt",
+  "input_chars": 8450,
+  "output_path": "/app/fine-tuning-scripts/_ready_outputs/dataset__452.txt",
+  "out_char_budget": 4741
+ }
+]

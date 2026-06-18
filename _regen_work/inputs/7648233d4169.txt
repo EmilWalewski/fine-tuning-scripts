@@ -1,0 +1,63 @@
+DOKUMENT SEKCJA: **4.2. Koszty** | **4.3. Klienci** | **4.4. Działania marketingowe**
+
+## **4.2. Koszty**
+Koszty działalności operacyjnej w III kwartale 2025 r. ukształtowały się na poziomie 322,7 mln PLN i były o 114,1 mln PLN wyższe od tych rok wcześniej (III kwartał 2024 r.: 208,5 mln PLN). Najistotniejsze zmiany wystąpiły w:  
+- kosztach marketingowych, wzrost o 69,9 mln PLN wynikający głównie z wyższych nakładów na kampanie marketingowe online oraz offline;  
+- kosztach wynagrodzeń i świadczeń pracowniczych, wzrost o 26,1 mln PLN, głównie za sprawą wzrostu zatrudnienia;  
+- pozostałych usługach obcych, wzrost o 11,4 mln PLN w następstwie poniesienia głównie wyższych nakładów na: (i) systemy IT i licencje (wzrost o 6,7 mln PLN r/r), (ii) dostarczanie danych rynkowych (wzrost o 1,6 mln PLN r/r) oraz (iii) usługi prawne i doradcze (wzrost o 1,6 mln PLN r/r).  
+**OKRES 3 MIESIĘCY ZAKOŃCZONY OKRES 9 MIESIĘCY ZAKOŃCZONY**  
+| **OKRES3 MIESIĘCY ZAKOŃCZONY** **OKRES9 MIESIĘCY ZAKOŃCZONY** **(w tys. PLN)** **30.09.2025** | **30.09.2024** | **30.09.2025** | **30.09.2024** |  |
+| --- | --- | --- | --- | --- |
+| Marketing | 141 495 | 71 613 | 405 851 | 227 953 |
+| Wynagrodzenia i świadczenia pracownicze | 105 157 | 79 018 | 297 857 | 227 297 |
+| Pozostałe usługi obce | 31 958 | 20 581 | 96 728 | 56 178 |
+| Koszty prowizji | 25 306 | 24 722 | 79 810 | 68 642 |
+| Amortyzacja | 6 552 | 5 066 | 18 396 | 14 782 |
+| Podatki i opłaty | 4 775 | 1 669 | 11 396 | 10 339 |
+| Pozostałe koszty | 4 699 | 4 021 | 13 195 | 7 968 |
+| Koszty utrzymania i wynajmu budynków | 2 712 | 1 836 | 8 149 | 5 740 |
+| **Koszty działalności operacyjnej** **razem** | **322 654** | **208 526** | **931 382** | **618 899** |
+90  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+W ujęciu k/k koszty działalności operacyjnej były wyższe o 29,7 mln PLN, na co główny wpływ miał wzrost o 18,2 mln PLN nakładów na działania marketingowe offline oraz online, następnie wzrost o 7,5 mln PLN kosztów wynagrodzeń i świadczeń pracowniczych, wynikających głównie ze wzrostu zatrudnienia.  
+W związku z dynamicznym rozwojem XTB, Zarząd ocenia, że w 2025 r. łączne koszty działalności operacyjnej mogą kształtować się na poziomie wyższym nawet o około 40% do tego, jaki zaobserwowaliśmy w 2024 r. Priorytetem Zarządu jest dalszy przyrost bazy klienckiej oraz budowanie marki globalnej. W konsekwencji realizowanych działań nakłady na marketing mogą wzrosnąć nawet o około 80% w stosunku do roku 2024, przy jednoczesnym założeniu, że średni koszt pozyskania klienta powinien być porównywalny do tego jaki zaobserwowaliśmy w latach 2023 - 2024.  
+Ostateczny poziom kosztów działalności operacyjnej uzależniony będzie w szczególności: od tempa wzrostu zatrudnienia i wysokości zmiennych składników wynagrodzeń wypłaconych pracownikom, poziomu wydatków marketingowych, tempa ekspansji geograficznej na nowe rynki oraz wpływu ewentualnych nowych regulacji i innych czynników zewnętrznych na poziom przychodów osiąganych przez Grupę.  
+Poziom wydatków marketingowych uzależniony będzie od oceny ich wpływu na wyniki i rentowność Grupy, tempa ekspansji zagranicznej oraz stopnia responsywności klientów na podejmowane działania. Do wzrostu zatrudnienia w Grupie przyczyniać się będzie jej dynamiczny rozwój, zarówno na nowych, jak i istniejących już rynkach. Z kolei na wysokość zmiennych składników wynagrodzeń wpływać będą wyniki Grupy
+
+## **4.3. Klienci**
+XTB posiada solidny fundament w postaci stale rosnącej bazy oraz liczby aktywnych klientów. W III kwartale 2025 r. Grupa odnotowała kolejny rekord w tym obszarze pozyskując 221 762 nowych klientów wobec 108 104 rok wcześniej, co daje wzrost o 105,1%. Analogicznie do liczby nowych klientów, rekordowa była także liczba aktywnych klientów. Wzrosła ona z 522 899 do 919 976, tj. o 56,9% r/r.  
+| **OKRES 3MIESIĘCY** **ZAKOŃCZONY** | **30.09.2025** | **30.06.2025** | **31.03.2025** | **31.12.2024** | **30.09.2024** | **30.06.2024** | **31.03.2024** | **31.12.2023** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nowi klienci1 | **221 762** | 167 339 | 194 304 | 158 018 | 108 104 | 102 569 | 129 747 | 77 267 |
+| Klienci razem2 | **1 904 475** | 1 704 256 | 1 543 785 | 1 361 564 | 1 213 554 | 1 113 554 | 1 018 899 | 897 573 |
+| Liczba aktywnych klientów w okresie3 | **1 005 589** | 853 938 | 735 389 | 701 089 | 586 395 | 502 554 | 416 607 | 418 423 |
+| Liczba aktywnych klientów w kwartale | **919 976** | 812 519 | 735 389 | 608 271 | 522 899 | 470 811 | 416 607 | 335 406 |
+| Koszty działalności operacyjnej razem, w tym:(w tys. PLN) | **322 654** | 292 911 | 315 817 | 267 802 | 208 526 | 205 408 | 204 965 | 187 669 |
+| _- Marketing_ _(w tys. PLN)_ | **_141 495_** | _123 322_ | _141 034_ | _116 855_ | _71 613_ | _75 234_ | _81 106_ | _69 081_ |
+| Średni koszt pozyskania klienta (w tys. PLN)4 | **0,6** | 0,7 | 0,7 | 0,7 | 0,7 | 0,7 | 0,6 | 0,9 |
+_1 Liczba nowych klientów Grupy w poszczególnych kwartałach._  
+_2 Liczba klientów na koniec poszczególnych kwartałów._  
+_3 Liczba aktywnych klientów odpowiednio w okresie 9, 6 i 3 miesięcy 2025 r. oraz 12, 9, 6 i 3 miesięcy 2024 r. oraz 12 miesięcy 2023 r. Aktywny klient, to klient, który w okresie: (i) przeprowadził co najmniej jedną transakcję i/lub (ii) posiadał otwartą pozycję, i/lub (iii) posiadał wolne środki na rachunku objęte oprocentowaniem. 4 Średni koszt pozyskania klienta zdefiniowany jest jako wydatki marketingowe w kwartale podzielone przez liczbę nowych klientów w tym samym kwartale._  
+91  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+| **OKRES ZAKOŃCZONY** | **9 MIESIĘCY** **12 MIESIĘCY** |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **30.09.2025** | **31.12.2024** | **31.12.2023** | **31.12.2022** | **31.12.2021** | **31.12.2020** | **31.12.2019** |  |
+| Nowi klienci1 | **583 405** | 498 438 | 311 971 | 196 864 | 189 187 | 112 025 | 36 555 |
+| Klienci razem2 | **1 904 475** | 1 361 564 | 897 573 | 614 934 | 429 157 | 255 791 | 149 304 |
+| Liczba aktywnych klientów w okresie3 | **1 005 589** | 701 089 | 418 423 | 270 560 | 193 180 | 108 312 | 46 642 |
+| Koszty działalności operacyjnej razem, w tym:(w tys. PLN) | **931 382** | 886 701 | 694 231 | 558 567 | 348 772 | 282 004 | 173 892 |
+| _- Marketing (w tys. PLN)_ | **_405 851_** | _344 808_ | _263 924_ | _222 369_ | _120 101_ | _87 731_ | _37 716_ |
+| Średni koszt pozyskania klienta (w tys. PLN)4 | **0,7** | 0,7 | 0,8 | 1,1 | 0,6 | 0,8 | 1,0 |
+_1 Liczba nowych klientów Grupy w poszczególnych okresach. 2 Liczba klientów na koniec poszczególnych okresów._  
+_3 Liczba aktywnych klientów odpowiednio w okresie 9 miesięcy 2025 r. oraz w okresie 12 miesięcy w poszczególnych latach. Aktywny klient, to klient, który w okresie: (i) przeprowadził co najmniej jedną transakcję i/lub (ii) posiadał otwartą pozycję, i/lub (iii) posiadał wolne środki na rachunku objęte oprocentowaniem. 4 Średni koszt pozyskania klienta zdefiniowany jest jako wydatki marketingowe w danym okresie podzielone przez liczbę nowych klientów w tym samym okresie._  
+Priorytetem Zarządu jest dalszy przyrost bazy klienckiej prowadzący do umocnienia pozycji rynkowej XTB na świecie poprzez dotarcie z ofertą produktową do klienta masowego. Działania te wspierane są i będą przez szereg inicjatyw, między innymi przez wprowadzanie do oferty nowych produktów, celowane akcje promocyjne czy też edukację finansową dedykowaną klientom Spółki oraz osobom zainteresowanym światem inwestycji. Ambicją Zarządu w 2025 r. jest pozyskiwanie średnio co najmniej 150 - 210 tys. nowych klientów kwartalnie. W następstwie realizowanych działań w październiku 2025 r. Grupa pozyskała łącznie **109 401 nowych klientów** .
+
+## **4.4. Działania marketingowe**
+Obok rozwoju technologii czy poszerzania oferty produktowej, siłą napędową XTB pozostają również działania marketingowe. Ich realizacja jest ściśle związana z celami strategicznymi Grupy: stałym zwiększaniem udziału w globalnym rynku fintechów, dążeniem do uzyskania pozycji jednego z liderów na międzynarodowym rynku usług inwestycyjnych oraz pozyskaniem klienta masowego.  
+W III kwartale 2025 r. trwały przygotowania do uruchomienia największej kampanii marketingowej w historii Grupy XTB. Ruszyła ona we wrześniu i objęła 13 rynków: Polskę, Czechy, Słowację, Węgry, Rumunię, Francję, Niemcy, Portugalię, Wielką Brytanię, Włochy, Chile, Bliski Wschód oraz Indonezję. Reklamy z udziałem ambasadora marki Zlatana Ibrahimovicia można oglądać w kanałach cyfrowych, social mediach, w telewizji i na platformach VOD. Na wybranych rynkach spoty pojawią się również w radio i w kinie. Wykorzystane zostaną także nośniki zewnętrzne tradycyjne oraz digital typu ekrany LED. Poszczególne działania będą uruchamiane stopniowo, a całość potrwa do końca bieżącego roku. Przekaz kampanii ma pomóc zmienić sposób, w jaki ludzie myślą o inwestowaniu, tak aby stało się ono stałym elementem codziennego życia.  
+92  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.

@@ -1,0 +1,266 @@
+DOKUMENT SEKCJA: **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO JEDNOSTKOWEGO SPRAWOZDANIA FINANSOWEGO** > **7.23 REZERWY DŁUGOTERMINOWE**
+
+41
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+7.37 KOSZTY ŚWIADCZEŃ PRACOWNICZYCH I ZATRUDNIENIE
+JŚREDNI STAN ZATRUDNIENIA (wraz z kadrą zarządczą) 01.01.-31.12.2025 01.01.-31.12.2024
+Poszczególne kategorie zatrudnionych (liczba zatrudnionych) 214 195
+Kategoria — umysłowi 207 195
+Kategoria — fizyczni 7 :
+|KOSZTY ŚWIADCZEŃ PRACOWNICZYCH (wraz z kadrą zarządczą) 01.01.-31.12.2025 01.01.-31.12.2024
+Koszty świadczeń pracowniczych
+Koszty wynagrodzeń, w tym m.in.: 64411 63 666
+- w tym koszty płatności w formie akcji (nota 7.44) - 1963
+Ubezpieczenia społeczne i inne świadczenia 11 308 11 452
+Koszty świadczeń pracowniczych - razem 75719 75118
+7.38 POZOSTAŁE PRZYCHODY OPERACYJNE
+|POZOSTAŁE PRZYCHODY OPERACYJNE 01.01.-31.12.2025 01.01.-31.12.2024
+Przychody z tytułu kar umownych, porozumień i odszkodowań 1011 550
+Rozwiązanie rezerwy na koszty i roszczenia 259 5812
+Zysk ze zbycia niefinansowych aktywów trwałych 512 330
+Pozostałe 835 4816
+Razem 2617 11 508
+7.39 POZOSTAŁE KOSZTY OPERACYJNE
+|POZOSTAŁE KOSZTY OPERACYJNE 01.01.-31.12.2025 01.01.-31.12.2024
+Rezerwa i koszty z tytułu kar i porozumień 460 8125
+Darowizny 2910 3861
+Rezerwa na pozostałe koszty 1087 862
+Odpisane nieściągalne należności 257 1502
+Koszty napraw i usterek (w tym zmiana rezerwy) 6232 7.035
+Koszty zaniechanych projektów - -
+Koszty nabycia spółek zależnych - -
+Pozostałe 897 1265
+Razem 11 843 22 650
+7.40 PRZYCHODY FINANSOWE
+Odsetki od lokat bankowych i pożyczek (część nieskapitalizowana) 53 615 48 557
+Otrzymane dywidendy 299 890 155 743
+Przychody z tytułu dyskontowania należności i zobowiązań 510 183
+Odsetki pozostałe 142 552
+Wycena instrumentów zabezpieczających CAP - -
+Pozostałe - 4429
+Razem 354 157 209 464
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+42
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+7.41 KOSZTY FINANSOWE
+Odsetki od kredytów i obligacji (część nieskapitalizowana) 32308 29 144
+Odsetki pozostałe 123 111
+Prowizje i opłaty 3614 1967
+Koszty z tytułu dyskontowania należności i zobowiązań 1283 2783
+Koszty finansowe leasingu 526 710
+Różnice kursowe 21 -
+Wycena instrumentów finansowych (opcje CAP) 2272 2380
+Strata ze zbycia inwestycji | 4138
+Pozostate 202 148
+Razem 40 349 41381
+7.42 KOSZTY FINANSOWE Z TYTUŁU ODSETEK
+Wartość kosztów finansowych (odsetek) aktywowanych w produkcji w toku 8038 2972
+Wartość kosztów finansowych (odsetek) ujętych w rachunku zysków i strat 32 432 29 256
+Całkowita wartość poniesionych kosztów finansowych z tytułu odsetek 40 470 32 228
+Koszty finansowe poniesione w wyniku finansowania projektów deweloperskich Spółki są co do zasady kapitalizowane jako
+produkcja w toku i dotyczą odsetek, prowizji i opłat od obligacji oraz kredytów.
+
+Koszty finansowe które nie zostały poniesione
+w celu finansowania projektów deweloperskich odnoszone są bezpośrednio do rachunków zysków i strat.
+
+7.43 TRANSAKCJE Z PODMIOTAMI POWIĄZANYMI
+W okresach dwunastu miesięcy zakończonych 31 grudnia 2025 i 2024 r. Spółka była stroną przedstawionych poniżej transakcji
+z podmiotami powiązanymi.
+
+Opisy transakcji przedstawione zostały w poniższych tabelach.
+
+Usługi konsultingowe
+Hansom Property Company Limited 2366 2077
+Zakup nieruchomości
+Dom Land sp. z 0.0. - 11073
+Umowy o współpracy
+Dom Development Wrocław sp. z 0.0. | 164
+Dom Development Kraków sp. z 0.0.
+
+85 94
+Usługi budowlane
+Dom Construction sp. z 0.0.
+
+796 139 852 356
+Pozostałe
+Dom Construction sp. z 0.0.
+
+58 89
+Euro Styl Montownia sp. z o.o.
+
+22 31
+Umowy o współpracy
+Dom Development Grunty sp. z 0.0.
+
+24 24
+Dom Development Kraków 1 sp. z 0.0. = 3
+Euro Styl S.A.
+
+6 191 5373
+Euro Styl Construction sp. z 0.0.
+
+45 6
+Dom Land sp. z 0.0.
+
+17 17
+Dom Development Wrocław sp. z 0.0.
+
+5089 4374
+Dom Construction sp. z 0.0.
+
+13 385 11 148
+Dom Development Kredyty sp. z 0.0.
+
+721 675
+Dom Development Kraków sp. z o.o.
+
+4359 3 648
+Dom Development Kraków 12 sp. z 0.0. = 21
+Fundacja Nasz Dom 2 2
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+43
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+Udzielona pożyczka
+Dom Development Wrocław sp. z 0.0.
+
+40 000 75 000
+Dom Development Kraków sp. z 0.0.
+
+158 000 160 000
+Dom Development Myśliborska sp. z 0.0.
+
+87 794 -
+Spłacona pożyczka
+Dom Development Wrocław sp. z 0.0. (170 000) (60 000)
+Dom Development Kraków sp. z 0.0. (50 750) (118 550)
+Otrzymane odsetki od pożyczki netto
+Dom Development Wrocław sp. z 0.0.
+
+9648 19 657
+Euro Styl S.A.
+
+9040 9743
+Dom Development Kraków sp. z 0.0.
+
+26918 20 204
+[DOM DEVELOPMENT S.A.
+
+JAKO WPŁACAJĄCY KAPITAŁ DO SPÓŁEK 01.01.-31.12.2025 _ 01.01.-31.12.2024
+ZALEZNYCH:
+Zwrot doptaty do kapitatu
+Dom Development Wroctaw sp. z 0.0. (13 500) (18 300)
+Wpłaty na kapitał zakładowy oraz dopłaty do kapitałów spółek zależnych są ujmowane w jednostkowym bilansie Spólki w pozycji
+Inwestycje w jednostkach zależnych, stowarzyszonych i wspólnym przedsięwzięciu.
+
+Dywidenda wypłacona
+Groupe Belleforét S.a r.l 197 966 176 756
+Dywidenda otrzymana
+Euro Styl S.A.
+
+191618 131201
+Dom Construction sp. z 0.0.
+
+29 146 20875
+Dom Development Wroctaw sp. z 0.0.
+
+35 489 -
+Dom Development Kredyty sp. z 0.0.
+
+5445 2399
+Dom Development Kraków sp. z 0.0.
+
+38 192 -
+Dom Development Kraków 12 sp. z 0.0. : 1268
+Należności od podmiotów powiązanych
+Saldo razem 586 091 537 565,
+Jednostki zależne 586 091 537 565
+Dom Development Wrocław sp. z 0.0. dopłaty do kapitału - 13 500
+Dom Development Wrocław sp. z o.o. udzielone pożyczki 65 000 195 000
+Dom Development Wrocław sp. z 0.0.
+
+1365 1399
+Euro Styl S.A. udzielone pożyczki 119 250 119 250
+Euro Styl S.A.
+
+1430 1973
+Euro Styl Construction sp. z 0.0.
+
+12 2
+Dom Development Kredyty sp. z 0.0.
+
+210 203
+Dom Construction sp. z 0.0.
+
+1667 3952
+Dom Development Kraków sp. z o.o. udzielone pożyczki 308 252 201 000
+Dom Development Kraków sp. z 0.0.
+
+1102 1286
+Fundacja Nasz Dom 2 -
+Dom Development Myśliborska sp. z 0.0.
+
+7 -
+Dom Development Myśliborska sp. z o.o. udzielone pożyczki 87 794 :
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+44
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+'ALDA Z PODMIOTAMI POWIĄZANYMI - salda z punktu widzenia Spółki 31.12.2025 31.12.2024
+Zobowiązania wobec podmiotów powiązanych
+Saldo razem 90 498 175 368
+Jednostki zależne 90 372 175 235
+Dom Construction sp. z 0.0.
+
+88 294 173 398
+Dom Construction sp. z o.o. kaucje 2077 1837
+Dom Development Kraków sp. z 0.0.
+
+1 -
+Pozostałe podmioty 126 133
+Hansom Property Company Limited 126 133
+Transakcje między podmiotami powiązanymi odbywają się na zasadach rynkowych.
+
+7.44 OPCJE NA AKCJE SPÓŁKI
+PLAN MOTYWACYJNY — PROGRAMY OPCJI MENEDZERSKICH
+Na dzień 31 grudnia 2025 r. i 31 grudnia 2024 r. Spółka nie realizowała już żadnych Programów Opcji Menedżerskich przyjętych
+w ramach Planu Motywacyjnego dla kadry kierowniczej Spółki.
+
+Przyznanie nowych opcji na akcje w ramach programu opcji menedżerskich
+W okresie dwunastu miesięcy zakończonym 31 grudnia 2025 roku Spółka nie przyznała nowych opcji na akcje.
+
+Wykonanie opcji na akcje w ramach programu opcji menedżerskich
+W okresie dwunastu miesięcy zakończonym 31 grudnia 2025 roku nie miało miejsca wykonanie opcji na akcje.
+
+Wygaśnięcie opcji na akcje w ramach programu opcji menedżerskich
+W okresie dwunastu miesięcy zakończonym 31 grudnia 2025 roku nie wygasły żadne opcje na akcje.
+
+OPCJE NA AKCJE PRZYDZIELONE I MOŻLIWE DO REALIZACJI NA POSZCZEGÓLNE DNI BILANSOWE ORAZ ZMIANY
+'W PREZENTOWANYCH OKRESACH
+JOPCJE NA AKCJE 01.01.-31.12.2025 01.01.-31.12.2024
+Opcje niezrealizowane Ilość o 200 000
+na początek okresu Całkowita cena realizacji - 10 000
+Opcje przyznane Ilość 5 -
+w okresie Całkowita wartość wykonania opcji - -
+Opcje wygasłe Ilość - 100 000
+w okresie Całkowita wartość wykonania opcji - 5.000
+Ilość - 100 000
+Opcje zrealizowane Całkowita wartość wykonania opcji - 5.000
+w okresie Średnia ważona cena wykonania opcji na jedną .
+
+50,00
+akcję (PLN/akcja) g
+Opcje niezrealizowane Ilość - -
+na koniec okresu Całkowita cena realizacji - -
+Opcje możliwe do zrealizowania Ilość = -
+na początek okresu Całkowita cena realizacji - -
+Opcje możliwe do zrealizowania Ilość o -
+na koniec okresu Całkowita cena realizacji - -
+JEDNOSTKOWE SPRAWOZDANIE FINANSOWE DOM DEVELOPMENT S.A.
+
+45
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU
+KOSZT OPCJI MENEDŻERSKICH ODNIESIONY DO RACHUNKU ZYSKÓW I STRAT I DO KAPITAŁÓW WŁASNYCH
+W okresach dwunastu miesięcy zakończonych 31 grudnia 2025 i 2024 roku do jednostkowego rachunku zysków i strat oraz na
+kapitał zapasowy odniesiono odpowiednio 0 tys. zł. oraz 1 963 tys. zł z tytułu przyznanych opcji menedżerskich.

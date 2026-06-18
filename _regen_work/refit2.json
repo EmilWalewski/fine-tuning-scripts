@@ -1,0 +1,506 @@
+[
+{
+"id": 4,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/2e9642d432eb.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__4.txt",
+"budget": 2956
+},
+{
+"id": 5,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/2e808436a763.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__5.txt",
+"budget": 2427
+},
+{
+"id": 10,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/71c77c5d870a.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__10.txt",
+"budget": 3049
+},
+{
+"id": 18,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/63e6395649d1.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__18.txt",
+"budget": 2405
+},
+{
+"id": 20,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/4364f12f5823.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__20.txt",
+"budget": 2850
+},
+{
+"id": 21,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/0ce18dc98814.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__21.txt",
+"budget": 2774
+},
+{
+"id": 22,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/818ecfecaa26.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__22.txt",
+"budget": 3869
+},
+{
+"id": 25,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/3eb4390a6654.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__25.txt",
+"budget": 3978
+},
+{
+"id": 29,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/c82a49cc7502.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__29.txt",
+"budget": 2458
+},
+{
+"id": 33,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/a8718723beb8.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__33.txt",
+"budget": 3695
+},
+{
+"id": 39,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/134d16656e93.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__39.txt",
+"budget": 2828
+},
+{
+"id": 40,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/106cdbd2c616.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__40.txt",
+"budget": 2965
+},
+{
+"id": 42,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/611a67c420e6.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__42.txt",
+"budget": 3108
+},
+{
+"id": 65,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/e536edc51132.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__65.txt",
+"budget": 4320
+},
+{
+"id": 75,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/1fc440aab6f7.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__75.txt",
+"budget": 2444
+},
+{
+"id": 83,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/55bab74027a0.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__83.txt",
+"budget": 3052
+},
+{
+"id": 89,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/30a45a2585f3.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__89.txt",
+"budget": 2881
+},
+{
+"id": 93,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/fd9b3d0e8796.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__93.txt",
+"budget": 3656
+},
+{
+"id": 96,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/936c8eadb9e9.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__96.txt",
+"budget": 2623
+},
+{
+"id": 104,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/ca202808903a.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__104.txt",
+"budget": 2878
+},
+{
+"id": 118,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/ab185c983846.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__118.txt",
+"budget": 3108
+},
+{
+"id": 119,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/17e16db1089b.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__119.txt",
+"budget": 3088
+},
+{
+"id": 120,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/fb1b1580cb12.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__120.txt",
+"budget": 3830
+},
+{
+"id": 121,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/ea52c7965250.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__121.txt",
+"budget": 2814
+},
+{
+"id": 124,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/9cc5723353d9.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__124.txt",
+"budget": 3757
+},
+{
+"id": 126,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/94b294602b35.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__126.txt",
+"budget": 4057
+},
+{
+"id": 142,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/ebb910c76ba2.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__142.txt",
+"budget": 2842
+},
+{
+"id": 148,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/9014aee1caf0.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__148.txt",
+"budget": 3449
+},
+{
+"id": 159,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/1b67147ef0e2.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__159.txt",
+"budget": 3234
+},
+{
+"id": 165,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/7686250b4464.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__165.txt",
+"budget": 3393
+},
+{
+"id": 167,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/15e4eee76df1.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__167.txt",
+"budget": 3802
+},
+{
+"id": 173,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/cdc2cb91410d.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__173.txt",
+"budget": 2881
+},
+{
+"id": 175,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/03852e6bc04c.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__175.txt",
+"budget": 3939
+},
+{
+"id": 177,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/dd75423f0e13.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__177.txt",
+"budget": 2822
+},
+{
+"id": 186,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/9f386a6e37a8.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__186.txt",
+"budget": 2758
+},
+{
+"id": 188,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/d91f413da259.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__188.txt",
+"budget": 2674
+},
+{
+"id": 189,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/1a1895e932a1.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__189.txt",
+"budget": 2802
+},
+{
+"id": 195,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/7b78f4a64914.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__195.txt",
+"budget": 2713
+},
+{
+"id": 198,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/0b93f9d223a4.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__198.txt",
+"budget": 3508
+},
+{
+"id": 199,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/d342db0124cc.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__199.txt",
+"budget": 3332
+},
+{
+"id": 209,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/25679ca9f83d.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__209.txt",
+"budget": 2923
+},
+{
+"id": 212,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/6109760fe386.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__212.txt",
+"budget": 3304
+},
+{
+"id": 215,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/1ca5b73880b4.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__215.txt",
+"budget": 2528
+},
+{
+"id": 219,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/71fe1387c5ca.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__219.txt",
+"budget": 1582
+},
+{
+"id": 229,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/7851584f1627.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__229.txt",
+"budget": 2343
+},
+{
+"id": 232,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/fdb9fbb4c2e4.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__232.txt",
+"budget": 2934
+},
+{
+"id": 246,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/2c5f5ce20e30.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__246.txt",
+"budget": 3032
+},
+{
+"id": 251,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/7723e3b910a6.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__251.txt",
+"budget": 2895
+},
+{
+"id": 256,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/66591dc9b3b8.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__256.txt",
+"budget": 2830
+},
+{
+"id": 280,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/50073bb2add6.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__280.txt",
+"budget": 1954
+},
+{
+"id": 293,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/c6ca930ff1eb.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__293.txt",
+"budget": 2623
+},
+{
+"id": 297,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/c5277cc3774f.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__297.txt",
+"budget": 4096
+},
+{
+"id": 298,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/ab1620a599b7.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__298.txt",
+"budget": 3760
+},
+{
+"id": 308,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/79c9ab6a9535.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__308.txt",
+"budget": 3287
+},
+{
+"id": 318,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/65a362200c99.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__318.txt",
+"budget": 3670
+},
+{
+"id": 325,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/d9445950c93d.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__325.txt",
+"budget": 4387
+},
+{
+"id": 327,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/322fed1aa7df.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__327.txt",
+"budget": 3049
+},
+{
+"id": 330,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/f9adc96b1db9.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__330.txt",
+"budget": 2492
+},
+{
+"id": 335,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/621d66e88f4c.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__335.txt",
+"budget": 3099
+},
+{
+"id": 341,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/fc5172b63c08.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__341.txt",
+"budget": 4054
+},
+{
+"id": 344,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/e0cf01371e80.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__344.txt",
+"budget": 2461
+},
+{
+"id": 350,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/b88c6e77c2d2.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__350.txt",
+"budget": 3849
+},
+{
+"id": 351,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/7960733b1fac.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__351.txt",
+"budget": 3057
+},
+{
+"id": 352,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/78f007263843.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__352.txt",
+"budget": 2564
+},
+{
+"id": 360,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/45ad3a76009e.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__360.txt",
+"budget": 5093
+},
+{
+"id": 368,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/235a1ee7d584.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__368.txt",
+"budget": 3987
+},
+{
+"id": 376,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/b2cf6edd9585.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__376.txt",
+"budget": 2704
+},
+{
+"id": 382,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/0e3c9b263757.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__382.txt",
+"budget": 2478
+},
+{
+"id": 391,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/df7bdd5ad84b.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__391.txt",
+"budget": 3961
+},
+{
+"id": 397,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/6d60ea88442a.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__397.txt",
+"budget": 3600
+},
+{
+"id": 401,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/0fbc8c6cef0a.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__401.txt",
+"budget": 4326
+},
+{
+"id": 403,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/7076e2b7cb08.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__403.txt",
+"budget": 2732
+},
+{
+"id": 408,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/1fefbd377ab0.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__408.txt",
+"budget": 2142
+},
+{
+"id": 419,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/cba8be52d767.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__419.txt",
+"budget": 3287
+},
+{
+"id": 420,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/d24e4fc15076.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__420.txt",
+"budget": 2917
+},
+{
+"id": 430,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/d2d92d8ecc42.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__430.txt",
+"budget": 4494
+},
+{
+"id": 431,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/71a1dd1abde9.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__431.txt",
+"budget": 2724
+},
+{
+"id": 434,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/5e2252181b51.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__434.txt",
+"budget": 3136
+},
+{
+"id": 438,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/e2d44b60979b.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__438.txt",
+"budget": 3052
+},
+{
+"id": 442,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/ce59869a17a5.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__442.txt",
+"budget": 2618
+},
+{
+"id": 444,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/645d9027f5a5.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__444.txt",
+"budget": 3452
+},
+{
+"id": 450,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/88fa86e63f5c.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__450.txt",
+"budget": 3793
+},
+{
+"id": 453,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/98e6c9017c9d.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__453.txt",
+"budget": 3220
+},
+{
+"id": 460,
+"input": "/Users/ewalewski/python/fine-tuning-scripts/_regen_work/inputs/495eba18c1ac.txt",
+"output": "/Users/ewalewski/python/fine-tuning-scripts/_ready_outputs/dataset__460.txt",
+"budget": 3343
+}
+]

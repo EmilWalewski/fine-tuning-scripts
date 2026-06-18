@@ -48,8 +48,8 @@ The four guarantees this workflow upholds, and why each matters:
 ## The pipeline
 
 ```
-build_manifest.py  →  [drive subagent batches]  →  leak_qa.py  →  merge_to_jsonl.py
-   (stage 1)            (stage 2, the core)         (stage 3)        (stage 4)
+build_manifest.py  →  [drive subagent batches]  →  leak_qa.py + validate_outputs.py  →  merge_to_jsonl.py
+   (stage 1)            (stage 2, the core)             (stage 3 QA)                  (stage 4)
 ```
 
 Scripts live in `scripts/`. Run them with the user's normal `python3`. They are
@@ -144,6 +144,7 @@ D="<out_dir>"; echo "files=$(ls "$D"|wc -l) empty=$(find "$D" -type f -empty|wc 
 
 ```bash
 python3 scripts/leak_qa.py --manifest <work>/manifest.json [--verbose]
+python3 scripts/validate_outputs.py --manifest <work>/manifest.json [--verbose]
 ```
 
 It flags any output containing a distinctive number (≥6 digits, dates excluded)
@@ -156,6 +157,14 @@ The date filter intentionally strips both numeric dates and English
 "Month D, YYYY" forms, because shared dates are the main source of false
 positives. A flagged number is strong evidence but not proof — eyeball flagged
 records with `--verbose` before acting.
+
+`validate_outputs.py` catches training-poison that leak detection cannot see:
+prompt-marker leakage (`### Instruction/Input/Output`), outputs over the stored
+character budget, likely truncated endings, suspicious million-unit formatting
+(`PLN 964,251M`), and common `tys. zł` conversion mistakes such as
+`56 887 tys. zł -> 568.9M PLN` instead of `56.9M PLN`. Any flagged record should
+be regenerated before merge: delete only its output file, re-run `remaining.py`,
+then repeat both QA commands.
 
 ---
 
@@ -180,7 +189,8 @@ result. Missing/empty outputs are skipped with a warning by default
 | 1 | `build_manifest.py --src F [--window 8100]` | manifest.json, inputs/, RULES.md |
 | 2 | `remaining.py --manifest M --limit 15` + spawn subagents | output `.txt` per chunk |
 | 3a | `leak_qa.py --manifest M` | CLEAN / flagged list (contamination) |
-| 3b | `measure_tokens.py --manifest M --src F --window 8192` | which records overflow the window |
+| 3b | `validate_outputs.py --manifest M` | prompt leaks, bad units, truncation, budget issues |
+| 3c | `measure_tokens.py --manifest M --src F --window 8192` | which records overflow the window |
 | 4 | `merge_to_jsonl.py --manifest M --src F --out NEW.jsonl` | merged dataset |
 
 **Length verification & re-fit.** After generation, run `measure_tokens.py` with

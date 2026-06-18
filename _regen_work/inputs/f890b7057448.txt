@@ -1,0 +1,77 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.4.1. Aktywa finansowe wyceniane w zamortyzowanym koszcie** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.4.2. Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.4.3. Wycena według wartości godziwej** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.4.4. Utrata wartości aktywów finansowych** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.4.5. Zobowiązania finansowe wyceniane w zamortyzowanym koszcie** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.4.6. Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.5. Wartości niematerialne** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.6. Rzeczowe aktywa trwałe**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.4.1. Aktywa finansowe wyceniane w zamortyzowanym koszcie**
+Składnik aktywów finansowych wycenia się w zamortyzowanym koszcie, jeśli spełnione są oba poniższe warunki:  
+- składnik aktywów finansowych jest utrzymywany zgodnie z modelem biznesowym, którego celem jest utrzymywanie aktywów finansowych dla uzyskiwania przepływów pieniężnych wynikających z umowy;  
+- warunki umowy dotyczącej składnika aktywów finansowych powodują powstawanie w określonych terminach przepływów pieniężnych, które są jedynie spłatą kwoty głównej i odsetek od kwoty głównej pozostałej do spłaty.  
+Przychody z tytułu odsetek oblicza się przy zastosowaniu metody efektywnej stopy procentowej i wykazuje się w sprawozdaniu z całkowitych dochodów w pozycji „Przychody finansowe”.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.4.2. Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy**
+Składnik aktywów finansowych, który nie spełnia kryteriów wyceny według zamortyzowanego kosztu wycenia się w wartości godziwej przez wynik finansowy.  
+Zysk lub stratę z wyceny inwestycji dłużnych do wartości godziwej ujmuje się w wyniku finansowym.  
+Dywidendy ujmowane są w sprawozdaniu z całkowitych dochodów wtedy, gdy powstaje uprawnienie jednostki do otrzymania dywidendy.  
+Grupa zalicza do tej kategorii głównie instrumenty pochodne OTC oraz akcje giełdowe.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.4.3. Wycena według wartości godziwej**
+Wartość godziwa jest to cena jaką w dniu wyceny można uzyskać za sprzedaż składnika aktywów albo zapłacić za przekazanie zobowiązania w zwykłej transakcji pomiędzy uczestnikami rynku.  
+W przypadku instrumentów finansowych dostępnych na aktywnym rynku, wartość godziwa jest mierzona na podstawie kwotowanych cen rynkowych. Rynek jest uważany za aktywny, jeśli kwotowane ceny są powszechnie i bezpośrednio dostępne i reprezentują aktualne i rzeczywiste zawarte transakcje między niepowiązanymi ze sobą stronami.  
+Jeśli dla instrumentu finansowego nie istnieje aktywny rynek, wartość godziwa jest ustalana na podstawie modeli wyceny.  
+Wartość godziwą instrumentu finansowego w ujęciu początkowym stanowi cena transakcyjna, czyli wartość godziwa kwoty zapłaconej lub otrzymanej.  
+16  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Grupa stosuje techniki wyceny, które są odpowiednie do okoliczności i w przypadku których są dostępne dostateczne dane do wyceny wartości godziwej, przy maksymalnym wykorzystaniu odpowiednich obserwowalnych danych wejściowych i minimalnym wykorzystaniu nieobserwowalnych danych wejściowych, a mianowicie:  
+- Poziom 1 - wycena oparta o dane w pełni obserwowalne (kwotowania aktywnego rynku);  
+- Poziom 2 - modele wyceny wykorzystujące informacje niestanowiące danych z poziomu 1, ale obserwowalne bezpośrednio lub pośrednio (notowania dla podobnych aktywów i pasywów pochodzące z aktywnych bądź nieaktywnych rynków);  
+- Poziom 3 - modele wyceny wykorzystujące dane nieobserwowalne (niepochodzące z aktywnego rynku).  
+Techniki wyceny przyjęte do ustalenia wartości godziwej są stosowane w sposób ciągły.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.4.4. Utrata wartości aktywów finansowych**
+Grupa ujmuje odpis z tytułu oczekiwanych strat kredytowych na składnikach aktywów finansowych wycenianych w zamortyzowanym koszcie. Ocenę, czy występują obiektywne dowody utraty wartości składnika aktywów finansowych lub grupy aktywów finansowych, przeprowadza się na koniec każdego okresu sprawozdawczego. Oczekiwane straty kredytowe są to straty kredytowe (ang. Expected Credit Loss – ECL) ważone prawdopodobieństwem wystąpienia niewykonania zobowiązania.  
+Odpisy z tytułu ECL są mierzone w kwocie równej ECL w horyzoncie 12-miesięcznym albo ECL w horyzoncie pozostałego czasu instrumentu, jeżeli zidentyfikowano dla nich istotny wzrost ryzyka kredytowego od momentu rozpoznania lub utratę wartości. Na każdy dzień kończący okres sprawozdawczy Grupa dokonuje analizy wystąpienia przesłanek skutkujących zaklasyfikowaniem aktywów finansowych do poszczególnych etapów wyznaczania odpisu z tytułu utraty wartości.  
+Oczekiwana strata kredytowa jest kalkulowana w momencie ujęcia należności w sprawozdaniu oraz jest aktualizowana na każdy kolejny dzień kończący okres sprawozdawczy, w zależności od ilości dni przeterminowania danej należności.  
+Wyliczoną, na moment początkowego ujęcia składnika aktywów finansowych, oczekiwaną utratę wartości oraz każde kolejne zwiększenie oczekiwanej straty kredytowej ujmuje się w wyniku finansowym.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.4.5. Zobowiązania finansowe wyceniane w zamortyzowanym koszcie**
+Zobowiązania finansowe wyceniane w zamortyzowanym koszcie, w tym kredyty bankowe i pożyczki, wycenia się przy początkowym ujęciu w wartości godziwej pomniejszonej o koszty transakcji.  
+Następnie wycenia się je według zamortyzowanego kosztu metodą efektywnej stopy procentowej.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.4.6. Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy**
+Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy obejmują zobowiązania finansowe przeznaczone do obrotu, jeśli:  
+- zostały podjęte przede wszystkim w celu odkupu w krótkim terminie,  
+- stanowią część określonego portfela instrumentów finansowych, którymi Grupa zarządza łącznie zgodnie z bieżącym i faktycznym wzorcem generowania krótkoterminowych zysków,  
+- są instrumentem pochodnym niesklasyfikowanym i niedziałającym jako zabezpieczenie.  
+W momencie początkowego ujęcia jednostka może nieodwołalnie wyznaczyć zobowiązanie finansowe jako wyceniane w wartości godziwej przez wynik finansowy, gdy prowadzi to do uzyskania bardziej przydatnych informacji.  
+Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy wykazuje się w wartości godziwej, a wynikające z nich zyski lub straty finansowe ujmuje się w przychodach lub kosztach okresu z uwzględnieniem odsetek zapłaconych od danego zobowiązania finansowego.  
+17  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.5. Wartości niematerialne**
+Wartości niematerialne obejmują aktywa Grupy, które nie posiadają postaci fizycznej, są identyfikowalne oraz które można wiarygodnie wycenić i które w przyszłości spowodują wpływ korzyści ekonomicznych do Grupy.  
+Wartości niematerialne ujmowane są pierwotnie w cenie nabycia lub koszcie wytworzenia. Na dzień bilansowy wartości niematerialne wyceniane są według kosztu po pomniejszeniu o dokonane odpisy amortyzacyjne oraz ewentualne odpisy z tytułu utraty wartości.  
+Amortyzacja wartości niematerialnych odbywa się według stawek odzwierciedlających przewidywany okres ich użytkowania. Grupa nie posiada wartości niematerialnych o nieokreślonym okresie użytkowania. Dla celów amortyzacji wartości niematerialnych o określonym okresie użytkowania stosowana jest metoda amortyzacji liniowej. Okresy użytkowania dla poszczególnych składników wartości niematerialnych są następujące:  
+| **TYP** | **OKRES AMORTYZACJI** |
+| --- | --- |
+| Licencje na oprogramowanie | 5 lat |
+| Wartości niematerialne wytworzone we własnym zakresie | 5 lat |
+| Pozostałe wartości niematerialne | 10 lat |
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.6. Rzeczowe aktywa trwałe**
+Rzeczowe aktywa trwałe obejmują rzeczowe aktywa trwałe i nakłady na rzeczowe aktywa trwałe w budowie, które jednostka zamierza wykorzystywać w swojej działalności oraz na potrzeby administracyjne w okresie dłuższym niż 1 rok, które w przyszłości spowodują wpływ korzyści ekonomicznych do jednostki. Nakłady na rzeczowe aktywa trwałe obejmują poniesione nakłady inwestycyjne jak również poniesione wydatki na przyszłe dostawy maszyn, urządzeń i usług związanych z wytworzeniem trwałych rzeczowych aktywów trwałych (przekazane zaliczki).  
+Rzeczowe aktywa trwałe i nakłady na rzeczowe aktywa trwałe w budowie ujmowane są pierwotnie w cenie nabycia lub koszcie wytworzenia. Jako odrębne pozycje rzeczowych aktywów trwałych ujmowane są także istotne komponenty. Na dzień bilansowy rzeczowe aktywa trwałe wyceniane są według kosztu pomniejszonego o dokonane odpisy amortyzacyjne oraz ewentualne odpisy z tytułu trwałej utraty wartości.  
+Amortyzacja rzeczowych aktywów trwałych, w tym komponentów, odbywa się według stawek odzwierciedlających przewidywany okres ich użytkowania i rozpoczyna się w miesiącu następnym po rozpoczęciu ich użytkowania. Szacunki okresu użytkowania rewidowane są corocznie. Dla celów amortyzacji rzeczowych aktywów trwałych stosowana jest metoda amortyzacji liniowej. Okresy użytkowania dla poszczególnych składników rzeczowych aktywów trwałych są następujące:  
+| **TYP** | **OKRES AMORTYZACJI** |
+| --- | --- |
+| Telefony komórkowe | 2 lata |
+| Komputery | od 3 do 5 lat |
+| Środki transportu | 5 lat |
+| Meble i rządzenia biurowe | od 5 do 12 lat |

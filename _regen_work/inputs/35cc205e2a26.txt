@@ -1,0 +1,69 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Skonsolidowane sprawozdanie z dochodów całkowitych** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **ZAWARTOŚĆ:**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+1  
+SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A. 2025
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **ZAWARTOŚĆ:**
+1. Skonsolidowane Sprawozdanie Finansowe Grupy Kapitałowej XTB S.A. za 2025 rok  
+2. Sprawozdanie Zarządu z działalności Grupy Kapitałowej XTB i Spółki XTB S.A. w 2025 roku, w tym:  
+- Wybrane skonsolidowane dane finansowe  
+- Wybrane jednostkowe dane finansowe  
+- Oświadczenie o zrównoważonym rozwoju Grupy Kapitałowej XTB S.A. w 2025 roku  
+3. Ocena Rady Nadzorczej XTB S.A. wraz z uzasadnieniem  
+4. Oświadczenie Rady Nadzorczej XTB S.A. dotyczące Komitetu Audytu  
+5. Sprawozdanie Niezależnego Biegłego Rewidenta z badania Rocznego Skonsolidowanego Sprawozdania Finansowego  
+6. Sprawozdanie Niezależnego Biegłego Rewidenta z Atestacji Sprawozdawczości Zrównoważonego Rozwoju Dającej Ograniczoną Pewność  
+**SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPY KAPITAŁOWEJ XTB S.A. ZA 2025 ROK**  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Skonsolidowane sprawozdanie z dochodów całkowitych**
+| **OKRES** | **OKRES** |  |  |
+| --- | --- | --- | --- |
+| **(w tys. PLN)** | **NOTA** | **12 MIESIĘCY** **ZAKOŃCZONY** | **12 MIESIĘCY** **ZAKOŃCZONY** |
+| Wynik z operacji na instrumentach finansowych | 5.1 | 2044582 | 1 800 575 |
+| Wynik z tytułu odsetek od środkówpieniężnych klientów,w tym: |  | 77989 | 58 946 |
+| _-przychody z tytułu odsetek od środkówpieniężnych klientów_ |  | _140 129_ | _105 568_ |
+| _- koszty z tytułu odsetek zapłaconych klientom_ |  | _(62 140)_ | _(46 622)_ |
+| Przychodyz tytułuprowizji i opłat | 5.2 | 20287 | 12 291 |
+| Pozostałeprzychody |  | 3198 | 1 624 |
+| **Przychody z działalności operacyjnej razem** | 5 | **2 146 056** | **1 873 436** |
+| Marketing | 7 | (584898) | (344 808) |
+| Wynagrodzenia i świadczeniapracownicze | 6 | (413 019) | (311 574) |
+| Koszty prowizji | 10 | (107 415) | (97 289) |
+| Pozostałe usługi obce | 9 | (132846) | (79 226) |
+| Amortyzacja | 18,19 | (25405) | (19 905) |
+| Podatki i opłaty |  | (15 955) | (13 109) |
+| Kosztyutrzymania i wynajmu budynków | 8 | (10 559) | (7 999) |
+| Pozostałe koszty | 11 | (23 580) | (12 791) |
+| **Koszty działalności operacyjnej razem** |  | **(1 313 677)** | **(886 701)** |
+| **Zysk z działalności operacyjnej** |  | **832 379** | **986 735** |
+| Przychodyfinansowe,w tym: | 12 | 39 603 | 62 845 |
+| _- przychody odsetkowe od instrumentów finansowych wycenianych_ _w zamortyzowanym koszcie_ | 12 | _26 538_ | _26 272_ |
+| Kosztyfinansowe | 12 | (94594) | (1 129) |
+| **Zyskprzed opodatkowaniem** |  | **777388** | **1 048 451** |
+| Podatek dochodowy | 28 | (133189) | (191 595) |
+| **Zysk netto, w tym:** |  | **644 199** | **856 856** |
+| - zyskprzypisywanywłaścicielomjednostki dominującej |  | 644 194 | 857 025 |
+| - zysk(strata) przypisywana właścicielom udziałów niekontrolujących |  | 5 | (169) |
+| **Zysk netto** |  | **644 199** | **856 856** |
+| **Inne całkowite dochody** |  | **(7 776)** | **2 534** |
+| Pozycje, które podlegają przeklasyfikowaniu do zysku/(straty) po spełnieniu określonych warunków, przed opodatkowaniem |  | (7 879) | 2 403 |
+| Różnice kursowe zprzeliczeniajednostek zagranicznych |  | (7 879) | 2 403 |
+| _- pozycje, które będą przeklasyfikowane do zysku z wyceny spółek_ _zagranicznych_ |  | _(7 337)_ | _3 091_ |
+| _- pozycje, które będą przeklasyfikowane do zysku z wyceny kapitałów_ _wydzielonych_ |  | _(542)_ | _(688)_ |
+| Podatek odroczony |  | 103 | 131 |
+| **Całkowite dochody ogółem, w tym:** |  | **636 423** | **859 390** |
+| - całkowite dochody przypisywane właścicielomjednostki dominującej |  | 636480 | 859 546 |
+| - całkowite dochody przypisywane właścicielom udziałów niekontrolujących **Zysk netto najedną akcję:** |  | (57) | (156) |
+| - podstawowy z zysku za okres przypadającego akcjonariuszom jednostki dominującej (w złotych) - podstawowy z zysku z działalności kontynuowanej za okres | 27 | 5,48 | 7,29 |
+| przypadającego akcjonariuszom jednostki dominującej (w złotych) | 27 | 5,48 | 7,29 |
+| - rozwodniony z zysku za okres przypadającego akcjonariuszom jednostki dominującej (w złotych) | 27 | 5,48 | 7,29 |
+| - rozwodniony z zysku z działalności kontynuowanej za okres przypadającego akcjonariuszomjednostki dominującej (w złotych) | 27 | 5,48 | 7,29 |
+Skonsolidowane sprawozdanie z dochodów całkowitych należy analizować łącznie z notami uzupełniającymi stanowiącymi integralną część skonsolidowanego sprawozdania finansowego.  
+3  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.

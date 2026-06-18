@@ -1,0 +1,66 @@
+DOKUMENT SEKCJA: **3.1. Segment działalności detalicznej** | **3.2. Segment działalności instytucjonalnej** | **Poniższa tabela przedstawia dane w podziale geograficznym dotyczące liczby aktywnych klientów**
+
+## **3.1. Segment działalności detalicznej**
+Poniższa tabela przedstawia kluczowe wskaźniki operacyjne dla segmentu działalności detalicznej Grupy za wskazane okresy.  
+| **OKRES 3 MIESIĘCY** | **OKRES 3 MIESIĘCY** |  | **OKRES 9** | **MIESIĘCY** |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **ZAKOŃCZONY** |  |  | **ZAKOŃCZONY** |  |  |  |
+| **30.09.2025** | **30.09.2024** |  | **30.09.2025** | **30.09.2024** |  |  |
+| Nowi klienci1 | 221 762 | 108 | 104 | 583 405 | 340 | 417 |
+| Klienci razem | 1 904 450 | 1 213 | 523 | 1 904 450 | 1 213 | 523 |
+| Liczba aktywnych klientów2 | 919 962 | 522 | 885 | 1 005 569 | 586 | 374 |
+| Liczba transakcji3 | 63 016 203 | 42 392 | 758 | 191 556 486 | 119 967 | 489 |
+| Depozytynetto(w tys. PLN)4 | 3 230 794 | 2 235 | 942 | 10 428 489 | 6 054 | 041 |
+| Średnie przychody operacyjne na aktywnego klienta (w tys. PLN)5 | 0,4 |  | 0,8 | 1,5 |  | 2,3 |
+| Średni koszt pozyskania klienta (w tys. PLN)6 | 0,6 |  | 0,7 | 0,7 |  | 0,7 |
+| Obrót instrumentami pochodnymi CFD w lotach7 | 1 988 985 | 1 413 | 807 | 5 836 591 | 4 051 | 730 |
+| Rentowność na lota(w PLN)8 | 152 |  | 293 | 231 |  | 305 |
+| Obrót instrumentami pochodnymi CFD w wartości nominalnej (w mln USD) | 1 102 950 | 673 | 952 | 3 119 620 | 1 836 | 264 |
+| Rentowność za 1 milion obrotu instrumentami pochodnymi CFD w wartości nominalnej (w USD)9 | 81 |  | 161 | 118 |  | 174 |
+| Obrót akcjami i ETP w wartości nominalnej (w mln USD) | 5 948 | 2 | 401 | 14 797 | 6 | 449 |
+_1 Liczba nowych klientów Grupy w poszczególnych okresach._  
+_2 Liczba klientów, którzy w okresie: (i) przeprowadzili co najmniej jedną transakcję i/lub (ii) posiadali otwartą pozycję, i/lub (iii) posiadali wolne środki na rachunku objęte oprocentowaniem._  
+_3 Liczba transakcji jest zdefiniowana jako całkowita liczba transakcji otwartych i zamkniętych w okresie._  
+_4 Depozyty netto stanowią sumę depozytów wpłaconych przez klientów, pomniejszoną o kwoty wypłacone przez klientów w danym okresie, z wyłączeniem wpłat i wypłat realizowanych za pomocą eWallet._  
+_5 Przychody z działalności operacyjnej w segmencie działalności detalicznej w danym okresie podzielone przez liczbę aktywnych klientów w danym okresie._  
+_6 Średni koszt pozyskania klienta zdefiniowany jest jako wydatki marketingowe w segmencie działalności detalicznej w danym okresie podzielone przez liczbę nowych klientów w tym samym okresie._  
+_7 Lot stanowi jednostkę transakcyjną obrotu instrumentami finansowym. Wielkość lota różni się dla poszczególnych instrumentów finansowych. W przypadku transakcji na instrumentach CFD opartych o waluty, w tym kryptowaluty, lot odpowiada 100 000 jednostek waluty bazowej. W pozostałych przypadkach wartość lota określona jest w tabeli specyfikacji instrumentów, która jest dostępna tutaj. Prezentowana wartość nie uwzględnia obrotu CFD na akcje i ETP w przypadku których 1 lot równa się 1 akcji. W związku z ujednoliceniem definicji lota dla instrumentów CFD opartych na kryptowalutach z definicją stosowaną dla instrumentów CFD opartych na walutach, gdzie wartość 1 lota to 100 000 jednostek waluty bazowej, dane zostały odpowiednio skorygowane w okresach porównawczych._  
+_8 Wynik z operacji na instrumentach finansowych netto w segmencie działalności detalicznej skorygowany o wynik na akcjach i ETP oraz wynik na CFD na akcje i ETP podzielony przez obrót instrumentami pochodnymi CFD w lotach._  
+_9 Wynik z operacji na instrumentach finansowych netto w segmencie działalności detalicznej skorygowany o wynik na akcjach i ETP przeliczony na walutę USD według kursu stanowiącego średnią arytmetyczną średnich kursów określonych przez Narodowy Bank Polski na ostatni dzień każdego miesiąca okresu sprawozdawczego, podzielony przez obrót instrumentami pochodnymi CFD w wartości nominalnej (w mln USD)._  
+82  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **Poniższa tabela przedstawia dane w podziale geograficznym dotyczące liczby aktywnych klientów**
+**detalicznych Grupy** , którzy w okresie 3 i 9 miesięcy: (i) przeprowadzili co najmniej jedną transakcję i/lub (ii) posiadali otwartą pozycję, i/lub (iii) posiadali wolne środki na rachunku objęte oprocentowaniem. Lokalizację aktywnych klientów co do zasady ustalono na podstawie lokalizacji biura Grupy (które obsługuje danego klienta). Wyjątek stanowi region Bliskiego Wschodu, w ramach którego prezentowani są także klienci z tego rynku, którzy zostali pozyskani przez spółkę zależną XTB International Ltd. z siedzibą w Belize.  
+| **OKRES** | **3** | **MIESIĘCY ZAKOŃCZONY** | **MIESIĘCY ZAKOŃCZONY** | **MIESIĘCY ZAKOŃCZONY** | **OKRES** | **9 MIESIĘCY ZAKOŃCZONY** | **9 MIESIĘCY ZAKOŃCZONY** | **9 MIESIĘCY ZAKOŃCZONY** |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **30.09.2025** |  |  | **30.09.2024** |  | **30.09.2025** |  | **30.09.2024** |  |  |
+| Europa Środkowo- Wschodnia | 609 215 |  | 66,2% | 332 020 | 63,5% | 642 036 | 63,8% | 354 776 | 60,5% |
+| Europa Zachodnia | 233 669 |  | 25,4% | 144 055 | 27,6% | 258 654 | 25,7% | 160 249 | 27,3% |
+| Ameryka Łacińska1 | 57 545 |  | 6,3% | 33 178 | 6,3% | 75 633 | 7,5% | 49 213 | 8,4% |
+| Bliski Wschód2 | 19 533 |  | 2,1% | 13 632 | 2,6% | 29 246 | 2,9% | 22 131 | 3,8% |
+| **Liczba aktywnych** **klientów razem** | **919 962** |  | **100%** | **522 885** | **100%** | **1 005 569** | **100%** | **586 369** | **100%** |
+_1 Spółka zależna XTB International Ltd. z siedzibą w Belize pozyskuje klientów z Ameryki Łacińskiej i reszty świata (poza Europą). Z pozycji wyłączono klientów pozyskanych przez tą spółkę pochodzących z regionu Bliskiego Wschodu._  
+_2 Klienci pochodzący z Bliskiego Wschodu, pozyskani przez XTB International Ltd. z siedzibą w Belize, XTB MENA Limited oraz XTB Financial Consultation L.L.C, oba z siedzibą w Zjednoczonych Emiratach Arabskich._
+
+## **3.2. Segment działalności instytucjonalnej**
+Grupa świadczy także usługi dla klientów instytucjonalnych pod marką X Open Hub (XOH), w ramach której dostarcza płynność i technologię innym instytucjom finansowym w ramach segmentu działalności instytucjonalnej.  
+**Tabela poniżej przedstawia kluczowe dane operacyjne dla segmentu działalności instytucjonalnej Grupy** we wskazanych okresach.  
+| **Grupy**we wskazanych okresach. **OKRES** | **3** | **MIESIĘCY** |  | **OKRES 9** | **MIESIĘCY** |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **ZAKOŃCZONY** |  |  |  | **ZAKOŃCZONY** |  |  |
+| **30.09.2025** |  | **30.09.2024** |  | **30.09.2025** | **30.09.2024** |  |
+| Nowi klienci1 | - |  |  | - | - | 3 |
+| Liczba aktywnych klientów2 | 14 |  |  | 14 | 20 | 21 |
+| Klienci razem | 25 |  |  | 31 | 25 | 31 |
+| Depozyty netto (w tys. PLN)3 | 2 274 |  | 30 | 454 | 45 454 | 17 357 |
+| Obrót instrumentami pochodnymi CFD w lotach4 | 105 311 |  | 214 | 170 | 487 263 | 565 057 |
+| Obrót instrumentami pochodnymi CFD w wartości nominalnej (w mln USD) | 15 329 |  | 21 | 363 | 81 079 | 62 460 |
+_1 Liczba nowych klientów Grupy w poszczególnych okresach._  
+_2 Liczba klientów, którzy w okresie: (i) przeprowadzili co najmniej jedną transakcję i/lub (ii) posiadali otwartą pozycję, i/lub (iii) posiadali wolne środki na rachunku objęte oprocentowaniem._  
+_3 Depozyty netto stanowią sumę depozytów wpłaconych przez klientów, pomniejszoną o kwoty wypłacone przez klientów w danym okresie, z wyłączeniem wpłat i wypłat realizowanych za pomocą eWallet._  
+_4 Lot stanowi jednostkę transakcyjną obrotu instrumentami finansowym. Wielkość lota różni się dla poszczególnych instrumentów finansowych. W przypadku transakcji na instrumentach CFD opartych o waluty, w tym kryptowaluty, lot odpowiada 100 000 jednostek waluty bazowej. W pozostałych przypadkach wartość lota określona jest w tabeli specyfikacji instrumentów, która jest dostępna tutaj. Prezentowana wartość nie uwzględnia obrotu CFD na akcje i ETP w przypadku których 1 lot równa się 1 akcji. W związku z ujednoliceniem definicji lota dla instrumentów CFD opartych na kryptowalutach z definicją stosowaną dla instrumentów CFD opartych na walutach, gdzie wartość 1 lota to 100 000 jednostek waluty bazowej, dane zostały odpowiednio skorygowane w okresach porównawczych._  
+83  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.

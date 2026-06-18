@@ -1,0 +1,155 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 >
+
+W 2025 roku jedna z zagranicznych spółek zależnych zaraportowała powstanie 47 ton odpadów komunalnych, przy czym jako sposób ich zagospodarowania wskazano składowanie na wysypisku.
+
+W rezultacie, mimo że odpady te stanowiły 13% całkowitej masy odpadów komunalnych raportowanych w 2025 roku przez Grupę Kapitałową XTB S.A., odpowiadały za 45% emisji związanych z odpadami komunalnymi oraz 44% całkowitych emisji w kategorii 5.
+
+Kategoria 6 Zakresu 3 – Podróże służbowe W tej kategorii Zakresu 3 największy udział w emisjach GHG mają podróże służbowe realizowane różnymi środkami transportu, które stanowią około 87% całkowitych emisji tej kategorii.
+
+Około 96% emisji w tej kategorii zostało oszacowanych metodą spend-based.
+
+Bezpośrednie porównanie wartości pomiędzy latami jest ograniczone ze względu na różnice w dostępności i metodologii danych wejściowych (w 2024 roku w XTB S.A. znacząca część emisji została oszacowana na podstawie danych o pokonanym dystansie).
+
+Analogicznie jak w Kategorii 4 Zakresu 3, całkowity poziom emisji pozostaje wrażliwy na różnice kursowe związane z wydatkami ponoszonymi przez poszczególne oddziały i spółki zależne XTB S.A.
+
+2.2.
+
+Zgodność działalności Grupy XTB z Taksonomią 2.2.1.
+
+Taksonomia finansowa Informacje kontekstowe – wskaźniki dla firm inwestycyjnych art. 8 Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniające
+rozporządzenie (UE) 2019/2088 („Taksonomia”) przewiduje publikację przez firmy inwestycyjne informacji na temat tego, w jaki sposób i w jakim stopniu ich działalność jest związana i zgodna z działalnością gospodarczą, która kwalifikuje się jako zrównoważona środowiskowo na podstawie art. 3 i 9 ww.
+
+Rozporządzenia.
+
+Należy wyjaśnić, iż mając na uwadze szczególny model biznesowy Grupy XTB, obejmujący prowadzenie działalności na rynku OTC, kluczowe wskaźniki ujawnień związane z posiadanym portfelem aktywów wynikające z działalności jaką jest zawieranie transakcji na własny rachunek, istotnie odbiega od znaczenia tych danych dla innych przedsiębiorstw finansowych oraz firm inwestycyjnych.
+
+W szczególności bowiem należy wskazać, iż o ile XTB posiada portfel aktywów finansowych, to portfel tych aktywów nie ma charakteru klasycznego portfela inwestycyjnego.
+
+Grupa XTB nie prowadzi działalności polegającej na finansowaniu działalności biznesowej lub projektów inwestycyjnych.
+
+Natomiast, mając na uwadze model biznesowy Grupy XTB, z posiadanego portfela aktywów finansowych generowane są przychody o charakterze operacyjnym.
+
+Wynik
+na wydatkach wspiera zrozumienie struktury śladu węglowego i wytypowanie wydatków tych kategorii, które mają największy wkład w ślad węglowy Grupy XTB.
+
+W kolejnych okresach sprawozdawczych będziemy dążyć do poprawy jakości danych w szczególności w kategoriach wydatkowych, które są najbardziej materialne i dążyć do współpracy z dostawcami.
+
+E1-7 / E1-8 Grupa XTB nie angażuje się projekty usuwania gazów cieplarnianych i ograniczania emisji gazów cieplarnianych finansowanych za pomocą jednostek emisji
+dwutlenku węgla oraz wewnętrznie nie ustala opłaty za emisję gazów cieplarnianych.
+
+W 2025 roku po raz drugi wyliczono pełen ślad węglowy, a 2024 rok jest okresem bazowym dla kompleksowego wyliczenia emisji gazów cieplarnianych Grupy XTB, w związku z czym nie wyznaczono jeszcze celów redukcji emisji.
+
+E1-9 W pierwszych okresach sprawozdawczych Grupa XTB korzysta ze zwolnienia w ramach przewidywanych skutków finansowych wynikających z istotnych ryzyk fizycznych
+i ryzyk przejścia oraz potencjalnych szans związanych z klimatem.
+
+Stan na dzień 31.12.2025 Stan na dzień 31.12.2024 46,4% 38,2% 15,4% 100% n.d.
+
+Udział w aktywach finansowych wycenianych w wartości godziwej przez wynik finansowy
+Udział w całości aktywów ogółem Grupy [%] 7,8% 6,5% 2,6% 16,9% 100%
+Wartość [w tys. zł] 521 792 429 648 172 483 1 123 923 6 645 632
+75,3% 0 6% 24,1% 100% n.d.
+
+Udział w całości aktywów ogółem Grupy [%] 8,3% 0,1% 2,7% 11,1% 100%
+Wartość [w tys. zł] 758 448 5 598 242 927 1 006 973 9 086 667
+Instrumenty pochodne kontrakty na różnice (CFD) Instrumenty dłużne (obligacje skarbowe i korporacyjne) Akcje i ETF Aktywa ogółem zainwestowane w ramach działalności firmy inwestycyjnej dotyczącej zawierania transakcji na własny rachunek Aktywa ogółem (suma bilansowa)
+• w świetle zapisów art. 5 Rozporządzenia Delegowanego Komisji (UE) 2021/2178, co skutkuje
+• koniecznością wypełnienia wzorów zawartych w Zał.
+
+VIII tego rozporządzenia.
+• Zgodnie z art. 7 ust. 1-3 Rozporządzenia Delegowanego Komisji (UE) 2021/2178 ekspozycje
+• wobec rządów centralnych, banków centralnych i emitentów ponadnarodowych nie są ujęte
+• w liczniku i mianowniku kluczowych wskaźników wyników, ponadto nie są ujęte w liczniku
+• kluczowych wskaźników wyników instrumenty pochodne oraz ekspozycje wobec
+• przedsiębiorstw, które nie podlegają obowiązkowi publikowania informacji niefinansowych
+• zgodnie z art. 19a lub 29a dyrektywy 2013/34/UE.
+• Zgodnie z art. 7 ust. 6 Rozporządzenia Delegowanego Komisji (UE) 2021/2178 licznik i mianownik kluczowych wskaźników wyników podzielono na kategorie ekspozycji
+• wymienione w tym przepisie.
+• **Transakcje zawarte na własny rachunek:**
+• Nie dokonano obliczenia kluczowych wskaźników wyników związanych z aktywami,
+• opisanych w art. 2 Zał.
+
+VII Rozporządzenia Delegowanego Komisji (UE) 2021/2178,
+• ponieważ Spółki z Grupy Kapitałowej XTB S.A nie wykonywały transakcji zawartych
+• na własny rachunek w 2025 r. innych, niż:
+• zakup i sprzedaż obligacji,
+• transakcje związane ze zleceniami od klientów dotyczących instrumentów
+• pochodnych,
+• zakup i sprzedaż akcji i ETF o charakterze pomocniczym w celu realizacji zleceń
+• klientów detalicznych.
+• Obligacje nie mogą zostać ujęte w liczniku i mianowniku kluczowych wskaźników wyników
+• zgodnie z art. 7 ust. 1 Rozporządzenia Delegowanego Komisji (UE) 2021/2178.
+• Transakcjami na własny rachunek spółek z Grupy Kapitałowej XTB S.A były zatem w 2025 r.
+• przede wszystkim transakcje związane ze zleceniami klientów w zakresie instrumentów
+• pochodnych.
+
+Instrumenty pochodne nie mogą jednak zostać ujęte w liczniku kluczowych
+• Struktura wskazanego powyżej portfela aktywów finansowych składa się z:
+• instrumentów pochodnych – dla których udział procentowy w aktywach ogółem
+• zainwestowanych w ramach działalności firm inwestycyjnych dotyczących
+• zawierania transakcji na własny rachunek ekspozycji, o której mowa w art. 7 ust. 2
+• Rozporządzenia 2021/2178 tj. instrumenty pochodne wynosi 75,3%.
+• obligacji skarbowych i korporacyjnych – dla których udział procentowy w aktywach
+• ogółem zainwestowanych w ramach działalności firm inwestycyjnych dotyczących
+• zawierania transakcji na własny rachunek ekspozycji, o której mowa w art. 7 ust. 1
+• Rozporządzenia 2021/2178 tj. ekspozycji wobec rządów centralnych, banków centralnych i emitentów ponadnarodowych wynosi 0,6%.
+• W pozostałej części portfel aktywów XTB składa się z akcji oraz jednostek ETF (Exchange
+• Traded Funds).
+
+Posiadane akcje i jednostki ETF odpowiadają za ok.
+
+24,1% ww. portfela oraz
+• 2,7% całości aktywów ogółem.
+
+Akcje, które znajdują się w przedmiotowym portfelu stanowią
+• zabezpieczenie transakcji nabycia przez Klienta XTB tzw. akcji syntetycznej.
+• Tym samym skład portfela akcji wynika w głównej mierze ze struktury zleceń otrzymanych
+• od Klientów i brokerów.
+
+Skład posiadanego portfela akcji jest na bieżąco dostosowywany
+• do kolejnych zleceń Klientów.
+
+W związku z powyższym Emitent na żadnym etapie tworzenia
+• przedmiotowego portfela nie ocenia oraz nie uwzględnia aspektów, które powiązane byłyby
+• z kwalifikowalnością lub zgodnością danych aktywów z punktu widzenia Taksonomii
+• finansowej.
+
+Powyższe znacznie odróżnia posiadany portfel aktywów Grupy XTB od portfela
+• kredytowego instytucji kredytowej, czy portfela inwestycyjnego funduszu inwestycyjnego
+• lub analogicznego podmiotu.
+
+W praktyce skład portfela aktywów niefinansowych w ramach
+• Grupy XTB może ulegać codziennym, istotnym i nieintencjonalnym zmianom.
+
+Struktura
+• portfela, w szczególności akcyjnego, ma zatem charakter niemal losowy z punktu widzenia
+• kwalifikowalności działalności poszczególnych emitentów do Taksonomii finansowej.
+• Do celów sprawozdawczych dokonano oceny pod kątem kwalifikowania do Taksonomii
+• i zaklasyfikowano działalność Grupy Kapitałowej XTB do Przedsiębiorstwa finansowego
+• przyjmowanie i przekazywanie zleceń w odniesieniu do jednego lub większej liczby
+• instrumentów finansowych – nie wystąpiły;
+• wykonywanie zleceń na rachunek klientów: ok.
+
+41 985 tys. zł (w tym 0 zł od klientów
+• instytucjonalnych) – stan na koniec 2025 r.;
+• zawieranie transakcji na własny rachunek (wystąpiły: zakup i sprzedaż obligacji
+• (ok.
+
+12,7 mln zł – stan na koniec 2025 roku), instrumenty pochodne (ok.
+
+1 966 mln
+• zł, w tym ok.
+
+37 mln zł od klientów instytucjonalnych – stan na koniec 2025 r.), zakup
+• akcji i ETF o charakterze pomocniczym w celu realizacji zleceń klientów (ok.
+
+36 mln
+• zł – stan na koniec 2025 r., w tym 0 zł od klientów instytucjonalnych);
+• zarządzanie portfelem – nie wystąpiły;
+• doradztwo inwestycyjne – nie wystąpiły; gwarantowanie emisji instrumentów finansowych lub subemisja instrumentów finansowych z gwarancją przejęcia emisji – nie wystąpiły; subemisja instrumentów finansowych bez gwarancji przejęcia emisji – nie wystąpiły;
+• prowadzenie MTF – nie wystąpiły;
+• prowadzenie OTF – nie wystąpiły.
+• Inne przychody poza ww., tj. takie, które nie są wymagane do raportowania dla firm
+• inwestycyjnych we wzorze zawartym w Zał.
+
+VIII Rozporządzenia Delegowanego Komisji (UE)
+• 2021/2178 i tym samym nie kwalifikują się do Taksonomii, wyniosły ok.

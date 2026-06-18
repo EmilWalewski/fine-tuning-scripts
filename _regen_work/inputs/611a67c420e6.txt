@@ -1,0 +1,111 @@
+DOKUMENT SEKCJA: Skonsolidowany raport kwartalny za 3 kwartał 2025 roku | ŚRÓDROCZNY SKRÓCONY SKONSOLIDOWANY BILANS | ŚRÓDROCZNY SKRÓCONY SKONSOLIDOWANY RACHUNEK ZYSKÓW I STRAT
+
+## Skonsolidowany raport kwartalny za 3 kwartał 2025 roku
+1. Zwięzły opis istotnych dokonań lub niepowodzeń Emitenta w okresie objętym raportem wraz z wykazem najważniejszych wydarzeń ich dotyczących ................................................................................................... 34 2. Czynniki mające istotny wpływ na wyniki bieżącego kwartału ...................................................................... 34 3. Wskazanie czynników, które w ocenie Emitenta będą miały wpływ na osiągnięte przez niego wyniki w perspektywie co najmniej jednego kwartału ................................................................................................... 35 4. Schemat organizacyjny oraz struktura zarządzania ......................................................................................... 35 5. Stanowisko Zarządu Emitenta dotyczące opublikowanych prognoz .............................................................. 37 6. Wykaz akcji będących w posiadaniu grupy osób zarządzających i nadzorujących Spółkę według stanu na dzień publikacji niniejszego raportu okresowego ........................................................................................... 37 7. Wskazanie istotnych postępowań toczących się przed sądem, organem właściwym dla postępowania arbitrażowego lub organem administracji publicznej ...................................................................................... 38 8. Transakcje z podmiotami powiązanymi .......................................................................................................... 39 9. Informacje o udzieleniu przez Emitenta lub przez jednostkę od niego zależną poręczeń kredytu, pożyczki lub udzieleniu gwarancji ....................................................................................................................................... 39 10. Inne informacje istotne dla oceny sytuacji kadrowej, majątkowej, finansowej, Emitenta oraz informacje, które są istotne dla oceny możliwości realizacji zobowiązań przez Emitenta ................................................. 39 11. Akcje i akcjonariusze ...................................................................................................................................... 39 III. Kwartalna Informacja Finansowa Grupy Kęty S.A. ........................................................................................ 42 Jednostkowy rachunek zysków i strat .................................................................................................................... 42 Jednostkowe sprawozdanie z całkowitych dochodów ........................................................................................... 43 Jednostkowy bilans ................................................................................................................................................ 44 Jednostkowe sprawozdanie ze zmian w kapitale własnym .................................................................................... 45 Jednostkowy rachunek przepływów pieniężnych .................................................................................................. 46  
+4  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+**GRUPA KAPITAŁOWA GRUPA KĘTY S.A.**  
+**ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE ZA 3 KWARTAŁ 2025 ROKU ZAKOŃCZONY DNIA 30 WRZEŚNIA 2025 ROKU SPORZĄDZONE WEDŁUG MSR 34**  
+(w milionach PLN)  
+_(w milionach PLN)_  
+5  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_
+
+## ŚRÓDROCZNY SKRÓCONY SKONSOLIDOWANY RACHUNEK ZYSKÓW I STRAT
+| **Nota** | **III kwartał** **2025** | **III kwartał** **2025** | **9 miesięcy** **2025** | **III kwartał** **2024** | **9 miesięcy** **2024** | **9 miesięcy** **2024** |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Przychody z umów z klientami** |  | **8** | **1 447** |  | **4 243** | **1 356** | **3 896** |  |
+| **Koszty operacyjne ogółem, w tym:** |  |  | **(1** | **215)** | **(3 611)** | **(1 158)** | **(3** | **326)** |
+| Amortyzacja |  |  |  | (60) | (178) | (53) | (152) |  |
+| Materiały, energia oraz wartość sprzedanych towarów i materiałów |  |  | (804) |  | (2 527) | (780) | (2 | 284) |
+| Usługi obce |  |  | (111) |  | (314) | (107) | (293) |  |
+| Podatki i opłaty |  |  |  | (8) | (25) | (11) |  | (23) |
+| Świadczenia pracownicze |  |  | (209) |  | (626) | (187) | (553) |  |
+| Aktualizacja wartości aktywów finansowych MSSF9 |  |  |  | 0 | 0 | 1 |  | 0 |
+| Pozostałe koszty rodzajowe |  |  |  | (8) | (23) | (7) |  | (21) |
+| Zmiana stanu zapasów produktów produkcji w toku | i |  |  | (20) | 67 | (21) |  | (20) |
+| Koszt wytworzenia produktów na własnepotrzeby |  |  |  | 5 | 15 | 7 |  | 20 |
+| **Zysk ze sprzedaży** |  |  |  | **232** | **632** | **198** |  | **570** |
+| Pozostałe przychody operacyjne |  |  |  | 4 | 12 | 0 |  | 10 |
+| Pozostałe kosztyoperacyjne |  |  |  | (2) | (5) | 2 |  | (1) |
+| **Zysk z działalności operacyjnej** |  |  |  | **234** | **639** | **200** |  | **579** |
+| Przychody finansowe |  |  |  | 0 | 4 | 3 |  | 4 |
+| Kosztyfinansowe |  |  |  | (19) | (62) | (18) |  | (47) |
+| **Zysk przed opodatkowaniem** |  |  |  | **215** | **581** | **185** |  | **536** |
+| Podatek dochodowy |  | 11 |  | (39) | (114) | (37) |  | (71) |
+| **Zysk netto z działalności** **kontynuowanej** |  |  |  | **176** | **467** | **148** |  | **465** |
+| Przypadający na akcjonariuszy niekontrolujących |  |  |  | 0 | 1 | 1 |  | 1 |
+| **Przypadający na akcjonariuszy** **jednostki dominującej** |  |  |  | **176** | **466** | **147** |  | **464** |
+| Zysk na akcję przypadający na akcjonariuszy jednostki dominującej (w PLN) |  | 32 |  |  |  |  |  |  |
+| Podstawowy |  |  | 17,96 |  | 47,51 | 15,15 | 47,92 |  |
+| Rozwodniony |  |  | 17,95 |  | 47,38 | 15,15 | 47,81 |  |
+W prezentowanych okresach Grupa nie zaniechała żadnej działalności.  
+_(w milionach PLN)_  
+6  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW  
+| **3 kwartał** | **9 miesięcy** | **3 kwartał** | **9 miesięcy** |  |
+| --- | --- | --- | --- | --- |
+| **2025** | **2025** | **2024** | **2024** |  |
+| **Zysk netto za okres** | **176** | **467** | **148** | **465** |
+| **Inne całkowite dochody, które odniesione będą** **na rachunek zysków i strat** | **2** | **(1)** | **(4)** | **(8)** |
+| Różnice kursowe z przeliczenia jednostek powiązanych | 1 | (1) | (2) | (3) |
+| Wycena instrumentów zabezpieczających przepływy pieniężne | 1 | 0 | (2) | (6) |
+| Podatek dochodowy dotyczący innych całkowitych dochodów, które odniesione będą do rachunku zysków i strat | 0 | 0 | 0 | 1 |
+| **Inne całkowite dochody, które nie będą** **odniesione na rachunek zysków i strat** | **0** | **0** | **0** | **0** |
+| **Całkowity dochód za okres** | **178** | **466** | **144** | **457** |
+| Całkowity dochód przypadający na: Akcjonariuszy niekontrolujących | 0 | 1 | 1 | 1 |
+| Akcjonariuszy jednostki dominującej | 178 | 465 | 143 | 456 |
+_(w milionach PLN)_  
+7  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_
+
+## ŚRÓDROCZNY SKRÓCONY SKONSOLIDOWANY BILANS
+| **AKTYWA** |  | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- | --- |
+| **I. Aktywa trwałe** |  | **2 540** | **2 573** |
+| Rzeczowy majątek trwały |  | 2 121 | 2 164 |
+| Prawa do korzystania z aktywów |  | 92 | 97 |
+| Wartości niematerialne |  | 156 | 145 |
+| Wartość firmy |  | 27 | 27 |
+| Nieruchomości inwestycyjne |  | 4 | 4 |
+| Należności długoterminowe |  | 1 | 1 |
+| Przedpłaty na zakup rzeczowych aktywów trwałych |  | 29 | 11 |
+| Aktywa z tytułu odroczonegopodatku dochodowego |  | 110 | 124 |
+| **II. Aktywa obrotowe** |  | **1 838** | **1 648** |
+| Zapasy | 15 | 890 | 843 |
+| Należności z tytułu podatku dochodowego |  | 1 | 11 |
+| Należności handlowe i pozostałe | 14 | 875 | 710 |
+| Pochodne instrumenty finansowe | 31 | 2 | 1 |
+| Środkipieniężne i ich ekwiwalenty | 9 | 70 | 83 |
+| **Aktywa razem** |  | **4 378** | **4 221** |
+| **PASYWA** |  | **30.09.2025** | **31.12.2024** |
+| **I. Kapitał własny** |  | **1 896** | **1 937** |
+| Kapitał akcyjny |  | 68 | 68 |
+| Kapitał z emisji akcji powyżej wartości nominalnej | 30 | 124 | 91 |
+| Kapitał z emisji opcji dla kadry kierowniczej |  | 61 | 56 |
+| Zyski zatrzymane |  | 1 683 | 1 761 |
+| Różnice kursowe zprzeliczeniajednostek zagranicznych |  | (41) | (40) |
+| **Kapitał własny przypadający na akcjonariuszy jednostki** **dominującej** |  | **1 895** | **1 936** |
+| **Kapitały udziałowców niekontrolujących** |  | **1** | **1** |
+| **II. Zobowiązania długoterminowe** |  | **1 000** | **1 227** |
+| Zobowiązania z tytułu kredytów | 17 | 832 | 1 059 |
+| Zobowiązania z tytułu praw do korzystania z aktywów | 18 | 60 | 66 |
+| Zobowiązania pozostałe | 20.1 | 34 | 28 |
+| Rezerwy z tytułu świadczeń pracowniczych | 16 | 16 | 16 |
+| Przychody przyszłych okresów |  | 35 | 35 |
+| Rezerwa napodatek odroczony |  | 23 | 23 |
+| **III. Zobowiązania krótkoterminowe** |  | **1 482** | **1 057** |
+| Zobowiązania z tytułu kredytów | 17 | 345 | 449 |
+| Zobowiązania z tytułu praw do korzystania z aktywów | 18 | 10 | 10 |
+| Zobowiązania z tytułu podatku dochodowego |  | 37 | 32 |
+| Zobowiązania z tytułu dywidend | 10 | 381 | 0 |
+| Zobowiązania handlowe i pozostałe | 20.2 | 602 | 476 |
+| Zobowiązania z tytułu umów | 20.3 | 36 | 29 |
+| Rezerwy i rozliczenia międzyokresowe bierne | 16 | 67 | 58 |
+| Pochodne instrumenty finansowe | 31 | 1 | 0 |
+| Przychody przyszłych okresów |  | 3 | 3 |
+| **Pasywa razem** |  | **4 378** | **4 221** |
+_(w milionach PLN)_  
+8  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_

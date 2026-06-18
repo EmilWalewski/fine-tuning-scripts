@@ -1,0 +1,106 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **10. Koszty prowizji** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **11. Pozostałe koszty** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **12. Przychody i koszty finansowe** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **13. Informacje dotyczące segmentów działalności** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **14. Środki pieniężne i ich ekwiwalenty** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **8. Koszty utrzymania i wynajmu budynków** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **9. Pozostałe usługi obce**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **8. Koszty utrzymania i wynajmu budynków**
+| **8.** **Koszty utrzymania i wynajmu budynków** **(w tys. PLN)** | **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** |  |
+| --- | --- | --- |
+| Koszty eksploatacji | (3 595) | (2 942) |
+| Koszty wynajmu środków niskocennych i krótkoterminowych | (2 821) | (1 888) |
+| Koszty energii elektrycznej | (2 832) | (1 935) |
+| Pozostałe koszty | (1 311) | (1 234) |
+| **Koszty utrzymania i wynajmu budynków razem** | **(10 559)** | **(7 999)** |
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **9. Pozostałe usługi obce**
+| **(w tys. PLN)** | **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** |  |
+| --- | --- | --- |
+| Systemy IT i licencje | (73 059) | (39 388) |
+| Usługi prawne i doradcze | (16 700) | (12 950) |
+| Dostarczanie danych rynkowych | (15 958) | (11 479) |
+| Łączność internetowa i telekomunikacyjna | (4 861) | (4 454) |
+| Usługi księgowe i badania sprawozdań finansowych | (2 946) | (2 591) |
+| Usługi wsparcia informatycznego | (9 032) | (1 810) |
+| Rekrutacja | (2 615) | (1 707) |
+| Tłumaczenia | (227) | (152) |
+| Usługi pocztowe i kurierskie | (155) | (151) |
+| Pozostałe usługi obce | (7 293) | (4 544) |
+| **Pozostałe usługi obce razem** | **(132 846)** | **(79 226)** |
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **10. Koszty prowizji**
+| **(w tys. PLN)** | **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** |  |
+| --- | --- | --- |
+| Prowizje bankowe | (85 709) | (83 289) |
+| Prowizje i opłaty giełdowe | (21 404) | (13 502) |
+| Prowizje brokerów zagranicznych | (302) | (498) |
+| **Koszty prowizji razem** | **(107 415)** | **(97 289)** |
+24  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **11. Pozostałe koszty**
+| **11.** **Pozostałe koszty** **(w tys. PLN)** | **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** |  |
+| --- | --- | --- |
+| Podróże służbowe | (5 340) | (3 329) |
+| Materiały | (2 551) | (2 539) |
+| Odpisy aktualizujące należności | (8 250) | (2 411) |
+| Koszty związane z ryzykiem prawnym | (2 715) | (769) |
+| Reprezentacja | (750) | (581) |
+| Ubezpieczenia | (478) | (436) |
+| Likwidacja środków trwałych | (54) | (203) |
+| Składki członkowskie | (204) | (153) |
+| Pozostałe | (3 238) | (2 370) |
+| **Pozostałe koszty razem** | **(23 580)** | **(12 791)** |
+Odpisy aktualizujące należności są wynikiem powstałych w tym okresie debetów klientów.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **12. Przychody i koszty finansowe**
+| **(w tys. PLN)** | **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** |  |
+| --- | --- | --- |
+| Przychody odsetkowe od instrumentów finansowych wycenianych w zamortyzowanym koszcie | 26 538 | 26 272 |
+| Przychody z tytułu obligacji | 12 744 | 26 138 |
+| Dodatnie różnice kursowe | - 10 307 |  |
+| Pozostałe przychody finansowe | 321 | 128 |
+| **Przychody finansowe razem** | **39 603** | **62 845** |
+| **(w tys. PLN)** | **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **12 MIESIĘCY** **ZAKOŃCZONY** |  |
+| Odsetki zapłacone z tytułu umów leasingu | (1 286) | (1 048) |
+| Pozostałe odsetki | (122) | (46) |
+| Ujemne różnice kursowe | (93 125) - |  |
+| Pozostałe koszty finansowe | (61) | (35) |
+| **Koszty finansowe razem** | **(94 594)** | **(1 129)** |
+Różnice kursowe dotyczą różnic z wyceny pozycji bilansowych wyrażonych w walucie innej niż funkcjonalna.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **13. Informacje dotyczące segmentów działalności**
+Dla celów sprawozdawczości zarządczej, działalność Grupy jest podzielona na następujące dwa segmenty operacyjne:  
+1. Działalność detaliczna, która obejmuje świadczenie usług obrotu instrumentami finansowymi na rzecz klientów indywidualnych.  
+2. Działalność instytucjonalna, która obejmuje świadczenie usług obrotu instrumentami finansowymi i udostępnianie infrastruktury obrotu na rzecz podmiotów (instytucji), które z kolei świadczą usługi obrotu instrumentami finansowymi na rzecz własnych klientów pod własną marką.  
+25  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Powyższe segmenty nie stanowią agregacji innych segmentów niższego szczebla. Zarząd monitoruje wyniki działalności segmentów operacyjnych rozdzielnie, w celu podjęcia decyzji o realizacji strategii, alokacji zasobów oraz oceny działalności. Działalność segmentów jest oceniania na podstawie zyskowności segmentu i jej wpływu na łączną zyskowność raportowaną w sprawozdaniu finansowym.  
+Grupa zawiera transakcje jedynie z klientami zewnętrznymi. Transakcje między segmentami operacyjnymi nie są zawierane. Wycena aktywów i zobowiązań, przychodów i kosztów segmentów oparta jest na zasadach rachunkowości stosowanych przez Grupę. Grupa nie alokuje wyniku na działalności finansowej oraz obciążenia podatkiem dochodowym na segmenty działalności.  
+26  
+xtb.com  
+SKONSOLIDOWANE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW 2 044 582 923 714 760 736 290 408 60 047 101 78 310 (17 328) (51 406) 77 989 20 287 3 198 2 146 056 (584 898) (413 019) (132 846) (107 415) (25 405) (15 955) (10 559) (23 580) (1 313 677) 832 379 39 603 (94 594) 777 388 (133 189) 644 199
+SKONSOLIDOWANE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW ZA OKRES 12 MIESIĘCY ZAKOŃCZONY 31.12.2025 (w tys. PLN) DZIAŁALNOŚĆ DETALICZNA DZIAŁALNOŚĆ INSTYTUCJONALNA RAZEM SEGMENTY SPRAWOZDAWCZE Wynik z operacji na instrumentach finansowych netto 2 007 324 37 258 2 044 582 Instrumenty pochodne CFD CFD na towary 933 220 (9 506) 923 714 CFD na indeksy 720 508 40 228 760 736 CFD na waluty 283 789 6 619 290 408 CFD na akcje i ETF 60 047 - 60 047 CFD na obligacje 184 (83) 101 Akcje i ETF 78 310 - 78 310 Bonusyi rabatywypłacane klientom (17 328) - (17 328) Prowizje wypłacane brokerom współpracującym (51 406) - (51 406) Wynik z tytułu odsetek od środkówpieniężnych klientów 77 989 - 77 989 Przychodyz tytułuprowizji i opłat 15 021 5 266 20 287 Pozostałeprzychody 3 198 - 3 198 Przychody z działalności operacyjnej razem 2 103 532 42 524 2 146 056 Marketing (582 756) (2 142) (584 898) Wynagrodzenia i świadczeniapracownicze (410 927) (2 092) (413 019) Pozostałe usługi obce (131 501) (1 345) (132 846) Koszty prowizji (107 399) (16) (107 415) Amortyzacja (25 379) (26) (25 405) Podatki i opłaty (15 923) (32) (15 955) Kosztyutrzymania i wynajmu budynków (10 559) - (10 559) Pozostałe koszty (23 065) (515) (23 580) Koszty działalności operacyjnej razem (1 307 509) (6 168) (1 313 677) Zysk z działalności operacyjnej 796 023 36 356 832 379 Przychodyfinansowe 39 603 - 39 603 Kosztyfinansowe (98 287) 3 693 (94 594) Zyskprzed opodatkowaniem 737 339 40 049 777 388 Podatek dochodowy Zysk netto  
+| **SKONSOLIDOWANE** **SPRAWOZDANIE** **Z SYTUACJI** **FINANSOWEJ** |
+|  |
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **14. Środki pieniężne i ich ekwiwalenty**
+**Według struktury rodzajowej:**  
+| **(w tys. PLN)** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Środki pieniężne i ich ekwiwalenty | 7 858 420 | 5 370 815 |
+| **Środki pieniężne i ich ekwiwalenty razem** | **7 858 420** | **5 370 815** |
+Grupa zalicza do ekwiwalentów środków pieniężnych lokaty krótkoterminowe z terminem zapadalności poniżej 3 miesięcy oraz naliczone od nich odsetki.  
+**Środki pieniężne własne i oraz środki o ograniczonej możliwości dysponowania - środki pieniężne klientów:**  
+| **(w tys. PLN)** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Środki pieniężne i ich ekwiwalenty klientów | 5 864 393 | 3 751 303 |
+| Środki pieniężne i ich ekwiwalenty własne | 1 994 027 | 1 619 512 |
+| **Środki pieniężne i ich ekwiwalenty razem** | **7 858 420** | **5 370 815** |
+Środki pieniężne i ich ekwiwalenty klientów uwzględniają wartość otwartych transakcji dotyczących instrumentów pochodnych CFD zawartych przez klientów. Oznacza to, że jeśli klient posiada otwarte transakcje dotyczące instrumentów pochodnych CFD, wartość jego środków pieniężnych będzie uwzględniać bieżące zyski lub straty wynikające z tych transakcji na dzień bilansowy.

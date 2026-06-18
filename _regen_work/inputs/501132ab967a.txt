@@ -1,0 +1,86 @@
+DOKUMENT SEKCJA: **33.4. Ryzyko kredytowe** | **33.5. Ryzyko związane z klimatem** | **34. Zdarzenia po dniu bilansowym** | **Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy** | **INFORMACJE DODATKOWE** | **Należności pozostałe** | **Środki pieniężne**
+
+## **33.4. Ryzyko kredytowe**
+Poniższa tabela prezentuje wartość bilansową aktywów finansowych odpowiadającą narażeniu Grupy na ryzyko kredytowe:  
+| **(w tys. PLN)** **WARTOŚĆ** **BILANSOWA** **MAKSYMALNA** **EKSPOZYCJA** **NA RYZYKO** **KREDYTOWE** **WARTOŚĆ** **BILANSOWA** **MAKSYMALNA** **EKSPOZYCJA** **NA RYZYKO** **KREDYTOWE** **Aktywa finansowe** | **30.09.2025** | **31.12.2024** |  |  |
+| --- | --- | --- | --- | --- |
+| Środki pieniężne | 7 138 077 | 7 138 077 | 5 370 815 | 5 370 815 |
+| Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy* | 985 973 | 28 502 | 1 123 923 | 11 263 |
+| Aktywa finansowe wyceniane w zamortyzowanym koszcie | 83 357 | 83 357 | 55 026 | 55 026 |
+| **Aktywa finansowe razem** | **8 207 407** | **7 249 937** | **6 549 764** | **5 437 104** |
+_* Maksymalna ekspozycja na ryzyko kredytowe dla aktywów finansowych wycenianych w wartości godziwej przez wynik finansowy, bez uwzględnienia otrzymanych zabezpieczeń wyniosła 629 473 tys. PLN na dzień 30 września 2025 roku (31 grudnia 2024 roku: 487 458 tys. PLN). Zabezpieczenie tej ekspozycji stanowiły środki pieniężne klientów, które na dzień 30 września 2025 roku zapewniały zabezpieczenie dla ekspozycji o wartości 600 971 tys. PLN (na dzień 31 grudnia 2024 roku: 476 195 tys. PLN). Ekspozycje na ryzyko kredytowe wynikające z transakcji z brokerami, jak również ewentualne ekspozycje wobec Giełdy Papierów Wartościowych w Warszawie nie podlegały zabezpieczeniu._  
+Jakość kredytowa aktywów finansowych Grupy oceniana jest na podstawie zewnętrznych ocen jakości kredytowej, wag ryzyka przypisywanych na podstawie rozporządzenia CRR z uwzględnieniem stosowanych mechanizmów ograniczających ryzyko kredytowe, liczby dni w opóźnieniu spłaty należności oraz prawdopodobieństwa niewypłacalności kontrahenta.  
+Aktywa Grupy mieszczą się w następujących przedziałach ratingów kredytowych:  
+- Fitch Ratings - od F1+ do B  
+- Standard & Poor's Ratings Services - od A-1+ do B  
+- Moody’s - od P-1 do NP
+
+## **Środki pieniężne**
+Ryzyko kredytowe w zakresie środków pieniężnych i innych aktywów pieniężnych związane jest z utrzymywaniem środków pieniężnych zarówno własnych jak i klientów na rachunkach bankowych. Ryzyko kredytowe dotyczące środków pieniężnych jest ograniczane poprzez wybór banków o wysokim ratingu kredytowym przyznawanym przez międzynarodowe agencje ratingowe oraz poprzez dywersyfikację banków, w których otwierane są rachunki. Na dzień 30 września 2025 roku Grupa posiada rachunki bankowe w 69 bankach i instytucjach (31 grudnia 2024 roku: 63 banków i instytucji). 10 największych ekspozycji zostało przedstawionych w poniższej tabeli (numeracja banków i instytucji ustalona jednolicie dla okresu sprawozdawczego i porównawczego oraz tabeli koncentracji ryzyka kredytowego kontrahenta, zgodnie z kolejnością w bieżącym okresie):  
+| **PODMIOT** **(w tys. PLN)** | **30.09.2025** **PODMIOT** **(w tys. PLN)** | **31.12.2024** |
+| --- | --- | --- |
+| Bank 1 | 3 483 660 Bank 1 | 2 191 374 |
+| Bank 2 | 1 829 874 Bank 2 | 1 918 500 |
+| Bank 3 | 601 998 Instytucja 2 | 172 627 |
+| Instytucja 1 | 219 589 Instytucja 1 | 121 820 |
+| Instytucja 2 | 132 847 Bank 5 | 99 938 |
+| Instytucja 3 | 110 058 Bank 7 | 99 102 |
+| Bank 4 | 91 345 Instytucja 5 | 94 953 |
+| Instytucja 4 | 56 532 Instytucja 6 | 85 482 |
+| Bank 5 | 54 599 Instytucja 3 | 69 653 |
+| Bank 6 | 42 721 Instytucja 4 | 56 265 |
+| Pozostałe | 514 854 Pozostałe | 461 101 |
+| **Razem** | **7 138 077** Razem | **5 370 815** |
+60  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Poniższa tabela prezentuje krótkoterminową ocenę jakości kredytowej środków pieniężnych Grupy według stopni jakości kredytowej wyznaczonych na podstawie zewnętrznych ocen jakości kredytowej (stopień 1 oznacza najlepszą jakość kredytową, stopień 6 najgorszą) i wag ryzyka przypisywanych na podstawie rozporządzenia CRR. W przypadku braku oceny krótkoterminowej lub ekspozycji o terminie zapadalności wynoszącym ponad 3 miesiące wykorzystano oceny długoterminowe.  
+| **STOPIEŃ JAKOŚCI KREDYTOWEJ** **Środki pieniężne** | **WARTOŚĆ BILANSOWA (w tys. PLN)** |  |
+| --- | --- | --- |
+| Stopień 1 | 6 283 424 | 4 726 258 |
+| Stopień 2 | 79 068 | 66 024 |
+| Stopień 3 | 772 482 | 575 943 |
+| Stopień 4 | 1 267 | 2 590 |
+| Stopień 5 | - - |  |
+| Stopień 6 | 1 836 - |  |
+| **Razem** | **7 138 077** | **5 370 815** |
+
+## **Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy**
+Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy wynikają z transakcji instrumentami finansowymi, zawartych z klientami Grupy oraz powiązanych z nimi transakcji zabezpieczających.  
+Ryzyko kredytowe w zakresie aktywów finansowych wycenianych w wartości godziwej przez wynik finansowy związane jest z ryzykiem niewypłacalności klienta lub kontrahenta. W stosunku do transakcji zawartych z klientami na rynku OTC, Grupa prowadzi politykę zabezpieczania się przed ryzykiem kredytowym kontrahenta poprzez stosowanie mechanizmu tzw. „stop out”. Zabezpieczeniem są środki pieniężne klienta zdeponowane w domu maklerskim. Jeśli saldo bieżące rachunku klienta jest równe lub niższe niż 50% wpłaconego zabezpieczenia zablokowanego w ramach danego systemu transakcyjnego, pozycja generująca największą stratę zamykana jest automatycznie po aktualnej cenie rynkowej. Wielkość początkowego depozytu zabezpieczającego wyznaczana jest w zależności od rodzaju instrumentu finansowego, rachunku klienta, waluty rachunku i kwoty salda na rachunku pieniężnym w systemie transakcyjnym, jako procent wartości nominalnej transakcji. Szczegółowy opis mechanizmu zawarty jest w obowiązujących klientów regulaminach. Dodatkowo, w celu zabezpieczenia ryzyka kredytowego kontrahenta Grupa stosuje w umowach z wybranymi klientami inne klauzule, w szczególności wymogi odnośnie minimalnego poziomu salda na rachunku pieniężnym.  
+Ze względu na stosowane mechanizmy ograniczające ryzyko kredytowe, jakość kredytowa aktywów finansowych wycenianych w wartości godziwej przez wynik finansowy jest wysoka i nie wykazuje istotnego zróżnicowania.  
+10 największych ekspozycji Grupy na ryzyko kredytowe kontrahenta z uwzględnieniem zabezpieczenia (ekspozycja netto) zostało przedstawione w poniższej tabeli (numeracja kontrahentów ustalona jednolicie dla okresu sprawozdawczego i porównawczego oraz tabeli koncentracji środków pieniężnych):  
+| **PODMIOT** **EKSPOZYCJA NETTO** **(w tys. PLN)** | **30.09.2025** **PODMIOT** **EKSPOZYCJA NETTO** **(w tys. PLN)** | **31.12.2024** |
+| --- | --- | --- |
+| Instytucja 2 | 14 187 Instytucja 2 | 5 943 |
+| Instytucja 3 | 2 210 Instytucja 3 | 2 038 |
+| Instytucja 12 | 1 375 Instytucja 5 | 1 889 |
+| Podmiot 2 | 1 227 Instytucja 11 | 921 |
+| Instytucja 5 | 1 207 Podmiot 9 | 784 |
+| Instytucja 11 | 931 Podmiot 10 | 537 |
+| Podmiot 21 | 829 Podmiot 11 | 363 |
+| Instytucja 6 | 552 Podmiot 12 | 249 |
+| Podmiot 23 | 321 Podmiot 13 | 113 |
+| Podmiot 24 | 274 Podmiot 14 | 108 |
+| **Razem** | **23 113** **Razem** | **12 945** |
+61  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **Należności pozostałe**
+Należności pozostałe nie wykazują istotnej koncentracji i powstały w toku normalnej działalności Grupy. Nieprzedawnione należności pozostałe są regularnie spłacane i z punktu widzenia jakości kredytowej nie stanowią dla Grupy istotnego ryzyka.
+
+## **33.5. Ryzyko związane z klimatem**
+Ryzyka związane z klimatem są częścią wewnętrznego systemu zarządzania ryzykiem, którym zarządza Dział Kontroli Ryzyka, a celem jednostki jest m.in. zapewnienie kompleksowego i świadomego zarządzania ryzykiem w ramach Grupy XTB, zabezpieczając ciągłość procesów i działania organizacji. Za identyfikację, weryfikację oraz monitoring ryzyk klimatycznych odpowiedzialny jest Zespół ESG, którym zarządzają przydzieleni właściciele poszczególnych obszarów. Za wcielenie ryzyk ESG do wewnętrznego Systemu Zarządzania Ryzykiem XTB odpowiada Dział Kontroli Ryzyka.  
+Kwestie związane z obowiązującą polityką klimatyczną, celami klimatycznymi oraz podjętymi i planowanymi inicjatywami szerzej opisano na stronie internetowej XTB S.A.  
+Podczas sporządzania niniejszego śródrocznego skróconego sprawozdania finansowego oceniono wpływ zidentyfikowanych ryzyk związanych z klimatem i nie stwierdzono istotnego oddziaływania kwestii środowiskowych na prezentowane ujawnienia.
+
+## **34. Zdarzenia po dniu bilansowym**
+Zdarzenia po dniu bilansowym nie wystąpiły.  
+62  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **INFORMACJE DODATKOWE**
+xtb.com<br>63<br>  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.

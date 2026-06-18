@@ -1,0 +1,52 @@
+DOKUMENT SEKCJA: **4. Opis przyjętych zasad rachunkowości** | **Doprowadzenie do porównywalności** | **Zmiany zasad rachunkowości** | _Wpływ dokonanej zmiany na skonsolidowane sprawozdanie z przepływów pieniężnych_ | _Wpływ dokonanej zmiany na skonsolidowane sprawozdanie z sytuacji finansowej_
+
+## **4. Opis przyjętych zasad rachunkowości**
+Skrócone śródroczne skonsolidowane sprawozdanie finansowe zostało sporządzone w oparciu o koncepcje wyceny:  
+- według zamortyzowanego kosztu ustalonego przy zastosowaniu efektywnej stopy procentowej  z uwzględnieniem odpisu z tytułu utraty wartości dla aktywów będących aktywami dotkniętymi utratą wartości ze względu na ryzyko kredytowe,  
+-  dla aktywów finansowych będących częścią modelu biznesowego, którego celem jest osiąganie korzyści z pozyskiwania kontraktowych przepływów pieniężnych  
+- oraz  
+-  dla pozostałych zobowiązań finansowych,  
+- według wartości godziwej dla instrumentów pochodnych oraz udzielonych pożyczek, dla których wynikające z umowy przepływy pieniężne nie są jedynie spłatą kwoty głównej i odsetek od kwoty głównej pozostałej do spłaty,  
+- według kosztu historycznego dla aktywów i zobowiązań niefinansowych.
+
+## **Zmiany zasad rachunkowości**
+Przy sporządzeniu niniejszego skróconego śródrocznego sprawozdania finansowego zastosowano te same zasady rachunkowości, co w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym sporządzonym na dzień 31 grudnia 2024 r. i za rok obrotowy kończący się tego dnia, za wyjątkiem zmian prezentacji pozycji opisanych w punkcie _Doprowadzenie do porównywalności_ .  
+Grupa zastosowała następujące obowiązujące zmiany standardów i interpretacji, które zostały zatwierdzone do stosowania w Unii Europejskiej od 1 stycznia 2025 r.:  
+- Zmiany do MSR 21 Skutki zmian kursów wymiany walut obcych – Brak wymienialności walut.  
+Zmiany nie miały znaczącego wpływu na skrócone śródroczne skonsolidowane sprawozdanie finansowe Grupy.  
+Niniejsze sprawozdanie finansowe uwzględnia wymogi zatwierdzonych przez Unię Europejską Międzynarodowych Standardów Rachunkowości, Międzynarodowych Standardów Sprawozdawczości Finansowej oraz związanych z nimi interpretacji, które zostały wydane i obowiązują za okresy roczne rozpoczynające się 1 stycznia 2025 roku.
+
+## **Doprowadzenie do porównywalności**
+W celu lepszego odzwierciedlenia treści ekonomicznej i zwiększenia użyteczności prezentowanych danych w skonsolidowanym sprawozdaniu z sytuacji finansowej Grupa dokonała zmiany prezentacji pozycji _Inwestycje_ wyodrębniając w osobnych pozycjach: _Inwestycje w pakiety wierzytelności wyceniane według zamortyzowanego kosztu_ oraz _Udzielone pożyczki_ , a także zmiany prezentacji pozycji _Zobowiązania z tytułu kredytów, pożyczek, dłużnych papierów wartościowych oraz leasingu_ wyodrębniając w osobnych pozycjach: _Zobowiązania z tytułu kredytów i pożyczek, Zobowiązania z tytułu kredytów dłużnych papierów wartościowych_ oraz _Zobowiązania z tytułu kredytów leasingu_ .  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+W skonsolidowanym sprawozdaniu z przepływów pieniężnych Grupa dokonała rozdzielenia pozycji Odsetki otrzymane i zapłacone od instrumentów zabezpieczających prezentując je w osobnych pozycjach: _Odsetki otrzymane od instrumentów zabezpieczających_ oraz _Odsetki zapłacone od instrumentów zabezpieczających._  
+Dane zaprezentowane w opublikowanym skonsolidowanym sprawozdaniu finansowym na dzień 31 grudnia 2024 r. oraz za okres od 1 stycznia 2024 r. do 31 grudnia 2024 r. zostały doprowadzone do porównywalności.
+
+## _Wpływ dokonanej zmiany na skonsolidowane sprawozdanie z sytuacji finansowej_
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+| _w tysiącach złotych_ | **30.09.2025** |  | **30.09.2025** |
+| --- | --- | --- | --- |
+| **Dane** **opublikowane** **porównywalności** | **Zmiana** | **Dane** **doprowadzone do** |  |
+| Zobowiązania z tytułu kredytów, pożyczek, dłużnych papierów wartościowych oraz leasingu | 7 082 876 | (7 082 876) | - |
+| Zobowiązania z tytułu kredytów i pożyczek | - | 3 505 989 | 3 505 989 |
+| Zobowiązania z tytułu dłużnych papierów wartościowych | - | 3 467 530 | 3 467 530 |
+| Zobowiązania z tytułu leasingu | - | 109 357 | 109 357 |
+| _w tysiącach złotych_ | **31.12.2024** |  | **31.12.2024** |
+| **Dane** |  | **Dane** |  |
+| **opublikowane** **porównywalności** | **Zmiana** | **doprowadzone do** |  |
+| Zobowiązania z tytułu kredytów, pożyczek, dłużnych papierów wartościowych oraz leasingu | 6 626 551 | (6 626 551) | - |
+| Zobowiązania z tytułu kredytów i pożyczek | - | 3 458 610 | 3 458 610 |
+| Zobowiązania z tytułu dłużnych papierów wartościowych | - | 3 109 702 | 3 109 702 |
+| Zobowiązania z tytułu leasingu | - | 58 239 | 58 239 |
+
+## _Wpływ dokonanej zmiany na skonsolidowane sprawozdanie z przepływów pieniężnych_
+| **Data wejścia w życie dla** **okresów** **rozpoczynających się** **w dniu oraz później** | 1 stycznia 2026 r. | 1 stycznia 2026 r. | 1 stycznia 2026 r. |
+| --- | --- | --- | --- |
+| **Ewentualny wpływ na** **sprawozdanie finansowe** | Grupa analizuje ewentualny wpływ zmian na jej skonsolidowane sprawozdanie finansowe. Grupa nie spodziewa się istotnego wpływu na sprawozdanie finansowe. | Grupa analizuje ewentualny wpływ zmian na jej skonsolidowane sprawozdanie finansowe. Grupa nie spodziewa się istotnego wpływu na sprawozdanie finansowe. | Zmiany nie będą miały wpływu na skonsolidowane sprawozdanie finansowe Grupy. |
+| **Rodzaj przewidywanej zmiany w zasadach rachunkowości** | Coroczne ulepszenia wprowadzają niewielkie zmiany do MSSF 1 Zastosowanie MSSF po raz pierwszy, MSSF 7 Instrumenty finansowe - Ujawnianie informacji, MSSF 9 Instrumenty finansowe, MSSF 10 Skonsolidowane sprawozdanie finansowe oraz MSR 7 Sprawozdanie z przepływów pieniężnych. | W maju 2024 roku Rada Międzynarodowych Standardów Rachunkowości opublikowała zmiany do MSSF 9 i MSSF 7 mające na celu: a) doprecyzowanie daty ujęcia i zaprzestania ujmowania niektórych aktywów i zobowiązań finansowych, ze zwolnieniem dla niektórych zobowiązań finansowych rozliczanych za pośrednictwem elektronicznego systemu przekazów pieniężnych; b) wyjaśnienie i dodanie dalszych wytycznych dotyczących oceny, czy składnik aktywów finansowych spełnia kryteria SPPI; c) dodanie nowych ujawnień dotyczących niektórych instrumentów, których warunki umowne mogą zmieniać przepływy pieniężne; oraz d) aktualizuje ujawnienia dotyczące instrumentów kapitałowych wycenianych w wartości godziwej przez inne całkowite dochody (FVOCI). | Celem poprawek jest lepsze odzwierciedlenie skutków fizycznych i wirtualnych umów na energię elektryczną zależną od natury w sprawozdaniach finansowych. |
+| **Standardy i interpretacje** **zatwierdzone przez UE** | Roczny program poprawek do MSSF, część 11 | Zmiany w klasyfikacji i wycenie instrumentów finansowych (Zmiany do MSSF 9 i MSSF 7) | Kontrakty na energię elektryczną zależną od natury (Zmiany do MSSF 9 i MSSF 7) |
+| **Data wejścia w życie dla** **okresów** **rozpoczynających się** **w dniu oraz później** | 1 stycznia 2027 r. | 1 stycznia 2027 r. | 1 stycznia 2027 r. |
+| **Ewentualny wpływ na** **sprawozdanie finansowe** | Zmiany nie będą miały wpływu na skonsolidowane sprawozdanie finansowe Grupy. | Z analiz Grupy wynika, że zastosowanie standardu będzie miało wpływ na prezentację i zakres ujawnień w skonsolidowanym sprawozdaniu finansowym Grupy KRUK. | Zmiany nie będą miały wpływu na skonsolidowane sprawozdanie finansowe Grupy. |
+| **Rodzaj przewidywanej zmiany w zasadach rachunkowości** | Nowy standard określa zmniejszone wymogi dotyczące ujawniania informacji, które uprawniona jednostka może stosować, zamiast wymogów dotyczących ujawnień przewidzianych w innych MSSF. | Standard ma zastąpić MSR 1 Prezentacja sprawozdań finansowych. Nowy standard opublikowany w kwietniu 2024 roku, który zastąpi MSR 1. Implementacja nowych wytycznych ma na celu poprawę porównywalności i przejrzystości sprawozdań finansowych jednostek. | Celem zmian jest zapewnienie spójnych zasad przeliczania danych finansowych na walutę prezentacji w warunkach hiperinflacji i dotyczą sytuacji, gdy jednostka prezentuje sprawozdanie finansowe w walucie gospodarki hiperinflacyjnej, a jej waluta funkcjonalna lub waluta jednostki zagranicznej pochodzi z gospodarki niehiperinflacyjnej. |
+| **Standardy** **i Interpretacje oczekujące na** **zatwierdzenie przez UE** | MSSF 19 Jednostki zależne bez publicznej odpowiedzialności: Ujawnienia oraz Poprawki do MSSF 19 | MSSF 18 Prezentacja i ujawnienia w sprawozdaniach finansowych | MSR 21 Skutki zmian kursów wymiany walut obcych – Przeliczenie na walutę prezentacji w warunkach hiperinflacji |
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_

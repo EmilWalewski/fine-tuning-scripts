@@ -1,0 +1,43 @@
+DOKUMENT SEKCJA: **8. Informacje na temat sezonowości lub cykliczności** | **Inwestycje wyceniane według zamortyzowanego** | **Inwestycje** | _Założenia przyjęte przy wycenie pakietów wierzytelności_
+
+## **8. Informacje na temat sezonowości lub cykliczności**
+Działalność Grupy nie wykazuje znamion sezonowości lub cykliczności.  
+27<br>**9. Rodzaj oraz kwoty zmian wartości szacunkowych kwot, które były podawane w poprzednich latach obrotowych, wywierające istotny wpływ na bieżący okres**
+
+## **Inwestycje**
+| _w tysiącach złotych_ | **30.06.2025** | **niebadane** | **31.12.2024** | **30.06.2024** | **niebadane** |
+| --- | --- | --- | --- | --- | --- |
+| Inwestycje w pakiety wierzytelności | 10 797 330 | 10 500 278 | 9 143 005 |  |  |
+| Udzielone pożyczki wyceniane według zamortyzowanego kosztu | 558 770 | 499 604 | 464 514 |  |  |
+| Udzielone pożyczki wyceniane według wartości godziwej | 2 643 | 3 301 | 4 038 |  |  |
+| 11 358 743 | 11 003 183 | 9 611 557 |  |  |  |
+
+## **Inwestycje wyceniane według zamortyzowanego**
+kosztu  
+| _w tysiącach złotych_ | **30.06.2025** | **niebadane** | **31.12.2024** | **30.06.2024** | **niebadane** |
+| --- | --- | --- | --- | --- | --- |
+| Inwestycje w pakiety wierzytelności | 10 797 330 | 10 500 278 | 9 143 005 |  |  |
+| Udzielone pożyczki wyceniane według zamortyzowanego kosztu | 558 770 | 499 604 | 464 514 |  |  |
+| 11 356 100 **Pakiety wierzytelności** | 10 999 882 | 9 607 519 |  |  |  |
+| _w tysiącach złotych_ **Wartość nabytych pakietów wierzytelności** | **30.06.2025** | **niebadane** | **31.12.2024** | **30.06.2024** | **niebadane** |
+| Portfele niezabezpieczone | 10 018 662 | 9 674 563 | 8 363 594 |  |  |
+| Portfele zabezpieczone | 778 668 | 825 715 | 779 411 |  |  |
+| 10 797 330 | 10 500 278 | 9 143 005 |  |  |  |
+Grupa na koniec każdego kwartału dokonuje aktualizacji, o ile jest to zasadne, następujących parametrów stanowiących podstawę szacowania oczekiwanych przyszłych przepływów pieniężnych pakietów wierzytelności wycenianych metodą zamortyzowanego kosztu:  
+- a. stopa dyskontowa w przypadku zmiany nakładu nabytego portfela wierzytelności,  
+- b. okres, za który oszacowano przepływy pieniężne,  
+- c. wartość oczekiwanych przyszłych przepływów w oparciu o dostępne aktualne informacje oraz aktualnie wykorzystywane procesy windykacyjne.  
+Grupa wykonuje analizy wpływu czynników makroekonomicznych na planowane odzyski, przy czym historycznie nie wykazano zależności odzysków dla nabytych portfeli wierzytelności od sytuacji makroekonomicznej.  
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## _Założenia przyjęte przy wycenie pakietów wierzytelności_
+| **30.06.2025** | **31.12.2024** | **30.06.2024** |  |
+| --- | --- | --- | --- |
+| **niebadane** |  | **niebadane** |  |
+| Stopa dyskontowa 1 | 8,00% - 147,10% | 8,00% - 147,10% | 8,00% - 147,10% |
+| Okres, za który oszacowano wpływy | lipiec 2025 - | styczeń 2025 - | lipiec 2024 - |
+| lipiec 2045 _w tysiącach złotych_ | czerwiec 2045 | lipiec 2045 |  |
+| Wartość niezdyskontowanych przyszłych wpływów, w tym stopa dyskontowa: | 23 892 657 | 23 147 233 | 19 831 609 |
+| _poniżej 25%_ | _16 522 900_ | _15 685 322_ | _13 788 320_ |
+| _25% - 50%_ | _6 398 992_ | _6 075 201_ | _5 177 625_ |
+| _powyżej 50%_ _1 zakres stóp procentowych dotyczy 99% wartości pakietów wierzytelności_ | _970 765_ | _1 386 710_ | _865 664_ |

@@ -1,0 +1,57 @@
+DOKUMENT SEKCJA: **6. WYNIKI FINANSOWE I OPERACYJNE** | **6.1. Zmiany warunków prowadzenia działalności i sytuacji gospodarczej, które mają wpływ na wartość godziwą aktywów finansowych i zobowiązań finansowych** | **9.1. Przychody ze sprzedaży** | **Opis segmentów i głównych rodzajów działalności**
+
+## **6. WYNIKI FINANSOWE I OPERACYJNE**
+Przychody Spółki za okres 6 miesięcy zakończony 30 czerwca 2025 roku wyniosły 67,9 mln PLN i były wyższe o 56,1 mln PLN analizując analogiczny okres. Wzrost przychodów wynikał z postępów realizacji kluczowego projektu dla Spółki „Mikroglob”.  
+Koszty działalności operacyjnej łącznie zwiększyły się o 44,2 mln PLN do poziomu 70,5 mln PLN porównując okres 6 miesięcy.  
+Największy wpływ na poziom kosztów operacyjnych miało zwiększenie kosztów usług obcych (+32,2 mln PLN), w głównej mierze wynikający z kosztów usług podwykonawców w projekcie „Mikroglob” oraz zwiększenie koszów wynagrodzeń i ubezpieczeń społecznych (+6,7 mln PLN), co miało związek głównie ze wzrostu skali działalności Spółki.  
+Spółka zidentyfikowała szereg pozycji, które są istotne ze względu na swój charakter i/lub kwotę. Są one wymienione w tabeli poniżej, aby zapewnić lepsze zrozumienie wyników finansowych Spółki:  
+| **ISTOTNE POZYCJE ZYSKÓW I STRAT** | **01.01.2025** | **30.06.2025** | **01.01.2024** | **30.06.2024** |
+| --- | --- | --- | --- | --- |
+| Przychody ze sprzedaży produktów | 67 943 | 11 814 |  |  |
+| Przychody z tytułu dotacji | 6 507 | 5 286 |  |  |
+| Zużycie materiałów i energii | 3 970 | 4 023 |  |  |
+| Usługi obce | 37 110 | 4 848 |  |  |
+| Wynagrodzenia i ubezpieczenia społeczne oraz inne świadczenia | 20 816 | 14 161 |  |  |
+| Amortyzacja | 6 918 | 4 035 |  |  |
+| **Zysk/strata netto z działalności kontynuowanej** | **3 541** | **-7 548** |  |  |
+Suma aktywów Spółki na dzień 30 czerwca 2025 roku wyniosła 300,0 mln PLN i była wyższa o 137,7 mln PLN w porównaniu ze stanem z dnia 31 grudnia 2024 roku. Wartość aktywów trwałych na 30 czerwca 2025 roku wyniosła 116,5 mln PLN i była wyższa o 9,0 mln PLN w porównaniu z końcem poprzedniego roku, przede wszystkim z tytułu zwiększenia wartości niematerialnych i prawnych o 6,5 mln PLN, głównie w związku ze zwiększeniem skapitalizowanych nakładów na prace rozwojowe.  
+Wartość aktywów obrotowych na dzień 30 czerwca 2025 zwiększyła się o 128,7 mln PLN w porównaniu z końcem poprzedniego roku, przede wszystkim w efekcie zwiększenia salda środków pieniężnych o 110,5 mln PLN z tytułu wpływu środków z emisji akcji serii K oraz realizacji przychodów z projektu ‘Mikroglob’. Kapitał własny na dzień 30 czerwca 2025 roku wyniósł 147,3 mln PLN i był wyższy o 76,3 mln PLN w porównaniu ze stanem z końca 2024 roku z powodu otrzymania środków w emisji serii K. Wartość zobowiązań z tytułu dostaw i usług oraz pozostałych zobowiązań zwiększyła się o 42,5 mln PLN w związku z rozpoczęciem kluczowych zakupów na potrzeby realizacji strategicznego dla Spółki projektu.
+
+## **6.1. Zmiany warunków prowadzenia działalności i sytuacji gospodarczej, które mają wpływ na wartość godziwą aktywów finansowych i zobowiązań finansowych**
+W okresie objętym niniejszym śródrocznym skróconym sprawozdaniem finansowym zakończonym w dniu 30 czerwca 2025 roku nie wystąpiły zmiany warunków prowadzenia działalności i sytuacji gospodarczej, które mają wpływ na wartość godziwą aktywów finansowych i zobowiązań finansowych Spółki.  
+13  
+Raport Creotech Instruments Spółka Akcyjna za okres 6 miesięcy zakończony 30 czerwca 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **Opis segmentów i głównych rodzajów działalności**
+Spółka zajmuje się przede wszystkim rozwojem technologii kosmicznych, aparatury naukowej i kontrolnopomiarowej. Działalność produkcyjna na potrzeby zleceniodawców stanowi dodatkowe źródło przychodu.  
+Zarząd Creotech Instruments Spółka Akcyjna ustalił segmenty operacyjne na podstawie raportów, których używa do podejmowania decyzji strategicznych.  
+Sprawozdawczość dotycząca segmentów jest zgodna ze sprawozdawczością wewnętrzną, przedstawianą osobom zarządzającym Spółką i podejmującym decyzje na poziomie operacyjnym.  
+Podstawowym podziałem na segmenty działalności jest podział według podstawowych grup asortymentu sprzedaży Spółki, czyli tytułów, z których osiąga lub planuje osiągać ona przychody ze sprzedaży. W związku z powyższym Zarząd wyodrębnił cztery segmenty:  
+- **Projekty kosmiczne** (Space) - projektowanie, produkcja oraz sprzedaż podsystemów i systemów wykorzystywanych w przemyśle kosmicznym, w tym satelitów,  
+- **Dane satelitarne i technologie UAV** (Geospatial) - projektowanie, produkcja oraz sprzedaż podsystemów i systemów do zarządzania operacjami dronowymi oraz do generowania, przetwarzania lub udostępniania danych satelitarnych i dronowych,  
+- **Systemy kwantowe** (Quantum Systems) - projektowanie, produkcja oraz sprzedaż podsystemów i systemów wykorzystywanych w komputerach kwantowych, kryptografii kwantowej, systemach synchronizacji czasu oraz pozostałych podsystemów lub systemów wykorzystywanych w działalności naukowej,  
+- **Produkcja elektroniki** (Manufacturing) - usługowe wytwarzanie elektroniki przemysłowej na zamówienie klientów.  
+Segmenty operacyjne nie są łączone.  
+Spółka nie prezentuje:  
+- aktywów i zobowiązań,  
+- pozostałych przychodów i kosztów operacyjnych,  
+- przychodów i kosztów finansowych  
+dla każdego segmentu sprawozdawczego, ponieważ kwoty nie są regularnie przedstawiane głównemu organowi odpowiedzialnemu za podejmowanie decyzji operacyjnych.  
+14  
+Raport Creotech Instruments Spółka Akcyjna za okres 6 miesięcy zakończony 30 czerwca 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **9.1. Przychody ze sprzedaży**
+Na przychody ze sprzedaży w okresach 6 miesięcy zakończonych 30 czerwca 2025 oraz 30 czerwca 2024 roku składały się następujące pozycje:  
+| **Udział %** **WYSZCZEGÓLNIENIE** | **01.01.2025** | **01.01.2024** | **01.01.2025** | **01.01.2024** |
+| --- | --- | --- | --- | --- |
+| **30.06.2025** | **30.06.2024** | **30.06.2025** | **30.06.2024** |  |
+| **Przychody ze sprzedaży produktów i** **usług, w tym:** | **67 517** | **11 813** | **99,37%** | **99,99%** |
+| Przychody z tytułu umów z klientami | 67 517 | 11 813 | 99,37% | 99,99% |
+| Wyłączone z zakresu MSSF 15 | - | - | 0,00% | 0,00% |
+| **Przychody ze sprzedaży towarów i** **materiałów w tym:** | **427** | **1** | **0,63%** | **0,01%** |
+| Przychody z tytułu umów z klientami | 427 | 1 | 0,63% | 0,01% |
+| Wyłączone z zakresu MSSF 15 | - | - | 0,00% | 0,00% |
+| **Przychody ze sprzedaży, w tym:** | **67 943** | **11 814** | **100,00%** | **100,00%** |
+| Przychodyz tytułu umów z klientami | 67 943 | 11 814 | 100,00% | 100,00% |
+**Podział przychodów na kategorie uwzględniający istotne czynniki ekonomiczne mające wpływ na ich rozpoznanie:**  
+Podział przychodów według asortymentu i według regionu geograficznego przedstawionych w notach 9.2 i 9.3.

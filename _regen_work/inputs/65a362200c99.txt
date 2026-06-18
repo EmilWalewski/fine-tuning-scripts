@@ -1,0 +1,43 @@
+DOKUMENT SEKCJA: **SŁOWNIK POJĘĆ**
+
+## **SŁOWNIK POJĘĆ**
+87<br>**Catalyst** – system autoryzacji i obrotu dłużnymi instrumentami finansowymi, prowadzony przez Giełdę Papierów Wartościowych i spółkę BondSpot  
+**CCIRS** – Cross-Currency Interest Rate Swap;  
+**CIRS** – Currency Interest Rate Swap; instrument zabezpieczający od ryzyka walutowego oraz ryzyka zmian stóp procentowych, wykorzystywany w Grupie do zabezpieczania przyszłych przepływów pieniężnych oraz inwestycji netto w jednostce zagranicznej  
+**CIT** – Corporate Income Tax; podatek dochodowy od osób prawnych  
+**CPI** – Consumer Price Index; wskaźnik cen towarów i usług konsumpcyjnych  
+**CZK** – korona czeska, waluta obowiązująca w Czechach  
+**Default** – niewykonanie zobowiązania, niedokonianie płatności  
+**EAD** – Exposure At Default; ekspozycja na moment niewykonania zobowiązania  
+**EBITDA** – Earnings Before Interest, Taxes, Depreciation and Amortization; rozumiana jako marża pośrednia pomniejszona o koszty ogólne  
+**ESG** – Environmental, Social Governance; to zbiór zasad oraz proces ujawniania informacji przez przedsiębiorstwa dotyczących ich wpływu na środowisko, społeczeństwo oraz zarządzanie  
+**EUR** – euro, waluta obowiązująca w większości państw Unii Europejskiej  
+**EURIBOR** – Euro Interbank Offered Rate; referencyjna wysokość oprocentowania depozytów i kredytów na rynku międzybankowym strefy euro  
+**Filar II** - Regulacje zobowiązujące podatników będących grupami międzynarodowymi do zapłaty podatku wyrównawczego, stanowiącego różnicę między efektywną stawką podatku (wyliczoną wg zasad określonych w Ustawie) dla danej jurysdykcji a stawką minimalną wynoszącą 15%  
+**FORWARD** – instrument pochodny stanowiący kontrakt polegająca na kupnie lub sprzedaży instrumentu bazowego w z góry określonym terminie realizacji i za z góry określoną cenę wykonania  
+**Grupa, Grupa KRUK, Grupa Kapitałowa** – KRUK S.A. oraz jednostki od niej zależne i kontrolowane osobowo  
+**IRS** – Interest Rate Swap; instrument zabezpieczający od ryzyka zmian stóp procentowych, wykorzystywany w Grupie do zabezpieczania przyszłych przepływów pieniężnych  
+Jednostka Dominująca – KRUK S.A.  
+**LGD** – Loss Given Default; strata z niewykonania zobowiązania  
+**Marża pośrednia** – marża rozumiana jako przychody z działalności operacyjnej pomniejszone o koszty bezpośrednie i pośrednie  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+**MSR** – Międzynarodowe Standardy Rachunkowości  
+**MSSF** – Międzynarodowe Standardy Sprawozdawczości Finansowej  
+88<br>- **NBP** – Narodowy Bank Polski, polski bank centralny  
+**NFW FIZ** – Niestandaryzowane Fundusze Wierzytelności Fundusze Inwestycyjne Zamknięte  
+**OECD** – Organisation for Economic Co-operation and Development; Organizacja Współpracy Gospodarczej i Rozwoju  
+**OWSP** - ośrodki wypracowujące środki pieniężne  
+**PD** – Probability of Default; prawdopodobieństwo niewykonania zobowiązania  
+**PFRON** – Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych  
+**PIT** – Personal Income Tax; podatek dochodowy od osób fizycznych  
+**PKB** – Produkt Krajowy Brutto  
+**PLN** – polski złoty, waluta obowiązująca w Polsce, waluta funkcjonalna Grupy KRUK  
+**POCI** – Purchased or Originated Credit-Impaired; składniki aktywów, które już w momencie początkowego ujęcia są dotknięte utratą wartości ze względu na ryzyko kredytowe  
+**Podatek CFC** – podatek od dochodów zagranicznych spółek kontrolowanych przez polskich rezydentów  
+**PPS** – Prepayment Possibility; prawdopodobieństwo przedterminowej spłaty  
+**RON** – lej rumuński, waluta obowiązująca w Rumunii  
+**Test SPPI** – Solely Payments of Principal and Interest; jakościowy test oceniający, czy przepływy pieniężne z aktywów finansowych stanowią jedynie spłatę kwoty głównej i odsetek.  
+**UE** – Unia Europejska  
+**USD** – dolar amerykański, waluta obowiązująca w USA  
+**WIBOR** – Warsaw Interbank Offered Rate; referencyjna wysokość oprocentowania pożyczek na polskim rynku międzybankowym  
+**Zarząd** – Zarząd KRUK S.A.

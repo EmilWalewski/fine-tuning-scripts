@@ -1,0 +1,49 @@
+DOKUMENT SEKCJA: **1. Informacje ogólne** | **2. Model biznesowy** | **Dywersyfikacja przychodów w oparciu o rynki działalności** | **Dywersyfikacja przychodów w oparciu o segment klientów**
+
+## **1. Informacje ogólne**
+XTB S.A. to instytucja finansowa o polskich korzeniach i globalnym zasięgu. Notowana na Giełdzie Papierów Wartościowych w Warszawie S.A. Spółka tworzy międzynarodową Grupę Kapitałową XTB, która oferuje inwestorom stały i natychmiastowy dostęp online do rynków finansowych za pośrednictwem autorskiej platformy inwestycyjnej oraz aplikacji mobilnej.  
+| Nazwa Spółki: XTB Spółka Akcyjna Adres siedziby i centrali: ul. Prosta 67 00-838 Warszawa Adres strony internetowej: www.xtb.com Data rejestracji w KRS: 22.09.2004 Numer KRS: 0000217580 NIP: 5272443955 REGON: 015803782 **Spółka** **podlega** **nadzorowi** **Komisji** **Nadzoru** **Finansowego i prowadzi działalność regulowaną na** **podstawie zezwolenia z dnia 8 listopada 2005 roku** **nr DDM-M-4021-57-1/2005** |
+XTB łączy w swojej działalności tradycyjne usługi maklerskie z wykorzystaniem najnowszych technologii świata inwestycji i finansów, zapewniając swoim klientom łatwiejszy i konkurencyjny dostęp do szerokiej oferty instrumentów inwestycyjnych. Spółka opracowała i rozwija autorską, uniwersalną platformę inwestycyjną online xStation oraz aplikację mobilną XTB. Obie są narzędziami typu  
+All-in-One, pozwalającymi inwestorom na aktywne zarządzanie swoimi środkami w celach inwestycyjnych. Ponadto, aplikacje oferowane przez Grupę dostarczają klientom użytecznych i zróżnicowanych narzędzi, obejmujących wykresy, analizy, badania i szkolenia online. Edukacja finansowa pozostaje jednym z ważniejszych elementów działalności XTB.  
+W ofercie XTB znajdują się produkty, odpowiadające oczekiwaniom różnych grup inwestorów:  
+- akcje;  
+- fundusze ETP _(ang. Exchange-Traded Products)_ , w ramach których dostępne są (i) notowane na giełdach fundusze ETF _(ang. Exchange-Traded Fund)_ oparte na akcjach, indeksach giełdowych, obligacjach, a także na surowcach, metalach szlachetnych czy kryptowalutach, oraz (ii) fundusze ETC _(ang. Exchange-Traded Commodity)_ , które odzwierciedlają ceny określonych surowców jak np. złoto lub ich grup;  
+64  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+- kontrakty CFD _(ang. Contract For Diferrence),_ będące typem pozagiełdowych instrumentów pochodnych, których aktywem bazowym mogą być pary walutowe (FOREX), akcje, najważniejsze indeksy giełdowe, surowce i towary, coraz bardziej popularne kryptowaluty i wiele innych;  
+- Plany Inwestycyjne XTB, które są dedykowane inwestowaniu pasywnemu i pozwalają niskim kosztem zbudować portfel inwestycyjny oparty o fundusze ETP;  
+- odsetki od wolnych środków, wypłacane klientom od środków niezainwestowanych, ale pozostających na rachunkach klientów XTB;  
+- produkty dedykowane oszczędzaniu długoterminowemu, w tym na cele emerytalne – jest to odpowiedź na rosnące zainteresowanie klientów, obecnie są to Indywidualne Konto Emerytalne (IKE) oraz Indywidualne Konto Zabezpieczenia Emerytalnego (IKZE) dostępne dla obywateli Polski, Individual Savings Account (ISA) dostępne dla obywateli Wielkiej Brytanii oraz Plan d'Épargne en Actions (PEA) dostępny dla obywateli Francji;  
+- eWallet – to usługa dostępu do wirtualnego portfela z wielowalutową kartą obsługującą bezgotówkowe płatności w sklepach, transakcje mobilne i bezdotykowe wypłaty gotówki z bankomatów na całym świecie;  
+- Prawa Ułamkowe, które pozwalają nabyć powiernicze prawo do ułamkowych części akcji lub jednostek uczestnictwa w funduszach ETF, ETN _(ang. Exchange-Traded Notes)_ lub ETC, dzięki czemu umożliwiają inwestowanie bez ograniczeń związanych z ceną akcji lub wybranego funduszu, co ułatwia zarządzanie portfelem inwestycyjnym.  
+XTB oferuje coraz szerszą gamę produktów dla klientów indywidualnych, a jednocześnie prowadzi działalność w segmencie klientów instytucjonalnych. Usługi te prowadzone są pod marką X Open Hub (XOH) i polegają na dostarczeniu nowoczesnej technologii transakcyjnej i płynności dla instytucji finansowych. XTB oferuje rozwiązania spełniające specyficzne wymagania klientów instytucjonalnych, w tym możliwość integracji z systemami klientów oraz zaawansowane narzędzia analityczne wspierające procesy podejmowania decyzji inwestycyjnych.  
+Pełną informację o ofercie produktowej można znaleźć na stronie internetowej Spółki: www.xtb.com
+
+## **2. Model biznesowy**
+**Model biznesowy Grupy XTB skupia się na człowieku jako odbiorcy usług** i ściśle koresponduje z kierunkami i celami strategii zrównoważonego rozwoju przyjętej przez Grupę. Jego głównym założeniem jest dostarczenie klientom nowoczesnych rozwiązań umożliwiających realizowanie ich celów inwestycyjnych dzięki natychmiastowemu dostępowi do rynków finansowych z całego świata. Kluczowymi produktami technologicznymi pomagającym dotrzeć do klientów masowych są autorska platforma inwestycyjna i aplikacja mobilna XTB.  
+Przychody operacyjne Grupy XTB powstają:  
+- ze spreadów (różnicy między ceną sprzedaży – offer a ceną kupna – bid);  
+- z naliczanych punktów swapowych (stanowiące koszt utrzymywania pozycji w czasie);  
+- opłat naliczanych klientom;  
+- z wyniku netto (zysków pomniejszonych o straty) z działalności Grupy w zakresie _market making_ .  
+- Ponadto, w ramach działalności operacyjnej, XTB osiąga przychody z odsetek od środków pieniężnych klientów.  
+65  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **Dywersyfikacja przychodów w oparciu o segment klientów**
+Grupa dywersyfikuje swoje przychody, świadcząc swoje usługi dla klientów indywidualnych oraz instytucjonalnych.  
+| nstytucjonalnych. |
+• klienci **INDYWIDUALNI** osoby fizyczne osoby prawne
+• usługi obrotu instrumentami finansowymi dostęp do szerokiej gamy produktów inwestycyjnych usługi świadczone pod marką XTB
+• klienci **INSTYTUCJONALNI** podmioty prawne
+• zapewnianie płynności obrotu instrumentami finansowymi udostępnianie infrastruktury transakcyjnej na rzecz instytucji, które świadczą usługi obrotu instrumentami finansowymi pod swoją marką dla własnych klientów usługi świadczone pod marką X Open Hub
+
+## **Dywersyfikacja przychodów w oparciu o rynki działalności**
+Grupa XTB dywersyfikuje swoje przychody także w ujęciu geograficznym, konsekwentnie realizując strategię zbudowania marki globalnej. Głównym rynkiem, na którym XTB generuje każdorazowo powyżej 20% przychodów jest Polska. Ponadto, Grupa świadczy swoje usługi dla klientów z obszaru Europy, Bliskiego Wschodu, Ameryki Łacińskiej i Azji Południowo-Wschodniej  
+Zarząd XTB kładzie główny nacisk na rozwój organiczny, z jednej strony zwiększając penetrację rynków europejskich, z drugiej budując sukcesywnie swoją obecność w Ameryce Łacińskiej i Azji. W ślad za tymi działaniami skład Grupy Kapitałowej poszerzać się może o nowe podmioty zależne. Warto nadmienić, że ekspansja geograficzna jest procesem realizowanym przez XTB w sposób ciągły, którego efekty rozłożone są w czasie.  
+66  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Rozwój XTB możliwy jest także poprzez fuzje i przejęcia, zwłaszcza z podmiotami które pozwoliłyby osiągnąć Grupie synergię geograficzną (rynki wzajemnie się uzupełniające). Tego typu transakcje Zarząd zamierza realizować jedynie w przypadku, gdy wiązać się będą z wymiernymi korzyściami dla Spółki i jej akcjonariuszy.

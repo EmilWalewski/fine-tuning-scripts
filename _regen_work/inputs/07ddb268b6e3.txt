@@ -1,0 +1,77 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.10. Instrumenty finansowe klientów oraz wartości nominalne transakcji na instrumentach pochodnych (pozycje pozabilansowe)** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.11. Wynik z operacji na instrumentach finansowych** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.12. Przychody i koszty z tytułu prowizji i opłat** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.13. Koszty świadczeń pracowniczych** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.8. Rezerwy na zobowiązania** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.9. Kapitały własne** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > Amortyzacja | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > Identyfikacja leasingu | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > Leasing krótkoterminowy | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > Leasing przedmiotów o niskiej wartości | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > Początkowe ujęcie i wycena
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## Identyfikacja leasingu
+W momencie zawarcia nowej umowy, Grupa ocenia, czy umowa jest leasingiem lub czy zawiera leasing. Umowa jest leasingiem lub zawiera leasing, jeżeli na jej mocy przekazuje się prawo do kontroli użytkowania zidentyfikowanego składnika aktywów na dany okres w zamian za wynagrodzenie.  
+Jeżeli Grupa ma prawo do sprawowania kontroli nad użytkowaniem zidentyfikowanego składnika aktywów jedynie przez część okresu obowiązywania umowy, umowa zawiera leasing w odniesieniu do tej części okresu.  
+18  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Prawa wynikające z umów leasingu, najmu, dzierżawy oraz innych umów, które spełniają definicję leasingu są ujmowane jako aktywa z tytułu praw do użytkowania bazowych składników aktywów w ramach aktywów trwałych oraz drugostronnie jako zobowiązania z tytułu leasingu.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## Początkowe ujęcie i wycena
+Grupa ujmuje składnik aktywów z tytułu praw do użytkowania oraz zobowiązanie z tytułu leasingu w dacie rozpoczęcia leasingu. W dacie rozpoczęcia Grupa wycenia składnik aktywów z tytułu praw do użytkowania według kosztu. Zobowiązanie z tytułu leasingu wyceniane jest w wysokości wartości bieżącej opłat leasingowych pozostających do zapłaty w tej dacie, zdyskontowanych z zastosowaniem krańcowych stóp procentowych leasingobiorcy.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## Amortyzacja
+Aktywa z tytułu praw do użytkowania są amortyzowane liniowo przez krótszy z dwóch okresów: okres leasingu lub okres użytkowania bazowego składnika aktywów, chyba, że Grupa posiada wystarczającą pewność, że uzyska tytuł własności przed upływem okresu leasingu – wówczas prawo do użytkowania amortyzuje się od dnia rozpoczęcia leasingu do końca okresu użytkowania składnika aktywów.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## Leasing krótkoterminowy
+Grupa stosuje praktyczne rozwiązanie w odniesieniu do umów leasingu krótkoterminowego, które charakteryzują się okresem leasingu o długości do 12 miesięcy. Uproszczenia dotyczące tych umów polegają na rozliczaniu opłat leasingowych jako koszty metodą liniową w trakcie okresu leasingu.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## Leasing przedmiotów o niskiej wartości
+Za składniki aktywów o niskiej wartości uważa się te, które mają wartość nie wyższą niż 43 tys. PLN przeliczone po kursie z dnia pierwszego zastosowania tj. 1 stycznia 2019 roku (co odpowiada 10 tys. EUR) lub ekwiwalentu w innej walucie według średniego kursu zamknięcia NBP na moment początkowego ujęcia umowy. Uproszczenia dotyczące tych umów polegają na rozliczaniu opłat leasingowych jako kosztów metodą liniową, przez okres trwania umowy leasingu.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.8. Rezerwy na zobowiązania**
+Rezerwy na zobowiązania tworzone są w przypadku, kiedy na Grupie ciąży istniejący obowiązek, prawny lub zwyczajowo oczekiwany, wynikający ze zdarzeń przeszłych i gdy prawdopodobne jest, że wypełnienie tego obowiązku spowoduje konieczność wypływu środków uosabiających korzyści ekonomiczne oraz można dokonać wiarygodnego szacunku kwoty tego zobowiązania, przy czym kwoty tego zobowiązania lub termin jego wymagalności nie są pewne.  
+Ujmowana kwota rezerwy odzwierciedla możliwie najdokładniejszy szacunek kwoty wymaganej do rozliczenia bieżącego zobowiązania na dzień bilansowy, z uwzględnieniem ryzyka i niepewności związanej z tym zobowiązaniem. W przypadku wyceny rezerwy metodą szacunkowych przepływów pieniężnych koniecznych do rozliczenia bieżącego zobowiązania, jej wartość bilansowa odpowiada wartości bieżącej tych przepływów.  
+Jeśli zachodzi prawdopodobieństwo, że część lub całość korzyści ekonomicznych wymaganych do rozliczenia rezerwy będzie można odzyskać od strony trzeciej, należność tę ujmuje się jako składnik aktywów, jeśli prawdopodobieństwo odzyskania tej kwoty jest odpowiednio wysokie i da się ją wiarygodnie wycenić.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.9. Kapitały własne**
+Kapitały własne stanowią kapitały i fundusze tworzone zgodnie z obowiązującymi przepisami, tj. właściwymi ustawami oraz statutem. Do kapitałów własnych zaliczane są także niepodzielone zyski z lat ubiegłych.  
+Kapitał podstawowy wykazywany jest w wartości wynikającej ze Statutu Jednostki dominującej. Niezarejestrowane wpłaty na kapitał podstawowy zaliczane są do kapitału własnego Jednostki dominującej i prezentowane są w wartości nominalnej otrzymanej wpłaty.  
+19  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Kapitał zapasowy tworzony jest zgodnie ze Statutem Grupy z corocznych odpisów z zysku netto i może być przeznaczony na pokrycie strat bilansowych lub na wypłatę dywidendy.  
+Pozostałe kapitały rezerwowe tworzone są z corocznych odpisów z zysku netto. Kapitały rezerwowe przeznaczone są na  
+pokrycie mogących powstać strat bilansowych lub na inne cele, w szczególności na wypłatę dywidendy lub nabycie akcji własnych i ich rozliczenie w ramach programu motywacyjnego.  
+Różnice kursowe z przeliczenia jednostek zagranicznych tworzone są z różnic powstałych na skutek przeliczeń danych finansowych podmiotów zagranicznych według kursów walutowych.  
+Udziały niekontrolujące stanowią tę część kapitałów w spółce zależnej, której nie można bezpośrednio lub pośrednio przyporządkować do jednostki dominującej.  
+Zyski zatrzymane stanowią zysk/strata netto za okres, za który sporządzane jest sprawozdanie skorygowany o podatek dochodowy oraz zysk/strata netto z lat ubiegłych.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.10. Instrumenty finansowe klientów oraz wartości nominalne transakcji na instrumentach pochodnych (pozycje pozabilansowe)**
+W pozycjach pozabilansowych wykazywane są wartości nominalne pochodnych instrumentów finansowych w transakcjach zawartych z klientami i brokerami na rynku OTC oraz wartości instrumentów finansowych klientów Grupy nabytych w regulowanym obrocie giełdowym i zdeponowanych na rachunkach klientów Grupy.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.11. Wynik z operacji na instrumentach finansowych**
+Wynik z operacji na instrumentach finansowych obejmuje wszystkie zrealizowane i niezrealizowane przychody i koszty związane z obrotem instrumentami finansowymi, włączając dywidendy, odsetki oraz różnice kursowe. Wynik z operacji na instrumentach finansowych obliczany jest jako różnica w wartości instrumentu w cenie sprzedaży i cenie nabycia.  
+Na wynik z operacji na instrumentach finansowych składają się następujące pozycje:  
+- Wynik z aktywów finansowych wycenianych w wartości godziwej przez wynik finansowy: wynik na instrumentach finansowych z transakcji z klientami oraz brokerami;  
+- Wynik z aktywów finansowych wycenianych w zamortyzowanym koszcie: wynik na dłużnych papierach wartościowych (wynik odsetkowy liczony metodą efektywnej stopy procentowej);  
+- Rabaty dla klientów oraz prowizje dla brokerów wprowadzających, uzależnione od faktycznie dokonanego obrotu na instrumentach finansowych. Pozycje te pomniejszają wynik z operacji na instrumentach finansowych.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.12. Przychody i koszty z tytułu prowizji i opłat**
+Przychody z tytułu prowizji i opłaty obejmują prowizje maklerskie oraz inne opłaty za usługi finansowe pobierane od klientów i są rozpoznawane w dacie zawarcia transakcji przez klienta.  
+Koszty z tytułu prowizji i opłat związane są z usługami pośrednictwa finansowego zakupionymi przez Grupę i są rozpoznawane w okresie świadczenia usług.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.13. Koszty świadczeń pracowniczych**
+Krótkoterminowe świadczenia pracownicze w tym wpłaty do programów określonych składek, ujmowane są w okresie,  
+w którym Grupa otrzymała przedmiotowe świadczenie ze strony pracownika, a w przypadku wypłat z zysku lub premii, gdy spełnione zostały następujące warunki:  
+- na jednostce ciąży obecne prawne lub zwyczajowe oczekiwane zobowiązanie do dokonania wypłat w wyniku zdarzeń przeszłych, oraz  
+- można dokonać wiarygodnej wyceny tego zobowiązania.  
+20  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+W przypadku świadczeń z tytułu płatnych nieobecności, świadczenia pracownicze ujmowane są w zakresie skumulowanych płatnych nieobecności, z chwilą wykonania pracy, która zwiększa uprawnienia do przyszłych płatnych nieobecności (tzw. rezerwa na niewykorzystane urlopy). W przypadku niekumulowanych płatnych nieobecności świadczenia ujmuje się z chwilą ich wystąpienia.  
+Począwszy od 2012 roku jednostka dominująca stosuje politykę zmiennych składników wynagrodzeń dla osób, których działalność zawodowa ma istotny wpływ na profil ryzyka jednostki dominującej.  
+W ramach tego programu XTB oferuje jej uczestnikom 100% zmiennego wynagrodzenia w formie akcji. Akcje są przyznawane jako element wynagrodzenia zmiennego za wyniki finansowe osiągnięte przez XTB w roku obrotowym, za który przyznawana jest Premia Faktyczna. Premia Faktyczna oznacza faktyczną wartość premii, która została przyznana uczestnikowi Programu Motywacyjnego za dany rok obrotowy. Świadczenia oferowane w formie instrumentów kapitałowych, których wartość jest powiązana z sytuacją finansową jednostki dominującej, jest wypłacana w okresie 3 lat od daty przyznania.  
+W przypadku transakcji płatności w formie akcji rozliczanych w instrumentach kapitałowych jednostka wycenia otrzymane dobra i odpowiadający im wzrost w kapitale własnym w wartości godziwej otrzymanych dóbr. Koszty związane z płatnościami w formie akcji są odnoszone bezpośrednio w kapitale własnym.

@@ -1,0 +1,169 @@
+DOKUMENT SEKCJA: **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO**
+
+W sytuacji, kiedy wartość oszacowanych przychodów
+metodą stopnia zaawansowania kontraktu przekracza przychody zafakturowane, powstałą różnicę ujmuje się w pozycji
+Przychody ze sprzedaży (Przychody ze sprzedaży usług) oraz rozpoznaje aktywa w pozycji Pozostałe aktywa obrotowe.
+
+Natomiast jeżeli wartość oszacowanych przychodów metodą stopnia zaawansowania kontraktu jest niższa niż przychody
+zafakturowane, powstałą różnicę ujmuje się w pozycji Przychody ze sprzedaży (Przychody ze sprzedaży usług) oraz rozpoznaje
+zobowiązanie w pozycji Przychody przyszłych okresów.
+
+Sprzedaż pozostałych usług
+Przychody ze sprzedaży usług innych niż budowlane, w tym przychody z tytułu administrowania osiedlami, wykazywane są
+w okresie, w którym usługa jest świadczona.
+
+PODATKI
+Podatek bieżący
+Zobowiązania i należności z tytułu bieżącego podatku za okres bieżący i okresy poprzednie wycenia się w wysokości kwot
+przewidywanej zapłaty na rzecz organów podatkowych (podlegających zwrotowi od organów podatkowych) z zastosowaniem
+stawek podatkowych i przepisów podatkowych, które obowiązywały na dzień bilansowy.
+
+Podatek odroczony
+Na potrzeby sprawozdawczości finansowej podatek odroczony jest obliczany metodą zobowiązań bilansowych w stosunku do
+różnie przejściowych występujących na dzień bilansowy między wartością podatkową aktywów i zobowiązań a ich wartością
+bilansową wykazaną w sprawozdaniu finansowym.
+
+Aktywa z tytułu odroczonego podatku dochodowego ujmowane są w odniesieniu do wszystkich ujemnych różnic przejściowych,
+jak również niewykorzystanych ulg podatkowych i niewykorzystanych strat podatkowych przeniesionych na następne lata w
+takiej wysokości, w jakiej jest prawdopodobne, że zostanie osiągnięty dochód do opodatkowania, który pozwoli wykorzystać
+ww. różnice, ulgi i straty.
+
+Wartość bilansowa składnika aktywów z tytułu odroczonego podatku jest weryfikowana na każdy dzień bilansowy i ulega
+stosownemu obniżeniu o tyle, o ile przestało być prawdopodobne osiągnięcie dochodu do opodatkowania wystarczającego do
+częściowego lub całkowitego zrealizowania składnika aktywów z tytułu odroczonego podatku dochodowego.
+
+Nieujęty składnik
+aktywów z tytułu odroczonego podatku dochodowego podlega ponownej ocenie na każdy dzień bilansowy i jest ujmowany do
+wysokości odzwierciedlającej prawdopodobieństwo osiągnięcia w przyszłości dochodów do opodatkowania, które pozwolą na
+odzyskanie tego składnika aktywów.
+
+SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPA KAPITAŁOWA DOM 17
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU DEVELOPMENT S.A.
+
+Rezerwa na podatek odroczony jest tworzona w wysokości kwoty podatku dochodowego wymagającej w przyszłości zapłaty w
+związku z występowaniem dodatnich przejściowych różnie, to jest różnie, które spowodują w przyszłości zwiększenia podstawy
+obliczenia podatku dochodowego.
+
+Aktywa z tytułu odroczonego podatku dochodowego oraz rezerwy na podatek odroczony wyceniane są z zastosowaniem
+stawek podatkowych, które według przewidywań będą obowiązywać w okresie, gdy składnik aktywów zostanie zrealizowany
+lub rezerwa rozwiązana, przyjmując za podstawę stawki podatkowe (i przepisy podatkowe) prawnie lub faktycznie
+obowiązujące na dzień bilansowy.
+
+Podatek dochodowy dotyczący pozycji ujmowanych poza zyskiem lub stratą jest ujmowany poza zyskiem lub stratą: w innych
+całkowitych dochodach dotyczący pozycji ujętych w innych całkowitych dochodach lub bezpośrednio w kapitale własnym
+dotyczący pozycji ujętych bezpośrednio w kapitale własnym.
+
+Grupa kompensuje ze sobą aktywa z tytułu odroczonego podatku dochodowego z rezerwami z tytułu odroczonego podatku
+dochodowego wtedy i tylko wtedy, gdy posiada możliwy do wyegzekwowania tytuł prawny do przeprowadzenia kompensat
+należności z rezerwami z tytułu bieżącego podatku i odroczony podatek dochodowy ma związek z tym samym podatnikiem i
+tym samym organem podatkowym.
+
+DYWIDENDY
+Dywidendy są ujmowane w momencie ustalenia praw akcjonariuszy lub udziałowców do ich otrzymania.
+
+ZYSK NETTO NA AKCJĘ
+Zysk netto na akcję dla każdego okresu jest obliczony poprzez podzielenie zysku netto za dany okres przez średnią ważoną liczbę
+akcji w danym okresie sprawozdawczym
+LEASING
+Grupa ujmuje aktywa i zobowiązania dla wszystkich transakcji leasingu zawartych na okres powyżej 12 miesięcy, za wyjątkiem
+sytuacji, gdy dane aktywo jest niskiej wartości; oraz amortyzację leasingowanego aktywa odrębnie od odsetek od zobowiązania
+leasingowego w rachunku zysków i strat.
+
+Aktywa z tytułu prawa do użytkowania ujęte są w bilansie w ramach tej samej pozycji, w ramach której przedstawione zostałyby
+odpowiednie bazowe składniki aktywów, gdyby były własnością spółek z Grupy (leasingobiorcy).
+
+Prawo do użytkowania powierzchni biurowych i apartamentów serwisowanych
+Prawo do użytkowania powierzchni biurowych i apartamentów serwisowanych jest amortyzowane oraz rozpoznawane są
+koszty finansowe z tytułu leasingu.
+
+Aktywo z tego tytułu wykazywane jest w bilansie w pozycji Rzeczowe aktywa trwałe.
+
+Zobowiązanie zostało wykazane odpowiednio w zobowiązaniach długo lub krótkoterminowych.
+
+Prawa wieczystego użytkowania gruntów
+Koszty — koszty związane z leasingiem prawa wieczystego użytkowania gruntów są odnoszone do pozycji Zapasy (w pozycji
+Półprodukty i produkcja w toku) w trakcie realizacji projektu deweloperskiego.
+
+Aktywo — aktywo z tego tytułu wykazane zostało w bilansie w pozycji Zapasy lub Należności krótkoterminowe.
+
+Zobowiązanie — zobowiązanie zostało wykazane w całości w zobowiązaniach krótkoterminowych.
+
+Powyższy sposób alokacji opłat z tytułu prawa wieczystego użytkowania gruntów wynika z faktu, że prawa te dotyczą
+nieruchomości, na których Grupa realizuje swoje projekty deweloperskie.
+
+Dlatego koszty leasingu prawa wieczystego
+użytkowania odnoszone są do zapasów (Produkcja w toku) a następnie, wraz z kosztem sprzedaży wyrobów gotowych
+odnoszone są do rachunku zysków i strat w okresie, w którym dane wyroby gotowe są przekazywane klientom (czyli w
+momencie rozpoznania sprzedaży)
+W dniu 20 lipca 2018 r. weszła w życie Ustawa o przekształceniu prawa wieczystego użytkowania gruntów zabudowanych na
+cele mieszkaniowe w prawo własności tych gruntów.
+
+Grunty objęte wyżej opisanym przekształceniem Grupa traktuje
+analogicznie do tych, w stosunku do których była dotychczas użytkownikiem wieczystym, traktując opłaty przekształceniowe
+analogicznie do opłat z tytułu wieczystego użytkowania.
+
+Uzasadnienie klasyfikacji aktywów i zobowiązań z tytułu leasingu prawa wieczystego użytkowania gruntów w bilansie
+Generalnie, prawa do wieczystego użytkowania gruntów, na których prowadzone są projekty deweloperskie, klasyfikowane są
+jako zapasy.
+
+Zobowiązania do zapłaty za te prawa zostaną rozliczone poprzez ich przeniesienie na nabywców mieszkań, z
+którymi te prawa są związane.
+
+Zobowiązania dotyczące tych praw klasyfikuje się jako zobowiązania krótkoterminowe co jest
+spójne z klasyfikacją zapasów, których te zobowiązania dotyczą (wykazanych jako aktywa obrotowe).
+
+Klasyfikacja zobowiązań i
+SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPA KAPITAŁOWA DOM 18
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU DEVELOPMENT S.A.
+zapasów do krótkoterminowych wynika z faktu, iż ich rozliczenie (tj. zbycie lokali i przeniesienie związanych z nimi zobowiązań)
+następuje w ciągu okresu stanowiącego tzw.
+
+„cykl operacyjny” Grupy/spółek z Grupy.
+
+Cykl operacyjny to okres od dnia
+rozpoczęcia projektu deweloperskiego do realizacji zapasów w postaci środków pieniężnych.
+
+Grupa zostaje prawnie zwolniona z długu wynikającego z obowiązku zapłaty opłat za wieczyste użytkowanie lub opłat
+przekształceniowych dopiero w momencie prawnego (notarialnego) przeniesienia na nabywcę udziału w gruncie przynależnym
+do sprzedanego lokalu.
+
+W związku z tym, do momentu przeniesienia ww. własności, zobowiązanie z tyt. leasingu gruntu
+pozostaje w bilansie Grupy.
+
+Z tego względu, w momencie przekazania nabywcy lokalu (który jest jednocześnie momentem
+ujęcia przychodu ze sprzedaży lokalu) następuje przeniesienie związanej z tym lokalem części aktywa z tytułu leasingu z
+Zapasów na Należności od nabywcy, w kwocie korespondujacej z ujętym zobowiązaniem z tyt. leasingu danego gruntu.
+
+Do momentu przeniesienia na nabywcę własności, zarówno należność jak i zobowiązanie wykazywane są jako
+krótkoterminowe, gdyż ich rozliczenie nastąpi poprzez przeniesienie na nabywcę w okresie „cyklu operacyjnego”.
+
+W dacie
+przeniesienia na nabywcę własności następuje wyksięgowanie zobowiązania z tytułu leasingu gruntu oraz należności z tego
+tytułu od nabywców lokali.
+
+Wszystkie przyszłe płatności wynikające z posiadania prawa do wieczystego użytkowania, wynikające z okresu na jaki to prawo
+jest udzielone dla poszczególnych nieruchomości (może wynosić do 99 lat) są dyskontowane.
+
+Okres ten nie zależy od
+przewidywanego przez Grupę okresu, w którym Grupa będzie właścicielem prawa do wieczystego użytkowania, czyli od
+planowanego wykorzystania tych nieruchomości pod inwestycje deweloperskie.
+
+7.5 KLUCZOWE WARTOŚCI OPARTE NA PROFESJONALNYM OSĄDZIE I ŹRÓDŁA
+SZACUNKÓW
+W procesie stosowania zasad (polityki) rachunkowości wobec zagadnień podanych poniżej, największe znaczenie, oprócz
+szacunków księgowych, miał profesjonalny osąd kierownictwa i przyjęte założenia.
+
+BUDŻETY PROJEKTÓW DEWELOPERSKICH
+Podstawą do decyzji o zakupie nieruchomości (gruntów) są analizy, których jednym z najważniejszych elementów są tzw.
+budżety zakupowe sporządzane w celu oceny przyszłej zyskowności projektów.
+
+Od momentu zakupu nieruchomości, budżety
+dla tych projektów budowlanych są aktualizowane zgodnie z najlepszą wiedzą i doświadczeniem kadry kierowniczej spółek z
+Grupy.
+
+Wszystkie budżety projektów budowlanych są weryfikowane i w razie potrzeby aktualizowane, nie rzadziej niż co 3
+miesiące.
+
+Aktualizowane budżety projektów stanowią podstawę do:
+. weryfikacji ich rentowności i weryfikacji ewentualnego odpisu aktualizującego wartość zapasów,
+. tworzenia prognoz finansowych, budżetów rocznych i planów średnioterminowych.

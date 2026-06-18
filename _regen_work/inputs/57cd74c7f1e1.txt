@@ -1,0 +1,68 @@
+DOKUMENT SEKCJA: **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E3-4 ZUŻYCIE WODY** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E4- 2 POLITYKI ZWIĄZANE Z RÓŻNORODNOŚCIĄ BIOLOGICZNĄ I EKOSYSTEMAMI** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E4-1 PLAN TRANSFORMACJI W ZAKRESIE RÓŻNORODNOŚCI BIOLOGICZNEJ I EKOSYSTEMÓW ORAZ UWZGLĘDNIENIE RÓŻNORODNOŚCI BIOLOGICZNEJ EKOSYSTEMÓW W STRATEGII I MODELU BIZNESOWYM** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E4-3 DZIAŁANIA I ZASOBY ZWIĄZANE Z RÓŻNORODNOŚCIĄ BIOLOGICZNĄ I EKOSYSTEMAMI** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E4-4 CELE ZWIĄZANE Z RÓŻNORODNOŚCIĄ BIOLOGICZNĄ I EKOSYSTEMAMI**
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E3-4 ZUŻYCIE WODY**
+Dane dotyczące zużycia wody w Grupie zostały opracowane na podstawie wartości dostarczanej wody wskazanych na fakturach rozliczeniowych  
+z podmiotami odpowiadającymi za dostarczanie wody. W tabeli wskazane są jako pobór wody. Wskazane całkowite zużycie wody skalkulowano jako różnicę między poborem wody a zrzutami  
+wody. Informacje dotyczące zrzutów wody pochodzą z decyzji administracyjnych wydanych w analizowanym roku sprawozdawczym. Informacje te są szacowane zgodnie z czasem przeznaczanym na prace realizacyjne. Grupa dokonała korekty zużycia wody za rok 2024.  
+| Całkowite zużycie wody [m3] | **77 090,07** | **56 704,43*** |
+| --- | --- | --- |
+| Całkowite zużycie wody na obszarach narażonych na ryzyko związane z wodą, w tym na obszarach o znacznym deficycie wody [m3] | 0,00 | 0,00 |
+| Całkowita ilość wody poddanej recyklingowi i ponownemu użycia [m3] | 0,00 | 0,00 |
+| Całkowita ilość magazynowanej wody i zmiany w magazynowaniu [m3] | 0,00 | 0,00 |
+| Zrzuty wody [m3] | 8 852,44 | 25 366,26 |
+| Pobór wody [m3] | **85 942,51** | **82 070,69*** |
+| Wodochłonność[m3/mln EUR16] | 100,33 | 77,04* |
+_* dane po korekcie Dane przed korektą: Całkowite zużycie wody w 2024 r. – 27 367,37 m[3] Pobór wody w 2024 r. – 52 733,63 m[3] Wodochłonność w 2024 r. – 37,18_  
+Poziom stresu wodnego wg Aqueduct Water Risk Atlas (World Resources Institute[17] określono dla  
+poszczególnych lokalizacji działalności spółek z Grupy.  
+| Lokalizacja Poziom stresu wodnego | Całkowite zużycie wody [m3] |  |
+| --- | --- | --- |
+| segment warszawski Niski(<10%) | 43 322,35 | 25 436,83* |
+| segment krakowski Średni - Wysoki(20-40%) | 6 297,00 | 7 732,22* |
+| segment trójmiejski Średni - Wysoki(20-40%) | 14 115,99 | 5 764,10* |
+| segment wrocławski Niski(<10%) | 13 354,73 | 17 771,28* |
+_* dane po korekcie Dane przed korektą w 2024 r.: segment warszawski – 6 750,16 m[3] segment krakowski – 4 730,11 m[3] segment trójmiejski – 5 788,10 m[3] segment wrocławski - 10 099,00 m[3]_  
+> 16 wartość odnosi się do przychodu ze sprzedaży wskazanego w nocie 7.54 SSF  
+> 17https://www.wri.org/applications/aqueduct/water-risk-  
+> atlas/#/?advanced=false&basemap=hydro&indicator=bws_cat&lat=52.499503824480215&lng=19.23486448824406&map Mode=view&month=1&opacity=0.5&ponderation=DEF&predefined=false&projection=absolute&scenario=optimistic&scop e=baseline&threshold&timeScale=annual&year=baseline&zoom=7  
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+125
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E4-1 PLAN TRANSFORMACJI W ZAKRESIE RÓŻNORODNOŚCI BIOLOGICZNEJ I EKOSYSTEMÓW ORAZ UWZGLĘDNIENIE RÓŻNORODNOŚCI BIOLOGICZNEJ EKOSYSTEMÓW W STRATEGII I MODELU BIZNESOWYM**
+Grupa Dom Development nie posiada planu transformacji w zakresie różnorodności biologicznej i ekosystemów. Grupa opracuje plan transformacji nie wcześniej niż w 2030 r. Grupa nie przeprowadziła analizy odporności strategii biznesowej i modelu biznesowego w odniesieniu do różnorodności biologicznej i ekosystemów.  
+Grupa prowadzi działalność i realizuje swoje inwestycje wyłącznie na terenie Polski, co sprawia, że podejście do kwestii różnorodności biologicznej jest stabilne w wymiarze prawnym. Jeden z filarów modelu biznesowego opiera się na rozwoju z uwzględnieniem zrównoważonego rozwoju, co przekłada się na działania zgodne z przepisami w zakresie ochrony przyrody.
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E4- 2 POLITYKI ZWIĄZANE Z RÓŻNORODNOŚCIĄ BIOLOGICZNĄ I EKOSYSTEMAMI**
+Grupa nie posiada odrębnej polityki adresującej zagadnienie różnorodności biologicznej  
+i ekosystemów. Opracowanie odrębnej polityki zaplanowano nie wcześniej niż na rok 2030.
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E4-3 DZIAŁANIA I ZASOBY ZWIĄZANE Z RÓŻNORODNOŚCIĄ BIOLOGICZNĄ I EKOSYSTEMAMI**
+Grupa w swoich działaniach stosuje sekwencyjny model stosowany, oznaczający hierarchię łagodzenia wpływu na środowisko i zmniejszenia szkód dla różnorodności biologicznej. Model ten wskazuje kolejno: zapobieganie skutkom (unikanie), ograniczanie nieuniknionych szkód (minimalizacja), naprawianie szkód na miejscu (przywracanie), a tylko w ostateczności wymagane prawnie kompensowanie strat (kompensacja).  
+Będąc świadomym wpływu działalności deweloperskiej na środowisko naturalne, spółki z Grupy promują i włączają się w działania mające na celu rewitalizację obszarów, które były wcześniej wykorzystywane do innych celów (m.in. przemysłowych). Tego rodzaju tereny często są zlokalizowane w pobliżu infrastruktury komunikacyjnej i usługowej, wobec czego ich rewitalizacja, m.in. poprzez wprowadzenie funkcji mieszkaniowej, wpływa także na ograniczenie szkodliwego zjawiska tzw. rozlewania się miast. W Strategii DOM 2030 Grupa zadeklarowała realizację projektów rewitalizacyjnych, w ramach, których odzyskiwane będą „zapomniane” i niedostępne dla mieszkańców obszary miast. Przykładem takiego projektu, realizowanym od 2024 r., jest inwestycja zlokalizowana przy ul. Rydlówka 5 na krakowskim Podgórzu.  
+Grupa zrealizowała ponad 1100 mieszkań na terenach zdegradowanych, które zostały przywrócone miastom i ich mieszkańcom.  
+Spółki z Grupy nie uwzględniły wiedzy społeczności lokalnych, a także nie dokonały analizy skutków finansowych działań wyrównujących.  
+Do działań opartych na zasobach przyrody, które spółki z Grupy realizują w inwestycjach, na podstawie wewnętrznego standardu, tj. Zielonej Karty Inwestycji, należą m.in.: zielone dachy, ogrody deszczowe, redukcja efektu miejskiej wyspy ciepła. Działania podejmowane przez spółki z Grupy nie są częścią szerszego planu działań zbiorowych ani planów współpracy regionalnej.  
+Zgodnie z celem wyznaczonym w Strategii ESG DOM 2030 Grupa Dom Development, w 2024 r. oficjalnie rozpoczęła realizację programu „Miejska Zieleń”. Działania podejmowane w ramach realizacji tego celu są systematyczną, coroczną praktyką realizowaną przez spółki na każdym z rynków Grupy. Jego celem jest zagospodarowanie co najmniej jednego ogólnodostępnego terenu w aglomeracjach, w których działają spółki z Grupy. W 2025 roku Grupa Dom Development przeznaczyła  
+Zdegradowane tereny poprzemysłowe zostały zamienione w nowe przestrzenie również na Osiedlu Urbino, Osiedlu Bokserska i Apartamentach Literacka w Warszawie oraz w Gdańsku na ul. Kartuskiej i na Dolnym Mieście przy ul. Jaskółczej, Jałmużniczej oraz Kurzej. Łącznie, w 2025 roku  
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+126  
+na ogólnodostępne zielone tereny blisko 8 mln zł[18] (vs. 6 mln zł w 2024 roku), co przełożyło się na ponad 1,5 ha nowych terenów zieleni w czterech aglomeracjach Polski. Dzięki inicjatywie:  
+- na warszawskim Chrzanowie powstał park, w sąsiedztwie Dzielnicy Mieszkaniowej Metro Zachód,  
+- uporządkowany został teren przy Górce Tarnogajskiej oraz nasadzenia przy ul. Zielnej we Wrocławiu,  
+- przy ul. Malborskiej w Krakowie powstał park kieszonkowy,  
+- w Gdańsku zrealizowano park kieszonkowy przy ul. Lema, skwer przy skrzyżowaniu ulic Piekarniczej i Lema oraz nowe nabrzeże Motławy na Dolnym Mieście.  
+W uzasadnionych przypadkach[19] spółki z Grupy są zobligowane do przeprowadzania remediacji, której sposób określony jest w decyzjach administracyjnych wydawanych przez regionalne  
+organy ochrony środowiska. Każdorazowo usunięty zanieczyszczony grunt przekazywany jest do dalszego zagospodarowania uprawnionym podmiotom poza terenem jego wytworzenia, w jego miejsce zostaje nawieziony czysty grunt.  
+Spółki z Grupy, zgodnie z decyzjami administracyjnymi, dokonują nasadzeń kompensacyjnych. Działania te realizowane są punktowo w ramach inwestycji, a nie jako formalne offsety.  
+W 2025 r., w toku oceny wpływu działalności Grupy na środowisko, przeprowadzono inwentaryzację inwestycji znajdujących się na terenach zalewowych o niskim ryzyku powodziowym (tj. w przypadku całkowitego zniszczenia wałów przeciwpowodziowych). W 2025 r. 25% inwestycji znajdowało się na terenach zalewowych. W kolejnym roku spółki z Grupy dokonają identyfikacji działań adaptacyjnych wykorzystywanych w tego rodzaju projektach.
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E4-4 CELE ZWIĄZANE Z RÓŻNORODNOŚCIĄ BIOLOGICZNĄ I EKOSYSTEMAMI**
+Grupa nie wyznaczyła wymiernych, zorientowanych na rezultaty celów w zakresie różnorodności biologicznej i ekosystemów, ponieważ obecne cele, działania i plany pokrywa Strategia ESG DOM 2030. Dodatkowe ambicje, działania i plany ujęto w Strategii ESG DOM 2030. Dotyczą realizacji programu „Miejska Zieleń” oraz rewitalizacji. Więcej szczegółów opisano w rozdziale E4-3. Grupa wyznaczy te cele nie wcześniej niż w 2030 r. Cele i związane z nimi działania wskazane w  
+Strategii ESG w zakresie realizacji programu „Miejska Zieleń” oraz rewitalizacji zostały opisane w rozdziale E4-3. Cele związane z realizacją ogólnodostępnych terenów zieleni oraz realizacji inwestycji na terenach zdegradowanych nie były oparte na globalnych ramach bioróżnorodności, nie zastosowano przy ich określaniu progów ekologicznych ani nie przypisano wpływów przy ich ustalaniu.

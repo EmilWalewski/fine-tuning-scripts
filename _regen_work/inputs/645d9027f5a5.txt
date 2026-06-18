@@ -1,0 +1,44 @@
+DOKUMENT SEKCJA: **11.2. Ustalanie oraz hierarchia wartości godziwej** | **12.1. Aktywa i zobowiązania warunkowe** | **12.1.1. Aktywa warunkowe** | **Zmiany w klasyfikacji instrumentów finansowych w wyniku zmiany celu lub wykorzystania tych aktywów**
+
+## **11.2. Ustalanie oraz hierarchia wartości godziwej**
+W tabeli poniżej zaprezentowano informacje o wartości godziwej poszczególnych instrumentów finansowych na dzień 30 czerwca 2025 r. oraz 31 grudnia 2024 r.  
+| **ZOBOWIĄZANIA FINANSOWE** | **Wartość księgowa** | **30.06.2025** | **31.12.2024** | **Wartość księgowa** **30.06.2025** **31.12.2024** **Wartość** **30.06.2025** **godziwa** **31.12.2024** |
+| --- | --- | --- | --- | --- |
+| Kredyty | 1 | - | 1 | - |
+| Zobowiązania z tytułu leasingu | 22 043 | 22 522 | 22 043 | 22 522 |
+| **Razem** | **22 045** | **22 522** | **22 045** | **22 522** |
+Dla pozostałych klas aktywów i zobowiązań finansowych wartość godziwa odpowiada ich wartości księgowej.  
+W tabeli poniżej zaprezentowano poziomy hierarchii wartości godziwej zobowiązań finansowych wycenianych w wartości godziwej w sprawozdaniu finansowym na dzień 30 czerwca 2025 r.  
+| **Wartość** **ZOBOWIĄZANIA** |  | **FINANSOWE** | **Hierarchia wartości godziwej na** |  | **30.06.2025** |  | **godziwa na** **30.06.2025** |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Poziom 1** | **Poziom 2** | **Poziom 3** |  | **Razem** |  |  |  |  |
+| Kredyty |  |  | - | 1 |  | - |  | 1 |
+| **Razem** |  |  | **-** | **1** |  | **-** |  | **1** |
+W tabeli poniżej zaprezentowano poziomy hierarchii wartości godziwej zobowiązań finansowych wycenianych w wartości godziwej w sprawozdaniu finansowym na dzień 31 grudnia 2024 r.  
+24  
+Raport Creotech Instruments Spółka Akcyjna za okres 6 miesięcy zakończony 30 czerwca 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)  
+| **Wartość** **ZOBOWIĄZANIA** |  | **FINANSOWE** | **Hierarchia wartości godziwej na** |  | **31.12.2024** |  | **godziwa na** **31.12.2024** |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Poziom 1** | **Poziom 2** | **Poziom 3** |  | **Poziom 1** |  |  |  |  |
+| Kredyty |  |  | - | - |  | - |  | - |
+| **Razem** |  |  | **-** | **-** |  | **-** |  | **-** |
+Spółka zalicza swoje aktywa i zobowiązania finansowe do trzech poziomów hierarchii wartości godziwej.  
+Przy poziomie 1 wartość godziwa instrumentów finansowych stanowiących przedmiot obrotu na aktywnych rynkach wynika z ich notowań na koniec okresu sprawozdawczego. Ceną notowań rynkowych wykorzystywaną dla wyceny aktywów finansowych jest bieżący kurs kupna.  
+Przy poziomie 2 wartość godziwa instrumentów finansowych niestanowiących przedmiotu na aktywnym rynku określana jest przy zastosowaniu odpowiednich technik wyceny, które w najszerszym możliwym zakresie wykorzystują obserwowalne dane rynkowe i w jak najmniejszym stopniu polegają na szacunkach w zakresie Spółki.  
+Hierarchia wartości godziwej na poziomie 3 występuje w sytuacji, gdy co najmniej jeden rodzaj znaczących danych wejściowych nie stanowi obserwowalnych danych rynkowych. Są to zazwyczaj nienotowane kapitałowe papiery wartościowe.  
+W okresie sprawozdawczym i w okresie porównawczym w Spółce nie wystąpiły przesunięcia pomiędzy Poziomami 1 i 2 hierarchii wartości godziwej.
+
+## **Zmiany w klasyfikacji instrumentów finansowych w wyniku zmiany celu lub wykorzystania tych aktywów**
+W okresie objętym niniejszym śródrocznym skróconym sprawozdaniem finansowym nie wystąpiły zmiany w klasyfikacji instrumentów finansowych w wyniku zmiany celu lub wykorzystania tych aktywów.  
+25  
+Raport Creotech Instruments Spółka Akcyjna za okres 6 miesięcy zakończony 30 czerwca 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **12.1. Aktywa i zobowiązania warunkowe**
+Spółka ujawnia na koniec okresu sprawozdawczego informacje o aktywach warunkowych, jeśli wpływ środków zawierających w sobie korzyści ekonomiczne jest prawdopodobny. Jeśli jest to wykonalne w praktyce, Spółka szacuje skutki finansowe aktywów warunkowych, wyceniając je zgodnie z zasadami obowiązującymi przy wycenie rezerw. Spółka ujawnia na koniec okresu sprawozdawczego informacje o zobowiązaniach warunkowych, jeśli:  
+- ma możliwy obowiązek, który powstał na skutek zdarzeń przeszłych, których istnienie zostanie potwierdzone dopiero w momencie wystąpienia lub niewystąpienia jednego lub większej ilości niepewnych przyszłych zdarzeń, które nie w pełni podlegają kontroli Spółki lub  
+- ma obecny obowiązek, który powstał na skutek zdarzeń przeszłych, ale wypływ środków zawierających w sobie korzyści ekonomiczne nie jest prawdopodobny lub Spółka nie jest w stanie wycenić kwoty zobowiązania wystarczająco wiarygodnie. Spółka nie ujawnia zobowiązania warunkowego, gdy prawdopodobieństwo wypływu środków zawierających w sobie korzyści ekonomiczne jest znikome.  
+Spółka dokonuje szacunków w odniesieniu do skutków finansowych ujawnianych aktywów warunkowych w oparciu o wartość wcześniej rozpoznanych kosztów, które Spółka spodziewa się odzyskać (np. na mocy podpisanych umów ubezpieczenia), bądź wartość przedmiotu postępowań, w których Spółka występuje w roli powoda.  
+Spółka szacuje możliwe przyszłe zobowiązania, stanowiące zobowiązania warunkowe, w oparciu o wartość roszczeń w ramach toczących się postępowań, w których Spółka jest strona pozwaną.
+
+## **12.1.1. Aktywa warunkowe**
+Na dzień sporządzenia niniejszego śródrocznego skróconego sprawozdania finansowego Spółka nie posiada aktywów warunkowych.

@@ -1,0 +1,19 @@
+XTB S.A. Capital Group Q3 2025 Report (notes 27.2–30.1) detailing related-party transactions, management/supervisory remuneration, employment, cash-flow adjustments, and derivative nominal values.
+
+Related-party balances (note 27.2): at 30 Sep 2025 the Group held no liabilities to Jakub Zabłocki on his investment account (vs 0.001M PLN at 31 Dec 2024); no result on his financial instruments in 9M 2025 (9M 2024: 0.01M PLN gain); he drew no remuneration in 9M 2025, whereas in 9M 2024 the UK subsidiary paid him gross remuneration plus bonuses of 1.973M PLN. Hubert Walentynowicz, shareholder of XX ZW Investment Group S.A., received employment gross remuneration plus bonuses of 0.397M PLN in 9M 2025 (9M 2024: 1.313M PLN). Liabilities to Omar Arnaout on his investment account: 0.076M PLN at 30 Sep 2025 vs 0.100M PLN at 31 Dec 2024. Filip Kaczmarzyk: 0.197M PLN at 30 Sep 2025 vs 0.195M PLN at 31 Dec 2024; 0.002M PLN gain on his instruments in 9M 2025 (none in 9M 2024). Paweł Szejko: 0.030M PLN at 30 Sep 2025 (none at 31 Dec 2024). Jakub Kubacki: no liabilities at either date; 0.002M PLN gain on his instruments in 9M 2025 (none in 9M 2024).
+
+Management share ownership of parent company at reporting date: Omar Arnaout (CEO) 62,310 shares, nominal 3,116 PLN; Filip Kaczmarzyk (Board Member) 43,616 shares, 2,181 PLN; Paweł Szejko (Board Member) 35,154 shares, 1,758 PLN; Jakub Kubacki (Board Member) 25,632 shares, 1,282 PLN. On 23 Apr 2025 these persons acquired parent-company shares: Arnaout 11,593; Kaczmarzyk 8,115; Szejko 5,796; Kubacki 4,637. Supervisory board members held no shares or share rights at period-end or report date.
+
+Management/Supervisory board benefits (note 27.3, in M PLN, expense): Board of Management benefits Q3 2025 (1.766) / 9M 2025 (5.615) vs Q3 2024 (1.515) / 9M 2024 (5.136); Supervisory Board benefits Q3 2025 (0.105) / 9M 2025 (0.313) vs Q3 2024 (0.088) / 9M 2024 (0.265); total benefits Q3 2025 (1.871) / 9M 2025 (5.928) vs Q3 2024 (1.603) / 9M 2024 (5.401), reflecting YoY increases. Benefits comprise base salary, bonuses, employer social-security contributions, and additional benefits (cash vouchers, healthcare, holiday allowances); management is covered by a variable-remuneration program (note 21).
+
+Loans to management/supervisory board (note 27.4): none at 30 Sep 2025 or 31 Dec 2024; no such loans used in 9M 2025 or 9M 2024.
+
+Employment (note 28): total Group headcount (employment contracts plus civil-law/B2B service providers) was 1,462 at 30 Sep 2025, up from 1,245 at 31 Dec 2024; excludes maternity/parental leave and sick leave over 33 days.
+
+Other cash-flow adjustments (note 29.1, 9M, in M PLN): FX differences on translating foreign-unit balances (7.423) vs (1.142); FX differences on PP&E/intangible asset movements 1.172 vs 0.387; change in translation differences of branches and subsidiaries (6.251) vs (0.755).
+
+Change in other liabilities (note 29.2, 9M, in M PLN): balance-sheet change in other liabilities 41.354 vs 25.513; total change 41.354 vs 25.513.
+
+(Profit)/loss on investing activity (note 29.3, 9M, in M PLN): loss on disposal/liquidation of fixed assets 3.719 vs 0.024; gain on disposal/liquidation (0.044) vs (0.010); result on bonds (12.617) vs (24.041); total (profit)/loss (8.942) vs (24.027).
+
+Nominal value of derivative financial instruments (note 30.1, in M PLN): CFD on indices 4,675.568 (30 Sep 2025) vs 3,766.277 (31 Dec 2024); CFD on commodities 5,073.884 vs 3,705.548; CFD on currencies 3,897.768 vs 2,952.168; CFD on equities and ETP 1,541.024 vs 1,169.077; CFD on bonds 3.374 vs 11.126; total instruments 15,191.618 vs 11,604.196, a marked YoY increase across all major categories. Nominal values comprise client and broker transactions; broker transactions represented 6% of total nominal value at 30 Sep 2025 versus 14% at 31 Dec 2024.

@@ -1,0 +1,97 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.5. Pozostałe aktywa | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.6. Zapasy | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.7. Środki pieniężne
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 6.5. Pozostałe aktywa
+Na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku, poza należnościami i środkami pieniężnymi opisanymi w innych notach, Grupa posiadała również zaprezentowane w tabeli poniżej pozostałe aktywa finansowe.  
+| **31 marca 2025** | **31 marca 2025** | **31 grudnia 2024** | **31 grudnia 2024** |  |
+| --- | --- | --- | --- | --- |
+| **Długoterminowe** | **Krótkoterminowe** | **Długoterminowe** | **Krótkoterminowe** |  |
+| **mln PLN** **Aktywa finansowe wyceniane w wartościach** **godziwychprzez wynik finansowy, w tym:** | **mln PLN** | **mln PLN** | **mln PLN** |  |
+| Akcje spółek nienotowanych na aktywnym rynku | 15,0 | 0,2 | 19,2 | 0,2 |
+| Akcje spółek notowanych na aktywnym rynku | 4,5 | 0,1 | 7,2 | 0,1 |
+| Pozostałe aktywa | 14,4 | 0,1 | 16,1 | - |
+| **33,9** **Aktywa finansowe wyceniane w wartościach** **godziwych przez pozostałe dochody całkowite,** **w tym:** | **0,4** | **42,5** | **0,3** |  |
+| Akcje spółek nienotowanych na aktywnym rynku | 12,4 | - | 12,5 | - |
+| Akcje spółek notowanych na aktywnym rynku | 64,5 | - | 85,8 | - |
+| Obligacje korporacyjne | - | 0,8 | - | 0,8 |
+| Pozostałe aktywa | 2,0 | - | 2,1 | - |
+| **78,9** **Aktywa finansowe wyceniane w** **zamortyzowanym koszcie, w tym:** | **0,8** | **100,4** | **0,8** |  |
+| Pozostałe instrumenty dłużne | 0,4 | - | - | - |
+| Pożyczki i lokaty, w tym: udzielone podmiotom powiązanym | 5,7 | 2,0 | 5,3 | 1,9 |
+| udzielone pracownikom | 1,9 | 2,8 | 2,3 | 1,4 |
+| udzielone pozostałym podmiotom | - | 0,4 | - | 1,6 |
+| lokaty terminowe | 5,8 | 254,6 | 5,9 | 233,3 |
+| **13,8** | **259,8** | **13,5** | **238,2** |  |
+| **Razem pozostałe aktywa finansowe** | **126,6** | **261,0** | **156,4** | **239,3** |
+| **Pozostałe aktywa niefinansowe** | **0,3** | **12,9** | **0,7** | **10,5** |
+| **Razem pozostałe aktywa** | **126,9** | **273,9** | **157,1** | **249,8** |
+Zmiany sposobu ustalania wartości godziwej instrumentów finansowych wycenianych w wartości godziwej oraz zmiany w klasyfikacji instrumentów finansowych  
+W okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku w Grupie nie dokonano zmian w sposobie ustalania wartości godziwej instrumentów finansowych wycenianych w wartości godziwej oraz nie wystąpiły przesunięcia instrumentów pomiędzy poziomami hierarchii wartości godziwej.  
+Na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku wartość godziwa aktywów finansowych nie odbiegała istotnie od ich wartości księgowej.  
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 50  
+| **Na dzień 31 marca 2025** | **Wartość** **bilansowa** | **Poziom 1****_i)_** | **Poziom 2** **_ii)_** | **Poziom 3** **_iii)_** |
+| --- | --- | --- | --- | --- |
+| **mln PLN** **_Aktywa finansowe wyceniane w wartościach godziwych przez_** **_wynikfinansowy_** | **mln PLN** | **mln PLN** | **mln PLN** |  |
+| Akcje spółek nienotowanych na aktywnym rynku | 15,2 | - | - | 15,2 |
+| Akcje spółek notowanych na aktywnym rynku | 4,6 | 4,6 | - | - |
+| Pozostałe aktywa | 14,5 | - | 14,5 | - |
+| **Razem** **_Aktywa finansowe wyceniane w wartościach godziwych przez_** **_pozostałe dochody całkowite_** | **34,3** | **4,6** | **14,5** | **15,2** |
+| Akcje spółek nienotowanych na aktywnym rynku | 12,4 | - | - | 12,4 |
+| Akcje spółek notowanych na aktywnym rynku | 64,5 | 64,5 | - | - |
+| Obligacje korporacyjne | 0,8 | - | 0,8 | - |
+| Pozostałe aktywa | 2,0 | - | - | 2,0 |
+| **Razem** | **79,7** | **64,5** | **0,8** | **14,4** |
+- _i. wartość godziwa określana na podstawie cen giełdowych oferowanych za identyczne aktywa na rynkach aktywnych;_  
+- _ii. wartość godziwa określana przy użyciu modeli, dla których dane wsadowe są obserwowalne bezpośrednio lub pośrednio na rynkach aktywnych;_  
+- _iii. wartość godziwa określana przy użyciu modeli, dla których dane wsadowe nie są obserwowalne bezpośrednio lub pośrednio na rynkach aktywnych._  
+| **Na dzień 31 grudnia 2024** | **Wartość** **bilansowa** | **Poziom 1****_i)_** | **Poziom 2** **_ii)_** | **Poziom 3** **_iii)_** |
+| --- | --- | --- | --- | --- |
+| **mln PLN** **_Aktywa finansowe wyceniane w wartościach godziwych przez_** **_wynikfinansowy_** | **mln PLN** | **mln PLN** | **mln PLN** |  |
+| Akcje spółek nienotowanych na aktywnym rynku | 19,4 | - | - | 19,4 |
+| Akcje spółek notowanych na aktywnym rynku | 7,3 | 7,3 | - | - |
+| Pozostałe aktywa | 16,1 | - | 16,1 | - |
+| **Razem** **_Aktywa finansowe wyceniane w wartościach godziwych przez_** **_pozostałe dochody całkowite_** | **42,8** | **7,3** | **16,1** | **19,4** |
+| Akcje spółek nienotowanych na aktywnym rynku | 12,5 | - | - | 12,5 |
+| Akcje spółek notowanych na aktywnym rynku | 85,8 | 85,8 | - | - |
+| Obligacje korporacyjne | 0,8 | - | 0,8 | - |
+| Pozostałe aktywa | 2,1 | - | - | 2,1 |
+| **Razem** | **101,2** | **85,8** | **0,8** | **14,6** |
+_Opisy poziomów wartości godziwej są identyczne jak ujawnione pod tabelą powyżej._
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 6.6. Zapasy
+W tabeli poniżej zostały przedstawione salda zapasów na dzień 31 marca 2025 roku oraz 31 grudnia 2024 roku:  
+| **Zapasy** | **31 marca 2025** | **31 grudnia 2024** |
+| --- | --- | --- |
+| **mln PLN** | **mln PLN** |  |
+| Sprzęt komputerowy, licencje obce oraz pozostałe towary do odsprzedaży | 406,7 | 372,6 |
+| Sprzęt komputerowy, części zamienne oraz inne materiały utrzymywane w celu realizacji usługserwisowych/utrzymaniowych | 31,2 | 32,8 |
+| Odpis aktualizujący wartość zapasów | (31,7) | (30,8) |
+| **Razem** | **406,2** | **374,6** |
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 51  
+Zmiany wartości odpisu aktualizującego zapasy w okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku oraz w okresie porównywalnym zostały przedstawione w tabeli poniżej:  
+| **Odpis aktualizujący wartość zapasów** | **3 miesiące do** **31 marca 2025** | **3 miesiące do** **31 marca 2024** |
+| --- | --- | --- |
+| **mln PLN** | **mln PLN** |  |
+| **Odpis na dzień 1 stycznia** | **(30,8)** | **(31,0)** |
+| Utworzenie w trakcie okresu sprawozdawczego | (4,6) | (2,7) |
+| Wykorzystanie w trakcie okresu sprawozdawczego | 0,4 | - |
+| Rozwiązanie w trakcie okresu sprawozdawczego | 2,6 | 2,0 |
+| Różnice kursowe | 0,7 | 0,3 |
+| **Odpis na dzień 31 marca** | **(31,7)** | **(31,4)** |
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 6.7. Środki pieniężne
+W tabeli poniżej zostały przedstawione salda środków pieniężnych na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku:  
+| **31 marca 2025** **31 grudnia 2024** **mln PLN** **mln PLN** | **31 marca 2025** **31 grudnia 2024** **mln PLN** **mln PLN** |  |
+| --- | --- | --- |
+| Środki pieniężne na rachunkach bankowych bieżących | 1 679,4 | 1 947,1 |
+| Środki zgromadzone na rachunkach dotyczących split payment | 5,0 | 17,6 |
+| Środki pieniężne w kasie | 0,8 | 0,7 |
+| Lokaty krótkoterminowe (do 3 miesiące) | 1 389,2 | 1 333,2 |
+| Pozostałe ekwiwalenty środków pieniężnych | 0,9 | 0,7 |
+| **Razem saldo środków pieniężnych wykazanych w bilansie** | **3 075,3** | **3 299,3** |
+| Odsetki naliczone od środków pieniężnych 0,1 - Kredyty w rachunku bieżącym wykorzystywane do bieżącego zarządzania płynnością | (113,0) | (89,2) |
+| Środki pieniężne sklasyfikowane jako aktywa przeznaczone do sprzedaży - 3,5 **Razem saldo środków pieniężnych wykazane w rachunku przepływów pieniężnych** | **2 962,4** | **3 213,6** |
+Środki pieniężne w banku są oprocentowane według zmiennych stóp procentowych, których wysokość zależy od stopy oprocentowania lokat bankowych. Lokaty krótkoterminowe są zakładane na okresy od jednego dnia do trzech miesięcy i są oprocentowane według ustalonych dla nich stóp procentowych.

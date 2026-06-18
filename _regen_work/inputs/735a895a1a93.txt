@@ -1,0 +1,45 @@
+DOKUMENT SEKCJA: _**Zabezpieczenie ryzyka stóp procentowych**_
+
+## _**Zabezpieczenie ryzyka stóp procentowych**_
+52<br>Polityka zarządzania ryzykiem stóp procentowych obejmuje następujące zagadnienia:  
+- a) cele Grupy w zakresie ryzyka stóp procentowych,  
+- b) zasady zarządzania ryzykiem stóp procentowych Grupy Kapitałowej KRUK,  
+- c) dopuszczalny wpływ ryzyka stóp procentowych na wyniki Grupy (apetyt na ryzyko stóp procentowych),  
+- d) metody pomiaru i monitorowania ryzyka stóp procentowych oraz ekspozycji na ryzyko stóp procentowych,  
+- e) zasady postępowania w przypadku przekroczenia dopuszczalnego apetytu na ryzyko stóp procentowych Grupy,  
+- f) zasady zabezpieczania ryzyka stóp procentowych.  
+Celem zarządzania ryzykiem stóp procentowych Grupa zawiera kontrakty IRS oraz CIRS.  
+Na dzień 30 czerwca 2025 r. spółki z Grupy Kruk posiadają następujące otwarte, nierozliczone kontrakty IRS o wolumenie całkowitym w wysokości 432 500 tys. EUR:  
+Nazwa Spółka z Grupy Rodzaj Stopa stała Stopa Wolumen Okres ważności banku KRUK transakcji transakcji zmienna |N a z w a|S p |ó ł k a z G r u p y|R o d z a j|W o l u m e n S t |o p a s t a ł a|S t o p a|O k r e s w a ż n o ś c i|  
+Celem kontraktów w EUR było zabezpieczenie zmienności przepływów pieniężnych generowanych przez zobowiązania w EUR z tytułu zmian referencyjnej stopy procentowej EURIBOR 1M oraz EURIBOR 3M i zabezpieczenie płatności odsetkowych z tytułu kredytu oraz obligacji EUR.  
+W I półroczu 2025 roku Grupa zawarła walutowe kontrakty zamiany stóp procentowych (CIRS) o łącznym nominale 500 000 tys. PLN, w których Grupa płaci kupon oparty o stałą stopę procentową od zadłużenia ustalonego w EUR w warunkach transakcji, a otrzymuje kupon oparty o zmienną stopę procentową powiększoną o marżę liczony od zadłużenia w PLN objętego transakcją.  
+Na dzień 30 czerwca 2025 r. spółki z Grupy Kruk posiadają następujące otwarte, nierozliczone kontrakty CIRS o wolumenie całkowitym w wysokości 2 330 000 tys. zł:  
+| N a z w a B a n k u | S p ó ł k a z G r u p y K R U K | R o d z a j t r a n s a k c j i | W o l u m e n | S t o p a s t a ł a t r a n s a k c j i [ E U R ] | S t o p a z m i e n n a t r a n s a k c j i [ P L N ] | D a t a z a w a r c i a t r a n s a k c j i | D a t a z a p a d a l n o ś c i t r a n s a k c j i |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ING Bank Śląski S.A. | KRUK S.A. | CCIRS (CrossCurrency Interest Rate Swap) | 330 000 000 PLN | 2,13% | WIBOR 3M | 2022-06-14 | 2027-05-24 |
+| ING Bank Śląski S.A. | KRUK S.A. | CCIRS (CrossCurrency Interest Rate Swap) | 140 000 000 PLN | 1,90% | WIBOR 3M | 2022-06-23 | 2027-03-24 |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+| Santander Bank Polska S.A. | KRUK S.A. | CCIRS (CrossCurrency Interest Rate Swap) | 50 000 000 PLN | 1,72% | WIBOR 3M | 2022-06-20 | 2026-03-16 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Santander Bank Polska S.A. | KRUK S.A. | CCIRS (CrossCurrency Interest Rate Swap) | 50 000 000 PLN | 1,56% | WIBOR 3M | 2022-06-21 | 2026-03-16 |
+| ING Bank Śląski S.A. | KRUK S.A. | CCIRS (CrossCurrency Interest Rate Swap) | 105 000 000 PLN | 1,21% | WIBOR 3M | 2022-07-15 | 2026-01-23 |
+| ING Bank Śląski S.A. | KRUK S.A. | CCIRS (CrossCurrency Interest Rate Swap) | 50 000 000 PLN | 1,40% | WIBOR 3M | 2022-07-20 | 2026-03-02 |
+| DNB Bank ASA | KRUK S.A. | CCIRS (CrossCurrency Interest Rate Swap) | 60 000 000 PLN | 1,96% | WIBOR 3M | 2022-12-12 | 2027-07-27 |
+| DNB Bank ASA | KRUK S.A. | CCIRS (CrossCurrency Interest Rate Swap) | 25 000 000 PLN | 2,05% | WIBOR 3M | 2022-12-21 | 2026-11-27 |
+| DNB Bank ASA | KRUK S.A. | CCIRS (CrossCurrency Interest Rate Swap) | 120 000 000 PLN | 2,02% | WIBOR 3M | 2023-01-27 | 2028-01-26 |
+| ING Bank Śląski S.A. | KRUK S.A. | CCIRS (Cross-Currency Interest Rate Swap) | 50 000 000 PLN | 2,475% | WIBOR 3M | 2023-07-25 | 2028-01-26 |
+| ING Bank Śląski S.A. | KRUK S.A. | CCIRS (Cross-Currency Interest Rate Swap) | 50 000 000 PLN | 2,435% | WIBOR 3M | 2023-07-25 | 2028-06-07 |
+| DNB Bank ASA | KRUK S.A. | CCIRS (Cross-Currency Interest Rate Swap) | 75 000 000 PLN | 2,61% | WIBOR 3M | 2023-09-22 | 2028-03-29 |
+| ING Bank Śląski S.A. | KRUK S.A. | CCIRS (Cross-Currency Interest Rate Swap) | 85 000 000 PLN | 2,48% | WIBOR 3M | 2023-10-31 | 2026-12-10 |
+| ING Bank Śląski S.A. | KRUK S.A. | CCIRS (Cross-Currency Interest Rate Swap) | 355 000 000 PLN | 2,34% | WIBOR 3M | 2023-10-31 | 2029-10-11 |
+| DNB Bank ASA. | KRUK S.A. | CCIRS (Cross-Currency Interest Rate Swap) | 70 000 000 PLN | 6,046% | WIBOR 3M + 4% | 2024-03-21 | 2029-02-16 |
+| ING Bank Śląski S.A | KRUK S.A. | CCIRS (Cross-Currency Interest Rate Swap) | 90 000 000 PLN | 6,19% | WIBOR 3M + 4% | 2024-03-21 | 2028-09-26 |
+| Alior Bank S.A. | KRUK S.A | CCIRS (Cross-Currency Interest Rate Swap) | 125 000 000 PLN | 4,40% | WIBOR 3M + 3% | 2024-12-11 | 2030-11-13 |
+| Santander Bank Polska S.A. | KRUK S.A. | CCIRS (Cross-Currency Interest Rate Swap) | 100 000 000 PLN | 4,86% | WIBOR 3M + 2,8% | 2025-04-04 | 2031-01-29 |
+| DNB Bank ASA. | KRUK S.A. | CCIRS (Cross-Currency Interest Rate Swap) | 200 000 000 PLN | 4,864% | WIBOR 3M + 3% | 2025-06-03 | 2030-03-27 |
+| ING Bank Śląski S.A | KRUK S.A | CCIRS (Cross-Currency Interest Rate Swap) | 200 000 000 PLN | 4,930% | WIBOR 3M + 3% | 2025-06-03 | 2031-03-26 |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+54<br>Transakcje zostały objęte rachunkowością zabezpieczeń.  
+Celem zawarcia powyższych transakcji CIRS było:  
+-  zabezpieczenie ryzyka stopy procentowej rozumianego jako zmienność wydatków odsetkowych spowodowana zmianami rynkowej stawki WIBOR 3M – zamiana zmiennej stopy procentowej na stopę stałą,  
+-  zabezpieczenie ryzyka walutowego rozumianego jako zmienność wartości aktywów netto denominowanych w EUR spowodowana zmianami rynkowego kursu EURPLN – kompensata różnic kursowych.

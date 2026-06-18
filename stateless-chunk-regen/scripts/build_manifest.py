@@ -36,6 +36,8 @@ output directory, so regeneration progress is preserved.
 """
 import argparse, hashlib, json, os, sys, shutil
 
+from path_profiles import add_path_profile_arg, map_path
+
 # Conservative chars/token constants for the heuristic fallback. Polish source
 # text tokenises densely (low chars/token) so we under-estimate chars/token for
 # INPUT (=> higher token estimate => smaller, safer output budget); English
@@ -68,6 +70,7 @@ def main():
                     help="Tokens reserved for instruction + format markers + EOS (default 120)")
     ap.add_argument("--input-key", default="input")
     ap.add_argument("--id-key", default="id")
+    add_path_profile_arg(ap, verb="store in manifest")
     args = ap.parse_args()
 
     src = os.path.abspath(args.src)
@@ -118,8 +121,8 @@ def main():
                     w.write(text)
                 entry = {
                     "key": k, "file": fname, "id": rid, "stem": stem,
-                    "input_path": ip, "input_chars": len(text),
-                    "output_path": os.path.join(out, f"{stem}__{rid}.txt"),
+                    "input_path": map_path(ip, args.path_profile), "input_chars": len(text),
+                    "output_path": map_path(os.path.join(out, f"{stem}__{rid}.txt"), args.path_profile),
                 }
                 if args.window:
                     budget_tok = args.window - count(text) - args.reserve
@@ -142,6 +145,7 @@ def main():
             print(f"  WARNING: {tight} record(s) have a very small output budget (<600 tok) — their inputs nearly fill the window.")
     print(f"Work dir      : {work}")
     print(f"Output dir    : {out}")
+    print(f"Path profile  : {args.path_profile}")
 
 if __name__ == "__main__":
     main()

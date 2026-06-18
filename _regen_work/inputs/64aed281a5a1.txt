@@ -1,0 +1,66 @@
+DOKUMENT SEKCJA: **33.2.3. Pozostałe ryzyko cenowe** | **Analiza wrażliwości aktywów i zobowiązań finansowych, których przepływy pieniężne są narażone na ryzyko zmiany stóp procentowych** | **Analiza wrażliwości aktywów i zobowiązań finansowych, których wartość godziwa narażona jest na ryzyko zmiany stóp procentowych**
+
+## **Analiza wrażliwości aktywów i zobowiązań finansowych, których przepływy pieniężne są narażone na ryzyko zmiany stóp procentowych**
+Struktura aktywów i zobowiązań finansowych, których przepływy pieniężne są narażone na ryzyko zmiany stóp procentowych przedstawia się następująco:  
+| **(w tys. PLN)** **Aktywa finansowe** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Środki pieniężne - na rachunkach bieżących w banku | 7 138 077 | 5 370 815 |
+| Instrumenty dłużne | 25 627 | 429 648 |
+| **Aktywa finansowe razem** **Zobowiązania finansowe** | **7 163 704** | **5 800 463** |
+| Zobowiązania wobec klientów | 3 933 312 | 2 676 211 |
+| Zobowiązania pozostałe | 28 068 | 33 935 |
+| **Zobowiązania finansowe razem** | **3 961 380** | **2 710 146** |
+54  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Wpływ zmian stóp procentowych o 50 punktów bazowych (pb) na zysk przed opodatkowaniem został przedstawiony poniżej. Poniższa analiza opiera się na założeniu, że inne zmienne, w szczególności kursy walutowe, pozostaną na stałym poziomie. Analiza została przeprowadzona na podstawie średnich sald środków pieniężnych w okresach objętym niniejszym skonsolidowanym sprawozdaniem finansowym. Poniższa analiza została przeprowadzona na podstawie średnich sald środków pieniężnych w okresie od 1 lipca do 30 września 2025 oraz od 1 lipca do 30 września 2024 roku.  
+(w tys. PLN) OKRES 3 MIESIĘCY ZAKOŃCZONY
+WZROST O 50 PB SPADEK O 50 PB WZROST O 50 PB SPADEK O 50 PB
+Zysk/(strata) przed opodatkowaniem 2 809 (2 809) 1 973 (1 973)  
+Poniższa analiza została przeprowadzona na podstawie średnich sald środków pieniężnych w okresie od 1 stycznia do 30 września 2025 oraz od 1 stycznia do 30 września 2024 roku.  
+(w tys. PLN) OKRES 9 MIESIĘCY ZAKOŃCZONY
+WZROST O 50 PB SPADEK O 50 PB WZROST O 50 PB SPADEK O 50 PB
+Zysk/(strata) przed opodatkowaniem 10 794 (10 794) 7 356 (7 356)
+
+## **Analiza wrażliwości aktywów i zobowiązań finansowych, których wartość godziwa narażona jest na ryzyko zmiany stóp procentowych**
+W okresie objętym niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym Grupa posiadała aktywa finansowe, których wartość godziwa narażona jest na ryzyko zmiany stóp procentowych, w postaci portfela obligacji Skarbu Państwa, z gwarancją Skarbu Państwa oraz obligacji korporacyjnych. Poniżej przedstawiono analizę wrażliwości na zmiany stóp procentowych o 50 punktów bazowych - przesunięcie krzywych rentowności o taką wartość.  
+(w tys. PLN) OKRES 9 MIESIĘCY ZAKOŃCZONY
+WZROST O 50 PB SPADEK O 50 PB WZROST O 50 PB SPADEK O 50 PB
+Zysk/(strata) przed opodatkowaniem (27) 27 (4 604) 5 333
+
+## **33.2.3. Pozostałe ryzyko cenowe**
+Pozostałe ryzyko cenowe jest to narażenie pozycji finansowej Grupy na niekorzystne zmiany cen towarów, instrumentów kapitałowych (akcje, indeksy) oraz instrumentów dłużnych (w zakresie niewynikającym ze stóp procentowych). Wartość bilansowa instrumentów finansowych narażonych na pozostałe ryzyko cenowe w podziale na klasę instrumentu bazowego została przedstawiona poniżej:
+55  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+| **(w tys. PLN)** **Aktywa finansowe wyceniane w wartościgodziwej przez wynik finansowy** **Towary** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Metale szlachetne | 81 383 | 62 347 |
+| Metale nieszlachetne | 1 341 | 3 532 |
+| Inne | 157 512 | 112 737 |
+| **Towary razem** **Instrumenty kapitałowe** | **240 236** | **178 616** |
+| Akcje i ETP | 362 330 | 265 118 |
+| Indeksy | 165 599 | 92 488 |
+| **Instrumenty kapitałowe razem** | **527 929** | **357 606** |
+| **Instrumenty dłużne** | **57** | **267** |
+| **Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy** **razem** **Zobowiązania finansowe wyceniane w wartości godziwej przez wynik** **finansowy** **Towary** | **768 222** | **536 489** |
+| Metale szlachetne | 53 542 | 2 616 |
+| Metale nieszlachetne | 164 | 22 |
+| Inne | 7 577 | 8 899 |
+| **Towary razem** **Instrumenty kapitałowe** | **61 283** | **11 537** |
+| Akcje i ETP | 76 729 | 52 187 |
+| Indeksy | 16 480 | 10 447 |
+| **Instrumenty kapitałowe razem** | **93 209** | **62 634** |
+| **Instrumenty dłużne** | **-** | **4** |
+| **Zobowiązania finansowe wyceniane w wartości godziwej przez wynik** **finansowy razem ** | **154 492** | **74 175** |
+Stopień wrażliwości Grupy na zmianę cen poszczególnych towarów oraz instrumentów kapitałowych o ±5% na kapitał własny i zysk przed opodatkowaniem w podziale na klasę instrumentu bazowego został przedstawiony poniżej.  
+**OKRES 9 MIESIĘCY ZAKOŃCZONY**  
+| **(w tys. PLN)** **WZROST O 5%** **SPADEK O 5%** **WZROST O 5%** **SPADEK O 5%** **Przychody/(koszty) okresu** **Towary** | **30.09.2025** | **30.09.2024** |  |  |
+| --- | --- | --- | --- | --- |
+| Metale szlachetne | (38 141) | 38 141 | (8 627) | 8 627 |
+| Metale nieszlachetne | 181 | (181) | (405) | 405 |
+| Inne | (38 327) | 38 327 | (20 383) | 20 383 |
+| **Towary razem** **Instrumenty kapitałowe** | **(76 287)** | **76 287** | **(29 415)** | **29 415** |
+| Akcje i ETP | 12 680 | (12 680) | 5 668 | (5 668) |
+| Indeksy | 78 626 | (78 626) | 70 898 | (70 898) |
+| **Instrumenty kapitałowe razem** | **91 306** | **(91 306)** | **76 566** | **(76 566)** |
+| **Instrumenty dłużne** | **(117)** | **117** | **(297)** | **297** |
+| **Przychody/(koszty) okresu razem** | **14 902** | **(14 902)** | **46 854** | **(46 854)** |

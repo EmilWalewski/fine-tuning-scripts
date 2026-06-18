@@ -1,0 +1,36 @@
+DOKUMENT SEKCJA: **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **Analiza ryzyk klimatycznych**
+
+| Skale ocen | Skale ocen | Skale ocen | Skale ocen |
+| --- | --- | --- | --- |
+| skala [jak duży jest wpływ i konsekwencje danego zagadnienia] | zakres [wielkość obszaru, na które dane zagadnienie oddziaływuje] | nieodwracalny charakter [czy i w jaki stopniu można niwelować negatywne oddziaływania] | prawdopodobieństwo [jak prawdopodobne jest, że dane zagadnienie będzie miało miejsce] |
+| 0 Brak | 0 brak | 0 bardzo łatwe do naprawienia | 0 brak |
+| 1 Minimalna | 1 ograniczony | 1 stosunkowo łatwe do naprawienia w perspektywie krótkoterminowej | 1 bardzo małe / praktycznie niemożliwe |
+| 2 Niska | 2 lokalny | 2 możliwe do naprawienia w perspektywie krótkoterminowej | 2 małe / niskie |
+| 3 Średnia | 3 średni | 3 trudne do naprawienia lub średniotrwałe | 3 średnie |
+| 4 Wysoka | 4 powszechny | 4 bardzo trudne do naprawienia lub długotrwałe | 4 duże / wysokie |
+| 5 Absolutna | 5 globalny | 5 nienaprawialne/nieod wracalne | 5 bardzo duże / praktycznie pewne |
+
+**Progi istotności dla potencjalnego pozytywnego wpływu [skala, zakres, prawdopodobieństwo]**
+
+| Próg istotności | Skala |
+| --- | --- |
+| Krytyczny | 13 - 15 |
+| Znaczący | 11 - 12 |
+| Ważny | 8 -10 |
+| Informacyjny | 5 - 7 |
+
+**Progi istotności dla rzeczywistego negatywnego wpływu [skala, zakres, nieodwracalność]**
+
+| Próg istotności | Skala dotkliwości |
+| --- | --- |
+| Krytyczna | 13 - 15 |
+| Znacząca | 11 - 12 |
+| Ważna | 8 -10 |
+| Informacyjna | 5 - 7 |
+
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**
+105
+Brak 0 - 4
+Brak
+0 - 4

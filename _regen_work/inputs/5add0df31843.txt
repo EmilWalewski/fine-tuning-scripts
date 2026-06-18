@@ -1,0 +1,64 @@
+DOKUMENT SEKCJA: **33.3. Ryzyko płynności** | **Umowne terminy płatności aktywów i zobowiązań finansowych na dzień 30 września 2025 roku** | **Umowne terminy płatności aktywów i zobowiązań finansowych na dzień 31 grudnia 2024 roku**
+
+## **33.3. Ryzyko płynności**
+Grupa utożsamia ryzyko płynności z ryzykiem utraty płynności płatniczej, czyli ryzykiem utraty zdolności finansowania aktywów i terminowego wywiązywania się z zobowiązań w toku normalnej działalności lub w innych warunkach, które można przewidzieć, bez konieczności poniesienia straty. W analizie płynności brane są pod uwagę bieżące możliwości uzyskiwania środków płynnych, przyszłe potrzeby, scenariusze alternatywne i plany awaryjne w zakresie utrzymania płynności płatniczej.  
+Celem zarządzania płynnością finansową w XTB jest utrzymanie na właściwych rachunkach bankowych takiej ilości środków pieniężnych, która zapewni pokrycie wszystkich operacji koniecznych do przeprowadzenia na tych rachunkach.  
+56  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+W celu zarządzania płynnością finansową w odniesieniu do niektórych rachunków bankowych, związanych z operacjami na instrumentach finansowych, Jednostka dominująca wykorzystuje mechanizm, którego istotą jest wyznaczenie bezpiecznego obszaru stanu wolnych środków pieniężnych, który nie wymaga podejmowania działań korygujących.  
+W przypadku osiągnięcia górnego limitu Jednostka dominująca dokonuje przelewu na odpowiedni rachunek bieżący w wysokości nadwyżki ponad poziom optymalny. Podobnie, jeśli stan gotówki na rachunku spadnie do poziomu dolnego limitu Jednostka dominująca dokonuje przelewu środków z rachunku bieżącego na właściwy rachunek w celu doprowadzenia stanu gotówki do optymalnego poziomu.  
+Spółki zależne zarządzają płynnością analizując oczekiwane przepływy pieniężne i dostosowując terminy zapadalności aktywów do terminów wymagalności pasywów. Spółki zależne nie stosują w zarządzaniu płynnością modeli. Zarządzanie płynnością oparte na analizie luki płynności jest skuteczne i wystarczające - w spółkach zależnych nie wystąpiły incydenty związane z brakiem płynności i niemożliwością wykonania zobowiązań finansowych. W przypadkach nadzwyczajnych możliwe jest zasilenie płynności spółek zależnych przez jednostkę dominującą.  
+Procedura przewiduje także możliwość odstępstw od jej stosowania, zgodę na taki tryb postępowania musi wydać co najmniej dwóch członków Zarządu Jednostki dominującej. Informacja o odstępstwach przekazywana jest do Działu Kontroli Ryzyka Jednostki dominującej.  
+W Jednostce dominującej wdrożone zostały także awaryjne plany utrzymania płynności, które nie zostały wykorzystane w okresie objętym sprawozdaniem finansowym oraz w okresie porównawczym, ze względu na fakt, że wysokość aktywów najbardziej płynnych (własne środki pieniężne oraz obligacje Skarbu Państwa i poręczone przez Skarb Państwa) znacznie przekracza zobowiązania oraz przyszłe zapotrzebowanie na środki płynne.  
+W ramach bieżących procesów działalności oraz wykonywanych zadań w związku z procesem zarządzania ryzykiem płynności, osoby kierujące właściwymi jednostkami organizacyjnymi Jednostki dominującej prowadzą bieżący nadzór nad stanem środków pieniężnych zdeponowanych na rachunku w kontekście planowanych potrzeb płynnościowych związanych z prowadzeniem działalności operacyjnej Jednostki dominującej. W procesie ICARAP Jednostka dominująca dokonuje m.in. identyfikacji czynników istotnych dla ryzyka płynności i finansowania oraz ocenia adekwatność poziomu aktywów płynnych w stosunku do oszacowanego poziomu zapewniającego pokrycie zarówno bieżącego i przyszłego, jak i potencjalnego skrajnego zapotrzebowania na środki płynne. Nadzór i czynności kontrolne nad stanem rachunków pieniężnych prowadzi także codziennie Dział Kontroli Ryzyka.  
+Zgodnie z rozporządzeniem IFR, od 26 września 2021 roku Jednostka dominująca utrzymuje kwotę aktywów płynnych równoważną co najmniej jednej trzeciej wymogu w zakresie stałych kosztów pośrednich. Do aktywów płynnych do celów IFR Jednostka dominująca zalicza m.in. nieobciążone środki pieniężne własne zdeponowane na rachunkach bankowych oraz posiadane obligacje Skarbu Państwa lub gwarantowane przez Skarb Państwa denominowane w PLN. Na dzień sporządzenia niniejszego sprawozdania finansowego Jednostka dominująca posiadała 12-krotnie wyższy poziom aktywów płynnych niż wymagany przez rozporządzenie IFR.  
+Poniżej prezentowane są umowne terminy płatności aktywów i zobowiązań finansowych. Dla poszczególnych terminów zapadalności została podana cząstkowa i skumulowana kontraktowa luka płynności, obliczona jako różnica pomiędzy aktywami razem a pasywami razem, wyliczana dla każdego przedziału zapadalności (wymagalności).
+57  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **Umowne terminy płatności aktywów i zobowiązań finansowych na dzień 30 września 2025 roku**
+| **(w tys. PLN)** **Aktywa finansowe** | **WARTOŚĆ** **BILANSOWA** | **PRZEPŁYWY** **PIENIĘŻNE** **WYNIKAJĄCE Z** **UMOWY** | **DO 3** **MIESIĘCY** | **OD 3** **MIESIĘCY DO** **1 ROKU** | **OD 1 ROKU** **DO 5 LAT** | **POWYŻEJ** **5 LAT** | **BEZ** **OKREŚLONEJ** **ZAPADALNOŚCI** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Środki pieniężne | 7 138 077 | 7 138 077 | 7 138 077 | - | - | - | - |
+| Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy,w tym: Akcje i ETP | 276 184 | 276 184 | 276 184 | - | - | - | - |
+| Obligacje | 25 627 | 25 627 | 25 627 | - | - | - | - |
+| Instrumenty pochodne CFD | 684 162 | 684 162 | 684 162 | - | - | - | - |
+| Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowyrazem | 985 973 | 985 973 | 985 973 | - | - | - | - |
+| Aktywa finansowe wyceniane w zamortyzowanym koszcie | 83 357 | 83 357 | 28 269 | - | 6 429 | - | 48 659 |
+| **Aktywa finansowe razem** **Zobowiązania finansowe** | **8 207 407** | **8 207 407** | **8 152 319** | **-** | **6 429** | **-** | **48 659** |
+| Zobowiązania wobec klientów | 5 933 736 | 5 933 736 | 5 933 736 | - | - | - | - |
+| Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy,w tym: Instrumenty pochodne CFD | 259 735 | 259 735 | 259 735 | - | - | - | - |
+| Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowyrazem | 259 735 | 259 735 | 259 735 | - | - | - | - |
+| Zobowiązania z tytułu leasingu | 28 068 | 28 068 | 2 816 | 8 529 | 15 464 | 1 259 | - |
+| Pozostałe zobowiązania | 198 238 | 198 238 | 159 552 | 22 809 | - | - | 15 877 |
+| **Zobowiązania finansowe razem** | **6 419 777** | **6 419 777** | **6 355 839** | **31 338** | **15 464** | **1 259** | **15 877** |
+| Kontraktowa luka płynności w okresach zapadalności(wymagalności) |  |  | 1 796 480 | (31 338) | (9 035) | (1 259) | 32 782 |
+| Kontraktowa luka płynności skumulowana |  |  | 1 796 480 | 1 765 142 | 1 756 107 | 1 754 848 | 1 787 630 |
+Grupa nie oczekuje, że przepływy pieniężne, prezentowane w analizie terminów wymagalności, mogą wystąpić znacząco wcześniej lub w znacząco innych kwotach.  
+58  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **Umowne terminy płatności aktywów i zobowiązań finansowych na dzień 31 grudnia 2024 roku**
+| **(w tys. PLN)** **Aktywa finansowe** | **WARTOŚĆ** **BILANSOWA** | **PRZEPŁYWY** **PIENIĘŻNE** **WYNIKAJĄCE Z** **UMOWY** | **DO 3** **MIESIĘCY** | **OD 3** **MIESIĘCY DO** **1 ROKU** | **OD 1 ROKU** **DO 5 LAT** | **POWYŻEJ** **5 LAT** | **BEZ** **OKREŚLONEJ** **ZAPADALNOŚCI** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Środki pieniężne | 5 370 815 | 5 370 815 | 5 370 815 | - | - | - | - |
+| Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy,w tym: Akcje i ETP | 172 483 | 172 483 | 172 483 | - | - | - | - |
+| Obligacje | 429 648 | 429 648 | 429 648 | - | - | - | - |
+| Instrumenty pochodne CFD | 521 792 | 521 792 | 521 792 | - | - | - | - |
+| Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowyrazem | 1 123 923 | 1 123 923 | 1 123 923 | - | - | - | - |
+| Aktywa finansowe wyceniane w zamortyzowanym koszcie | 55 026 | 55 026 | 24 746 | - | 6 276 | - | 24 004 |
+| **Aktywa finansowe razem** **Zobowiązania finansowe** | **6 549 764** | **6 549 764** | **6 519 484** | **-** | **6 276** | **-** | **24 004** |
+| Zobowiązania wobec klientów | 4 164 895 | 4 164 895 | 4 164 895 | - | - | - | - |
+| Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy,w tym: Instrumenty pochodne CFD | 208 193 | 208 193 | 208 193 | - | - | - | - |
+| Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowyrazem | 208 193 | 208 193 | 208 193 | - | - | - | - |
+| Zobowiązania z tytułu leasingu | 33 935 | 33 935 | 2 162 | 8 432 | 21 366 | 1 975 | - |
+| Pozostałe zobowiązania | 156 884 | 156 884 | 113 272 | 21 704 | - | - | 21 908 |
+| **Zobowiązania finansowe razem** | **4 563 907** | **4 563 907** | **4 488 522** | **30 136** | **21 366** | **1 975** | **21 908** |
+| Kontraktowa luka płynności w okresach zapadalności(wymagalności) |  |  | 2 030 962 | (30 136) | (15 090) | (1 975) | 2 096 |
+| Kontraktowa luka płynności skumulowana |  |  | 2 030 962 | 2 000 826 | 1 985 736 | 1 983 761 | 1 985 857 |
+Grupa nie oczekuje, że przepływy pieniężne, prezentowane w analizie terminów wymagalności, mogą wystąpić znacząco wcześniej lub w znacząco innych kwotach.  
+59  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.

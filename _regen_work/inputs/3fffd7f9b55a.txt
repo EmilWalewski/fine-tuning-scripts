@@ -1,0 +1,107 @@
+DOKUMENT SEKCJA: **10.21. Rezerwy** | **12. Zarządzanie ryzykiem wynikającym z instrumentów finansowych** | **Ryzyko kredytowe** | **Ryzyko płynności** | _**Ekspozycja na ryzyko kredytowe**_ | _Podstawowe zasady zarządzania ryzykiem_ | _Pozostałe transakcje z kadrą kierowniczą_ | _Wynagrodzenia członków Rady Nadzorczej_ | _Wynagrodzenia kadry kierowniczej - Zarząd_
+
+## **10.21. Rezerwy**
+| _w tysiącach złotych_ | **31.12.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Rezerwy z tytułu odpraw emerytalnych i rentowych | 20 265 | 18 289 |  |
+| Rezerwa na program lojalnościowy | - - |  |  |
+| Rezerwa na wynik kontroli podatkowej | - 1 607 |  |  |
+| Pozostałe rezerwy | - - |  |  |
+| 20 265 | 19 896 |  |  |
+
+| Pozycja | Rezerwy z tytułu odpraw emerytalnych i rentowych | Rezerwa na program lojalnościowy | Rezerwa na wynik kontroli podatkowej | Pozostałe rezerwy |
+| --- | --- | --- | --- | --- |
+| Wartość na dzień 1 stycznia 2024 r. | 15 945 | 10 871 | 28 554 | 7 535 |
+| Zwiększenie / naliczenie | 2 434 | 329 | - | - |
+| Wykorzystanie | (90) | (2 248) | (26 947) | - |
+| Rozwiązanie rezerwy z tytułu zakończenia programu lojalnościowego | - (8 952) - |  |  |  |
+| Rozwiązanie rezerwy na ewentualne różnice z tytułu rozliczenia liniowego | - - - (7 535) |  |  |  |
+| Wartość na dzień 31grudnia 2024 r. | 18 289 | - | 1 607 | - |
+| Wartość na dzień 1 stycznia 2025 r. | 18 289 | - | 1 607 | - |
+| Zwiększenie / naliczenie | 1 976 | - | 7 417 | - |
+| Rozwiązanie rezerwy na wynik kontroli podatkowej | - - (9 024) - |  |  |  |
+| Wartość na dzień 31 grudnia 2025 r. | 20 265 - - - |  |  |  |
+W grudniu 2025 r. w jednostce zależnej KRUK Česká a Slovenská republika s.r.o. zostało zakończone postępowanie podatkowe. Wynik postępowania pozostał zbieżny z wysokością założonej w poprzednich kwartałach rezerwy.  
+W okresie 2025 r. Grupa rozwiązała niewykorzystaną rezerwę na wynik zakończonej kontroli podatkowej w KRUK S.A. (1 607 tys. zł).  
+W roku 2024 rozwiązano rezerwę na ewentualne różnice z tytułu rozliczenia liniowego z uwagi na marginalny poziom reklamacji. W ocenie Grupy istnieje niskie ryzyko wzrostu obserwowanego poziomu reklamacji w przyszłości.  
+Z końcem sierpnia 2024 r. Grupa KRUK zakończyła realizację programu lojalnościowego _Marzenia do spełnienia_ , w rezultacie dokonano rozwiązania rezerwy na punkty w kwocie 8 952 tys. zł.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## _Wynagrodzenia kadry kierowniczej - Zarząd_
+65<br>Wynagrodzenie kluczowych członków kadry kierowniczej Jednostki Dominującej kształtowało się w sposób następujący:  
+| _w tysiącach złotych_ | **01.01.2025-** **31.12.2025** **niebadane** **01.10.2025-** **31.12.2025** **niebadane** **01.01.2024-** **31.12.2024** **niebadane** **01.10.2024-** **31.12.2024** **niebadane** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Wynagrodzenie zasadnicze/ kontrakt menadżerski (brutto) | 9 126 | 2 277 | 8 965 | 2 305 |
+| Dodatkowe świadczenia | 172 | 43 | 182 | 42 |
+| Wynagrodzenie z tytułu płatności w formie akcji | 24 035 | 4 134 | 16 807 | 3 521 |
+| 33 333 | 6 454 | 25 954 | 5 868 |  |
+
+## _Wynagrodzenia członków Rady Nadzorczej_
+Wynagrodzenie członków Rady Nadzorczej Jednostki Dominującej kształtowało się w sposób następujący:  
+| _w tysiącach złotych_ | **01.01.2025-** **31.12.2025** **niebadane** **01.10.2025-** **31.12.2025** **niebadane** **01.01.2024-** **31.12.2024** **niebadane** **01.10.2024-** **31.12.2024** **niebadane** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Wynagrodzenie zasadnicze (brutto) | 1 654 | 427 | 1 553 | 345 |
+| Dodatkowe świadczenia | 44 | 6 | 37 | 11 |
+| 1 698 | 434 | 1 590 | 356 |  |
+
+## _Pozostałe transakcje z kadrą kierowniczą_
+Osoby wchodzące w skład organu zarządzającego oraz osoby blisko z nimi związane na dzień 31 grudnia 2025 r. posiadały 9,7% głosów na walnym zgromadzeniu Jednostki Dominującej (31.12.2024 r.: 9,8%).  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **12. Zarządzanie ryzykiem wynikającym z instrumentów finansowych**
+Grupa jest narażona na następujące rodzaje ryzyka wynikające z korzystania z instrumentów finansowych:  
+- Ryzyko kredytowe,  
+- Ryzyko płynności,  
+- Ryzyko rynkowe.  
+Nota przedstawia skrócone informacje na temat ekspozycji Grupy na dany rodzaj ryzyka, cele, zasady oraz procedury pomiaru i zarządzania ryzykiem przyjęte przez Grupę, jak też informacje o zarządzaniu kapitałem przez Grupę. Pełen opis zarządzania ryzykami znajduje się w ostatnim rocznym skonsolidowanym sprawozdaniu finansowym Grupy.
+
+## _Podstawowe zasady zarządzania ryzykiem_
+Zarząd Jednostki Dominującej ponosi odpowiedzialność za ustanowienie i nadzór nad zarządzaniem ryzykiem przez Grupę.  
+Zasady zarządzania ryzykiem przez Grupę mają na celu identyfikację i analizę ryzyk, na które Grupa jest narażona, określenie odpowiednich limitów i kontroli, jak też monitorowanie ryzyka i stopnia dopasowania do niego limitów. Zasady zarządzania ryzykiem i systemy podlegają regularnym przeglądom w celu uwzględnienia zmian warunków rynkowych i zmian w działalności Grupy. Poprzez odpowiednie szkolenia, przyjęte standardy i procedury zarządzania Grupa dąży do zbudowania mobilizującego i konstruktywnego środowiska kontroli, w którym wszyscy pracownicy rozumieją swoje role i obowiązki.
+
+## **Ryzyko kredytowe**
+Ryzyko kredytowe jest to ryzyko poniesienia straty finansowej przez Grupę w sytuacji, kiedy partner biznesowy, osoba zadłużona lub druga strona instrumentu finansowego nie spełni obowiązków wynikających z umowy. Ryzyko kredytowe związane jest przede wszystkim z udzielanymi przez Grupę pożyczkami, należnościami z tytułu świadczonych przez Grupę usług oraz nabytymi pakietami wierzytelności.
+
+## _**Ekspozycja na ryzyko kredytowe**_
+Wartości księgowe aktywów finansowych odpowiadają maksymalnej ekspozycji na ryzyko kredytowe. Maksymalna ekspozycja na ryzyko kredytowe na koniec okresów sprawozdawczych przedstawia się następująco:  
+| **31.12.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- |
+| Inwestycje w pakiety wierzytelności | 11 632 709 | 10 500 278 |
+| Udzielone pożyczki | 612 315 | 502 905 |
+| Instrumenty zabezpieczające | 137 354 | 114 326 |
+| Należności z tytułu dostaw i usług oraz pozostałe z wyłączeniem należności z tytułu podatków | 42 061 | 53 392 |
+| Środkipieniężne i ich ekwiwalenty | 212 629 | 214 790 |
+| 12 637 068 | 11 385 691 |  |
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+Maksymalna ekspozycja na ryzyko kredytowe na koniec okresów sprawozdawczych według rejonów geograficznych przedstawia się następująco:  
+w tysiącach złotych  
+| **31.12.2025** | **niebadane** | **31.12.2024** |  |
+| --- | --- | --- | --- |
+| Polska |  | 5 193 494 | 4 669 869 |
+| Rumunia |  | 2 090 879 | 1 697 570 |
+| Włochy |  | 3 287 904 | 2 849 132 |
+| Hiszpania |  | 1 821 277 | 1 909 174 |
+| Pozostałe rynki zagraniczne |  | 243 514 | 259 946 |
+| 12 637 068 | 11 385 691 |  |  |
+_**Ekspozycja na ryzyko kredytowe – Inwestycje w pakiety wierzytelności**_  
+| _w tysiącach złotych_ | **31.12.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Portfele detaliczne niezabezpieczone | 10 416 268 | 9 375 242 |  |
+| Portfele detaliczne zabezpieczone | 218 591 | 255 418 |  |
+| Portfele korporacyjne niezabezpieczone | 387 909 | 299 321 |  |
+| Portfele korporacyjne zabezpieczone | 609 941 | 570 297 |  |
+| 11 632 709 | 10 500 278 |  |  |
+
+## **Ryzyko płynności**
+Ryzyko utraty płynności to ryzyko wystąpienia sytuacji, w której Grupa nie jest w stanie terminowo regulować swoich zobowiązań.  
+Zarządzanie ryzykiem płynności polega na zapewnieniu zdolności Grupy do regulowania zobowiązań finansowych bez narażania na ewentualne straty lub podważenie reputacji Grupy. Główne cele zarządzania płynnością to:  
+- zabezpieczenie Grupy KRUK przed utratą zdolności do regulowania zobowiązań,  
+- zapewnienie finansowania dla bieżącej działalności i dla rozwoju Grupy,  
+- efektywne zarządzanie dostępnymi źródłami finansowania.  
+Grupa posiada opracowane zasady zarządzania płynnością finansową, które regulują m.in. zasady zaciągania finansowania dłużnego, przeprowadzania analiz i prognoz dotyczących płynności Grupy, monitorowanie wypełniania zobowiązań wynikających z zawartych umów kredytowych.  
+Bezpieczeństwo płynności Grupy analizowane jest cyklicznie poprzez analizę wrażliwości w odniesieniu do zmiany prognozowanego poziomu wpłat z portfeli wierzytelności.  
+Zgodnie z zasadami zarządzania płynnością, którymi kieruje się Grupa, aby nowe zadłużenie finansowe mogło być zaciągnięte przez podmiot z Grupy, muszą być spełnione następujące warunki:  
+- spłata zadłużenia jest możliwa z posiadanych własnych aktywów Grupy,  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+- zadłużenie jest zaciągane z uwzględnieniem możliwości oraz czasu i kosztów transferu środków pomiędzy spółkami,  
+- zaciągnięcie długu nie spowoduje przekroczenia wskaźników finansowych ustalonych w umowach kredytowych i w warunkach emisji obligacji.

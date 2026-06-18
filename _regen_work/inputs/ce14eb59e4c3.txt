@@ -1,0 +1,98 @@
+DOKUMENT SEKCJA: **26.2.1. Aktywa z tytułu odroczonego podatku dochodowego oraz rezerwa z tytułu odroczonego podatku dochodowego** | **27.1. Podmiot dominujący** | **Uzgodnienie rzeczywistego obciążenia podatkowego**
+
+## **Uzgodnienie rzeczywistego obciążenia podatkowego**
+| **(w tys. PLN)** | **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** |  |  |  |
+| --- | --- | --- | --- | --- |
+| **30.09.2025** | **30.09.2025** | **30.09.2024** | **30.09.2024** |  |
+| **Zysk przed opodatkowaniem** | **61 582** | **556 925** | **251 912** | **816 496** |
+| **Podatek w oparciu o obowiązującą stawkę** **podatkową 19%** | **(11 701)** | **(105 816)** | **(47 863)** | **(155 134)** |
+| Różnica wynikająca z zastosowania stawek podatkowych obowiązujących w innych krajach | 361 | 974 | 123 | 612 |
+| Przychody niepodatkowe | 91 | 405 | (28) | 592 |
+| Koszty niestanowiące kosztów uzyskania przychodów | (790) | (3 528) | (2 713) | (4 997) |
+| Straty podatkowe za okres sprawozdawczy nieujęte w podatku odroczonym | - - - - |  |  |  |
+| Spisanie strat podatkowych aktywowanych w latach ubiegłych | - - - - |  |  |  |
+| Inne pozycje wpływające na wysokość obciążenia podatkowego | 3 684 | 14 319 | 2 395 | 9 303 |
+| **Podatek dochodowy ujęty w zysku lub stracie** | **(8 355)** | **(93 646)** | **(48 086)** | **(149 624)** |
+Na podstawie art. 18d Ustawy o podatku dochodowym od osób prawnych z dnia 15 lutego 1992 r. (Dz. U. z 2023 r., poz. 2805, ze zm.) XTB S.A. korzysta z ulgi podatkowej na badania i rozwój. Korzyść bilansowa uzyskana za okres od 1 stycznia do 30 września 2025 roku wyniosła 13 885 tys. PLN, korzyść uzyskana w analogicznym okresie 2024 roku wyniosła 9 607 tys. PLN.  
+Efektywna stawka podatkowa za okres od 1 stycznia do 30 września 2025 roku była zbliżona do stawki ustawowej i wynosiła 16,81%. W analogicznym okresie 2024 roku stawka ta wynosiła 18,33%.
+
+## **26.2.1. Aktywa z tytułu odroczonego podatku dochodowego oraz rezerwa z tytułu odroczonego podatku dochodowego**
+**Zmiana stanu podatku odroczonego za okres od 1 stycznia do 30 września 2025 roku**  
+| **(w tys. PLN)** **Aktywa z tytułu podatku odroczonego:** | **STAN NA** **01.01.2025** | **ZYSK LUB** **(STRATA)** | **STAN NA** **30.09.2025** | **STAN NA** **30.09.2025** |
+| --- | --- | --- | --- | --- |
+| Środki pieniężne i inne aktywa pieniężne | (13) | 40 |  | 27 |
+| Rzeczowe aktywa trwałe | 115 | 50 |  | 165 |
+| Zobowiązania z tytułu leasingu | 2 386 | (829) |  | 1 557 |
+| Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy | 32 769 | 6 070 |  | 38 839 |
+| Rezerwy na zobowiązania | 4 557 | 311 |  | 4 868 |
+| Rozliczenia międzyokresowe bierne | 5 554 | (144) |  | 5 410 |
+| Pozostałe zobowiązania | 15 | (9) |  | 6 |
+| Straty podatkowe do rozliczenia w przyszłych okresach powstałe wpoprzednich okresach | 6 181 | (1 254) |  | 4 927 |
+| **Razem aktywa z tytułu podatku odroczonego** | **51 564** | **4 235** |  | **55 799** |
+| **(w tys. PLN)** **Rezerwa z tytułu podatku odroczonego:** | **STAN NA** **01.01.2025** | **ZYSK LUB** **(STRATA)** | **STAN NA** **30.09.2025** |  |
+| Środkipieniężne i inne aktywapieniężne | 67 | (18) |  | 49 |
+| Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy | 98 958 | 29 985 |  | 128 943 |
+| Pozostałe zobowiązania | 1 004 | (164) |  | 840 |
+| Aktywa finansowe wyceniane w zamortyzowanym koszcie | 1 451 | 440 |  | 1 891 |
+| Rzeczowe aktywa trwałe | 2 513 | (1 032) |  | 1 481 |
+| **Razem rezerwa z tytułu podatku odroczonego ** | **103 993** | **29 211** |  | **133 204** |
+| **Podatek odroczony ujęty w zysku lub stracie** |  | **(24 976)** |  |  |
+40  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+| **(w tys. PLN)** **Rezerwa z tytułu podatku odroczonego ujęta w innych** **całkowitych dochodach:** | **STAN NA** **01.01.2025** | **UJĘTE W** **KAPITALE** | **STAN NA** **30.09.2025** |
+| --- | --- | --- | --- |
+| Kapitały wydzielone oddziałów | 101 | (26) | 75 |
+| **Razem rezerwa z tytułu podatku odroczonego ujęta** **w innych całkowitych dochodach** **Zmiana stanu podatku odroczonego za okres od 1 stycznia do 31 grudnia 2024 roku** | **101** | **(26)** | **75** |
+| **(w tys. PLN)** **Aktywa z tytułu podatku odroczonego:** | **STAN NA** **01.01.2024** | **ZYSK LUB** **(STRATA)** | **STAN NA** **31.12.2024** |
+| Środki pieniężne i inne aktywa pieniężne | - | (13) | (13) |
+| Rzeczowe aktywa trwałe | 63 | 52 | 115 |
+| Zobowiązania z tytułu leasingu | 2 885 | (499) | 2 386 |
+| Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy | 13 347 | 19 422 | 32 769 |
+| Rezerwy na zobowiązania | 979 | 3 578 | 4 557 |
+| Rozliczenia międzyokresowe bierne | 6 096 | (542) | 5 554 |
+| Pozostałe zobowiązania | 5 067 | (5 052) | 15 |
+| Straty podatkowe do rozliczenia w przyszłych okresach powstałe wpoprzednich okresach | 7 109 | (928) | 6 181 |
+| **Razem aktywa z tytułu podatku odroczonego** | **35 546** | **16 018** | **51 564** |
+| **(w tys. PLN)** **Rezerwa z tytułu podatku odroczonego:** | **STAN NA** **01.01.2024** | **ZYSK LUB** **(STRATA)** | **STAN NA** **31.12.2024** |
+| Środki pieniężne i inne aktywa pieniężne | 101 | (34) | 67 |
+| Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy | 83 568 | 15 390 | 98 958 |
+| Pozostałe zobowiązania | 1 141 | (137) | 1 004 |
+| Aktywa finansowe wyceniane w zamortyzowanym koszcie | 593 | 858 | 1 451 |
+| Rzeczowe aktywa trwałe | 2 788 | (275) | 2 513 |
+| **Razem rezerwa z tytułu podatku odroczonego** | **88 191** | **15 802** | **103 993** |
+| **Podatek odroczony ujęty w zysku (stracie)** |  | **(216)** |  |
+| **(w tys. PLN)** **Rezerwa z tytułu podatku odroczonego ujęta w innych** **całkowitych dochodach:** | **STAN NA** **01.01.2024** | **UJĘTE W** **KAPITALE** | **STAN NA** **31.12.2024** |
+| Kapitały wydzielone oddziałów | 232 | (131) | 101 |
+| **Razem rezerwa z tytułu podatku odroczonego ujęta** **w innych całkowitych dochodach** | **232** | **(131)** | **101** |
+41  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+**Dane dotyczące prezentacji podatku odroczonego wg kraju utworzenia oraz uzgodnienie prezentacji w sprawozdaniu z sytuacji finansowej na dzień 30 września 2025 roku:**  
+| **(w tys. PLN)** **AKTYWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** **REZERWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** **AKTYWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** **REZERWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** | **DANE WG CHARAKTERU UTWORZENIA** **DANE UJĘTE W SPRAWOZDANIU Z SYTUACJI** **FINANSOWEJ** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Polska | 50 191 | 131 311 | 1 246 | 82 366 |
+| Czechy | 84 | 48 | 36 | - |
+| Słowacja | 188 | - | 188 | - |
+| Niemcy | 1 359 | 395 | 1 359 | 395 |
+| Francja | 2 467 | - | 2 467 | - |
+| Wielka Brytania | 1 411 | - | 1 411 | - |
+| Chile | 99 | 272 | - | 173 |
+| Belize | - | 1 253 | - | 1 253 |
+| **Razem** | **55 799** | **133 279** | **6 707** | **84 187** |
+**Dane dotyczące prezentacji podatku odroczonego wg kraju utworzenia oraz uzgodnienie prezentacji w sprawozdaniu z sytuacji finansowej na dzień 31 grudnia 2024 roku:**  
+| **(w tys. PLN)** **AKTYWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** **REZERWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** **AKTYWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** **REZERWA Z TYTUŁU** **PODATKU** **ODROCZONEGO** | **DANE WG CHARAKTERU UTWORZENIA** **DANE UJĘTE W SPRAWOZDANIU Z SYTUACJI** **FINANSOWEJ** |  |  |  |
+| --- | --- | --- | --- | --- |
+| Polska | 44 654 | 102 082 | 1 942 | 59 370 |
+| Czechy | 105 | 67 | 38 | - |
+| Słowacja | 103 | - | 103 | - |
+| Niemcy | 1 968 | 494 | 1 968 | 494 |
+| Francja | 2 798 | - | 2 798 | - |
+| Wielka Brytania | 1 859 | - | 1 859 | - |
+| Chile | 77 | 299 | - | 222 |
+| Belize | - | 1 152 | - | 1 152 |
+| **Razem** | **51 564** | **104 094** | **8 708** | **61 238** |
+
+## **27.1. Podmiot dominujący**
+Na dzień 30 września 2025 roku głównym akcjonariuszem Jednostki dominującej jest XX ZW Investment Group S.A. z siedzibą w Luksemburgu, który posiada 35,78 % akcji i głosów na Walnym Zgromadzeniu.  
+Podmiotem dominującym najwyższego szczebla w stosunku do Grupy oraz XX ZW Investment Group S.A. jest pan Jakub Zabłocki.

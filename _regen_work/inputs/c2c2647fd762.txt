@@ -1,0 +1,78 @@
+DOKUMENT SEKCJA: **Udzielone pożyczki** | _Zakładany szacunkowy harmonogram wpływów z pakietów wierzytelności (wartość niezdyskontowana)_ | _Założenia przyjęte przy wycenie pakietów wierzytelności_
+
+## _Założenia przyjęte przy wycenie pakietów wierzytelności_
+| **niebadane** |
+| Okres, za który oszacowano wpływy styczeń 2026 - styczeń 2025 - |
+| _w tysiącach złotych_ |
+| _poniżej 25%_ _17 926 837_ _15 685 322_ |
+| _powyżej 50%_ _1 388 748_ _1 386 710_ |
+| _1 zakres stóp procentowych dotyczy 99% wartości pakietów wierzytelności_ |
+
+## _Zakładany szacunkowy harmonogram wpływów z pakietów wierzytelności (wartość niezdyskontowana)_
+| _w tysiącach złotych_ **Okres** | **31.12.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Do 12 miesięcy | 3 602 609 | 3 304 652 |  |
+| Od 1 do 2 lat | 3 340 971 | 3 091 801 |  |
+| Od 2 do 3 lat | 2 904 080 | 2 656 653 |  |
+| Od 3 do 4 lat | 2 484 149 | 2 219 286 |  |
+| Od 4 do 5 lat | 2 110 633 | 1 922 602 |  |
+| Od 5 do 6 lat | 1 791 436 | 1 578 099 |  |
+| Od 6 do 7 lat | 1 548 854 | 1 334 620 |  |
+| Od 7 do 8 lat | 1 357 042 | 1 125 478 |  |
+| Od 8 do 9 lat | 1 190 125 | 986 737 |  |
+| Od 9 do 10 lat | 1 060 937 | 868 682 |  |
+| Od 10 do 11 lat | 940 096 | 770 451 |  |
+| Od 11 do 12 lat | 812 430 | 677 458 |  |
+| Od 12 do 13 lat | 705 894 | 585 348 |  |
+| Od 13 do 14 lat | 618 375 | 500 717 |  |
+| Od 14 do 15 lat | 506 852 | 432 864 |  |
+| Powyżej15 lat | 1 177 517 | 1 091 785 |  |
+| 26 152 000 | 23 147 233 |  |  |
+Zaprezentowany powyżej prognozowany harmonogram wpływów z pakietów wierzytelności w poszczególnych przedziałach stóp dyskontowych zmienia się w okresach porównawczych w wyniku:  
+- nabywania nowych portfeli wierzytelności,  
+- realizacji wpływów pieniężnych z posiadanych portfeli wierzytelności,  
+- weryfikacji prognozy zakładanych przyszłych wpływów pieniężnych.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+Zmiany wartości księgowej netto inwestycji w pakiety wierzytelności kształtowały się następująco:  
+| _w tysiącach złotych_ | **Portfele** **niezabezpieczone** **Portfele** **zabezpieczone** **Razem** |  |  |
+| --- | --- | --- | --- |
+| **Wartość inwestycji w pakiety wierzytelności na 1 stycznia** **2025 r.** | **9 674 563** | **825 715** | **10 500 278** |
+| Zakup pakietów* | 2 057 223 | 165 709 | 2 222 932 |
+| Zbycie pakietów wynikające ze sprzedaży jednostki zależnej | (2 402) | - | (2 402) |
+| Wpłaty od osób zadłużonych oraz z tytułu sprzedaży pakietów | (3 562 795) | (356 953) | (3 919 748) |
+| Wzrost/(spadek) zobowiązań wobec osób zadłużonych z tytułu nadpłat** | 5 921 | - | 5 921 |
+| Wycena programu lojalnościowego** | 1 778 | - | 1 778 |
+| Przychody z windykacji pakietów nabytych | 2 698 495 | 199 692 | 2 898 187 |
+| Wartość przejętych nieruchomości | - | (1 793) | (1 793) |
+| Różnice kursowe z przeliczenia wartości pakietów wierzytelności*** | (68 606) | (3 838) | (72 444) |
+| **Wartość inwestycji w pakiety wierzytelności na 31 grudnia** **2025 r.** | **10 804 177** | **828 532** | **11 632 709** |
+| _w tysiącach złotych_ | **Portfele** **niezabezpieczone** **Portfele** **zabezpieczone** **Razem** |  |  |
+| **Wartość inwestycji w pakiety wierzytelności na 1 stycznia** **2024 r.** | **7 822 296** | **851 469** | **8 673 765** |
+| Zakup pakietów* | 2 718 827 | 109 069 | 2 827 896 |
+| Wpłaty od osób zadłużonych oraz z tytułu sprzedaży pakietów | (3 221 036) | (315 275) | (3 536 311) |
+| Wzrost/(spadek) zobowiązań wobec osób zadłużonych z tytułu nadpłat** | 4 294 | - | 4 294 |
+| Wycena programu lojalnościowego** | (1 380) | - | (1 380) |
+| Wpłaty od pierwotnego wierzyciela | (1 949) | - | (1 949) |
+| Przychody z windykacji pakietów nabytych | 2 449 656 | 187 942 | 2 637 598 |
+| Wartość przejętych nieruchomości | - | (3 606) | (3 606) |
+| Różnice kursowe z przeliczenia wartości pakietów wierzytelności*** | (96 145) | (3 884) | (100 029) |
+| **Wartość inwestycji w pakiety wierzytelności na 31 grudnia** **2024 r.** | **9 674 563** | **825 715** | **10 500 278** |
+_* W pozycji ujmowana jest korekta ceny nabycia z tytułu dyskonta dot. wadliwych spraw_  
+_** Wartość inwestycji w pakiety wierzytelności jest skorygowana o wycenę programu lojalnościowego oraz o zmianę zobowiązań z tytułu nadpłat w związku z ujmowaniem kosztów związanych z programem bonusowym i rezerwą na zwroty nadpłat w pozycji Inne przychody/koszty z nabytych portfeli wierzytelności._  
+_Z końcem sierpnia 2024 Grupa KRUK zakończyła realizację programu lojalnościowego Marzenia do spełnienia, w rezultacie dokonano rozwiązania rezerwy na punkty w kwocie 8 952 tys. zł._  
+_*** Dotyczy nabytych portfeli wierzytelności w walucie innej niż PLN. Pozycja wynika ze zmiany kursów walut w poszczególnych okresach, głównie wahań kursu EUR/PLN._  
+Główną działalnością Jednostki Dominującej oraz większości jego jednostek zależnych są inwestycje w nabywane portfele wierzytelności. Z uwagi na MSR 7.15 Grupa uznaje ww. inwestycje w portfele wierzytelności jako podstawową działalność operacyjną i prezentuje wydatki na ich pozyskanie w działalności operacyjnej jako _Zmiana stanu inwestycji w pakiety wierzytelności_ w sprawozdaniu z przepływów pieniężnych.  
+W ramach prowadzonego operacyjnie procesu odzyskiwania nabytych wierzytelności Grupa dokonuje okazjonalnego zbycia pojedynczych spraw z portfeli celem zwiększenia uzyskiwanych przychodów  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+z podstawowej działalności operacyjnej. W bieżącym okresie, Grupa KRUK dokonała sprzedaży portfeli wierzytelności na rynku czeskim i słowackim w ramach procesu ograniczania działalności na wyżej wymienionych rynkach. Z uwagi na powyższe oraz MSR 7.14 Grupa prezentuje wpływy ze sprzedaży wierzytelności w ramach działalności operacyjnej jako _Zmiana stanu inwestycji w pakiety wierzytelności_ w sprawozdaniu z przepływów pieniężnych.  
+W roku 2025 Grupa poniosła wydatki na zakup pakietów wierzytelności w wysokości 2 222 932 tys. zł (w roku 2024: 2 827 896 tys. zł), natomiast wartość wpłat uzyskanych od dłużników wyniosła 3 919 748 tys. zł (w roku 2024: 3 536 311 tys. zł).  
+Zmiany wartości oczekiwanych strat kredytowych od nabytych pakietów wierzytelności kształtowały się następująco:  
+Zmiany wartości oczekiwanych strat kredytowych mają odzwierciedlenie w wartości portfela wierzytelności.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **Udzielone pożyczki**
+| _w tysiącach złotych_ | **31.12.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Udzielone pożyczki wyceniane według zamortyzowanego kosztu | 610 020 | 499 604 |  |
+| Udzielonepożyczki wyceniane wedługwartościgodziwej | 2 295 | 3 301 |  |
+| 612 315 | 502 905 |  |  |

@@ -18,6 +18,8 @@ manifest only stores the input dump and output path.
 """
 import argparse, glob, json, os, sys
 
+from path_profiles import add_path_profile_arg, mapped_entry
+
 CPT_FALLBACK = 2.8
 
 def get_counter():
@@ -34,6 +36,7 @@ def main():
     ap.add_argument("--src", required=True, help="Original folder of .jsonl files (for instruction)")
     ap.add_argument("--window", type=int, default=None, help="Report records exceeding this token window")
     ap.add_argument("--id-key", default="id")
+    add_path_profile_arg(ap)
     args = ap.parse_args()
 
     count, exact = get_counter()
@@ -50,6 +53,7 @@ def main():
 
     rows = []
     for m in manifest:
+        m = mapped_entry(m, args.path_profile)
         instr = orig.get((m["file"], str(m["id"])), {}).get("instruction", "")
         inp = open(m["input_path"], encoding="utf-8").read() if os.path.exists(m["input_path"]) else ""
         op = m["output_path"]

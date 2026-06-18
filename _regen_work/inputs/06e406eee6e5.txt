@@ -1,0 +1,48 @@
+DOKUMENT SEKCJA: Główny Dokument
+
+5 SKONSOLIDOWANY RACHUNEK PRZEPŁYWÓW PIENIĘŻNYCH
+Przepływy środków pieniężnych z działalności operacyjnej
+Zysk przed opodatkowaniem 810 103 706 432
+Korekta o pozycje:
+Udziały w wyniku finansowym jednostek wycenianych metodą praw własności 1437 990
+Amortyzacja 26776 24761
+(Zysk)/strata z tytułu różnic kursowych - (715)
+(Zysk)/strata na inwestycjach 5248 2.209
+Koszty/(przychody) finansowe z tytułu odsetek 5082 6736
+Koszty z tytułu wyceny programów opcji menedżerskich - 1962
+Zmiany w kapitale obrotowym:
+Zmiany stanu rezerw 4988 28 218
+Zmiany stanu zapasów (778 215) (465 005)
+Zmiany stanu należności 6621 (24 828)
+Zmiany stanu zobowiązań krótkoterminowych z wyjątkiem kredytów i obligacji 64 654 198 189
+Zmiany stanu rozliczeń międzyokresowych i przychodów przyszłych okresów 159 964 77596
+Inne korekty - 715
+Środki pieniężne wygenerowane z działalności operacyjnej 306 658 557 260
+Odsetki otrzymane 15 394 8908
+Odsetki zapłacone (44 032) (34 163)
+Zapłacony podatek dochodowy (64 936) (153 533)
+Środki pieniężne netto z działalności operacyjnej 213 084 378.472
+Przepływy środków pieniężnych z działalności inwestycyjnej
+Wpływy ze sprzedaży wartości niematerialnych oraz rzeczowych aktywów trwałych 1769 1894
+Wpłaty z tytułu udzielonych pożyczek 3396 35 570
+Inne wpływy/(wydatki) z aktywów finansowych - 6
+Wydatki z tytułu udzielonych pożyczek (3.800) (88 345)
+Nabycie wartości niematerialnych oraz rzeczowych aktywów trwałych (24 462) (21 528)
+Nabycie aktywów finansowych i dopłaty do kapitału (5 230) (100)
+Środki pieniężne netto wykorzystane w działalności inwestycyjnej (28 327) (72 503)
+Przepływy środków pieniężnych z działalności finansowej
+Wpływy z tytułu emisji akcji (realizacje opcji na akcje) 7.14 - 5000
+Wpływy z tytułu zaciągniętych kredytów 7.18 187 572 251 154
+Wpływy z emisji dłużnych papierów wartościowych 7.19 135 000 140 000
+Wydatki z tytułu spłaty kredytów (135 000) (251 154)
+Wydatki z tytułu wykupu dłużnych papierów wartościowych 7.19 (100 113) (50 000)
+Wydatki z tytułu podziału zysku (dywidenda) 7.17 (361 178) (323 030)
+Płatność zobowiązań z tytułu umów leasingu (3 195) (3 367)
+Środki pieniężne netto wykorzystane w działalności finansowej (276 914) (231 397)
+Zwiększenie /(zmniejszenie) netto stanu środków pieniężnych i ich ekwiwalentów (92 157) 74572
+Środki pieniężne i ich ekwiwalenty na początek okresu 7.13 360 846 286 274
+Środki pieniężne i ich ekwiwalenty na koniec okresu 7.13 268 689 360846
+Wszystkie kwoty w tysiącach złotych.
+
+SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPA KAPITAŁOWA DOM 8
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU DEVELOPMENT S.A.

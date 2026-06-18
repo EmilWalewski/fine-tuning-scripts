@@ -1,0 +1,52 @@
+DOKUMENT SEKCJA: **2.1. Oświadczenie o zgodności** | **2.2. Waluta pomiaru i waluta sprawozdań finansowych** | **2.3. Założenie kontynuacji działalności** | **2.4. Porównywalność danych i spójność zastosowanych zasad** | **2.5. Zmiany stosowanych zasad rachunkowości** | **2.6. Nowe standardy i interpretacje, które zostały opublikowane, a nie weszły jeszcze w życie** | **3. Profesjonalny osąd** | **3.1. Informacja o istotnych szacunkach i wycenach** | **3.2. Oczekiwane straty kredytowe i utrata wartości aktywów**
+
+## **2.1. Oświadczenie o zgodności**
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe sporządzono zgodnie z Międzynarodowym Standardem Rachunkowości („MSR”) 34 zatwierdzonym przez Unię Europejską.  
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy Kapitałowej XTB S.A., sporządzone za okres od 1 stycznia 2025 roku do 30 września 2025 roku z danymi porównywalnymi za okres od 1 stycznia 2024 roku do 30 września 2024 roku oraz na dzień 31 grudnia 2024 roku, obejmuje dane finansowe Jednostki dominującej oraz dane finansowe jednostek zależnych, stanowiących „Grupę”.  
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe zostało sporządzone zgodnie z zasadą kosztu historycznego, z wyjątkiem aktywów finansowych wycenianych w wartości godziwej oraz innych aktywów i zobowiązań, których metody wyceny opisano w polityce rachunkowości. Aktywa Grupy zostały zaprezentowane w bilansie według stopnia płynności, natomiast zobowiązania według terminu wymagalności. Przyjęte zasady rachunkowości są spójne z zasadami poprzedniego roku obrotowego, z wyjątkiem obciążenia podatkiem dochodowym, które zostało skalkulowane zgodnie z zasadami określonymi w MSR 34.30c oraz nowymi standardami obowiązującymi od 1 stycznia 2025 roku.  
+Spółki Grupy prowadzą swoje księgi rachunkowe zgodnie z zasadami rachunkowości obowiązującymi w krajach, w których spółki te mają siedziby. Śródroczne skrócone skonsolidowane sprawozdanie finansowe zawiera korekty wprowadzone w celu doprowadzenia sprawozdań finansowych tych jednostek do zgodności z zasadami rachunkowości stosowanymi przez Grupę.  
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe zostało zatwierdzone przez Zarząd Jednostki dominującej w dniu 17 listopada 2025 roku.  
+Sporządzając niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe Jednostka dominująca podjęła decyzję, iż żaden ze Standardów nie będzie wcześniej zastosowany.  
+MSSF obejmują standardy i interpretacje zaakceptowane przez Radę Międzynarodowych Standardów Rachunkowości („RMSR”) oraz Komitet ds. Interpretacji Międzynarodowej Sprawozdawczości Finansowej („KIMSF”).
+
+## **2.2. Waluta pomiaru i waluta sprawozdań finansowych**
+Walutą pomiaru i walutą sprawozdawczą niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego jest złoty polski („zł”, „PLN”), a wszystkie wartości, o ile nie wskazano inaczej, podane są w tysiącach złotych.  
+15  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **2.3. Założenie kontynuacji działalności**
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności gospodarczej przez Grupę w dającej się przewidzieć przyszłości. Na dzień sporządzenia śródrocznego skróconego skonsolidowanego sprawozdania finansowego Zarząd XTB S.A. nie stwierdza istnienia okoliczności wskazujących na zagrożenie kontynuowania działalności przez spółki wchodzące w skład Grupy w okresie co najmniej 12 miesięcy od dnia podpisania niniejszego sprawozdania, z wyjątkiem spółki zależnej Tasfiye Halinde XTB Yönetim Danışmanlığı A.Ş. w Turcji opisanej w nocie 1.2.
+
+## **2.4. Porównywalność danych i spójność zastosowanych zasad**
+Dane zaprezentowane w śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym są porównywalne oraz sporządzone według spójnych zasad we wszystkich okresach objętych śródrocznym skróconym skonsolidowanym sprawozdaniem finansowym.
+
+## **2.5. Zmiany stosowanych zasad rachunkowości**
+Zasady (polityki) rachunkowości zastosowane do sporządzenia śródrocznego skróconego skonsolidowanego sprawozdania finansowego są spójne z tymi, które zastosowano przy sporządzaniu skonsolidowanego sprawozdania finansowego Grupy za rok zakończony dnia 31 grudnia 2024 roku, z wyjątkiem zastosowania nowych lub zmienionych standardów oraz interpretacji obowiązujących dla okresów rocznych rozpoczynających się od 1 stycznia 2025 roku i później.  
+- Zmiany do MSR 21 „Skutki zmian kursów wymiany walut obcych” - brak wymienialności - do dnia zatwierdzenia niniejszego sprawozdania finansowego niezatwierdzony przez UE - mający zastosowanie dla okresów rocznych rozpoczynających się dnia 1 stycznia 2025 roku lub później.  
+Grupa nie zdecydowała się na wcześniejsze zastosowanie żadnego standardu, interpretacji lub zmiany, która została opublikowana, lecz nie weszła dotychczas w życie w świetle przepisów Unii Europejskiej. Nowe lub zmienione standardy oraz interpretacje, które zastosowano po raz pierwszy w 2025 roku, nie miały istotnego wpływu na śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy.
+
+## **2.6. Nowe standardy i interpretacje, które zostały opublikowane, a nie weszły jeszcze w życie**
+Następujące standardy i interpretacje zostały opublikowane przez Radę Międzynarodowych Standardów Rachunkowości, jednak nie weszły jeszcze w życie:  
+- Zmiany do MSSF 9 „Instrumenty finansowe” i MSSF 7 „Instrumenty finansowe - ujawnienia informacji” - zmiany w klasyfikacji i wycenie instrumentów finansowych - do dnia zatwierdzenia niniejszego sprawozdania finansowego niezatwierdzony przez UE - mający zastosowanie dla okresów rocznych rozpoczynających się dnia 1 stycznia 2026 roku lub później,  
+- MSSF 18 „Prezentacja i ujawnienia w sprawozdaniach finansowych” - do dnia zatwierdzenia niniejszego sprawozdania finansowego niezatwierdzony przez UE - mający zastosowanie dla okresów rocznych rozpoczynających się dnia 1 stycznia 2027 roku lub później,  
+- MSSF 19 “Spółki zależne bez odpowiedzialności publicznej: ujawnianie informacji” - do dnia zatwierdzenia niniejszego sprawozdania finansowego niezatwierdzony przez UE - mający zastosowanie dla okresów rocznych rozpoczynających się dnia 1 stycznia 2027 roku lub później,  
+- MSSF 14 „Regulacyjne rozliczenia międzyokresowe” - prace prowadzące do zatwierdzenia niniejszych zmian zostały przez UE odłożone bezterminowo - termin wejścia w życie został odroczony przez RMSR na czas nieokreślony,  
+16  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+- Zmiany do MSSF 10 „Skonsolidowane sprawozdania finansowe” i do MSR 28 „Inwestycje w jednostkach stowarzyszonych” w zakresie sprzedaży lub przeniesienia aktywów pomiędzy inwestorem a jego jednostkami stowarzyszonymi lub wspólnymi przedsięwzięciami - prace prowadzące do zatwierdzenia niniejszych zmian zostały przez UE odłożone bezterminowo - termin wejścia w życie został odroczony przez RMSR na czas nieokreślony.  
+Grupa nie przewiduje istotnego wpływu powyższych opublikowanych standardów i interpretacji, które nie weszły jeszcze w życie na śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy.
+
+## **3. Profesjonalny osąd**
+W procesie stosowania zasad (polityki) rachunkowości Zarząd Jednostki dominującej dokonał następujących osądów, które mają istotny wpływ na przedstawiane wartości bilansowe aktywów i zobowiązań.
+
+## **3.1. Informacja o istotnych szacunkach i wycenach**
+Sporządzenie sprawozdania finansowego zgodnie z MSSF wymaga dokonania przez Grupę pewnych szacunków oraz przyjęcia pewnych założeń, które mają wpływ na kwoty prezentowane w sprawozdaniu finansowym.  
+Szacunki i założenia, które podlegają ciągłej ocenie przez kierownictwo Grupy, oparte są o doświadczenia historyczne i inne czynniki, w tym oczekiwania co do przyszłych zdarzeń, które w danej sytuacji wydają się uzasadnione. Wyniki tworzą podstawę do dokonywania szacunków odnośnie wartości bilansowych aktywów i zobowiązań.  
+Mimo, że szacunki te opierają się na najlepszej wiedzy dotyczącej warunków bieżących i działań, które Grupa podejmuje, rzeczywiste rezultaty mogą się od tych szacunków różnić. Korekty w szacunkach są rozpoznawane w okresie sprawozdawczym, podczas którego dokonano zmiany szacunku pod warunkiem, że korekta dotyczy tylko tego okresu lub również w okresach przyszłych, jeśli korekta wpływa zarówno na bieżący jak i przyszłe okresy. Poniżej przedstawiono najistotniejsze obszary, dla których Grupa dokonuje oszacowań.
+
+## **3.2. Oczekiwane straty kredytowe i utrata wartości aktywów**
+Grupa tworzy odpis na oczekiwane straty kredytowe zgodnie z MSSF 9 dla wszystkich aktywów wycenianych w zamortyzowanym koszcie. Odpis ten uwzględnia prognozy i spodziewane przyszłe warunki ekonomiczne w kontekście oceny ryzyka kredytowego. W szczególności W przypadku wystąpienia obiektywnych dowodów utraty wartości wynikających ze zdarzeń zaistniałych po pierwotnym ujęciu składników aktywów finansowych i powodujących zmniejszenie oczekiwanych przyszłych przepływów pieniężnych dokonuje się stosownych odpisów w ciężar kosztów bieżącego okresu. Grupa dokonuje oceny utraty wartości przeterminowanych należności i obejmuje odpisem aktualizującym szacowaną wartość należności zagrożonych i nieściągalnych.  
+Na dzień bilansowy rocznego okresu sprawozdawczego przeprowadzany jest przegląd składników aktywów trwałych, w tym wartości niematerialnych w celu stwierdzenia, czy nie występują przesłanki wskazujące na możliwość utraty ich wartości. W przypadku istnienia takiej przesłanki, np. na skutek wygaśnięcia licencji lub wycofania z użytkowania, Grupa dokonuje formalnego oszacowania wartości odzyskiwalnej.  
+W sytuacji, gdy wartość bilansowa danego składnika aktywów przewyższa jego wartość odzyskiwalna, uznaje się utratę jego wartości i dokonuje odpisu aktualizującego jego wartość do poziomu wartości odzyskiwanej.

@@ -1,0 +1,114 @@
+DOKUMENT SEKCJA: **7 DODATKOWE INFORMACJE I OBJAŚNIENIA DO SKONSOLIDOWANEGO SPRAWOZDANIA FINANSOWEGO** > **7.16 DODATKOWE INFORMACJE DOTYCZĄCE KAPITAŁÓW WŁASNYCH**
+
+ZATRZYMANE KAUCJE GWARANCYJNE 31.12.2025 31.12.2024
+Zatrzymane kaucje gwarancyjne — część krótkoterminowa 60 429 58015
+Zatrzymane kaucje gwarancyjne — część długoterminowa 70125 56 903
+Zatrzymane kaucje gwarancyjne razem 130554 114 918
+7.26 REZERWY KRÓTKOTERMINOWE
+JREZERWY KRÓTKOTERMINOWE 31.12.2025 31.12.2024
+Rezerwa na koszty napraw — część krótkoterminowa 12220 11807
+Rezerwa emerytalna 85 61
+Rezerwa na sprawy sporne i pozostałe 23776 25791
+Razem 36 081 37 659
+JREZERWY KRÓTKOTERMINOWE - ZMIANY 31.12.2025 31.12.2024
+Stan na początek okresu 37 659 29 080
+Utworzenie rezerw w ciągu roku obrotowego 12 657 27227
+Wykorzystanie/rozwiązanie rezerw w ciągu roku obrotowego (14 235) (18 648)
+Stan na koniec okresu 36 081 37 659
+SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPA KAPITAŁOWA DOM 35
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU DEVELOPMENT S.A.
+
+7.27 PRZYCHODY PRZYSZŁYCH OKRESÓW
+|PRZYCHODY PRZYSZŁYCH OKRESÓW 31.12.2025 31.12.2024
+Przychody przyszłych okresów dotyczące wpłat klientów na poczet zakupu produktów, acne] 1873 322
+jeszcze niezaliczonych do przychodów w rachunku zysków i strat
+Pozostałe 2327 890
+Razem 2.047 310 1874212
+7.28 ŚWIADCZENIA PO OKRESIE ZATRUDNIENIA
+W Grupie nie ma specjalnych programów świadczeń dla pracowników po okresie zatrudnienia.
+
+7.29 AKTYWA I ZOBOWIĄZANIA FINANSOWE
+KATEGORIE AKTYWÓW FINANSOWYCH I ZOBOWIĄZAŃ FINANSOWYCH ORAZ MAKSYMALNA EKSPOZYCJA NA
+RYZYKO KREDYTOWE
+AKTYWA FINANSOWE
+Długoterminowe należności 9134 8.090
+Pożyczki udzielone 59 639 55 283
+Należności handlowe i pozostałe 45 438 89 755
+Należności od jednostek powiązanych - -
+Pożyczki i należności razem 114211 153 128
+Pozostałe 3 786 -
+Aktywa finansowe wyceniane w wartości godziwej przez rachunek zysków i strat ] .
+(przeznaczone do obrotu)
+Środki pieniężne w banku i kasie 23 999 23 843
+Lokaty krótkoterminowe 244 690 337 003
+Krótkoterminowe aktywa finansowe 259 552 230 124
+Maksymalna ekspozycja na ryzyko kredytowe 646 238 744 098
+ZOBOWIĄZANIA FINANSOWE
+Zobowiązania z tytułu kredytów 52572 -
+Obligacje własne wyemitowane 651 214 616 863
+Zobowiązania z tytułu dostaw i usług, rozliczenia międzyokresowe i pozostałe 842 464 771548
+Zobowiązania z tytułu leasingu 148 848 125016
+Zobowiązania finansowe wyceniane wg zamortyzowanego kosztu 1695 098 1513 427
+Wartość godziwa aktywów i zobowiązań finansowych Grupy nie różni się istotnie od ich wartości bilansowej.
+
+7.30 ZARZĄDZANIE RYZYKIEM FINANSOWYM
+Grupa posiada ekspozycje na następujące rodzaje ryzyka finansowego:
+*_ ryzyko rynkowe (ryzyko stopy procentowej)
+* ryzyko kredytowe
+© ryzyko płynności
+SKONSOLIDOWANE SPRAWOZDANIE FINANSOWE GRUPA KAPITAŁOWA DOM 36
+ZA ROK ZAKOŃCZONY DNIA 31 GRUDNIA 2025 ROKU DEVELOPMENT S.A.
+
+RYZYKO RYNKOWE
+Ryzyko rynkowe jest takim rodzajem ryzyka, które odzwierciedla wpływ zmian cen rynkowych takich, jak kursy wymiany walut,
+stopy procentowe, czy ceny instrumentów kapitałowych, na wynik finansowy Grupy lub na wartość posiadanych instrumentów
+finansowych.
+
+Ryzyko rynkowe obejmuje głównie następujące rodzaje ryzyk:
+© ryzyko walutowe
+*_ ryzyko stopy procentowej
+Ryzyko walutowe
+W przypadku istnienia znaczących pozycji walutowych, Grupa stosuje walutowe instrumenty pochodne typu forward i swap do
+zabezpieczania znaczących przyszłych transakcji walutowych.
+
+Na dzień 31 grudnia 2025 r. oraz 31 grudnia 2024 r. Grupa nie posiadała żadnych istotnych aktywów, zobowiązań oraz przyszłych
+płatności w walutach obcych, w związku z czym nie było potrzeby zawierania walutowych instrumentów pochodnych
+zabezpieczających.
+
+Ryzyko stopy procentowej
+Kredyty bankowe zaciągnięte przy zastosowaniu stałych stóp procentowych narażają Grupę na ryzyko zmiany wartości godziwej
+kredytów.
+
+Kredyty i pożyczki zaciągnięte po zmiennych stopach procentowych powodują ryzyko przepływów pieniężnych.
+
+Według aktualnej struktury finansowania Grupa nie posiada kredytów lub obligacji o stałym oprocentowaniu.
+
+Obecnie Grupa
+posiada krótko, średnio i długoterminowe kredyty i obligacje na zmienną stopę procentową, co powoduje ekspozycję na ryzyko
+przepływów pieniężnych, chociaż ryzyko to jest ograniczane w sposób opisany poniżej.
+
+Na datę bilansowa Grupa nie posiadała długoterminowych instrumentów finansowych oprocentowanych wg stałej stopy
+procentowej.
+
+Ryzyko stopy procentowej w większości ograniczone jest w sposób naturalny poprzez posiadanie zarówno zobowiązań
+finansowych jak i aktywów finansowych oprocentowanych wg zmiennej stopy procentowej.
+
+Ekspozycja na ryzyko stopy
+procentowej dla zadłużenia z tytułu obligacji jest dodatkowo zmniejszane poprzez stosowanie takich zabezpieczających
+instrumentów finansowych jak:
+- opcje CAP, gdzie bank gwarantuje, że zwróci Spółce różnice wynikające ze wzrostu rynkowych stop procentowych ponad poziom
+ustalony w opcji.
+
+Spółka zabezpiecza się w ten sposób przed wzrostem stóp, zachowując jednocześnie możliwość skorzystania z
+ewentualnego spadku ich poziomu,
+- IRS (Interest Rate Swap) - Transakcja polega na wymianie z bankiem płatności odsetkowych liczonych według jednej stopy
+procentowej na płatności odsetkowe liczone według innej stopy procentowej.
+
+Spółka korzysta z zamiany zmiennej stopy
+procentowej na stałą.
+
+Obie płatności odsetkowe naliczane są od kwoty nominalnej uzgodnionej w transakcji, a ich rozliczenie
+odbywa się w wyznaczonych dniach przez porównanie odpowiedniej stawki referencyjnej z zakontraktowaną stopą procentową.
+
+Struktura instrumentów finansowych oprocentowanych wg zmiennej stopy procentowej na datę bilansową przedstawiała się
+następująco:

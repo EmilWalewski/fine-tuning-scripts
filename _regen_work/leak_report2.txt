@@ -1,0 +1,157 @@
+Records checked      : 465
+Records with leaks   : 29
+Total leaked numbers : 123
+
+Flagged records (number absent from own input, present in another chunk):
+  [42] dataset__448.txt
+        109740  ~ also in: dataset__79.txt
+        1988278  ~ also in: dataset__241.txt, dataset__79.txt
+        252740  ~ also in: dataset__79.txt
+        654135  ~ also in: dataset__241.txt
+        5288518  ~ also in: dataset__79.txt
+        510000  ~ also in: dataset__303.txt, dataset__347.txt
+        1701836  ~ also in: dataset__241.txt, dataset__79.txt
+        654182  ~ also in: dataset__241.txt
+        495567  ~ also in: dataset__241.txt
+        3992937  ~ also in: dataset__79.txt
+        647747  ~ also in: dataset__241.txt
+        898638  ~ also in: dataset__241.txt, dataset__347.txt
+        1701662  ~ also in: dataset__241.txt, dataset__79.txt
+        568272  ~ also in: dataset__241.txt
+        1121134  ~ also in: dataset__103.txt
+        982278  ~ also in: dataset__241.txt, dataset__347.txt
+        4301204  ~ also in: dataset__79.txt
+        5728602  ~ also in: dataset__79.txt
+        854643  ~ also in: dataset__79.txt
+        766357  ~ also in: dataset__79.txt
+        3168177  ~ also in: dataset__103.txt
+        568364  ~ also in: dataset__241.txt
+        5081010  ~ also in: dataset__79.txt
+        1019161  ~ also in: dataset__103.txt
+        3255594  ~ also in: dataset__103.txt
+        3586682  ~ also in: dataset__79.txt
+        5981342  ~ also in: dataset__79.txt
+        101349  ~ also in: dataset__79.txt
+        360846  ~ also in: dataset__258.txt
+        535000  ~ also in: dataset__303.txt, dataset__347.txt
+        110000  ~ also in: dataset__133.txt, dataset__198.txt, dataset__324.txt
+        647794  ~ also in: dataset__241.txt
+        207508  ~ also in: dataset__79.txt
+        569065  ~ also in: dataset__241.txt
+        1988405  ~ also in: dataset__241.txt, dataset__79.txt
+        276458  ~ also in: dataset__241.txt, dataset__264.txt, dataset__3.txt
+        3138294  ~ also in: dataset__79.txt
+        704931  ~ also in: dataset__241.txt
+        5087117  ~ also in: dataset__79.txt
+        569157  ~ also in: dataset__241.txt
+        100000  ~ also in: dataset__125.txt, dataset__149.txt, dataset__162.txt
+        2820325  ~ also in: dataset__79.txt
+  [10] dataset__274.txt
+        14140441  ~ also in: dataset__150.txt, dataset__248.txt, dataset__456.txt
+        2501493  ~ also in: dataset__150.txt, dataset__248.txt, dataset__456.txt
+        1454050  ~ also in: dataset__150.txt, dataset__248.txt, dataset__353.txt
+        276458  ~ also in: dataset__241.txt, dataset__264.txt, dataset__3.txt
+        100000  ~ also in: dataset__125.txt, dataset__149.txt, dataset__162.txt
+        25798422  ~ also in: dataset__307.txt, dataset__389.txt, dataset__71.txt
+        128798  ~ also in: dataset__71.txt
+        129874  ~ also in: dataset__347.txt, dataset__405.txt, dataset__71.txt
+        142315  ~ also in: dataset__347.txt, dataset__71.txt
+        121702  ~ also in: dataset__71.txt
+  [ 7] dataset__44.txt
+        1368165  ~ also in: dataset__3.txt
+        299772  ~ also in: dataset__3.txt
+        133495  ~ also in: dataset__241.txt
+        898638  ~ also in: dataset__241.txt, dataset__347.txt
+        982278  ~ also in: dataset__241.txt, dataset__347.txt
+        580809  ~ also in: dataset__396.txt
+        765143  ~ also in: dataset__241.txt, dataset__3.txt
+  [ 6] dataset__125.txt
+        344096  ~ also in: dataset__6.txt
+        829701  ~ also in: dataset__6.txt
+        485603  ~ also in: dataset__6.txt
+        349846  ~ also in: dataset__6.txt
+        135758  ~ also in: dataset__6.txt
+        675247  ~ also in: dataset__6.txt
+  [ 6] dataset__171.txt
+        51472869  ~ also in: dataset__169.txt, dataset__97.txt
+        928080  ~ also in: dataset__61.txt
+        75501922  ~ also in: dataset__169.txt, dataset__61.txt, dataset__97.txt
+        42067329  ~ also in: dataset__169.txt, dataset__61.txt, dataset__97.txt
+        117569251  ~ also in: dataset__169.txt, dataset__214.txt, dataset__326.txt
+        586918175  ~ also in: dataset__61.txt
+  [ 6] dataset__447.txt
+        419020  ~ also in: dataset__396.txt, dataset__44.txt
+        1782984  ~ also in: dataset__396.txt
+        501069  ~ also in: dataset__396.txt
+        517918  ~ also in: dataset__396.txt
+        1608862  ~ also in: dataset__396.txt
+        580809  ~ also in: dataset__396.txt
+  [ 5] dataset__55.txt
+        464969  ~ also in: dataset__347.txt
+        142315  ~ also in: dataset__347.txt, dataset__71.txt
+        121702  ~ also in: dataset__71.txt
+        515250  ~ also in: dataset__329.txt
+        580296  ~ also in: dataset__264.txt
+  [ 4] dataset__189.txt
+        11632709  ~ also in: dataset__107.txt, dataset__172.txt, dataset__243.txt
+        610020  ~ also in: dataset__291.txt, dataset__354.txt
+        10500278  ~ also in: dataset__102.txt, dataset__107.txt, dataset__129.txt
+        499604  ~ also in: dataset__141.txt, dataset__179.txt, dataset__196.txt
+  [ 4] dataset__198.txt
+        510000  ~ also in: dataset__303.txt, dataset__347.txt
+        610000  ~ also in: dataset__303.txt
+        535000  ~ also in: dataset__303.txt, dataset__347.txt
+        100000  ~ also in: dataset__125.txt, dataset__149.txt, dataset__162.txt
+  [ 4] dataset__452.txt
+        510000  ~ also in: dataset__303.txt, dataset__347.txt
+        610000  ~ also in: dataset__303.txt
+        535000  ~ also in: dataset__303.txt, dataset__347.txt
+        100000  ~ also in: dataset__125.txt, dataset__149.txt, dataset__162.txt
+  [ 3] dataset__77.txt
+        14140441  ~ also in: dataset__150.txt, dataset__248.txt, dataset__456.txt
+        1454050  ~ also in: dataset__150.txt, dataset__248.txt, dataset__353.txt
+        2501493  ~ also in: dataset__150.txt, dataset__248.txt, dataset__456.txt
+  [ 3] dataset__203.txt
+        276458  ~ also in: dataset__241.txt, dataset__264.txt, dataset__3.txt
+        100000  ~ also in: dataset__125.txt, dataset__149.txt, dataset__162.txt
+        25798422  ~ also in: dataset__307.txt, dataset__389.txt, dataset__71.txt
+  [ 2] dataset__99.txt
+        1122449  ~ also in: dataset__153.txt, dataset__450.txt
+        1336899  ~ also in: dataset__153.txt, dataset__450.txt
+  [ 2] dataset__103.txt
+        654135  ~ also in: dataset__241.txt
+        569157  ~ also in: dataset__241.txt
+  [ 2] dataset__116.txt
+        1336899  ~ also in: dataset__153.txt, dataset__450.txt
+        577897  ~ also in: dataset__153.txt
+  [ 2] dataset__136.txt
+        654182  ~ also in: dataset__241.txt
+        569065  ~ also in: dataset__241.txt
+  [ 2] dataset__300.txt
+        100000  ~ also in: dataset__125.txt, dataset__149.txt, dataset__162.txt
+        150000  ~ also in: dataset__433.txt, dataset__71.txt
+  [ 2] dataset__336.txt
+        122024  ~ also in: dataset__333.txt
+        122025  ~ also in: dataset__266.txt, dataset__317.txt
+  [ 1] dataset__80.txt
+        610000  ~ also in: dataset__303.txt
+  [ 1] dataset__151.txt
+        2025100  ~ also in: dataset__73.txt
+  [ 1] dataset__182.txt
+        1855890  ~ also in: dataset__193.txt, dataset__417.txt
+  [ 1] dataset__215.txt
+        150517  ~ also in: dataset__116.txt
+  [ 1] dataset__269.txt
+        20252024  ~ also in: dataset__315.txt, dataset__390.txt, dataset__80.txt
+  [ 1] dataset__270.txt
+        475000  ~ also in: dataset__154.txt, dataset__157.txt, dataset__20.txt
+  [ 1] dataset__299.txt
+        070614970  ~ also in: dataset__429.txt
+  [ 1] dataset__349.txt
+        122024  ~ also in: dataset__333.txt
+  [ 1] dataset__360.txt
+        20252024  ~ also in: dataset__315.txt, dataset__390.txt, dataset__80.txt
+  [ 1] dataset__365.txt
+        165839  ~ also in: dataset__187.txt
+  [ 1] dataset__442.txt
+        20222023  ~ also in: dataset__357.txt

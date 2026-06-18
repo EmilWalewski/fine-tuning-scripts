@@ -1,0 +1,92 @@
+DOKUMENT SEKCJA: **23. Kapitał własny** | **24. Podział zysku i dywidendy** | **25. Zysk na akcję** | **26.1. Bieżący podatek dochodowy** | **Pozostałe kapitały** | **Struktura akcjonariatu Jednostki dominującej**
+
+## **23. Kapitał własny**
+**Struktura kapitału podstawowego na dzień 30 września 2025 roku**  
+| **SERIA/EMISJA** | **LICZBA AKCJI** | **WARTOŚĆ NOMINALNA AKCJI** **(W PLN)** | **WARTOŚĆ NOMINALNA EMISJI** **(w tys. PLN)** |
+| --- | --- | --- | --- |
+| Seria A | 117 383 635 | 0,05 | 5 869 |
+| Seria B | 185 616 | 0,05 | 9 |
+**Struktura kapitału podstawowego na dzień 31 grudnia 2024 roku**  
+| **SERIA/EMISJA** | **LICZBA AKCJI** | **WARTOŚĆ NOMINALNA AKCJI** **(W PLN)** | **WARTOŚĆ NOMINALNA EMISJI** **(w tys. PLN)** |
+| --- | --- | --- | --- |
+| Seria A | 117 383 635 | 0,05 | 5 869 |
+| Seria B | 185 616 | 0,05 | 9 |
+Wszystkie akcje Jednostki dominującej są akcjami o równej wartości nominalnej, w pełni opłaconymi, dającymi równe prawa głosu oraz uczestnictwo w zysku na tych samych zasadach. Nie występują uprzywilejowania związane z jakąkolwiek serią akcji. Akcje zostały oznaczone jako akcje zwykłe imienne serii A i B.
+
+## **Struktura akcjonariatu Jednostki dominującej**
+Zgodnie z najlepszą wiedzą Jednostki dominującej struktura akcjonariatu Jednostki dominującej na dzień 30 września 2025 roku była następująca:  
+| **ILOŚĆ AKCJI** | **WARTOŚĆ NOMINALNA AKCJI** **(w tys. PLN)** | **UDZIAŁ** |  |
+| --- | --- | --- | --- |
+| XX ZW Investment Group S.A. | 42 067 329 | 2 103 | 35,78% |
+| Pozostali akcjonariusze | 75 501 922 | 3 775 | 64,22% |
+| **Razem** | **117 569 251** | **5 878** | **100,00%** |
+37  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Zgodnie z najlepszą wiedzą Jednostki dominującej struktura akcjonariatu Jednostki dominującej na dzień 31 grudnia 2024 roku była następująca:  
+| **ILOŚĆ AKCJI** | **WARTOŚĆ NOMINALNA AKCJI** **(w tys. PLN)** | **UDZIAŁ** |  |
+| --- | --- | --- | --- |
+| XX ZW Investment Group S.A. | 51 472 869 | 2 573 | 43,78% |
+| Pozostali akcjonariusze | 66 096 382 | 3 305 | 56,22% |
+| **Razem** | **117 569 251** | **5 878** | **100,00%** |
+
+## **Pozostałe kapitały**
+Na pozostałe kapitały składają się:  
+- kapitał zapasowy w łącznej kwocie 71 608 tys. PLN, tworzony statutowo z corocznych odpisów z zysku z przeznaczeniem na pokrycie strat jakie mogą wyniknąć w związku z działalnością Jednostki dominującej, do wysokości co najmniej jednej trzeciej kapitału zakładowego w wysokości 1 957 tys. PLN oraz tworzony z nadwyżki ceny emisyjnej nad wartością nominalną akcji w kwocie 69 651 tys. PLN powstałej w wyniku podwyższenia kapitału w 2012 roku o wartości nominalnej 348 tys. PLN za cenę 69 999 tys. PLN,  
+- kapitał rezerwowy w łącznej kwocie 1 273 625 tys. PLN, tworzony z corocznych odpisów z zysku uchwalonych przez Walne Zgromadzenie z przeznaczeniem na finansowanie dalszej działalności Grupy lub wypłatę dywidendy powiększony o koszty programu motywacyjnego dla osób, których działalność zawodowa ma istotny wpływ na profil ryzyka Jednostki dominującej,  
+- różnice kursowe z przeliczenia, obejmujące różnice kursowe z przeliczenia sald w walutach obcych oddziałów oraz spółek zależnych działających za granicą w kwocie (11 443) tys. PLN. Szczegółowa prezentacja różnic kursowych z przeliczenia zaprezentowana została w poniższej tabeli.  
+| **(w tys. PLN)** | **30.09.2025** | **31.12.2024** |
+| --- | --- | --- |
+| XTB Spółka Akcyjna oddział w Niemczech | 238 | 236 |
+| XTB Spółka Akcyjna oddział w Rumunii | 127 | 175 |
+| XTB Services Limited | 15 | (4) |
+| XTB S.C. Limited | (136) | 43 |
+| XTB Limited CY | (65) | (61) |
+| PT XTB Indonesia Berjangka | (489) | 114 |
+| XTB Spółka Akcyjna oddział w Portugalii | (72) | (75) |
+| XTB Spółka Akcyjna oddział we Francji | (79) | (82) |
+| XTB Spółka Akcyjna oddział na Słowacji | (88) | (90) |
+| XTB Spółka Akcyjna | (462) | 781 |
+| XTB Limited UK | (883) | (25) |
+| XTB Spółka Akcyjna oddział w Hiszpanii | (214) | (214) |
+| XTB Spółka Akcyjna oddział w Czechach | (83) | (232) |
+| XTB Africa (PTY) Ltd. | (312) | (262) |
+| XTB Financial Consultation L.L.C | (569) | 183 |
+| XTB International | (741) | 373 |
+| XTB Agente de Valores SpA | (1 801) | (1 254) |
+| XTB MENA Limited | (2 229) | (53) |
+| Tasfiye Halinde XTB Yönetim Danışmanlığı A.Ş. | (3 600) | (3 627) |
+| **Różnice kursowe z przeliczenia** | **(11 443)** | **(4 074)** |
+38  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **24. Podział zysku i dywidendy**
+Decyzją Walnego Zgromadzenia Akcjonariuszy Spółki, zysk netto za rok 2024 w kwocie 855 202 tys. PLN został w części przeznaczony na wypłatę dywidendy w kwocie 640 753 tys. PLN, pozostała część zysku została przekazana na kapitał rezerwowy.  
+Wartość dywidendy na akcję wypłaconej za 2024 rok wyniosła 5,45 PLN. Dywidenda wypłacona została w dniu 25 czerwca 2025 roku.  
+Decyzją Walnego Zgromadzenia Akcjonariuszy Spółki, zysk netto za rok 2023 w kwocie 787 136 tys. PLN został w części przeznaczony na wypłatę dywidendy w kwocie 590 198 tys. PLN, pozostała część zysku została przekazana na kapitał rezerwowy.  
+Wartość dywidendy na akcję wypłaconej za 2023 rok wyniosła 5,02 PLN. Dywidenda wypłacona została w dniu 20 czerwca 2024 roku.
+
+## **25. Zysk na akcję**
+Zysk podstawowy przypadający na jedną akcję liczony jest według formuły zysk netto za okres przypadający akcjonariuszom Jednostki dominującej podzielony przez średnią ważoną liczbę wyemitowanych akcji zwykłych występujących w danym okresie. Przy wyliczeniu zarówno podstawowego, jak i rozwodnionego zysku na akcję Grupa stosuje w liczniku kwotę zysku netto przypadającego akcjonariuszom Jednostki dominującej, tzn. w okresach objętych skonsolidowanym sprawozdaniem finansowym występuje efekt rozwadniający wpływający na kwotę zysku (straty). Kalkulację podstawowego oraz rozwodnionego zysku na akcję wraz z uzgodnieniem średniej ważonej rozwodnionej liczby akcji przedstawiono poniżej.  
+| **(w tys. PLN)** | **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** |  |  |  |
+| --- | --- | --- | --- | --- |
+| **30.09.2025** | **30.09.2025** | **30.09.2024** | **30.09.2024** |  |
+| Zysk z działalności kontynuowanej przypadający akcjonariuszom jednostki dominującej | 53 227 | 463 292 | 203 826 | 666 872 |
+| Średnia ważona akcji zwykłych | 117 569 251 | 117 569 251 | 117 569 251 | 117 569 251 |
+| Średnia ważona akcji uwzględniająca efekt rozwodnienia | 117 569 251 | 117 569 251 | 117 569 251 | 117 569 251 |
+| Podstawowy zysk netto na akcję z działalności kontynuowanej za okres przypadający akcjonariuszom jednostki dominującej w złotych | 0,45 | 3,94 | 1,73 | 5,67 |
+| Rozwodniony zysk netto na akcję z działalności kontynuowanej za okres przypadający akcjonariuszom jednostki dominującej w złotych | 0,45 | 3,94 | 1,73 | 5,67 |
+
+## **26.1. Bieżący podatek dochodowy**
+**Podatek dochodowy ujęty w zysku lub stracie bieżącego okresu**  
+| **26.1. Bieżący podatek dochodowy** **Podatek dochodowy ujęty w zysku lub stracie** | **bieżącego okresu** |  |  |  |
+| --- | --- | --- | --- | --- |
+| **(w tys. PLN)** | **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **3 MIESIĘCY** **ZAKOŃCZONY** **OKRES** **9 MIESIĘCY** **ZAKOŃCZONY** |  |  |  |
+| **30.09.2025** **Podatek dochodowy - część bieżąca** | **30.09.2025** | **30.09.2024** | **30.09.2024** |  |
+| Podatek dochodowy za okres sprawozdawczy **Podatek dochodowy - część odroczona** | 443 | (68 670) | (37 477) | (140 328) |
+| Powstanie/odwrócenie różnic przejściowych | (8 798) | (24 976) | (10 609) | (9 296) |
+| **Podatek dochodowy ujęty w zysku lub stracie** | **(8 355)** | **(93 646)** | **(48 086)** | **(149 624)** |
+39  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.

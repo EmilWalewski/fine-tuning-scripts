@@ -1,0 +1,91 @@
+DOKUMENT SEKCJA: **Udzielone pożyczki** | Udzielone pożyczki wyceniane według wartości godziwej | _Analiza wrażliwości – weryfikacja prognozy_
+
+## **Udzielone pożyczki**
+| _w tysiącach złotych_ | **30.06.2025** | **niebadane** | **31.12.2024** | **30.06.2024** | **niebadane** |
+| --- | --- | --- | --- | --- | --- |
+| Udzielone pożyczki wyceniane według zamortyzowanego kosztu | 558 770 | 499 604 | 464 514 |  |  |
+| Udzielone pożyczki wyceniane według wartości godziwej | 2 643 | 3 301 | 4 038 |  |  |
+| 561 413 | 502 905 | 468 552 |  |  |  |
+Udzielone pożyczki wyceniane według zamortyzowanego kosztu  
+Struktura udzielonych pożyczek wycenianych według zamortyzowanego kosztu na koniec okresów sprawozdawczych przedstawia się następująco:  
+| **Klasyfikacja MSSF 9** **Wartości brutto udzielonych pożyczek wycenianych wg** **zamortyzowanego kosztu** | **30.06.2025** | **niebadane** | **31.12.2024** | **30.06.2024** | **niebadane** |
+| --- | --- | --- | --- | --- | --- |
+| Koszyk 1 | 365 861 | 336 826 | 312 240 |  |  |
+| Koszyk 2 | 119 498 | 114 868 | 101 475 |  |  |
+| Koszyk 3 | 438 423 | 393 345 | 346 090 |  |  |
+| POCI | 1 552 | 1 499 | 1 849 |  |  |
+| 925 334 **Odpisy na oczekiwane straty kredytowe** | 846 538 | 761 654 |  |  |  |
+| Koszyk 1 | 22 045 | 26 869 | 18 323 |  |  |
+| Koszyk 2 | 21 162 | 25 459 | 21 404 |  |  |
+| Koszyk 3 | 323 357 | 294 606 | 257 413 |  |  |
+| 366 564 **Wartość netto** | 346 934 | 297 140 |  |  |  |
+| Koszyk 1 | 343 816 | 309 957 | 293 917 |  |  |
+| Koszyk 2 | 98 336 | 89 409 | 80 071 |  |  |
+| Koszyk 3 | 115 066 | 98 739 | 88 677 |  |  |
+| POCI | 1 552 | 1 499 | 1 849 |  |  |
+| 558 770 | 499 604 | 464 514 |  |  |  |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+Zmiany wartości księgowej netto udzielonych pożyczek wycenianych według zamortyzowanego kosztu kształtowały się następująco:  
+Zmiany odpisów aktualizujących wartość udzielonych pożyczek wycenianych według zamortyzowanego kosztu kształtowały się następująco:  
+| _w tysiącach złotych_ | **Koszyk 1** **Koszyk 2** **Koszyk 3** | **Razem** | **Koszyk 1** **Koszyk 2** **Koszyk 3** | **Razem** |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wartość odpisu na dzień 1 stycznia | 26 869 | 25 459 | 294 606 | 346 934 | 17 202 | 24 182 | 224 766 | 266 150 |
+| Przesunięcie koszyk 1 do koszyk 2 | (15 379) | 15 379 | - | - | (4 093) | 4 093 | - | - |
+| Przesunięcie koszyk 1 do koszyk 3 | (12 362) | - | 12 362 | - | (18 635) | - | 18 635 | - |
+| Przesunięcie koszyk 2 do koszyk 1 | 563 | (563) | - | - | 552 | (552) | - | - |
+| Przesunięcie koszyk 2 do koszyk 3 | - | (15 150) | 15 150 | - | - | (25 717) | 25 717 | - |
+| Przesunięcie koszyk 3 do koszyk 1 | - - - | - | - - - | - |  |  |  |  |
+| Przesunięcie koszyk 3 do koszyk 2 | - - - | - | - - - | - |  |  |  |  |
+| Odpis na oczekiwane straty kredytowe ujęty w okresie sprawozdawczym oraz zmiany z tyt. Udzielenia i spłaty | 22 354 | (3 963) | 1 239 | 19 630 | 31 843 | 23 453 | 25 488 | 80 784 |
+| Wartość odpisu na koniec okresu | **22 045** | **21 162** | **323 357** | **366 564** | **26 869** | **25 459** | **294 606** | **346 934** |
+Wysokość odpisu ustalana jest w podziale na koszyki rozpoznawania strat oczekiwanych udzielonych pożyczek w oparciu o szacunki uwzględniające ryzyko poniesienia oczekiwanej straty, tworzone z uwzględnieniem stopnia ich przeterminowania. Wartość odpisu na koniec okresu sprawozdawczego pokrywa 39,6 % wartości brutto udzielonych pożyczek wycenianych według zamortyzowanego kosztu (na koniec 2024 r.: 41,0%). Łączna kwota niezdyskontowanych oczekiwanych strat kredytowych dla aktywów finansowych dotkniętych utratą wartości ze względu na ryzyko kredytowe wyniosła na dzień 30 czerwca 2025 r. 27 353 tys. zł (27 591 tys. zł na dzień 31.12.2024 r.).  
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+_Wpływ czynników makroekonomicznych na oszacowania oczekiwanych strat kredytowych dla portfela pożyczek Wonga_  
+Oczekiwane straty kredytowe w odniesieniu do udzielonych pożyczek wycenianych według zamortyzowanego kosztu - wyznaczane są przy wykorzystaniu parametrów: PD (prawdopodobieństwa zdarzenia default (ang. default), rozumianego jako stan niewykonania zobowiązania), PPS (prawdopodobieństwa przedpłaty), LGD (straty pod warunkiem default) oraz EAD (ekspozycji na moment default).  
+Parametr LGD uzależniony jest od odzysków realizowanych po wystąpieniu zdarzenia default. Odzyski na portfelu z utratą wartości realizowane są poprzez sprzedaż wierzytelności lub prowadzenie procesu windykacji polubownej, a następnie sądowej. W przypadku procesu windykacji prognozowane odzyski na potrzeby ustalenia parametru LGD bazują na historycznej krzywej wpłat dla podobnych wierzytelności i są okresowo weryfikowane oraz aktualizowane w razie istotnych zmian. Spółka Wonga w I połowie 2025 r. zaktualizowała wykorzystywaną krzywą wpłat, z uwagi na obserwowane w dłuższym horyzoncie czasu wyższe odzyski.  
+Spółka dokonuje analizy wpływu czynników makroekonomicznych na planowane odzyski oraz oczekiwane straty kredytowe dla udzielonych pożyczek wycenianych według zamortyzowanego kosztu. Analizowane zmienne makroekonomiczne to:  
+- bankructwo konsumenckie,  
+- poziom bezrobotnych (zarejestrowanych ogółem, nowo zarejestrowanych, zarejestrowanych po raz kolejny),  
+- stopa bezrobocia rejestrowanego,  
+- nowe oferty pracy w okresie.  
+W przypadku stwierdzenia poprawy dokładności prognozy z wykorzystaniem powyższych zmiennych makroekonomicznych (oprócz stosowanego skoringu behawioralnego) - są one dodawane do modelu szacowania strat kredytowych.  
+_Wpływ czynników makroekonomicznych na oszacowania oczekiwanych strat kredytowych dla portfela pożyczek Novum_  
+W obliczeniach oczekiwanych strat kredytowych uwzględnia się szacunki dotyczące oczekiwanego otoczenia makroekonomicznego. Wpływ czynników makroekonomicznych jest uwzględniany poprzez ujęcie wpływu prognozowanych zmiennych makroekonomicznych na wartości poszczególnych parametrów ryzyka (PD, LGD). Na podstawie danych historycznych weryfikowana jest zależność zmiany wartości tych parametrów lub ich składowych od zmiennych makroekonomicznych.  
+Zakres analizowanych zmiennych makroekonomicznych uwzględnia następujące pozycje:  
+- dynamika indeksu PKB,  
+- zmiana wskaźnika cen (CPI),  
+- zmiana indeksu sprzedaży detalicznej,  
+- dynamika przeciętnych wynagrodzeń w gospodarce narodowej,  
+- stopa bezrobocia.  
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+Na koniec 2024 r. istotnymi statystycznie zmiennymi makroekonomicznymi była dynamika wskaźnika cen CPI oraz zmiana stopy bezrobocia, które skorelowane były z historycznymi wpłatami, będącymi składowymi w szacunkach parametru LGD. Bazowy scenariusz prognozy makroekonomicznej, który został ujęty w szacunkach parametrów LGD opiera się na dostępnych prognozach makroekonomicznych, w szczególności na publikowanych przez Narodowy Bank Polski projekcjach inflacji i PKB.
+
+## _Analiza wrażliwości – weryfikacja prognozy_
+W nocie zaprezentowano wpływ zmiany oczekiwanych odzysków (prognozy) na wartość bilansową netto udzielonych pożyczek wycenianych według zamortyzowanego kosztu jako wpływ tej zmiany na wynik netto.  
+| _w tysiącach złotych_ **Zysk lub strata bieżącego okresu** **Zysk lub strata bieżącego okresu** |
+| **wzrost odzysków** **spadek odzysków** |
+| **o 100 pb** **o 100 pb** |
+| **30 czerwca 2025 r.** |
+| Udzielone pożyczki wyceniane według zamortyzowanego |
+| **31 grudnia 2024 r.** |
+| Udzielone pożyczki wyceniane według zamortyzowanego |
+_Analiza wrażliwości – horyzont czasowy_  
+W nocie zaprezentowano wpływ wydłużenia lub skrócenia prognozy spłat o jeden miesiąc na wartość bilansową netto udzielonych pożyczek wycenianych według zamortyzowanego kosztu jako wpływ tej zmiany na wynik netto.  
+| _w tysiącach złotych_ **Zysk lub strata bieżącego okresu** **Zysk lub strata bieżącego okresu** |
+| **wydłużenie o miesiąc** **skrócenie o miesiąc** |
+| **30 czerwca 2025 r.** |
+| Udzielone pożyczki wyceniane według zamortyzowanego |
+| **31 grudnia 2024 r.** |
+| Udzielone pożyczki wyceniane według zamortyzowanego |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## Udzielone pożyczki wyceniane według wartości godziwej
+Zmiany wartości księgowej udzielonych pożyczek wycenianych według wartości godziwej kształtowały się następująco:
+
+## _Analiza wrażliwości – weryfikacja prognozy_
+W nocie zaprezentowano wpływ zmiany oczekiwanych odzysków (prognozy) na wartość bilansową udzielonych pożyczek wycenianych według wartości godziwej jako wpływ tej zmiany na wynik netto.  
+| _w tysiącach złotych_ | **Zysk lub strata bieżącego okresu** | **Zysk lub strata bieżącego okresu** |
+| --- | --- | --- |
+| **wzrost odzysków** | **spadek odzysków** |  |
+| Udzielone pożyczki wyceniane według wartości godziwej **31 grudnia 2024 r.** | 163 | (163) |
+| Udzielone pożyczki wyceniane według wartości godziwej | 33 | (33) |

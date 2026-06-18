@@ -1,0 +1,61 @@
+DOKUMENT SEKCJA: **1. Informacje ogólne** | ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM | ŚRÓDROCZNY SKRÓCONY SKONSOLIDOWANY RACHUNEK PRZEPŁYWÓW PIENIĘŻNYCH
+
+## ŚRÓDROCZNE SKRÓCONE SKONSOLIDOWANE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM
+| Kapitał zakładowy |  | Kapitał z emisji akcji powyżej wartości nominalnej | Kapitał z emisji akcji powyżej wartości nominalnej | Kapitał z emisji opcji dla kadry kierowniczej | Kapitał z rachunkowości zabezpieczeń | Zyski zatrzymane | Różnice kursowe z przeliczenia jednostek zagranicznych | **Kapitał** **własny** **akcjonariuszy** **jednostki** **dominującej** | **Kapitał** **własny** **akcjonariuszy** **jednostki** **dominującej** | Kapitał własny udziałowców niekontrolujących | **Kapitał** **własny razem** |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Kapitał własny na** **dzień 31.12.2024** |  | **68** |  | **91** | **56** | **0** | **1 761** | **(40)** | **1** | **936** | **1** | **1 937** |
+| Całkowite dochody za okres: |  | 0 |  | 0 | 0 | 0 | 466 | (1) |  | **465** | 1 | **466** |
+| _Zysk netto za okres_ |  | _0_ |  | _0_ | _0_ | _0_ | _466_ | _0_ |  | **_466_** | _1_ | **_467_** |
+| _Inne całkowite dochody_ |  | _0_ |  | _0_ | _0_ | _0_ | _0_ | _(1)_ |  | **_(1)_** | _0_ | **_(1)_** |
+| Wycena opcji menedżerskich |  | 0 |  | 0 | 5 | 0 | 0 | 0 |  | **5** | 0 | **5** |
+| Dywidenda na rzecz akcjonariuszy niekontrolujących |  | 0 |  | 0 | 0 | 0 | 0 | 0 |  | **0** | (1) | **(1)** |
+| Dywidenda na rzecz akcjonariuszy jednostki dominującej |  | 0 |  | 0 | 0 | 0 | (544) | 0 | **(544)** |  | 0 | **(544)** |
+| Emisja akcji |  | 0 |  | 33 | 0 | 0 | 0 | 0 |  | **33** | 0 | **33** |
+| **Kapitał własny na** **dzień 30.09.2025** |  | **68** |  | **124** | **61** | **0** | **1 683** | **(41)** | **1** | **895** | **1** | **1 896** |
+_(w milionach PLN)_  
+9  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+| Kapitał zakładowy |  | Kapitał z emisji akcji powyżej wartości nominalnej | Kapitał z emisji opcji dla kadry kierowniczej | Kapitał z rachunkowości zabezpieczeń | Zyski zatrzymane | Różnice kursowe z przeliczenia jednostek zagranicznych | **Kapitał** **własny** **akcjonariuszy** **jednostki** **dominującej** | **Kapitał** **własny** **akcjonariuszy** **jednostki** **dominującej** | Kapitał własny udziałowców niekontrolujących | **Kapitał** **własny razem** |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Kapitał własny na** **dzień 31.12.2023** |  | **68** | **60** | **53** | **6** | **1 741** | **(38)** | **1** | **890** | **0** | **1 890** |
+| Całkowite dochody za okres: |  | 0 | 0 | 0 | (5) | 464 | (3) |  | **456** | 1 | **457** |
+| _Zysk netto za okres_ |  | _0_ | _0_ | _0_ | _0_ | _464_ | _0_ |  | **_464_** | _1_ | **_465_** |
+| _Inne całkowite dochody_ |  | _0_ | _0_ | _0_ | _(5)_ | _0_ | _(3)_ |  | **_(8)_** | _0_ | **_(8)_** |
+| Wycena opcji menedżerskich |  | 0 | 0 | 12 | 0 | 0 | 0 |  | **12** | 0 | **12** |
+| Dywidenda na rzecz akcjonariuszy jednostki dominującej |  | 0 | 0 | 0 | 0 | (539) | 0 | **(539)** |  | 0 | **(539)** |
+| Emisja akcji |  | 0 | 30 | 0 | 0 | 0 | 0 |  | **30** | 0 | **30** |
+| **Kapitał własny na** **dzień 30.09.2024** |  | **68** | **90** | **65** | **1** | **1 666** | **(41)** | **1** | **849** | **1** | **1 850** |
+_(w milionach PLN)_  
+10  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_
+
+## ŚRÓDROCZNY SKRÓCONY SKONSOLIDOWANY RACHUNEK PRZEPŁYWÓW PIENIĘŻNYCH
+_(w milionach PLN)_  
+11  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_
+
+## **1. Informacje ogólne**
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe (Sprawozdanie) Grupy Kęty S.A. obejmuje okres 9 miesięcy 2025 roku zakończony dnia 30.09.2025 roku oraz zawiera dane porównawcze za okres 9 miesięcy 2024 roku zakończony dnia 30.09.2024 roku oraz na dzień 31.12.2024 roku. Sprawozdanie to zawiera również dane za okres 3 kwartału 2025 roku oraz 3 kwartału 2024 roku.  
+Powyższe dane nie były przedmiotem badania przez biegłego rewidenta.  
+Grupa Kapitałowa Grupa Kęty S.A. („Grupa”, „Grupa Kapitałowa”) składa się z jednostki dominującej, którą jest Grupa Kęty S.A. („jednostka dominująca”, „Spółka”) i jej spółek zależnych (nota 2).  
+Grupa Kęty S.A. jest spółką zarejestrowaną w Polsce, **z siedzibą** w **Kętach przy ul. Kościuszki 111** , wpisaną do Krajowego Rejestru Sądowego (KRS) pod numerem **KRS 0000121845** , posługującą się numerem identyfikacji podatkowej **NIP 549-000-14-68** oraz posiada numer statystyczny **REGON: 070614970.** Grupa Kęty S.A. zarejestrowana jest również w bazie danych o produktach i opakowaniach oraz o gospodarce odpadami pod numerem **BDO 000007710.**  
+Akcje Grupy Kęty S.A. notowane są na Giełdzie Papierów Wartościowych w Warszawie i oznaczone kodem ISIN PLKETY000011.  
+Czas trwania jednostki dominującej oraz jednostek wchodzących w skład Grupy Kapitałowej jest nieokreślony.  
+**Podstawowy zakres działalności Grupy obejmuje:**  
+- produkcję, handel oraz usługi w zakresie przetwórstwa aluminium i jego stopów – Segment Wyrobów Wyciskanych (SWW),  
+- produkcję, handel oraz usługi w zakresie aluminiowych systemów fasadowych i okienno-drzwiowych, systemów specjalnych (drzwi i ścianki przeciwpożarowe, przegrody dymoszczelne), systemów rolet oraz bram zwijanych dla budownictwa, a także (po zakupie SELT Sp. z o.o.) systemów osłon przeciwsłonecznych – Segment Systemów Aluminiowych (SSA),  
+- produkcję i sprzedaż materiałów na opakowania i opakowań z tworzyw sztucznych – Segment Opakowań Giętkich (SOG).  
+Grupa KĘTY to koncern międzynarodowy, zatrudniający na koniec 2024 roku ponad 6 tys. pracowników, posiadający 9 spółek krajowych i 14 spółek zagranicznych, sprzedający produkty ponad 4,5 tys. odbiorcom na ponad 60 rynkach. Wszystkie spółki Grupy objęte są sprawozdaniem skonsolidowanym. Szczegółowe informacje na temat działalności Grupy przedstawione zostały w Sprawozdaniu Zarządu Grupy Kęty S.A. z działalności Spółki i grupy kapitałowej Grupy Kęty S.A. za 2024 rok (nota 3.1).  
+- W skład Zarządu jednostki dominującej na dzień zatwierdzenia niniejszego sprawozdania do publikacji wchodzili:  
+- Pan Roman Przybylski – Prezes Zarządu/Dyrektor Generalny.  
+- Pan Rafał Warpechowski – Członek Zarządu/Dyrektor Finansowy.  
+- Pan Tomasz Grela – Członek Zarządu/Dyrektor Operacyjny.  
+Zarząd w powyższym składzie został powołany na 3 letnią kadencję w dniu 29 maja bieżącego roku. Do dnia 28 maja 2025 roku Zarząd jednostki dominującej działał w poniższym składzie:  
+- Pan Dariusz Mańko – Prezes Zarządu/Dyrektor Generalny.  
+- Pan Roman Przybylski – Wiceprezes Zarządu/Dyrektor ds. Inwestycji i Rozwoju.  
+- Pan Rafał Warpechowski – Członek Zarządu/Dyrektor Finansowy.  
+- Pan Piotr Wysocki – Członek Zarządu/Zastępca Dyrektora Generalnego.  
+- Pan Tomasz Grela – Członek Zarządu.  
+_(w milionach PLN)_  
+12  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_

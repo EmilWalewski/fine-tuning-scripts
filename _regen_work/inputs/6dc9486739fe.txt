@@ -1,0 +1,89 @@
+DOKUMENT SEKCJA: **13. Wartość godziwa** | **Koszty działalności** | **Koszty finansowe** | **Przychody z działalności** | **Wyniki po czterech kwartałach 2025 roku** | _**Hierarchia instrumentów finansowych**_ | _**Stopy procentowe wykorzystywane do szacowania wartości godziwej**_ | _Hierarchia instrumentów finansowych – Poziom 1_ | _Hierarchia instrumentów finansowych – Poziom 2_ | _Hierarchia instrumentów finansowych – Poziom 3_
+
+## **13. Wartość godziwa**
+Poniższa tabela zawiera porównanie wartości godziwych aktywów i zobowiązań finansowych z wartościami ujętymi w sprawozdaniu z sytuacji finansowej:  
+| _w tysiącach złotych_ **Wartość** **księgowa** **Wartość** **godziwa** **Wartość** **księgowa** **Wartość** **godziwa** **Aktywa i zobowiązania finansowe wyceniane w wartości godziwej** | **31.12.2025** | **niebadane** | **31.12.2024** | _w tysiącach złotych_ | **31.12.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Instrumenty zabezpieczające (IRS) | (23 145) | (23 145) | (34 497) | (34 497) |  |  |  |
+| Instrumenty zabezpieczające (CIRS) | 137 354 | 137 354 | 112 081 | 112 081 |  |  |  |
+| Instrumenty pochodne (FORWARD) | (58) | (58) | (105) | (105) |  |  |  |
+| Udzielonepożyczki | 2 295 | 2 295 | 3 301 | 3 301 |  |  |  |
+| 116 446 **Aktywa i zobowiązania finansowe niewyceniane w wartości godziwej** | 116 446 | 80 780 | 80 780 |  |  |  |  |
+| Inwestycje w pakiety wierzytelności | 11 632 709 | 11 459 585 | 10 500 278 | 10 162 194 |  |  |  |
+| Udzielone pożyczki | 610 020 | 627 459 | 499 604 | 506 532 |  |  |  |
+| Należności z tytułu dostaw i usług oraz pozostałe z wyłączeniem należności z tytułu podatków | 42 061 | 42 061 | 53 392 | 53 392 |  |  |  |
+| Zobowiązania z tytułu dostaw i usług oraz inne zobowiązania | (199 554) | (199 554) | (216 933) | (216 933) |  |  |  |
+| Zabezpieczone kredyty i pożyczki | (3 662 722) | (3 683 740) | (3 458 610) | (3 477 433) |  |  |  |
+| Zobowiązania z tytułu dłużnych papierów wartościowych(niezabezpieczone) | (3 460 890) | (3 669 009) | (3 109 702) | (3 289 856) |  |  |  |
+| 4 961 624 | 4 576 802 | 4 268 029 | 3 737 896 |  |  |  |  |
+
+## _**Stopy procentowe wykorzystywane do szacowania wartości godziwej**_
+| **niebadane** Inwestycje w pakiety wierzytelności* | 2,58% - 85,85% | 2,19% - 87,14% |
+| --- | --- | --- |
+| Udzielone pożyczki | 21,22% - 47,99% | 18,38% - 47,54% |
+| Zabezpieczone kredyty i pożyczki | 4,24% - 6,69% | 5,15% - 8,77% |
+_*dotyczy 99,7% wartości pakietów wierzytelności_
+
+## _**Hierarchia instrumentów finansowych**_
+Poniższa tabela zestawia analizę instrumentów finansowych wycenianych w sprawozdaniu z sytuacji finansowej w wartości godziwej, w zależności od wybranej metody wyceny. W zależności od poziomu wyceny zastosowano następujące dane wejściowe do modeli wyceny:  
+- Poziom 1: ceny kwotowane (nieskorygowane) na aktywnych rynkach dla takich samych aktywów i zobowiązań,  
+- Poziom 2: dane wejściowe, inne niż ceny kwotowane użyte w Poziomie 1, które są obserwowalne dla danych aktywów i zobowiązań, zarówno bezpośrednio lub pośrednio,  
+- Poziom 3: dane wejściowe nie bazujące na obserwowalnych cenach rynkowych (dane wejściowe nieobserwowalne).  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## _Hierarchia instrumentów finansowych – Poziom 1_
+| _w tysiącach złotych_ **Poziom 1** **Poziom 1** |
+| **Wartość księgowa** **Wartośćgodziwa** |
+| **Stan na dzień 31 grudnia 2024 r.** |
+| Zobowiązania z tytułu dłużnych papierów wartościowych |
+| **Stan na dzień 31 grudnia 2025 r., niebadane** |
+| Zobowiązania z tytułu dłużnych papierów wartościowych |
+Wartość godziwa zobowiązań finansowych z tytułu dłużnych papierów wartościowych ustalana jest w oparciu o ich notowania na rynku Catalyst na ostatni dzień okresu sprawozdawczego.
+
+## _Hierarchia instrumentów finansowych – Poziom 2_
+| _Hierarchia instrumentów finansowych – Poziom 2_ _w tysiącach złotych_ | **Poziom 2** |  |
+| --- | --- | --- |
+| **Wartość księgowa** **Stan na dzień 31 grudnia 2024 r.** | **Wartośćgodziwa** |  |
+| Instrumenty zabezpieczające (IRS) | (34 497) | (34 497) |
+| Instrumenty zabezpieczające (CIRS) | 112 081 | 112 081 |
+| Instrumenty pochodne (FORWARD) **Stan na dzień 31 grudnia 2025 r., niebadane** | (105) | (105) |
+| Instrumenty zabezpieczające (IRS) | (23 145) | (23 145) |
+| Instrumenty zabezpieczające (CIRS) | 137 354 | 137 354 |
+| Instrumenty pochodne (FORWARD) | (58) | (58) |
+Wartość godziwa instrumentów pochodnych oraz zabezpieczających ustalana jest w oparciu o przyszłe przepływy z tytułu zawartych transakcji kalkulowanych na podstawie różnicy między prognozowanym WIBOR 3M a WIBOR 3M z dnia zawarcia transakcji. Do wyznaczenia wartości godziwej Grupa przyjmuje prognozę WIBOR 3M przekazaną przez firmę zewnętrzną.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## _Hierarchia instrumentów finansowych – Poziom 3_
+| _w tysiącach złotych_ | **Poziom 3** | **Poziom 3** |
+| --- | --- | --- |
+| **Wartość księgowa** **Stan na dzień 31 grudnia 2024 r.** | **Wartośćgodziwa** |  |
+| Inwestycje w pakiety wierzytelności | 10 500 278 | 10 162 194 |
+| Udzielone pożyczki | 502 905 | 509 833 |
+| Należności z tytułu dostaw i usług oraz pozostałe z wyłączeniem należności z tytułu podatków | 53 392 | 53 392 |
+| Zabezpieczone kredyty i pożyczki | (3 458 610) | (3 477 433) |
+| Zobowiązania z tytułu dostaw i usług oraz inne zobowiązania **Stan na dzień 31 grudnia 2025 r., niebadane** | (216 933) | (216 933) |
+| Inwestycje w pakiety wierzytelności | 11 632 709 | 11 459 585 |
+| Udzielone pożyczki | 612 315 | 629 754 |
+| Należności z tytułu dostaw i usług oraz pozostałe z wyłączeniem należności z tytułu podatków | 42 061 | 42 061 |
+| Zabezpieczone kredyty i pożyczki | (3 662 722) | (3 683 740) |
+| Zobowiązania z tytułu dostaw i usług oraz inne zobowiązania | (199 554) | (199 554) |
+Wartość godziwa inwestycji w pakiety wierzytelności wyliczana jest w oparciu o przewidywane przyszłe przepływy pieniężne związane z pakietami wierzytelności, zdyskontowane stopą odzwierciedlającą ryzyko kredytowe związane z danym pakietem. Stopa użyta do dyskontowania wyliczana jest jako wewnętrzna stopa zwrotu z inwestycji na dzień nabycia pakietu i jest weryfikowana tak, aby uwzględniała aktualną stopę wolną od ryzyka oraz aktualną premię za ryzyko związaną z ryzykiem kredytowym dla danego pakietu.  
+Różnica pomiędzy wartością godziwą a wartością księgową wyliczaną według metody zamortyzowanego kosztu wynika z innej metodologii wyliczania obu tych wartości. Na wartość księgową mają wpływ prognoza oczekiwanych spłat z pakietów wierzytelności oraz kurs walutowy na dzień bilansowy, natomiast na wartość godziwą ma dodatkowo wpływ również prognoza kosztów działań windykacyjnych oraz stopa wolna od ryzyka.  
+Wartość godziwa dla udzielonych pożyczek została wyznaczona w oparciu o prognozę oczekiwanych przepływów pieniężnych.  
+Wartość godziwa zobowiązań finansowych z tytułu kredytów i pożyczek ustalana jest w oparciu o przyszłe przepływy z tytułu zawartych transakcji.  
+Dla należności z tytułu dostaw i usług oraz pozostałych należności pomniejszonych o należności z tytułu podatków oraz dla zobowiązań z tytułu dostaw i usług i innych zobowiązań Grupa wyznacza wartość godziwą z uwzględnieniem danych wejściowych na Poziomie 3. Ze względu na ich krótkoterminowy charakter przyjęto, że wartość bilansowa jest równa wartości godziwej.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+76<br>## **14. Opis czynników i zdarzeń mających znaczny wpływ na osiągnięte wyniki finansowe**
+
+## **Wyniki po czterech kwartałach 2025 roku**
+Zysk na koniec czwartego kwartału 2025 roku wyniósł 1 085 641 tys. zł i jest wyższy od wyniku uzyskanego w analogicznym okresie roku 2024, gdy Grupa odnotowała wynik w wysokości 1 074 278 tys. zł (+11 363 tys. zł, tj. +1% r/r). Jednocześnie, EBITDA gotówkowa po czterech kwartałach 2025 roku wyniosła 2 664 728 tys. zł i tym samym odnotowała wzrost o 12% względem analogicznego okresu w 2024 roku.
+
+## **Przychody z działalności**
+Po kwartałach 2025 roku Grupa KRUK osiągnęła przychody ze sprzedaży w łącznej wysokości 3 190 651 tys. zł, tj. o 10% (+283 098 tys. zł) wyższe niż w analogicznym okresie roku poprzedniego. Przychody z obsługi portfeli nabytych wyniosły 2 898 187 tys. zł, co stanowi wzrost o 10% (+260 589 tys. zł) w stosunku do analogicznego okresu roku poprzedniego. Największy wzrost zrealizowany został na rynku hiszpańskim (+146 117 tys. zł, tj. +66%), dodatkowo istotny wzrost przychodów został zrealizowany na rynku włoskim (+114 215 tys. zł, tj. +21%).  
+W okresie 2025 roku Grupa zaewidencjonowała łącznie 496 902 tys. zł aktualizacji prognozy wpływów wobec 390 102 tys. zł aktualizacji rok wcześniej.
+
+## **Koszty działalności**
+Koszty działalności bez amortyzacji (koszty bezpośrednie i pośrednie, koszty ogólne oraz pozostałe koszty operacyjne) w okresie 2025 roku wyniosły 1 547 484 tys. zł i w porównaniu do analogicznego okresu poprzedniego roku wzrosły o 114 844 tys. zł, tj. o 8%. Wzrost kosztów wynika głównie ze wzrostu kosztów prawnych i wynagrodzeń oraz kosztów usług informatycznych związanych z transformacją cyfrową Grupy.
+
+## **Koszty finansowe**
+W 2025 roku koszty finansowe netto wyniosły 441 712 tys. zł, a ich wzrost o 39 683 tys. zł w porównaniu do roku 2024 wynika z wyższego stanu zadłużenia (wzrost stanu o 1 359 450 tys. zł).

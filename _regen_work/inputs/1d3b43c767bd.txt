@@ -1,0 +1,91 @@
+DOKUMENT SEKCJA: **Ryzyko rynkowe** | _**Ekspozycja na ryzyko płynności**_ | _**Ekspozycja na ryzyko stopy procentowej**_
+
+## _**Ekspozycja na ryzyko płynności**_
+**Na dzień 31 grudnia 2025 r.**  
+| **Na dzień 31 grudnia** **2025 r.** |
+| _w tysiącach złotych_ **Przepływy** **Powyżej 5** **lat** |
+| **pieniężne** |
+| **wynikające z** |
+| **umowy/ szacunków** |
+| **Wartość** **niezdyskontowane** **Poniżej 6** **6-12** |
+| **księgowa** ***** **miesięcy** **miesięcy** **1-2 lat** **2-5 lat** |
+|  |
+| **Aktywa i** **zobowiązania** **finansowe inne niż** **instrumenty** **pochodne** |
+|  |
+| Inwestycje w pakiety wierzytelności 11 709 558 |
+|  |
+| Należności z tytułu dostaw i usług oraz pozostałe z wyłączeniem należności z tytułu podatków - |
+|  |
+| Środki pieniężne i ich ekwiwalenty - |
+|  |
+| Zabezpieczone kredyty i pożyczki (20 504) |
+|  |
+| Niezabezpieczone wyemitowane obligacje (648 704) |
+|  |
+| Zobowiązania z tytułu leasingu (12 744) |
+|  |
+| Zobowiązania z tytułu dostaw i usług oraz inne zobowiązania - |
+|  |
+_*Przepływy pieniężne pozycji wynikają z szacunków_  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+| Inwestycje w pakiety wierzytelności | 10 500 278 | 23 147 233 | 1 692 715 | 1 611 937 | 3 091 801 | 6 798 541 | 9 952 238 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Udzielone pożyczki | 502 905 | 691 074 | 206 554 | 154 075 | 173 654 | 82 780 | 74 011 |
+| Zabezpieczone kredyty i pożyczki | (3 458 610) | (4 509 115) | (151 206) | (153 456) | (362 199) | (3 842 254) | - |
+| Niezabezpieczone wyemitowane obligacje | (3 109 702) | (4 079 737) | (355 339) | (156 497) | (513 148) | (2 918 690) | (136 063) |
+| Zobowiązania z tytułu leasingu | (58 239) | (70 299) | (13 073) | (12 710) | (13 025) | (28 174) | (3 317) |
+| 4 427 881 | 15 230 405 | 1 430 900 | 1 443 349 | 2 377 083 | 92 203 | 9 886 869 |  |
+_*Przepływy pieniężne pozycji wynikają z szacunków_  
+Powyższe dane nie uwzględniają wydatków na i wpływów z nabytych w przyszłości portfeli wierzytelności oraz przyszłych kosztów działalności operacyjnej, które są niezbędne do uzyskania wpływów z aktywów finansowych.  
+Przepływy pieniężne wynikające z umowy zostały ustalone w oparciu o stopy procentowe obowiązujące odpowiednio na dzień 31 grudnia 2025 r. i 31 grudnia 2024 r.  
+Grupa nie oczekuje, że spodziewane przepływy pieniężne, zawarte w analizie terminów wymagalności, mogą wystąpić znacząco wcześniej lub w znacząco innych kwotach.  
+Grupa posiada na dzień 31 grudnia 2025 r. dostępny niewykorzystany limit kredytu odnawialnego w wysokości 848 002 tys. zł (31.12.2024 r.: 475 189 tys. zł). Niewykorzystany limit dostępny jest do 31 stycznia 2031 r.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **Ryzyko rynkowe**
+Ryzyko rynkowe to ryzyko zmian cen rynkowych, takich jak kursy walutowe i stopy procentowe, na wyniki Grupy czy też na wartość posiadanych instrumentów finansowych i dokonywanych inwestycji. Celem zarządzania ryzykiem rynkowym jest utrzymanie i kontrolowanie stopnia narażenia Grupy na ryzyko walutowe i ryzyko stóp procentowych w granicach przyjętych parametrów tak, aby zapewnić:  
+- utrzymanie stabilnej sytuacji finansowej Grupy w horyzoncie długoterminowym,  
+- ograniczenie ryzyka pogorszenia płynności finansowej Grupy,  
+- ograniczenie wpływu ryzyka rynkowego na wynik finansowy Grupy,  
+- ograniczenie ryzyka niedotrzymania wskaźników finansowych wynikających z umów kredytowych i warunków emisji obligacji.  
+Aktywa finansowe w walucie innej niż PLN stanowiły na dzień 31 grudnia 2025 r. 57% aktywów ogółem, natomiast zobowiązania w walucie obcej stanowiły na ten dzień 30% sumy bilansowej (31.12.2024 r.: odpowiednio 58% i 31%).  
+| **31.12.2025** **Analiza wrażliwości ekspozycji na ryzyko walutowe w przypadku wzrostu** **kursu walut +10%** | **Razem** | **500** | **206 430** | **3 491** | **(87 015)** | **(1 567)** | **121 839** | **4 260** | **517 560** | **14 374** | **(289 311)** | **(9 543)** | **237 340** |  | **359 182** | **(243 000)** **116 182** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **CZK** | 168 | 2 767 | 75 | - | - | 3 010 | 187 | - | 42 | (39) | (7) | 183 |  | 3 194 | - | 3 194 |
+| **RON** | - | 203 663 | 2 599 | - | (1 221) | 205 041 | 2 404 | 5 160 | 1 691 | (684) | (964) | 7 607 |  | 212 649 | - | 212 649 |
+| **EUR** | 332 | - | 762 | (87 015) | (204) | (86 125) | 1 669 | 512 400 | 12 641 | (288 588) | (8 572) | 229 550 |  | 143 426 | (243 000) | (99 574) |
+| **PLN** | - - 55 - (142) | (87) | - - - - - | - |  | (87) | - | (87) |  |  |  |  |  |  |  |  |
+| **31.12.2025** **Ekspozycja na ryzyko walutowe** | **Razem** | **5 003** | **2 064 299** | **34 914** | **(870 153)** | **(15 662)** | **1 218 401** | **42 604** | **5 175 598** | **143 746** | **(2 893 107)** | **(95 427)** | **2 373 415** |  | **3 591 816** | **(2 430 000)** **1 161 816** |
+| **CZK** | 1 678 | 27 670 | 753 | - | - | 30 101 | 1 874 | - | 423 | (392) | (74) | 1 831 |  | 31 932 |  | 31 932 |
+| **RON** | - | 2 036 629 | 25 994 | - | (12 205) | 2 050 418 | 24 037 | 51 600 | 16 912 | (6 839) | (9 636) | 76 073 |  | 2 126 492 |  | 2 126 492 |
+| **EUR** | 3 325 | - | 7 616 | (870 153) | (2 041) | (861 253) | 16 693 | 5 123 998 | 126 412 | (2 885 875) | (85 716) | 2 295 510 |  | 1 434 257 | (2 430 000) | (995 743) |
+| **PLN** | - - 551 - (1 416) | (866) | - - - - - | - |  | (866) |  | (866) |  |  |  |  |  |  |  |  |
+| _w tysiącach złotych_ |  | Należności z tytułu dostaw i usług oraz pozostałe Inwestycje Środki pieniężne Zobowiązania z tytułu kredytów, pożyczek, dłużnych papierów wartościowych oraz leasingu Zobowiązania z tytułu dostaw i usług oraz pozostałe | **Ekspozycja na ryzyko walutowe -** **Wpływ na rachunek zysków lub strat** | Należności z tytułu dostaw i usług oraz pozostałe Inwestycje Środki pieniężne Zobowiązania z tytułu kredytów, pożyczek, dłużnych papierów wartościowych oraz leasingu Zobowiązania z tytułu dostaw i usług oraz pozostałe | **Ekspozycja na ryzyko walutowe -** **Wpływ na inne całkowite dochody** |  | **Ekspozycja na ryzyko walutowe** | Efekt zabezpieczenia | **Ekspozycja na ryzyko walutowe z** **uwzględnieniem zabezpieczenia** |  |  |  |  |  |  |  |
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+Przy sporządzaniu sprawozdania finansowego zastosowano następujące kursy wymiany dla najważniejszych walut obcych:  
+| _w_ **(kursy spot)** | _złotych_ | **Średnie kursy walut*** | **Średnie kursy walut*** | **Koniec okresu sprawozdawczego** | **Koniec okresu sprawozdawczego** |
+| --- | --- | --- | --- | --- | --- |
+| **01.01.2025-** | **01.01.2024-** | **31.12.2025** | **31.12.2024** |  |  |
+| **31.12.2025** **niebadane** | **31.12.2024** | **niebadane** |  |  |  |
+| 1 | EUR | 4,2400 | 4,3075 | 4,2267 | 4,2730 |
+| 1 | USD | 3,7774 | 3,9815 | 3,6016 | 4,1012 |
+| 1 | RON | 0,8412 | 0,8658 | 0,8291 | 0,8589 |
+| 1 | CZK | 0,1717 | 0,1715 | 0,1746 | 0,1699 |
+_*średnie kursy walut ustalono jako średnią arytmetyczną średnich kursów ogłaszanych przez NBP, obowiązujących na ostatni dzień każdego miesiąca danego okresu; w kalkulacji uwzględniony został również kurs z dnia kończącego poprzedni rok obrotowy._
+
+## _**Ekspozycja na ryzyko stopy procentowej**_
+Na koniec okresu sprawozdawczego struktura oprocentowanych instrumentów finansowych przedstawia się następująco:  
+| _w tysiącach złotych_ | **Wartość księgowa** |  |
+| --- | --- | --- |
+| **31.12.2025** **Instrumenty finansowe o stałej stopie procentowej** | **niebadane** | **31.12.2024** |
+| Aktywa finansowe | 12 047 732 | 10 910 759 |
+| Zobowiązania finansowe | (355 196) | (396 964) |
+| Instrumenty finansowe o stałej stopie procentowej przed efektem zabezpieczenia | 11 692 536 | 10 513 795 |
+| Efekt zabezpieczenia(wartość nominalna) | (4 258 048) | (3 805 573) |
+| Instrumenty finansowe o stałej stopie procentowej uwzględniające efekt zabezpieczenia **Instrumenty finansowe o zmiennej stopie procentowej** | 7 434 488 | 6 708 223 |
+| Aktywa finansowe | 589 336 | 474 932 |
+| Zobowiązania finansowe | (7 094 571) | (6 483 367) |
+| Instrumenty finansowe o zmiennej stopie procentowej przed efektem zabezpieczenia | (6 505 235) | (6 008 435) |
+| Efekt zabezpieczenia(wartość nominalna) | 4 258 048 | 3 805 573 |
+| Instrumenty finansowe o zmiennej stopie procentowej uwzględniające efekt zabezpieczenia | (2 247 187) | (2 202 863) |
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_

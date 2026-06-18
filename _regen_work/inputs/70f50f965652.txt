@@ -1,0 +1,69 @@
+DOKUMENT SEKCJA: **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **BP-2 UJAWNIANIE INFORMACJI W ODNIESIENIU DO SZCZEGÓLNYCH OKOLICZNOŚCI**
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+
+## **BP-2 UJAWNIANIE INFORMACJI W ODNIESIENIU DO SZCZEGÓLNYCH OKOLICZNOŚCI**
+
+W roku 2025 nie wystąpiły szczególne okoliczności, które miałyby wpływ na przygotowanie sprawozdawczości zrównoważonego rozwoju.
+Na potrzeby opisu procesów służących do identyfikacji i oceny istotnych wpływów, ryzyk i szans w niniejszym sprawozdaniu przyjęto poniższe horyzonty czasowe, ustalone przez Grupę:
+- Perspektywa krótkoterminowa – perspektywa biznesowa = 1 rok
+- Perspektywa średnioterminowa – perspektywa modelu biznesowego (odpowiada długości planowania, realizacji i sprzedaży inwestycji) = 2-3 lata
+- –
+- Perspektywa długoterminowa
+perspektywa planowania = 3 – 6 lat
+Ze względu na specyfikę branży, dla Grupy perspektywa czasowa wynosząca powyżej trzech lat zawsze stanowi perspektywę długoterminową. Jest to okres wybiegający poza standardowe kroki realizowane przy danej inwestycji, tj.: jej planowanie, realizację oraz okres sprzedaży. Przyjęcie perspektywy 3-letniej nie zwalnia spółek Grupy z myślenia o takich zagadnieniach jak ryzyka klimatyczne, cykl życia budynków czy wdrażanie GOZ, których wystąpienie na przestrzeni dłuższej niż trzy lata jest dla Grupy oczywiste oraz uwzględniane przy analizie wpływów, ryzyk i szans Grupy. Niemniej możliwe i planowane w tym zakresie działania nadal wdrażane są w okresie do trzech lat – a zatem wciąż w perspektywie maksymalnie średnioterminowej.
+Grupa nie wskazuje w sprawozdaniu mierników obejmujących danych dotyczących łańcucha wartości na wyższym lub niższym szczeblu oszacowanych z wykorzystaniem źródeł pośrednich. Większość mierników wykorzystanych w niniejszym sprawozdaniu zostało opartych na danych rzeczywistych, które pozyskano ze źródeł bezpośrednich. W przypadku gdy dostęp
+do pełnych danych rzeczywistych był ograniczony, zastosowano szacunki, które zapewniły kompletność raportowanych informacji. W tym celu wykorzystano najlepsze dostępne metody. Miernikiem oszacowanym na podstawie źródeł pośrednich jest ilość odpadów komunalnych przeznaczonych do recyklingu i/lub innych procesów odzysku. Metodykę wyliczenia tego wskaźnika wyjaśniono w pkt E5-5 niniejszego sprawozdania. Grupa nie wskazuje również mierników ilościowych i kwot, które podlegają wysokiemu poziomowi niepewności.
+Planowanymi działaniami dla poprawy dokładności w przyszłościowych ujawnieniach jest dążenie do skutecznego pozyskiwania danych bezpośrednich od dostawców materiałów i usług oraz dalsze korzystanie z uznanych baz danych odniesionych do rejonu geograficznego prowadzenia działalności biznesowej. Grupa planuje również kontynuację współpracy z Kontrahentami w celu pozyskiwania kompleksowych danych rzeczywistych i ograniczania stosowania szacunków.
+Grupa nie ujawnia w sprawozdaniu informacji na podstawie innych przepisów lub ogólnie przyjętych interpretacji i standardów dot. sprawozdawczości w zakresie zrównoważonego rozwoju.
+Grupa nie zgłasza żadnych istotnych zmian w sposobie przygotowania lub prezentacji sprawozdania o zrównoważonym rozwoju. Grupa zidentyfikowała błędy z poprzedniego okresu (2024 r.) z zakresu:
+- zużycia materiałów,
+- − zużycia wody.
+Grupa w 2025 roku pomija dane na podstawie możliwych wyłączeń wskazywanych w Rozporządzeniu Delegowanym Komisji Europejskiej (UE) 2025/1416 z dnia 11 lipca 2025 roku (poniżej).
+
+| **Wymóg** **dotyczący** **ujawniania** **informacji** | **Pełna nazwa wymogu** **dotyczącego** **ujawniania informacji** | **Data stopniowego wprowadzania lub wejścia w życie** | **Czy będzie** **zastosowa** **ne?** |
+| --- | --- | --- | --- |
+| Jednostka podaje informacje określone w ESRS 2 SBM-1 pkt 40 Strategia, model | lit. b) (podział całkowitych przychodów według znaczących |  |  |
+| ESRS | 2 | SBM-1 | biznesowy i łańcuch sektorów ESRS) oraz 40 lit. c) (wykaz dodatkowych znaczących NIE |
+| wartości określonej w akcie delegowanym Komisji, który ma zostać przyjęty | sektorów ESRS) począwszy od daty rozpoczęcia stosowania |  |  |
+
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**
+50
+
+| na podstawie art. 29b ust. 1 akapit trzeci pkt (ii) dyrektywy 2013/34/UE. Jednostka może pominąć informacje określone w ESRS 2 SBM-3 ESRS 2 ujawnień informacji ilościowych jest niewykonalne. | SBM-3 Istotne wpływy, ryzyka i szanse oraz ich wzajemne związki ze strategią i z modelem biznesowym pkt 48 lit. e) (przewidywane skutki finansowe) w pierwszym roku sporządzania sprawozdania dotyczącego zrównoważonego rozwoju. Jednostka może spełnić wymogi określone w ESRS 2 SBM- 3 pkt 48 lit. e), dokonując jedynie ujawnień informacji jakościowych przez pierwsze trzy lata sporządzania sprawozdania dotyczącego zrównoważonego rozwoju, jeżeli przygotowanie TAK |
+| --- | --- |
+| ESRS E1 | E1-6 Emisje gazów cieplarnianych zakresów 1, 2 i 3 brutto oraz całkowite emisje gazów cieplarnianych Jednostki lub grupy nieprzekraczające w dniu bilansowym średniej liczby 750 pracowników w roku obrotowym (w stosownych przypadkach w ujęciu skonsolidowanym) mogą pominąć punkty danych dotyczące emisji dwutlenku węgla zakresu 3 i całkowitych emisji gazów cieplarnianych w pierwszym roku sporządzania sprawozdania dotyczącego zrównoważonego rozwoju. TAK |
+| Przewidywane skutki | Jednostka może pominąć informacje określone w ESRS E1-9 |
+| finansowe wynikające | w pierwszym roku sporządzania sprawozdania dotyczącego |
+| z istotnych ryzyk | zrównoważonego rozwoju. Jednostka może spełnić wymogi ESRS |
+| ESRS E1 | E1-9 fizycznych i ryzyk E1-9, dokonując jedynie ujawnień informacji jakościowych przez TAK |
+| przejścia oraz | pierwsze trzy lata sporządzania sprawozdania dotyczącego |
+| potencjalnych szans | zrównoważonego rozwoju, jeżeli przygotowanie ujawnień |
+| związanych z klimatem | informacji ilościowych jest niewykonalne. |
+| ESRS E3 | E3-5 Przewidywane skutki finansowe wynikające z ryzyk i szans związanych z wodą i zasobami morskimi Jednostka może pominąć informacje określone w ESRS E3-5 w pierwszym roku sporządzania sprawozdania dotyczącego zrównoważonego rozwoju. Jednostka może spełnić wymogi ESRS E3-5, dokonując jedynie ujawnień informacji jakościowych przez pierwsze trzy lata sporządzania sprawozdania dotyczącego zrównoważonego rozwoju. TAK |
+| ESRS E4 | Wszystkie wymogi dotyczące ujawniania informacji Wszystkie wymogi dotyczące ujawniania informacji Jednostki lub grupy nieprzekraczające w dniu bilansowym średniej liczby 750 pracowników w roku obrotowym (w stosownych przypadkach w ujęciu skonsolidowanym) mogą pominąć informacje określone w wymogach dotyczących ujawniania informacji ESRS E4 przez pierwsze dwa lata sporządzania sprawozdania dotyczącego zrównoważonego rozwoju. NIE |
+| ESRS E4 | E4-6 Przewidywane skutki finansowe wynikające z ryzyk i szans związanych z bioróżnorodnością i ekosystemami Jednostka może pominąć informacje określone w ESRS E4-6 w pierwszym roku sporządzania sprawozdania dotyczącego zrównoważonego rozwoju. Jednostka może spełnić wymogi ESRS E4-6, dokonując jedynie ujawnień informacji jakościowych przez pierwsze trzy lata sporządzania sprawozdania dotyczącego zrównoważonego rozwoju. TAK |
+| Przewidywane skutki | Jednostka może pominąć informacje określone w ESRS E5-6 |
+| finansowe wynikające | w pierwszym roku sporządzania sprawozdania dotyczącego |
+| z ryzyk i szans | zrównoważonego rozwoju. |
+| ESRS E5 | E5-6 związanych z wykorzystaniem Jednostka może spełnić wymogi ESRS E5-6, dokonując jedynie ujawnień informacji jakościowych przez pierwsze trzy lata TAK |
+| zasobów oraz | sporządzania sprawozdania dotyczącego zrównoważonego |
+| gospodarką o obiegu zamkniętym | rozwoju. |
+| ESRS S1 | Wszystkie wymogi dotyczące ujawniania informacji Wszystkie wymogi dotyczące ujawniania informacji Jednostki lub grupy nieprzekraczające w dniu bilansowym średniej liczby 750 pracowników w roku obrotowym (w stosownych przypadkach w ujęciu skonsolidowanym) mogą pominąć informacje określone w wymogach dotyczących ujawniania informacji ESRS S1 w pierwszym roku sporządzania sprawozdania dotyczącego zrównoważonego rozwoju. NIE |
+| Charakterystyka osób | Jednostka może pominąć zgłaszanie wszystkich punktów danych |
+| niebędących | zawartych w niniejszym wymogu dotyczącym ujawniania |
+| ESRS S1 zasoby pracownicze jednostki | S1-7 pracownikami stanowiących własne informacji w pierwszym roku sporządzania jej sprawozdania dotyczącego zrównoważonego rozwoju. TAK |
+| ESRS S1 | S1-13 Szkolenia i rozwój umiejętności Jednostka może pominąć informacje określone w ESRS S1-13 w pierwszym roku sporządzania sprawozdania dotyczącego zrównoważonego rozwoju. TAK |
+| Jednostka może pominąć punkty danych dotyczące przypadków złego stanu zdrowia związanego z pracą oraz liczby dni ESRS S1 w pierwszym roku sporządzania sprawozdania dotyczącego zrównoważonego rozwoju. | S1-14 Bezpieczeństwo i higiena pracy niezdolności do pracy z powodu urazów, wypadków, ofiar śmiertelnych i złego stanu zdrowia związanego z pracą NIE |
+
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**
+51
+
+| ESRS | S1 | S1-14 | Bezpieczeństwo i higiena pracy |
+| --- | --- | --- | --- |
+| Równowaga między ESRS a prywatnym | S1 | S1-15 | życiem zawodowym |
+| ESRS | S2 | Wszystkie wymogi dotyczące ujawniania informacji | Wszystkie wymogi dotyczące ujawniania informacji |
+| ESRS | S3 | Wszystkie wymogi dotyczące ujawniania informacji | Wszystkie wymogi dotyczące ujawniania informacji |
+| ESRS | S4 | Wszystkie wymogi dotyczące ujawniania informacji | Wszystkie wymogi dotyczące ujawniania informacji |

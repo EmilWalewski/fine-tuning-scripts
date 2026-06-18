@@ -1,0 +1,65 @@
+DOKUMENT SEKCJA: **Ryzyko rynkowe** | _**Analiza wrażliwości przepływów pieniężnych instrumentów finansowych o zmiennej stopie procentowej**_ | _**Analiza wrażliwości wartości godziwej instrumentów finansowych o stałej stopie procentowej**_ | _**Ekspozycja na ryzyko stopy procentowej**_
+
+## **Ryzyko rynkowe**
+Ryzyko rynkowe to ryzyko zmian cen rynkowych, takich jak kursy walutowe i stopy procentowe, na wyniki Grupy czy też na wartość posiadanych instrumentów finansowych i dokonywanych inwestycji. Celem zarządzania ryzykiem rynkowym jest utrzymanie i kontrolowanie stopnia narażenia Grupy na ryzyko walutowe i ryzyko stóp procentowych w granicach przyjętych parametrów tak, aby zapewnić:  
+- utrzymanie stabilnej sytuacji finansowej Grupy w horyzoncie długoterminowym,  
+- ograniczenie ryzyka pogorszenia płynności finansowej Grupy,  
+- ograniczenie wpływu ryzyka rynkowego na wynik finansowy Grupy,  
+- ograniczenie ryzyka niedotrzymania wskaźników finansowych wynikających z umów kredytowych i warunków emisji obligacji.  
+Aktywa finansowe w walucie innej niż PLN stanowiły na dzień 30 czerwca 2025 r. 57% aktywów ogółem, natomiast zobowiązania w walucie obcej stanowiły na ten dzień 28% sumy bilansowej (31.12.2024 r.: odpowiednio 58% i 31%).  
+| **adku wzrostu** | **Razem** | **333** | **167 787** | **7 257** | **(110 482)** | **(1 793)** | **63 102** | **3 406** | **490 307** | **14 752** | **(221 617)** | **(8 225)** | **278 623** |  | 341 728 |  | (233 000) | **108 728** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **30.06.2025** | **Analiza wrażliwości ekspozycji na ryzyko walutowe w przyp** **kursu walut +10%** | **CZK** | - 748 4 - - | 752 | 30 | 6 235 | 830 | (78) | (73) | 6 944 |  | 7 696 |  | - |  | 7 696 |  |  |
+| **RON** | (1) | 167 030 | 7 168 | - | (1 049) | 173 148 | 1 835 | 5 588 | 1 720 | (738) | (1 116) | 7 289 |  | 180 439 |  | - |  | 180 439 |
+| **EUR** | 334 | 9 | 66 | (110 482) | (614) | (110 687) | 1 541 | 478 484 | 12 202 | (220 801) | (7 036) | 264 390 |  | 153 703 |  | (233 000) |  | (79 297) |
+| **PLN** | - - 19 - (130) | (110) | - - - - - | - |  | (110) |  | - |  | (110) |  |  |  |  |  |  |  |  |
+| **Razem** | **3 338** | **1 677 867** | **72 576** | **(1 104 822)** | **(17 921)** | **631 037** | **34 057** | **4 903 070** | **147 526** | **(2 216 166)** | **(82 255)** | **2 786 231** |  | **3 417 268** |  | **(2 330 000)** |  | **1 087 268** |
+| _w tysiącach złotych_ **30.06.2025** | **Ekspozycja na ryzyko walutowe** | **CZK** | - 7 476 41 - - | 7 517 | 299 | 62 352 | 8 301 | (777) | (732) | 69 443 |  | 76 960 |  |  |  | 76 960 |  |  |
+| **RON** | (6) | 1 670 304 | 71 684 | - | (10 488) | 1 731 493 | 18 351 | 55 882 | 17 203 | (7 379) | (11 164) | 72 894 |  | 1 804 387 |  |  |  | 1 804 387 |
+| **EUR** | 3 344 | 87 | 657 | (1 104 822) | (6 135) | (1 106 869) | 15 407 | 4 784 836 | 122 022 | (2 208 010) | (70 360) | 2 643 894 |  | 1 537 025 |  | (2 330 000) |  | (792 975) |
+| **PLN** | - - 194 - (1 298) | (1104) | - - - - - | - |  | (1 104) |  |  |  | (1 104) |  |  |  |  |  |  |  |  |
+| Należności z tytułu dostaw i usług oraz pozostałe Inwestycje Środki pieniężne Zobowiązania z tytułu kredytów, pożyczek, dłużnych papierów wartościowych oraz leasingu Zobowiązania z tytułu dostaw i usług oraz pozostałe | **Ekspozycja na ryzyko walutowe -** **Wpływ na rachunek zysków lub strat** | Należności z tytułu dostaw i usług oraz pozostałe Inwestycje Środki pieniężne Zobowiązania z tytułu kredytów, pożyczek, dłużnych papierów wartościowych oraz leasingu Zobowiązania z tytułu dostaw i usług oraz pozostałe | **Ekspozycja na ryzyko walutowe -** **Wpływ na inne całkowite dochody** |  | **Ekspozycja na ryzyko walutowe** |  | Efekt zabezpieczenia |  | Ekspozycja na ryzyko walutowe z uwzględnieniem zabezpieczenia |  |  |  |  |  |  |  |  |  |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+Przy sporządzaniu sprawozdania finansowego zastosowano następujące kursy wymiany dla najważniejszych walut obcych:  
+| _w_ **(kursy spot)** | _złotych_ | **Średnie kursy walut*** | **Średnie kursy walut*** | **Koniec okresu sprawozdawczego** | **Koniec okresu sprawozdawczego** |
+| --- | --- | --- | --- | --- | --- |
+| **01.01.2025-** | **01.01.2024-** | **30.06.2025** | **31.12.2024** |  |  |
+| **30.06.2025** | **30.06.2024** | **niebadane** |  |  |  |
+| **niebadane** | **niebadane** |  |  |  |  |
+| 1 | EUR | 4,2283 | 4,3162 | 4,2419 | 4,2730 |
+| 1 | USD | 3,8792 | 3,9889 | 3,6164 | 4,1012 |
+| 1 | RON | 0,8450 | 0,8677 | 0,8354 | 0,8589 |
+| 1 | CZK | 0,1693 | 0,1726 | 0,1715 | 0,1699 |
+_*średnie kursy walut ustalono jako średnią arytmetyczną średnich kursów ogłaszanych przez NBP, obowiązujących na ostatni dzień każdego miesiąca danego okresu; w kalkulacji uwzględniony został również kurs z dnia kończącego poprzedni rok obrotowy._
+
+## _**Ekspozycja na ryzyko stopy procentowej**_
+Na koniec okresu sprawozdawczego struktura oprocentowanych instrumentów finansowych przedstawia się następująco:  
+| _w tysiącach złotych_ | **Wartość księgowa** |  |
+| --- | --- | --- |
+| **30.06.2025** **Instrumenty finansowe o stałej stopie procentowej** | **niebadane** | **31.12.2024** |
+| Aktywa finansowe | 11 250 031 | 10 910 759 |
+| Zobowiązania finansowe | (354 236) | (396 964) |
+| Instrumenty finansowe o stałej stopie procentowej przed efektem zabezpieczenia | 10 895 795 | 10 513 795 |
+| Efekt zabezpieczenia(wartość nominalna) | (4 164 622) | (3 805 573) |
+| Instrumenty finansowe o stałej stopie procentowej uwzględniające efekt zabezpieczenia **Instrumenty finansowe o zmiennej stopie procentowej** | 6 731 173 | 6 708 223 |
+| Aktywa finansowe | 531 299 | 474 932 |
+| Zobowiązania finansowe | (6 404 004) | (6 483 367) |
+| Instrumenty finansowe o zmiennej stopie procentowej przed efektem zabezpieczenia | (5 872 705) | (6 008 435) |
+| Efekt zabezpieczenia(wartość nominalna) | 4 164 622 | 3 805 573 |
+| Instrumenty finansowe o zmiennej stopie procentowej uwzględniające efekt zabezpieczenia | (1 708 083) | (2 202 863) |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## _**Analiza wrażliwości wartości godziwej instrumentów finansowych o stałej stopie procentowej**_
+Grupa nie posiada aktywów i zobowiązań finansowych o stałej stopie procentowej wycenianych w wartości godziwej przez wynik finansowy oraz nie zawiera transakcji z wykorzystaniem instrumentów pochodnych jako zabezpieczenie wartości godziwej. Dlatego zmiana stopy procentowej nie miałaby istotnego wpływu na zysk lub stratę bieżącego okresu z tego tytułu.
+
+## _**Analiza wrażliwości przepływów pieniężnych instrumentów finansowych o zmiennej stopie procentowej**_
+Zmiana o 100 punktów bazowych w stopie procentowej zwiększyłaby (zmniejszyłaby) kapitał własny i zysk przed opodatkowaniem w okresie roku o kwoty przedstawione poniżej. Poniższa analiza opiera się na założeniu, że inne zmienne, w szczególności kursy walutowe, pozostaną na stałym poziomie.  
+| _w tysiącach złotych_ | **Zysk lub strata** | **bieżącego** | **Kapitał własny** | **bez zysku** |
+| --- | --- | --- | --- | --- |
+| **okresu** |  | **lub straty bieżącego okresu** |  |  |
+| **wzrost** | **spadek** | **wzrost** | **spadek** |  |
+| **o 100pb** **30 czerwca 2025 r.** | **o 100pb** | **o 100pb** | **o 100pb** |  |
+| Aktywa finansowe o zmiennej stopie procentowej | 4 167 | (4 167) | 1 146 | (1 146) |
+| Zobowiązania finansowe o zmiennej stopie procentowej **31 grudnia 2024 r.** | (63 612) | 63 612 | (428) | 428 |
+| Aktywa finansowe o zmiennej stopie procentowej | 3 606 | (3 606) | 1 143 | (1 143) |
+| Zobowiązania finansowe o zmiennej stopie procentowej | (64 466) | 64 466 | (367) | 367 |

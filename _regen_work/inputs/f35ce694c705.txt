@@ -1,0 +1,88 @@
+DOKUMENT SEKCJA: **22. Wyjaśnienie przyczyn istotnych zmian w pozostałych pozycjach** | **23. Działalność zaniechana** | **24. Połączenia jednostek gospodarczych** | **25. Cele i zasady zarządzania ryzykiem finansowym** | **26. Zarządzanie kapitałem** | **27. Zobowiązania warunkowe** | **28. Przyszłe zobowiązania inwestycyjne** | **29.1. Struktura właścicielska** | **29.2. Transakcje z udziałem Kluczowego Personelu Kierowniczego Grupy**
+
+## **22. Wyjaśnienie przyczyn istotnych zmian w pozostałych pozycjach**
+Na dzień 30.09.2025 roku w porównaniu z 31.12.2024 roku istotne zmiany w pozycjach bilansu obejmują:  
+- zmniejszenie wartości rzeczowych aktywów trwałych, praw do korzystania z aktywów oraz wartości niematerialnych o 37 mln PLN wynikające z ich amortyzacji w wysokości 178 mln PLN oraz nakładów inwestycyjnych w kwocie 141 mln PLN,  
+- wzrost wartości zapasów o 47 mln PLN wynikający przede wszystkim ze zwiększenia wolumenu zapasów,  
+- wzrost wartości należności o 165 mln PLN wynikający głównie z niższych obrotów handlowych w końcu 2024 roku,  
+- zmniejszenie wartości środków pieniężnych o 13 mln PLN wynikający w głównej mierze z optymalizacji poziomu gotówki,  
+- zmniejszenie wartości kapitałów własnych o 41 mln PLN wynikający głównie z wypracowanego w okresie 9 miesięcy 2025 roku zysku netto w kwocie 466 mln PLN, decyzji akcjonariuszy o wypłacie dywidendy za rok 2024 w kwocie 544 mln PLN oraz z wpłat związanych z realizacją opcji na akcje w kwocie 33 mln PLN,  
+- zmniejszenie wartości kredytów o 331 mln PLN wynikające głównie z dodatnich przepływów z działalności operacyjnej w okresie 9 miesięcy 2025 roku przeznaczonych na zmniejszenie zadłużenia w rachunkach bieżących,  
+- wzrost zobowiązań z tytułu dywidend dla akcjonariuszy w kwocie 381 mln PLN odzwierciedla harmonogramu wypłaty dywidendy z zysku za rok 2024,  
+- wzrost zobowiązań krótkoterminowych o 126 mln PLN dotyczy zobowiązań z tytułu dostaw i usług oraz zobowiązań publicznoprawnych, co odzwierciedla większą skalę działalności w porównaniu z końcem 2024 roku przy jednoczesnym spadku zobowiązań z tytułu zakupu rzeczowych aktywów trwałych.  
+_(w milionach PLN)_  
+27  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_
+
+## **23. Działalność zaniechana**
+W okresie 9 miesięcy 2025 roku oraz w okresie 9 miesięcy 2024 roku Grupa nie zaniechała żadnej z istotnych działalności.
+
+## **24. Połączenia jednostek gospodarczych**
+W okresie sprawozdawczym zakończonym 30.09.2025 roku nie wystąpiły połączenia ani nabycia udziałów mniejszościowych.  
+W analogicznym okresie roku poprzedniego, w dniu 2 września 2024 roku Grupa nabyła 100% udziałów w SELT Sp. z o.o., liderze rynku systemów osłon przeciwsłonecznych, co pozwoliło na rozszerzenie portfolio produktowego i uzyskanie synergii operacyjnych zgodnie ze strategią Grupy.
+
+## **25. Cele i zasady zarządzania ryzykiem finansowym**
+Cele i zasady zarządzania ryzykiem finansowym nie uległy zmianie w porównaniu do przedstawionych w nocie 32 skonsolidowanego sprawozdania finansowego za 2024 rok.  
+Poniżej przedstawiono szczegóły dotyczące wartości godziwych instrumentów finansowych, dla których jest możliwe ich oszacowanie:  
+- środki pieniężne i ich ekwiwalenty, krótkoterminowe depozyty bankowe oraz krótkoterminowe kredyty bankowe - wartość godziwa wyżej wymienionych instrumentów jest zbliżona do ich wartości bilansowych z uwagi na szybką zapadalność tych instrumentów,  
+- należności handlowe, pozostałe należności, zobowiązania handlowe i pozostałe zobowiązania - wartość godziwa wyżej wymienionych instrumentów jest zbliżona do ich wartości bilansowych z uwagi na ich krótkoterminowy charakter,  
+- długoterminowe kredyty bankowe oraz leasing - wartość godziwa tych instrumentów jest zbliżona do ich wartości bilansowych z uwagi na zmienny charakter ich oprocentowania oraz rynkowy poziom marży,  
+- pochodne instrumenty finansowe wykazywane są w wartości godziwej ustalanej na dzień bilansowy.
+
+## **26. Zarządzanie kapitałem**
+Zasady zarządzania kapitałem pozostają niezmienione względem ujawnionych w nocie 36 skonsolidowanego sprawozdania finansowego za rok 2024.  
+Grupa monitoruje zwrot z kapitału własnego, stosując wskaźnik ROE, który jest wyliczany jako stosunek zysku netto z ostatnich 12 miesięcy do kapitału własnego.  
+Struktura finansowania monitorowana jest poprzez wskaźnik dźwigni finansowej netto, który jest wyznaczany jako stosunek zadłużenia netto do sumy kapitału własnego i zadłużenia netto oraz wskaźnik długu netto do EBITDA za ostatnie 12 miesięcy, przy czym EBITDA oznacza zysk z działalności operacyjnej powiększony o amortyzację. Do zadłużenia netto Grupa wlicza oprocentowane kredyty i pożyczki oraz zobowiązania z tytułu praw do korzystania pomniejszone o środki pieniężne i ich ekwiwalenty.  
+Grupa przyjmuje jako optymalny wskaźnik dźwigni finansowej netto nieprzekraczający 50% oraz wskaźnik długu netto do EBITDA nie większy niż 2.  
+Podstawowym celem w zakresie zarządzania kapitałem jest maksymalizacja wskaźnika zwrotu z kapitału własnego przy utrzymaniu bezpiecznej i dającej elastyczność struktury finansowania. Przy opracowywaniu szczegółowych wytycznych uwzględnia się podział na segmenty operacyjne, konieczność zachowania bieżącej płynności jak również zapewnienia finansowania celów rozwojowych zgodnie z przyjętą strategią działalności.  
+W celu utrzymania lub skorygowania struktury kapitałowej, Grupa może korygować wysokość wypłat dywidend, zwrócić kapitał akcjonariuszom lub wyemitować nowe akcje. W prezentowanych okresach sprawozdawczych nie wprowadzono zmian do celów, zasad i procesów obowiązujących w tym obszarze.  
+_(w milionach PLN)_  
+28  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+| EBITDA (zysk z działalności operacyjnej powiększony o amortyzację) za ostatnie 12 miesięcy | 1 | 018 |  | 932 |
+| --- | --- | --- | --- | --- |
+| Zysk netto za ostatnie 12 miesięcy |  | 563 |  | 561 |
+| Oprocentowane kredyty i zobowiązania z tytułu praw do korzystania z aktywów | 1 | 247 | 1 | 584 |
+| Środkipieniężne i ich ekwiwalenty |  | (70) |  | (83) |
+| Zadłużenie netto | 1 | 177 | 1 | 501 |
+| Kapitał własny | 1 | 896 | 1 | 937 |
+| **Kapitał własny i zadłużenie netto** | **3** | **073** | **3** | **438** |
+| **Dźwignia finansowa netto*** | **38%** |  | **44%** |  |
+| **Dług netto/EBITDA** |  | **1,2** |  | **1,6** |
+| **ROE** | **30%** |  | **29%** |  |
+* liczona jako zadłużenie netto/kapitał własny i dług netto
+
+## **27. Zobowiązania warunkowe**
+| Bankowe gwarancje należytego wykonania kontraktów udzielone przez segment SSA |  | 10 |  | 11 |
+| --- | --- | --- | --- | --- |
+| Dotacje w okresie spełniania warunków(segment SWW) |  | 5 |  | 5 |
+| **Razem** |  | **15** |  | **16** |
+Terminy obowiązywania gwarancji należytego wykonania kontraktów budowlanych uzależnione są od zapisów poszczególnych umów.
+
+## **28. Przyszłe zobowiązania inwestycyjne**
+| **Według segmentów operacyjnych:** | **30.09.2025** |  | **31.12.2024** |  |
+| --- | --- | --- | --- | --- |
+| Segment Opakowań Giętkich |  | 176 |  | 29 |
+| Segment Wyrobów Wyciskanych |  | 13 |  | 8 |
+| Segment Systemów Aluminiowych |  | 25 |  | 9 |
+| **Razem** |  | **214** |  | **46** |
+Na dzień 30 września 2025 roku przyszłe zobowiązania inwestycyjne w Segmencie Opakowań Giętkich zwiększyły się w związku z rozpoczęciem projektu realizowanego przez Alupol Films Sp. z o.o. w ramach programu Polska Strefa Inwestycji (dodatkowe informacje w nocie 11).
+
+## **29.1. Struktura właścicielska**
+| **Liczba akcji** | **Udział w** | **Liczba akcji** | **Udział w** |  |
+| --- | --- | --- | --- | --- |
+| **Nazwa podmiotu** | **30.09.2025*** | **kapitale** | **31.12.2024** | **kapitale** |
+| Nationale Nederlanden OFE | 1 509 990 | 15,37% | 1 508 352 | 15,49% |
+| OFE Allianz Polska | 1 456 533 | 14,83% | 1 464 264 | 15,04% |
+| OFE PZU ZŁOTA JESIEŃ | 863 709 | 8,79% | 862 772 | 8,86% |
+| Generali OFE | 786 984 | 8,01% | 786 131 | 8,08% |
+| Vienna OFE | 601 594 | 6,13% | 575 887 | 5,92% |
+| Pozostali | 4 603 943 | 46,87% | 4 537 740 | 46,61% |
+| **Razem** | **9 822 753** | **100,00%** | **9 735 146** | **100,00%** |
+*Dane na podstawie sprawozdań OFE dot. półrocznej struktury aktywów na 30.06.2025.  
+_(w milionach PLN)_  
+29  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_
+
+## **29.2. Transakcje z udziałem Kluczowego Personelu Kierowniczego Grupy**
+W okresie 9 miesięcy 2025 roku Grupa zawarła transakcje z członkami zarządu oraz osobami blisko z nimi powiązanymi o wartości 46 tys. PLN. Transakcje powyższe dotyczyły sprzedaży wyrobów Grupy. W okresie sprawozdawczym Grupa nie zawierała transakcji z członkami Rady Nadzorczej oraz Zarządu poza opisanymi powyżej oraz w nocie 29.3.

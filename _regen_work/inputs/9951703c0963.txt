@@ -1,0 +1,56 @@
+DOKUMENT SEKCJA: **2. Skład Grupy** | **4. Istotne zasady (polityki) rachunkowości** | Cd. | _**Wpływ reformy międzynarodowego systemu podatkowego: filar II projektu BEPS 2.0**_
+
+## **2. Skład Grupy**
+W skład Grupy wchodzi Grupa Kęty S.A. oraz poniższe spółki zależne:  
+| **Nazwa spółki** **Siedziba** **Przedmiot** **działalności** **podstawowej** **Nazwa** **podmiotu** **dominującego** | **Udziały** **w kapitale** **podstawowym** **na dzień** **30.09.2025** | **Udziały** **w kapitale** **podstawowym** **na dzień** **31.12.2024** | **Data** **objęcia** **kontroli** **Segment** **Operacyjny** |
+| --- | --- | --- | --- |
+| **Grupa Kęty S.A. Kęty, Polska** **Działalność** **holdingowa oraz** **działalność** **produkcyjna i** **handlowa** **w zakresie profili** **aluminiowych** **brak** | **Nie dotyczy** | **Nie dotyczy** | **Nie dotyczy** **SWW/ Inne** |
+| Alupol LLC Borodianka, Ukraina Działalność produkcyjna w zakresie profili aluminiowych Aluform Sp. z o.o. | 100,00% | 100,00% | 12/2004 SWW |
+| Aluform Sp. z o.o. Tychy, Polska Działalność produkcyjna w zakresie profili aluminiowych Grupa Kęty S.A. | 100,00% | 100,00% | 06/2009 SWW |
+| Grupa  Kety Italia SRL Mediolan, Włochy Pośrednictwo handlowe Grupa Kęty S.A. | 100,00% | 100,00% | 05/2014 SWW |
+| Aluminium Kety EMMI d.o.o. Slovenska Bistrica, Słowenia Obróbka profili aluminiowych Aluform Sp. z o.o. | 100,00% | 100,00% | 06/2016 SWW |
+| Aluminium Kety Deutschland GmbH Dortmund, Niemcy Działalność handlowa i marketingowa Aluform Sp. z o.o. | 100,00% | 100,00% | 06/2016 SWW |
+| Aluminium Kety CSE s.r.o. Ostrawa, Czechy Działalność handlowa i marketingowa Aluform Sp. z o.o. | 100,00% | 100,00% | 07/2017 SWW |
+| **Aluprof S.A.** **Bielsko-Biała,** **Polska** **Działalność** **w zakresie** **sprzedaży systemów** **fasad i rolet dla** **budownictwa** **Grupa Kęty** **S.A.** | **100,00%** | **100,00%** | **06/1998** **SSA** |
+| SELT Sp. z o.o. Opole, Polska Produkcja i sprzedaż systemów przeciwsłonecznych dla budownictwa Grupa Kęty S.A. | 100,00% | 100,00% | 09/2024 SSA |
+| Aluprof Hungary Kft. Dunakeszi, Węgry Sprzedaż systemów aluminiowych Aluprof S.A. | 100,00% | 100,00% | 07/2000 SSA |
+| Aluprof Deutschland GmbH Schwanewede, Niemcy Sprzedaż systemów aluminiowych Aluprof S.A. | 100,00% | 100,00% | 02/2005 SSA |
+| Aluprof System Romania SRL Bukareszt, Rumunia Sprzedaż systemów aluminiowych Aluprof S.A. | 100,00% | 100,00% | 05/2005 SSA |
+| Aluprof System Czech s.r.o. Ostrawa, Czechy Sprzedaż systemów aluminiowych Aluprof S.A. | 100,00% | 100,00% | 05/2005 SSA |
+_(w milionach PLN)_  
+13  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_
+
+## Cd.
+| **Nazwa spółki** **Siedziba** **Przedmiot** **działalności** **podstawowej** **Nazwa** **podmiotu** **dominującego** | **Udziały** **w kapitale** **podstawowym** **na dzień** **30.09.2025** | **Udziały** **w kapitale** **podstawowym** **na dzień** **31.12.2024** **Data objęcia** **kontroli** **Segment** **Operacyjny** |
+| --- | --- | --- |
+| Aluprof UK Ltd. Altrincham, Wielka Brytania Sprzedaż systemów aluminiowych Aluprof S.A. | 100,00% | 100,00% 05/2006 SSA |
+| Aluprof System Ukraina LLC Kijów, UkrainaSprzedaż systemów aluminiowych Aluprof S.A. | 100,00% | 100,00% 11/2009 SSA |
+| Glassprof Sp. z o.o. Bielsko-Biała, Polska Produkcja szkła ognioodpornego Aluprof S.A. | 100,00% | 100,00% 01/2012 SSA |
+| Aluprof System USA Inc. Wilmington, USA Sprzedaż systemów aluminiowych Aluprof S.A. | 100,00% | 100,00% 07/2014 SSA |
+| Aluprof Belgium N.V. Dendermonde, Belgia Sprzedaż systemów aluminiowych Aluprof S.A. | 100,00% | 100,00% 06/2015 SSA |
+| Aluprof Netherlands B.V. Rotterdam, Holandia Sprzedaż systemów aluminiowych Aluprof S.A. | 55,00% | 55,00% 04/2017 SSA |
+| **Alupol** **Packaging S.A.** **Tychy, Polska** **Działalność** **produkcyjna i** **handlowa w zakresie** **opakowań z tworzyw** **sztucznych** **Grupa Kęty** **S.A.** | **100,00%** | **100,00%** **04/1998** **SOG** |
+| Alupol Packaging Kęty Sp. z o.o. Kęty, Polska Działalność produkcyjna  i handlowa w zakresie opakowań z tworzyw sztucznych Alupol Packaging S.A. | 100,00% | 100,00% 05/2009 SOG |
+| Alupol Films Sp. z o.o. Oświęcim, Polska Działalność produkcyjna  i handlowa w zakresie folii z tworzyw sztucznych Alupol Packaging Kęty Sp. z o.o. | 100,00% | 100,00% 12/2014 SOG |
+| **Dekret Centrum** **Rachunkowe** **Sp. z o.o.** **Kęty, Polska** **Usługowe** **prowadzenie ksiąg** **rachunkowych** **Grupa Kęty** **S.A.** | **100,00%** | **100,00%** **09/1999** **Inne** |
+Prezentowane udziały w kapitale podstawowym równe są udziałom w ogólnej liczbie głosów. Dodatkowe informacje dotyczące Segmentów operacyjnych przedstawiono w nocie 7.  
+3. Podstawa sporządzenia śródrocznego skróconego skonsolidowanego sprawozdania finansowego.  
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe („sprawozdanie”) zostało sporządzone zgodnie z Międzynarodowym Standardem Rachunkowości nr 34 „Śródroczna Sprawozdawczość Finansowa” zatwierdzonym przez UE („MSR 34”).  
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe jest przedstawione w złotych („PLN”), a wszystkie wartości, o ile nie wskazano inaczej, podane są w milionach PLN.  
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe zostało zatwierdzone do publikacji 22 października 2025 roku.  
+_(w milionach PLN)_  
+14  
+_Skonsolidowany raport kwartalny za 3 kwartał 2025 roku_  
+Sprawozdanie zostało przygotowane przy założeniu kontynuacji działalności. Na dzień sporządzenia niniejszego sprawozdania w ocenie Zarządu nie występuje zagrożenie kontynuacji działalności Grupy w dającej się przewidzieć przyszłości obejmującej okres co najmniej 12 miesięcy od dnia bilansowego.  
+Powyższa ocena obejmowała w szczególności ocenę wpływu na działalność Grupy: zagadnień klimatycznych oraz wojny w Ukrainie. Analizy użyte do tej oceny obejmowały wiele czynników, które mogą ulec zmianie w przyszłości. Analiza zagadnień klimatycznych przedstawiona jest w nocie 5.3 skonsolidowanego sprawozdania finansowego Grupy za rok 2024 opublikowanego w dniu 27 marca 2025 roku. Pomiędzy 27 marca 2025 roku a datą publikacji niniejszego sprawozdania nie wystąpiły nowe, istotne czynniki, które mogłyby spowodować, iż powyższe analizy przestałyby być aktualne.  
+Opis wpływu wojny w Ukrainie na działalność Grupy przedstawiono szczegółowo w nocie 5.2 skonsolidowanego sprawozdania finansowego Grupy Kęty S.A. za rok 2024. Do dnia publikacji niniejszego sprawozdania, nie wystąpiły nowe czynniki ani zdarzenia mające istotny wpływ na działalność Grupy z tego tytułu.
+
+## **4. Istotne zasady (polityki) rachunkowości**
+Zasady (polityki) rachunkowości zastosowane do sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego są spójne z tymi, które zastosowano przy sporządzaniu skonsolidowanego sprawozdania finansowego Grupy za rok zakończony 31 grudnia 2024 roku. Śródroczne skrócone skonsolidowane sprawozdanie finansowe nie obejmuje wszystkich informacji oraz ujawnień wymaganych w rocznym skonsolidowanym sprawozdaniu finansowym i należy je czytać łącznie ze skonsolidowanym sprawozdaniem finansowym Grupy za rok zakończony 31 grudnia 2024 roku, które zostało opublikowane w dniu 27 marca 2025 roku.  
+Nowe i zmienione standardy i interpretacje:  
+Z dniem 1 stycznia 2025 roku weszły w życie zmiany do MSR 21, dotyczące sposobu oceny, czy dana waluta jest wymienialna na inną walutę, a także zasad ustalania kursu wymiany w przypadku braku takiej wymienialności. Zmiany te obowiązują dla okresów rozpoczynających się 1 stycznia 2025 roku lub później. Do dnia publikacji niniejszego skróconego skonsolidowanego sprawozdania finansowego zmiany zostały zatwierdzone do stosowania przez Unię Europejską i nie mają wpływu na niniejsze sprawozdanie.
+
+## _**Wpływ reformy międzynarodowego systemu podatkowego: filar II projektu BEPS 2.0**_
+Filar 2 projektu BEPS 2.0 wprowadził ogólne ramy globalnego podatku minimalnego zatwierdzonego w ramach prac na forum OECD (dalej: Ramy OECD). W przypadku państw członkowskich Unii Europejskiej, pierwszym etapem wprowadzenia nowych reguł było przyjęcie Dyrektywy Rady UE 2022/2523 z dnia 14 grudnia 2022 roku w sprawie zapewnienia globalnego minimalnego poziomu opodatkowania międzynarodowych grup przedsiębiorstw oraz dużych grup krajowych w Unii Europejskiej (dalej: Dyrektywa).  
+W przypadku Polski, przepisy Dyrektywy zostały zaimplementowane do krajowego systemu prawnego ustawą z dnia 6 listopada 2024 roku o opodatkowaniu wyrównawczym jednostek składowych grup międzynarodowych i krajowych. Polskie regulacje prawne nakładające obowiązki bezpośrednio na podmioty zobowiązane, weszły w życie z dniem 1 stycznia 2025 roku z możliwością dobrowolnego zastosowania od 1 stycznia 2024 roku. Grupa może być zobowiązana do zapłaty wyrównawczego podatku dochodowego, jeżeli w którejkolwiek z jurysdykcji, w której Grupa prowadzi działalność, efektywna stawka podatkowa obliczona zgodnie z przepisami BEPS osiągnie mniej niż 15%. Ponieważ jednostki Grupy są co do zasady zlokalizowane w jurysdykcjach charakteryzujących się wysokim poziomem opodatkowania, zgodnie z obecną wiedzą i osądem Grupy, ryzyko zapłaty istotnego podatku wyrównawczego w perspektywie najbliższych lat oceniane jest jako niskie. W niniejszym śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym nie ujęto istotnych kwot wynikających z reformy międzynarodowego systemu podatkowego - filar 2.

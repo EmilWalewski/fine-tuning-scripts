@@ -1,0 +1,31 @@
+DOKUMENT SEKCJA: **10.10. Kredyty, pożyczki, zobowiązania z tytułu leasingu finansowego oraz inne zobowiązania finansowe** | _**Wpływ reformy IBOR**_
+
+## **10.10. Kredyty, pożyczki, zobowiązania z tytułu leasingu finansowego oraz inne zobowiązania finansowe**
+| _w tysiącach złotych_ **Zobowiązania długoterminowe** | **30.06.2025** | **niebadane** | **31.12.2024** | **30.06.2024** | **niebadane** |
+| --- | --- | --- | --- | --- | --- |
+| Zabezpieczone kredyty i pożyczki | 3 038 603 | 3 423 881 | 2 492 077 |  |  |
+| Zobowiązania z tytułu dłużnych papierów wartościowych (niezabezpieczone) | 3 243 221 | 2 892 970 | 2 725 290 |  |  |
+| Zobowiązania z tytułu leasingu | 56 763 | 35 155 | 27 416 |  |  |
+| 6 338 587 **Zobowiązania krótkoterminowe** | 6 352 006 | 5 244 783 |  |  |  |
+| Zabezpieczone kredyty i pożyczki | 44 808 | 34 729 | 32 916 |  |  |
+| Zobowiązania z tytułu dłużnych papierów wartościowych (niezabezpieczone) | 143 793 | 216 732 | 218 128 |  |  |
+| Zobowiązania z tytułu leasingu | 14 261 | 23 084 | 28 711 |  |  |
+| 202 862 | 274 545 | 279 755 |  |  |  |
+_**Warunki oraz harmonogram spłat kredytów, pożyczek, dłużnych papierów wartościowych oraz leasingu**_  
+> _1 data zapadalności ostatniego zobowiązania_  
+> _2 oprocentowanie stałe_  
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## _**Wpływ reformy IBOR**_
+Po zakończeniu z dniem 1 lipca 2024 roku zbierania opinii w ramach procesu konsultacji publicznych. Komitet Sterujący Narodowej Grupy Roboczej na posiedzeniach w dniach 21 listopada 2024 roku oraz 6 grudnia 2024 roku przeprowadził dyskusję oraz podjął decyzję o wyborze propozycji indeksu o technicznej nazwie WIRF– jako docelowego wskaźnika referencyjnego stopy procentowej, który miałby zastąpić wskaźnik referencyjny WIBOR. Komitet Sterujący Narodowej Grupy Roboczej podjął w dniu 24 stycznia 2025 roku decyzję, o wyborze docelowej nazwy POLSTR (Polish Short Term Rate) dla propozycji indeksu o technicznej nazwie WIRF– . W dniu 28 marca 2025 roku Komitet Sterujący Narodowej Grupy Roboczej ds. reformy wskaźników referencyjnych (KS NGR), zaakceptował zaktualizowaną Mapę Drogową procesu zastąpienia wskaźników referencyjnych WIBOR i WIBID. Zgodnie z ostatnią aktualizacją z prac NGR, w 2026 roku nastąpi weryfikacja przesłanek do wystąpienia zdarzenia regulacyjnego zdefiniowanego w artykule 23c ust. 1 Rozporządzenia BMR. Wystąpienie zdarzenia regulacyjnego zainicjuje ustawową procedurę skutkującą wydaniem Rozporządzenia Ministra Finansów, w którym wskazany będzie zamiennik kluczowego wskaźnika referencyjnego WIBOR, jak również spread korygujący oraz data, od której zamiennik będzie stosowany. Rozporządzenie wejdzie w życie po upływie vacatio legis, który zapewni odpowiedni okres na dostosowanie się do treści regulacji. Celem procesu reformy wskaźników referencyjnych w Polsce jest bezpieczne i sprawne przejście do stosowania nowego typu wskaźnika referencyjnego od końca grudnia 2027 roku.  
+Zgodnie z najlepszą wiedzą Grupa nie spodziewa się istotnego wpływu reformy IBOR na swoje zobowiązania finansowe, jednak nie może jednoznacznie określić jej wpływu, ponieważ nie wszystkie rozwiązania systemowe i regulacyjne związane z reformą zostały wypracowane. Grupa prowadzi działania w celu zapewnienia gotowości do zmiany wskaźników referencyjnych w zawartych instrumentach finansowych w przypadku zaprzestania publikacji stopy WIBOR. W szczególności, Grupa stale monitoruje zmiany regulacyjne w zakresie wskaźników referencyjnych oraz negocjuje zmiany do Umów Ramowych i kredytowych, pod którymi odpowiednio zawarte są instrumenty zabezpieczające i udzielone spółkom z Grupy kredyty bankowe, w celu uwzględnienia optymalnych procedur pozwalających na przejście na alternatywny wskaźnik referencyjny w momencie, w którym zastąpi on wskaźnik referencyjny WIBOR.  
+Wartość poszczególnych pozycji, dla których wskaźnikiem referencyjnym jest WIBOR, przedstawiono poniżej:  
+| _w tysiącach złotych_ | **30.06.2025** | **31.12.2024** | **30.06.2024** |
+| --- | --- | --- | --- |
+| **niebadane** **Wartość bilansowa zobowiązań finansowych, dla których** **wskaźnikiem referencyjnym jest WIBOR** |  | **niebadane** |  |
+| Kredyty i pożyczki zabezpieczone na majątku Grupy | 623 033 | 807 016 | 469 886 |
+| Zobowiązania z tytułu dłużnych papierów wartościowych (niezabezpieczone) | 2 608 915 | 2 326 523 | 2 153 253 |
+| Zobowiązania z tytułu leasingu **Wartość nominalna instrumentów zabezpieczających, dla** **których wskaźnikiem referencyjnym jest WIBOR** | 1 767 | 2 958 | 4 813 |
+| CIRS | 2 330 000 | 1 957 500 | 1 832 500 |
+| IRS | - | - | 165 000 |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_

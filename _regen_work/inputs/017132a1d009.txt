@@ -1,0 +1,38 @@
+DOKUMENT SEKCJA: Główny Dokument
+
+1<br>_Raport kwartalny – Wybrane dane finansowe do skróconego śródrocznego skonsolidowanego sprawozdania finansowego_  
+_Raport kwartalny – Wybrane dane finansowe do skróconego śródrocznego skonsolidowanego sprawozdania finansowego_  
+2<br>## **Wybrane dane finansowe**  
+| **Wybrane dane finansowe** | **Kwoty w tys. PLN** | **Kwoty w tys. PLN** | **Kwoty w** | **tys. EUR** |
+| --- | --- | --- | --- | --- |
+| **01.01.2025-** | **01.01.2024-** | **01.01.2025-** | **01.01.2024-** |  |
+| **Za okres** | **31.12.2025** | **31.12.2024** | **31.12.2025** | **31.12.2024** |
+| **niebadane** |  | **niebadane** |  |  |
+| Przychody ze sprzedaży | 3 190 651 | 2 907 553 | 753 009 | 675 515 |
+| Zysk na działalności operacyjnej | 1 577 786 | 1 412 434 | 372 365 | 328 153 |
+| Zysk przed opodatkowaniem | 1 136 074 | 1 010 405 | 268 119 | 234 749 |
+| Zysk netto Akcjonariuszy Jednostki Dominującej | 1 085 008 | 1 073 954 | 256 067 | 249 513 |
+| Środki pieniężne netto z działalności operacyjnej | 293 325 | (499 135) | 69 226 | (115 965) |
+| Zakup pakietów wg cen wynikających z umowy | 2 222 932 | 2 827 896 | 524 623 | 657 009 |
+| Wpłaty od osób zadłużonych | 3 919 748 | 3 536 311 | 925 080 | 821 595 |
+| Środki pieniężne netto z działalności inwestycyjnej | (83 927) | (36 409) | (19 807) | (8 459) |
+| Środki pieniężne netto z działalności finansowej | (211 559) | 361 873 | (49 929) | 84 074 |
+| Zmiana stanu środków pieniężnych netto | (2 161) | (173 671) | (510) | (40 349) |
+| Rozwodniony zysk na jedną akcję (w PLN/EUR) | 52,99 | 52,43 | 12,51 | 12,18 |
+| Średnia liczba akcji (w tys. szt) | 19 403 | 19 338 | 19 403 | 19 338 |
+| Zysk na jedną akcję (w PLN/EUR) | 55,92 | 55,54 | 13,20 | 12,90 |
+| **Stan na** | **31.12.2025** | **31.12.2024** | **31.12.2025** | **31.12.2024** |
+| **niebadane** |  | **niebadane** |  |  |
+| Aktywa razem | 13 032 173 | 11 648 879 | 3 083 297 | 2 726 159 |
+| Zobowiązania długoterminowe | 7 075 799 | 6 504 482 | 1 674 072 | 1 522 228 |
+| Zobowiązania krótkoterminowe | 629 910 | 615 740 | 149 031 | 144 100 |
+| Kapitał własny | 5 326 464 | 4 528 657 | 1 260 194 | 1 059 831 |
+| Kapitał akcyjny | 19 492 | 19 382 | 4 612 | 4 536 |
+| Wartość księgowa na jedną akcję zwykłą | 273,26 | 233,65 | 64,65 | 54,68 |
+**Wybrane dane finansowe przeliczono na walutę EUR w następujący sposób:**  
+Pozycje dotyczące sprawozdania z zysków i strat oraz sprawozdania z przepływów pieniężnych przeliczono według kursu stanowiącego średnią arytmetyczną średnich kursów ogłaszanych przez NBP, obowiązujących na ostatni dzień każdego miesiąca danego okresu, kurs ten wyniósł:  
+**za okres bieżący 4,2372 za okres porównawczy 4,3042**  
+Pozycje sprawozdania z sytuacji finansowej przeliczono według średniego kursu ogłoszonego przez NBP, obowiązującego na koniec okresu sprawozdawczego, kurs ten wyniósł:  
+**na koniec okresu bieżącego 4,2267 na koniec okresu porównawczego 4,2730**  
+**Skrócone śródroczne skonsolidowane sprawozdanie finansowe** za okres od 1 stycznia 2025 roku do 31 grudnia 2025 roku  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_

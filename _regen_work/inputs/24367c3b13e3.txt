@@ -1,0 +1,90 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 >
+
+• dokonywano na podstawie wyników tej jednostki. Przy niższej frekwencji stosowano
+• wyniki zagregowane dla całej Grupy XTB.
+• W tej kategorii wliczono emisje bezpośrednie z spalania paliw oraz do produkcji zużytej
+• energii elektrycznej, ale także emisje pośrednie dla tych źródeł, czyli emisje WTT oraz
+• emisje bezpośrednie i WTT ze strat na przesyle energii elektrycznej.
+• Według GHG Protocol emisje WTT dla tej Kategorii nie muszą, ale mogą być
+• uwzględnianie, natomiast w wyliczeniach dla Grupy Kapitałowej XTB S.A. zostały one
+• wliczone.
+• **Kategoria 8**
+• Ze względu na przyjęte granice organizacyjne, emisje związane z obsługą wynajętych
+• aktywów są już uwzględniane w Zakresie 1 i Zakresie 2.
+• **Kategoria 9**
+• Grupa Kapitałowa XTB S.A. nie prowadzi działalności związanej z transportem produktów
+• do klientów, stąd ta kategoria jej nie dotyczy.
+• **Kategoria 10**
+• Kategoria ta nie dotyczy działalności Grupy Kapitałowej XTB S.A., ponieważ firma nie zajmuje
+• się produkcją ani sprzedażą towarów wymagających dalszego przetwarzania przez klientów.
+• **Kategoria 11: Użytkowanie sprzedanych produktów**
+• Emisje zostały obliczone zgodnie z międzynarodowym standardem ICT7, bazując
+• na rzeczywistych danych dotyczących użytkowania aplikacji, zebranych w 2025 roku.
+• Dane wejściowe na których zostały oparte wyliczenia zawierają średni czas
+• zalogowania użytkownika z poszczególnych krajów, z podziałem na interfejsy: aplikacja
+• mobilna i platforma xStation (interfejs webowy). Przeprowadzone analizy, które odbyły
+• W przypadku braku danych dokonano szacunków na podstawie danych archiwalnych
+• lub danych dotyczących tej frakcji odpadów z innych spółek. Średnia ilość odpadów
+• przypadająca na jednego pracownika została przemnożona przez liczbę pracowników.
+• W przypadku braku informacji dotyczącej sposobu zagospodarowania dla frakcji
+• odpadów komunalnych bioodpady oraz odpady komunalne zmieszane, przyjęto
+• konserwatywne podejście, że te frakcje odpadów są składowane na wysypisku.
+• W przypadku podania wartości elektroodpadów w jednostce litr przeliczono to na
+• jednostkę kilogram z uwzględnieniem gęstości elektroodpadów, która pochodzi z bazy
+• SEPA.
+• Dla elektroodpadów takich jak: sprzęt elektroniczny, laptopy, monitory i PC
+• zastosowano średnie wskaźniki emisji na utylizację produktów pochodzące z informacji
+• podanych w kartach EPD urządzeń elektronicznych, które zostały zakupione w roku
+• 2025 roku przez wszystkie oddziały i spółki XTB S.A. Natomiast dla pozostałych
+• elektroodpadów zastosowano wskaźniki emisyjności podane z bazy DEFRA 2025.
+• **Kategoria 6: Podróże służbowe**
+• W niektórych spółkach w obliczeniach za podróże uwzględniono dane na podstawie kont
+• kosztowych. W związku z tym podane kwoty nie są we wszystkich przypadkach kwotami
+• netto, tak jak tego wymaga standard GHG Protocol.
+• **Kategoria 7: Dojazdy pracowników**
+• Emisje w tej kategorii zostały obliczone na podstawie ankiety o dojazdach i pracy zdalnej
+• przeprowadzonej w 2025 roku, którą uzupełniali pracownicy Grupy XTB.
+• 51% pracowników wypełniło ankietę dotyczącą dojazdów do pracy, a następnie zebrane
+• dane zostały ekstrapolowane na wszystkich pracowników. W przypadku gdy poziom
+• odpowiedzi w danej spółce/ oddziale wynosił co najmniej 20%, ekstrapolacji
+• **Kategoria 12**
+• Zgodnie ze standardem ICT Sector Guidance built on the GHG Protocol Product Life Cycle Accounting and Reporting Standard, emisje związane z końcem życia oprogramowania są uwzględniane jedynie w przypadku, gdy oprogramowanie było dystrybuowane na nośnikach fizycznych, a emisje związane z końcem życia tych nośników powinny być brane pod uwagę. Grupa XTB nie udostępnia oprogramowania w formie fizycznej, stąd ta kategoria emisji jej nie dotyczy.
+• **Kategoria 13**
+• Grupa Kapitałowa XTB S.A. nie prowadzi działalności związanej z wynajęciem aktywów, stąd ta kategoria nie dotyczy Grupy.
+• **Kategoria 14**
+• Grupa Kapitałowa XTB S.A. nie prowadzi działalności franczyzowej, dlatego emisje związane
+• z franczyzą nie dotyczą Grupy.
+• **Kategoria 15**
+• W ramach działalności Grupy Kapitałowej XTB S.A., akcje spółek są kupowane powierniczo,
+• do których ich prawa są przydzielane klientom jako prawa ułamkowe. Grupa Kapitałowa XTB
+• S.A. zgodnie z umową przyjmuje zlecenie zakupu praw ułamkowych i zobowiązuje się do
+• nabycia całej akcji spółki, którą wybrał klient. Dzięki temu klient ma możliwość czerpać pożytki
+• proporcjonalnie do części akcji. Tym samym Grupa Kapitałowa XTB S.A. nie ma możliwości
+• selekcji spółek i zarządzania portfelem, ponieważ są one wynikiem transakcji klientów
+• Oprogramowanie (software): W przypadku systemów operacyjnych, aplikacji czy platform internetowych
+• emisje szacuje się na bieżąco
+• się oddzielnie dla klientów indywidualnych i detalicznych, odnoszą się tylko
+• do wspomnianego rocznego8 okresu, co oznacza, że wyniki reprezentują emisje powiązane wyłącznie z tym czasem. W przypadku urządzeń z systemami operacyjnymi Linux, Macintosh lub Windows przyjmujemy, że użytkownik korzysta z komputera stacjonarnego i monitora, ponieważ laptopy cechują się znacznie niższym zużyciem energii elektrycznej. Nie dysponujemy danymi o rzeczywistym udziale laptopów na rynku, więc stosujemy podejście konserwatywne i zakładamy użycie zestawu PC plus monitor.
+• W przypadku telefonów, ze względu na brak danych dotyczących zużycia energii
+• elektrycznej w trakcie użytkowania, wyznaczyliśmy średnie wartości dla poszczególnych
+• systemów operacyjnych. Następnie obliczyliśmy średnią ważoną, biorąc pod uwagę udział każdego systemu w globalnym rynku telefonów. Tą samą procedurę
+• zastosowaliśmy do określenia średniego zużycia energii elektrycznej dla tabletów.
+• Ze względu na brak szczegółowych informacji dotyczących zużycia energii elektrycznej
+• przez urządzenia użytkowników końcowych podczas korzystania z aplikacji, przyjęto
+• założenie, że zużycie energii elektrycznej przypisane aplikacji jest równe całkowitemu
+• zużyciu energii przez urządzenie. Do tej kategorii wliczono również emisje wynikające z
+• przesyłu danych, przy czym średni przesył danych na sesję określono na podstawie
+• przeprowadzonego testu.
+• Zgodnie z „Corporate Value Chain (Scope 3) Accounting and Reporting Standard”
+• emisje zgłaszane przez firmę raportującą w Kategorii 11, które powstają w wyniku
+• użytkowania sprzedanych produktów, obejmują emisje Zakresu 1 i Zakresu 2
+• użytkowników końcowych. W związku z tym, w tej Kategorii nie uwzględniono emisji
+• WTT.
+• 8 Zgodnie ze standardem ICT, emisje dla produktów informatycznych oblicza się w różnych przedziałach czasowych,
+• zależnie od ich rodzaju:
+• Sprzęt (hardware): Emisje dla serwerów, komputerów, laptopów, smartfonów i tabletów liczone są w
+• okresie odpowiadającym średniej długości użytkowania (zwykle 2–5 lat), wynikającej z fizycznej
+• żywotności i typowego cyklu wymianyurządzeń.
+
+| Podczas przeliczeń emisji Grupy XTB dokonano szacowania danych w następujących | zakresach i kategoriach: Zakres 1 (spalanie stacjonarne, emisje niezorganizowane), Zakres | 2 (energia elektryczna, ciepło sieciowe), Zakres 3 kat. 1 (zużycie wody), Zakres 3 kat. 5 (generowane odpady) oraz Zakres 3. kat 7 (dojazdy pracowników do pracy oraz praca zdalna). Wyliczenia emisji gazów cieplarnianych nie podlegają zatwierdzeniu niezależnej jednostki zewnętrznej z wyjątkiem atestacji zrównoważonego rozwoju. Wyliczenia zostały zrealizowane z ekspertem zewnętrznym, który certyfikował zrealizowane kalkulacje jako potwierdzenie ich poprawności. | **E1-6 / MDR-M** W 2025 roku 100% zużytej energii elektrycznej w Centrali XTB, pochodziło | z odnawialnych źródeł energii (energia wiatru), co zostało potwierdzone gwarancjami | pochodzenia energii Towarowej Giełdy Energii. W 2025 roku udział zużycia zakupionej | z zewnątrz energii elektrycznej pochodzącej ze źródeł odnawialnych wyniósł 11,3% | w całkowitym zużyciu zakupionej z zewnątrz energii elektrycznej Grupy XTB (-2,9 p.p. r/r). |  | Zarówno zakupiona energia elektryczna jak i energia pochodząca z OZE pochodziły od tego | samego dostawcy. Ani Zarządca biurowca Skyliner, gdzie mieści się Centrala XTB S.A., ani Grupa XTB nie odsprzedają energii na rzecz podmiotów trzecich. Dane dotyczące zużycia energii elektrycznej w Grupie XTB, zebrane na potrzeby wyliczeń emisji gazów | cieplarnianych w 2025 roku, zostały także wykorzystane do monitorowania | zidentyfikowanego istotnego wpływu Grupy XTB na klimat i środowisko związanego | z energochłonną infrastrukturą IT. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

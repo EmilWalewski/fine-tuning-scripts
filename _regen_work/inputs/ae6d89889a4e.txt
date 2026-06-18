@@ -1,0 +1,96 @@
+DOKUMENT SEKCJA: **3. Strategia rozwoju** | **4. Struktura Grupy** | **Czynniki wpływające na wyniki finansowe i operacyjne** | **ZRÓWNOWAŻONY ROZWÓJ**
+
+## **Czynniki wpływające na wyniki finansowe i operacyjne**
+W model biznesowy XTB wpisana jest duża zmienność przychodów z okresu na okres. Na wyniki operacyjne i finansowe Grupy wpływ mają przed wszystkim:  
+liczba aktywnych klientów  kwota depozytów<br>wolumen transakcji na<br>konkurencja na rynku<br>instrumentach finansowych<br>FX/CFD<br>zawieranych przez klientów<br>ogólne warunki rynkowe,<br>zmienność na rynkach<br>geopolityczne I gospodarcze<br>finansowych i towarowych  §<br>otoczenie regulacyjne<br>Model biznesowy stosowany przez XTB łączy w sobie cechy modelu agencyjnego oraz modelu market maker, w którym Spółka jest stroną transakcji zawieranych i inicjowanych przez klientów. XTB nie angażuje się, sensu stricto, w transakcje realizowane na własny rachunek w oczekiwaniu na zmiany cen lub wartości instrumentów bazowych (tzw. proprietary trading). Stosowany przez XTB hybrydowy model biznesowy wykorzystuje też model agencyjny. Dla przykładu na większości instrumentów CFD opartych o kryptowaluty, XTB zabezpiecza te transakcje z partnerami zewnętrznymi, przestając praktycznie być drugą stroną transakcji (oczywiście z prawnego punktu widzenia nadal jest to XTB). W pełni zautomatyzowany przyjęty w Spółce proces zarządzania ryzykiem ogranicza ekspozycję na zmiany rynkowe oraz zmusza do zabezpieczania pozycji w celu utrzymywania właściwych poziomów wymogów kapitałowych.  
+Dodatkowo, XTB realizuje bezpośrednio na rynkach regulowanych lub w alternatywnych systemach obrotu wszystkie transakcje na akcjach i ETP oraz na instrumentach CFD opartych o te aktywa. XTB nie jest market makerem dla tej klasy instrumentów.  
+Co do zasady, na przychody Grupy pozytywnie wpływa wyższa aktywność rynków finansowych i towarowych z uwagi na to, że w takich okresach obserwuje się wyższy poziom obrotów realizowanych przez klientów Grupy oraz wyższą rentowność na lota. Korzystne dla Spółki są okresy występowania wyraźnych i długich trendów rynkowych i właśnie w takich momentach osiąga najwyższe przychody. W związku z tym, wysoka aktywność rynków finansowych i towarowych prowadzi co do zasady do zwiększonego wolumenu obrotów na platformach transakcyjnych Grupy. Natomiast spadek tej aktywności oraz związany z tym spadek aktywności transakcyjnej klientów Grupy prowadzi w głównej mierze do zmniejszenia przychodów operacyjnych Grupy.  
+67  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Z uwagi na powyższe, przychody operacyjne i rentowność Grupy mogą spadać w okresach niskiej aktywności rynków finansowych i towarowych. Ponadto, może pojawić się bardziej przewidywalny trend, w którym rynek porusza się w ograniczonym zakresie cenowym. Prowadzi to do powstania tendencji rynkowych, dających się przewidzieć z wyższym prawdopodobieństwem niż w przypadku większych kierunkowych ruchów na rynkach, co tworzy sprzyjające warunki do transakcji zawieranych w wąskim zakresie rynku (ang. _range trading_ ). W takim przypadku obserwuje się większą liczbę transakcji przynoszących zyski klientom, co prowadzi do obniżenia wyniku Grupy z tytułu _market making_ .  
+Zmienność oraz aktywność rynków wynikają z szeregu czynników zewnętrznych, z których część jest charakterystyczna dla rynku, a część może być powiązana z ogólnymi warunkami makroekonomicznymi, co w istotny sposób może na przychody osiągane przez Grupę w kolejnych kwartałach. Jest to charakterystyczne dla modelu biznesowego Grupy.
+
+## **3. Strategia rozwoju**
+Strategia rozwoju Grupy XTB opiera się na pięciu filarach, których celem jest budowa silnej marki, cenionej przez klientów na całym świecie. XTB zamierza systematycznie wzmacniać swoją pozycję rynkową poprzez tworzenie zróżnicowanej oferty produktowej, atrakcyjnej dla inwestorów o różnych preferencjach, zasobach finansowych oraz poziomie wiedzy i doświadczenia.  
+Jako dynamicznie rozwijający się fintech oraz organizacja świadoma swojego wpływu na otoczenie, Grupa XTB uwzględnia w swojej strategii biznesowej kryteria zrównoważonego rozwoju ESG (Environmental, Social, and Governance), integrując je z działalnością operacyjną. W 2024 roku XTB przyjęło Strategię ESG na lata 2024–2027, co stanowi ważny krok w kierunku realizacji odpowiedzialnego i trwałego rozwoju.
+
+## **ZRÓWNOWAŻONY ROZWÓJ**
+- Odpowiedzialne praktyki zarządcze  
+- Regulowana działalność  
+- Zarządzanie ryzykiem  
+- Dalsza ekspansja geograficzna na nowe rynki, w tym w Ameryce Łacińskiej i w Azji  
+- Odpowiedzialne praktyki płatnicze  
+- Rozwój technologii i portfolio produktów  
+- Dalszy rozwój i wzmacnianie segmentu klientów instytucjonalnych poprzez X Open Hub  
+- Rozszerzanie oferty produktów i usług Grupy, rozwój innowacji technologicznych  
+- Odpowiedzialny marketing  
+- Transparentna komunikacja  
+- ▪ Edukacja finansowa  
+- Etyka w biznesie  
+- Uczciwa konkurencja  
+- Dojrzała kultura organizacyjna  
+- Rozwój poprzez przejęcia, fuzje i wspólne przedsięwzięcia  
+- Prawa człowieka i konkurencyjne warunki zatrudnienia  
+- Rozwój pracowników i budowanie kompetencji  
+- Różnorodność i elastyczność  
+68  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## **4. Struktura Grupy**
+Grupę Kapitałową XTB tworzą:  
+- spółka XTB S.A., będąca jednostką dominującą,  
+- 7 oddziałów zagranicznych XTB S.A. oraz  
+- 12 spółek zależnych.  
+jednostka<br>dominująca<br>7  oddziałów zagranicznych  12  spółek  zależnych<br>Oddziały XTB S.A. i spółki zależne pełnią kluczową rolę w realizacji strategii ekspansji międzynarodowej oraz wspierają działalność operacyjną Grupy. Są one zlokalizowane w strategicznych centrach finansowych Europy, Ameryki Łacińskiej i Bliskiego Wschodu, umożliwiając bezpośrednią obsługę klientów w tych regionach. W strukturze Grupy znajdują się między innymi podmioty odpowiedzialne za rozwój technologii, wsparcie operacyjne, marketing oraz compliance.  
+Dzięki zasadzie jednolitego paszportu europejskiego, wynikającej z Dyrektywy MiFID II, Spółka prowadzi działalność w formie oddziału na podstawie i w ramach zezwolenia udzielonego przez KNF w następujących państwach członkowskich UE: Czechy, Hiszpania, Słowacja, Rumunia, Niemcy, Francja oraz Portugalia. Jej działalność jest regulowana i podlega nadzorowi właściwych organów na rynkach, na których Grupa prowadzi działalność, w tym w krajach UE, na podstawie tzw. jednolitego paszportu europejskiego.  
+Dodatkowo Spółka posiada udziały w podmiotach, działających obecnie na podstawie odrębnych zezwoleń, na prowadzenie działalności maklerskiej wydanych przez organy nadzoru w zagranicznych jurysdykcjach.  
+Oddziały zagraniczne XTB S.A.  
+Na terenie Europy XTB prowadzi swoją działalność operacyjną za pośrednictwem 7 oddziałów zagranicznych, co obrazuje przedstawiony poniżej schemat.  
+Spółki zależne XTB S.A.  
+Na dzień 30 września 2025 roku w skład Grupy Kapitałowej XTB S.A. wchodziło 12 spółek zależnych, co zostało zaprezentowane na poniższym schemacie.  
+69  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+W dnu 23 września 2025 r. został zakończony proces likwidacji spółki XTB Digital Ltd. z siedzibą na Cyprze ze skutkiem na wskazany dzień.  
+| **Udział XTB** |
+| **Nazwa spółki zależnej** **Kraj** **w spółce** **Informacje dodatkowe** |
+| **zależnej** |
+| XTB Limited Wielka Brytania 100% Spółka świadczy usługi maklerskie w oparciu o uzyskane zezwolenie, wydane przez FCA (_Financial_ _Conduct Authority_), licencja nr: FRN 522157. |
+| Spółka świadczy usługi maklerskie w oparciu |
+| XTB Limited Cypr 100% o uzyskane zezwolenie, wydane przez CySEC (_Cyprus_ _Securities and Exchange Commission_), licencja nr: |
+| 169/12. |
+| Spółka świadczy usługi maklerskie w oparciu |
+| XTB International Limited Belize 100% o uzyskane zezwolenie, wydane przez IFSC (_International Financial Service Commission_), obecnie |
+| FSC(_Financial Services Commission_). |
+| Zjednoczone Spółka świadczy usługi maklerskie na podstawie |
+| XTB MENA Limited Emiraty 100% licencji otrzymanej od DFSA (_Dubai Financial Services_ |
+| Arabskie _Authority_). |
+| Spółka świadczy usługi maklerskie na podstawie licencji Agenta Papierów Wartościowych i wpisu nr 216 do Rejestru Brokerów Giełdowych i Agentów Papierów |
+| XTB Agente de Valores SpA y Agentes de Valores)prowadzonego przez Komisję do spraw Rynku Finansowego (_COMISIÓN PARA EL_ Chile 100% Wartościowych (esp.Registro de Corredores de Bolsa |
+| _MERCADO FINANCIERO_). |
+| XTB Financial Consultation L.L.C. Zjednoczone Emiraty Arabskie 100% Spółka prowadzi działalność maklerską na podstawie licencji przyznanej przez SCA (_Securities and_ _Commodities Authority_). |
+| Spółka prowadzi działalność maklerską na podstawie |
+| PT XTB Indonesia Berjangka Indonezja 90% Licencji PALN, wydanej przez urząd Bappebti |
+| Indonesia. |
+| Spółka zajmuje się pozyskiwaniem, utrzymywaniem relacji, negocjowaniem i zawieraniem umów z |
+| XTB Services Limited audytów oraz zarządzanie procesami płatności dla Cypr 100% partnerami. Ponadto jest odpowiedzialna za nadzór procesu onboardingu partnerów, przeprowadzanie |
+| ~~partnerów~~ |
+70  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+| **Udział XTB** |
+| **Nazwa spółki zależnej** **Kraj** **w spółce** **Informacje dodatkowe** |
+| **zależnej** |
+| Głównym przedmiotem działalności spółki jest |
+| X Open Hub Sp. z o.o. oraz technologii transakcyjnej. Polska 100% dostarczenie klientom aplikacji elektronicznych |
+| 99,9% bezpośrednio; Spółka otrzymała od FSA (_Financial_ _Services_ |
+| XTB S.C. Limited Republika Seszeli 0,1% pośrednio przez _Authority_) licencję nr SD148 na prowadzenie działalności w Republice Seszeli. Na datę przekazania niniejszego Raportu spółka |
+| XTB Services nie prowadziła działalności operacyjnej. |
+| Limited (Cypr) |
+| Od sierpnia 2021 roku spółka posiada licencję FSCA |
+| Republika (_Financial Sector Conduct Authority_) na prowadzenie |
+| XTB Africa (PTY) Ltd. Południowej 100% działalności w RPA. |
+| Afryki nie prowadziła działalności operacyjnej. Na datę przekazania niniejszego Raportu spółka |
+| Tasfiye Halinde XTB Yönetim Danışmanlığı A.Ş. Turcja 100% Na datę przekazania niniejszego Raportu spółka nie prowadziła działalności operacyjnej. Od września 2020 roku trwa proces likwidacji spółki. |

@@ -1,0 +1,55 @@
+DOKUMENT SEKCJA: **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **3.3 UJAWNIANIE INFORMACJI ZGODNIE Z ART. 8 ROZPORZĄDZENIA 2020/852** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **Obrót** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **Polityka rachunkowości** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **Wydatki operacyjne (OpEx)**
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **3.3 UJAWNIANIE INFORMACJI ZGODNIE Z ART. 8 ROZPORZĄDZENIA 2020/852**
+Europejski Zielony Ład stanowi przyjęty przez Komisję Europejską w 2019 roku plan działania dotyczący finansowania zrównoważonego wzrostu gospodarczego. Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/852 z dnia 18 czerwca 2020 r. w sprawie ustanowienia ram ułatwiających zrównoważone inwestycje, zmieniające rozporządzenie (UE) 2019/2088, stanowi narzędzie jednolitej klasyfikacji zrównoważonej działalności (dalej: „Taksonomia środowiskowa UE”, „Taksonomia UE”, „Taksonomia”).  
+Aktem Delegowanym określającym techniczne kryteria kwalifikacji jest Rozporządzenie Delegowane Komisji (UE) 2021/2139 z dnia 4 czerwca 2021 r., które zostało zaktualizowane przez Rozporządzenie Delegowane Komisji (UE) 2023/2485 z dnia 27 czerwca 2023 r. W 2023 roku przyjęto również Rozporządzenie Delegowane Komisji (UE) 2023/2486 z dnia 27 czerwca 2023, uzupełniające Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2020/852 oraz zmieniające rozporządzenie delegowane Komisji (UE) 2021/2178 oraz Rozporządzenie 2026/73 z dnia 4 lipca 2025 r. Natomiast Aktem Delegowanym w zakresie działalności związanej z energią jądrową i gazem ziemnym jest Rozporządzenie Delegowane Komisji (UE) 2022/1214 z dnia 9 marca 2022 r.  
+W ramach raportowania ujawnień dotyczących Taksonomii UE oceniana jest kwalifikowalność i zgodność z taksonomią.  
+Weryfikacja kwalifikowalności wymaga oceny działalności gospodarczej pod kątem opisów działalności przypisanych do sześciu celów środowiskowych:  
+dana inwestycja jest zrównoważona środowiskowo, musi ona spełniać łącznie cztery warunki:  
+1. wnosić znaczący wkład ( _Significant Contribution_ ) do co najmniej jednego z sześciu ww. celów środowiskowych;  
+2. nie wyrządzać poważnych szkód dla żadnego z celów środowiskowych (zasada _DNSH – Do No Significant Harm_ );  
+3. być prowadzona zgodnie z Minimalnymi Gwarancjami ( _Minimum Safeguards_ );  
+4. spełniać techniczne kryteria kwalifikacji (TKK).  
+Kryteria dotyczące istotnego wkładu w realizację co najmniej jednego z sześciu celów środowiskowych oraz zasady „nie czyń poważnych szkód” zostały zdefiniowane poprzez techniczne kryteria kwalifikacji określone w Rozporządzeniu wykonawczym 2026/73 oraz aktach delegowanych do Taksonomii (Rozporządzenie Delegowane 2021/2139, Rozporządzenie Delegowane 2022/1214, Rozporządzenie Delegowane 2023/2486, Rozporządzenie Delegowane 2023/2485 oraz Rozporządzenie Delegowane 2020/852).  
+Obowiązkowe ujawnienia przedsiębiorstw niefinansowych dotyczą kluczowych wskaźników wyników, które odnoszą się do procentowego udziału działalności zgodnej z taksonomią, kwalifikującej się do taksonomii, ale niezgodnej z taksonomią, niekwalifikującej się do taksonomii oraz informacji towarzyszących. Procentowy udział działalności prezentowany jest w ramach trzech wskaźników:  
+- obrót,  
+- nakłady inwestycyjne (CapEx),  
+- wydatki operacyjne (OpEx).  
+- łagodzenie zmian klimatu (CCM),  
+- adaptacja do zmian klimatu (CCA),  
+- zrównoważone wykorzystywanie i ochrona zasobów wodnych i morskich (WTR),  
+- przejście na gospodarkę o obiegu zamkniętym (CE),  
+- − zapobieganie zanieczyszczeniu i jego kontrola (PPC),  
+- ochrona i odbudowa bioróżnorodności i ekosystemów (BIO).  
+Aby dana działalność gospodarcza kwalifikowała się jako zrównoważona środowiskowo zgodnie z unijną taksonomią, na podstawie której określany jest stopień, w jakim
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **Polityka rachunkowości**
+Przedsiębiorstwa niefinansowe są zobowiązane do wyjaśnienia w ramach ujawnienia zasad rachunkowości, sposobu w jaki został ustalony i przypisany do licznika obrót, nakłady inwestycyjne oraz wydatki operacyjne.  
+Podstawą do kalkulacji wskaźnika obrotu, nakładów inwestycyjnych oraz wydatków operacyjnych były definicje określone w Załączniku I do Rozporządzenia Delegowanego Komisji UE 2021/2178. Do kalkulacji wskaźników dla Grupy zastosowano analogiczne zasady konsolidacji jak przy sporządzaniu sprawozdania finansowego.  
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+135  
+Dane wykorzystane do obliczeń pochodziły z systemu finansowo-księgowego Grupy Dom Development S.A. i z systemów finansowoksięgowych poszczególnych spółek zależnych wchodzących w skład Grupy. Grupa zastosowała mechanizmy w celu uniknięcia podwójnego liczenia podczas przypisywania obrotu, nakładów inwestycyjnych oraz wydatków operacyjnych poprzez dokonanie stosownych wyłączeń konsolidacyjnych, zgodnie z obowiązującymi przepisami rachunkowości. W przypadku wydatków operacyjnych dokonano przeglądu wszystkich kont w systemie finansowo-księgowym Grupy, a następnie zidentyfikowane pozycje spełniające definicję OPEX przypisano każdorazowo do danego rodzaju działalności kwalifikującej się do taksonomii.
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **Obrót**
+Do mianownika KPI obrotu wliczono ogół przychodów ze sprzedaży wyrobów gotowych, sprzedaży usług oraz sprzedaży towarów, które stanowiły całkowite skonsolidowane przychody Grupy w roku 2025, ujawnione w skonsolidowanym sprawozdaniu finansowym w nocie 7.34 skonsolidowanego sprawozdania finansowego. Do licznika przypisano przychody z działalności kwalifikujących się do taksonomii, tj.:  
+- działalność 4.15 Dystrybucja w systemach ciepłowniczych/chłodzących  
+- działalność 7.1 Budowa nowych budynków  
+- działalność 7.7 Nabywanie i prawo własności budynków  
+- działalność 2.1 – Działalność związana z zakwaterowaniem  
+- działalność 5.1 – Działalność związana z budową, rozbudową i eksploatacją systemów poboru, uzdatniania i dostarczania wody  
+W przypadku KPI obrotu, całość przypisanego kwalifikującego się obrotu, dotyczyła przychodów z tytułu sprzedaży wyrobów gotowych i sprzedaży usług (MSSF 15). Z uwagi na charakter prowadzonych przez Grupę działalności, nie odnotowano w 2025 r. przypadków konsumpcji własnej.  
+W przypadku Grupy Dom Development do mianownika wliczamy sumę wartości wskazanych w: − nocie 7.6 wartości niematerialne (zwiększenia pozostałe) − nocie 7.7 rzeczowe aktywa trwałe (zwiększenia pozostałe).  
+Wartość w liczniku to powyższe nakłady inwestycyjne dotyczące działalności kwalifikującej się, w rozbiciu na poniższe działalności:  
+- Działalność 7.1 Budowa nowych budynków  
+- Działalność 6.5 Transport motocyklami, samochodami osobowymi i lekkimi pojazdami użytkowymi  
+- Działalność 7.7 Nabywanie i prawo własności budynków  
+Nakłady inwestycyjne poniesione przez Grupę w 2025 r. na działalności kwalifikujące się do taksonomii, dotyczyły gruntów i budynków, środków transportu oraz zwiększeń z tytułu praw do użytkowania.
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **Wydatki operacyjne (OpEx)**
+W odniesieniu do wydatków operacyjnych (OpEx) podstawę obliczenia mianownika stanowiły koszty związane z utrzymaniem aktywów w dobrym stanie oraz wynajmem krótkoterminowym, w tym: koszty serwisowania i napraw samochodów, koszty utrzymania budynków oraz koszty najmu/leasingu operacyjnego.  
+Wartość w liczniku to wydatki operacyjne dotyczące działalności kwalifikującej się, tj. nieskapitalizowane koszty związane z najmem (bez usług) sprzętu budowlanego i urządzeń biurowych wykorzystywanych podczas realizacji inwestycji oraz wynajmem kontenerów budowlanych. Wartości te prezentują spółki generalnych wykonawców realizujących działalność związaną z budową nowych budynków: Dom Construction oraz Euro Styl Construction, ponieważ w pozostałych spółkach nie zidentyfikowano wydatków kwalifikujących się do licznika.

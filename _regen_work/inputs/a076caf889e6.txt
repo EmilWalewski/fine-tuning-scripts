@@ -1,0 +1,146 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > 3.2 Segment Asseco International
+
+_* Przychody ze sprzedaży na rzecz klientów zewnętrznych segmentu oraz sprzedaż pomiędzy segmentami.
+
+** Zadłużenie na rzecz podmiotów spoza Grupy.
+
+EBIT = zysk z działalności operacyjnej.
+
+EBIT non-IFRS = EBIT skorygowany o koszt amortyzacji wartości niematerialnych rozpoznanych w ramach rozliczenia połączenia (PPA), o koszty transakcji z pracownikami rozliczane w formie instrumentów kapitałowych (SBP) oraz o przychody i koszty związane z transakcjami nabycia / sprzedaży spółek.
+
+EBITDA = EBIT + amortyzacja.
+
+CFO BT = środki pieniężne z działalności operacyjnej przed zapłaconym podatkiem dochodowym.
+
+CAPEX = wydatki na aktywa trwałe segmentu.
+
+FCF = |CFO BT|-|CAPEX|-|wydatki z tytułu leasingu|.
+
+Wskaźnik konwersji gotówki = (FCF) / (EBIT non-IFRS)._
+W I kwartale 2025 roku segment Asseco International wygenerował 10,8% wzrost przychodów, które wyniosły 1 058,3 mln PLN.
+
+Udział tego segmentu w skonsolidowanej sprzedaży osiągnął poziom 23%.
+
+Zysk operacyjny utrzymał się na podobnym poziomie i wyniósł 101,3 mln PLN.
+
+EBITDA wyniosła 152,3 mln PLN wobec 151,6 mln PLN w analogicznym okresie 2024 roku, co oznacza wzrost o 0,5%.
+
+I kwartał 2025 roku był okresem stabilnego rozwoju **Grupy Asseco Central Europe (Grupa ACE)** , która reprezentuje Asseco w regionie Europy Centralnej.
+
+W omawianym okresie **spółki ACE w Czechach i na Słowacji** realizowały projekty dla krajowych instytucji sektora publicznego.
+
+Dla Ministerstwa Spraw Wewnętrznych Republiki Czeskiej wdrażany jest system eSeL, składający się z platform cyfrowych e-Collection i e-Legislation i zapewniający dostęp do wszystkich przepisów prawnych w formie elektronicznej.
+
+System stanowi unikalne rozwiązanie w krajach UE i jest połączony z systemami Unii Europejskiej – EUR-Lex i N-Lex.
+
+Asseco Central Europe pracuje również nad rozwiązaniem National Integrated Ticketing (NICL), które umożliwi obywatelom podróżowanie po kraju na jednym bilecie.
+
+Od lipca 2026 roku słowaccy pasażerowie będą mogli korzystać z jednego biletu na wszystkie rodzaje publicznego transportu pasażerskiego (koleje, miejski transport publiczny i autobusy podmiejskie).
+
+Rozwiązanie będzie oparte na zintegrowanej platformie Metropolis, która umożliwi pasażerom korzystanie z jednego konta dla wszystkich środków transportu.
+
+Platforma jest skalowalna, oparta na chmurze i wielojęzyczna, gotowa do dalszych rozszerzeń i otwarta na integrację nowych usług transportowych.
+
+ACE podpisało również 5-letnią umowę utrzymaniową systemu.
+
+W okresie sprawozdawczym ACE wdrożyło w Najwyższej Izbie Kontroli Republiki Słowackiej (NKU) rozwiązania AI umożliwiające automatyzację procesów wewnętrznych, m.in. audytu czy generowania raportów.
+
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 88
+ACE pozostaje aktywne w sektorze opieki zdrowotnej.
+
+Ściśle współpracuje ze słowackimi: Narodowym Centrum Informacji o Zdrowiu oraz Powszechnym Towarzystwem Ubezpieczeń Zdrowotnych, a także z Czeską Administracją Zabezpieczenia Społecznego.
+
+Dodatkowo realizuje projekty dla Ministerstwa Zdrowia Republiki Czeskiej.
+
+W minionym okresie ACE kontynuowało działania w obszarze cyfryzacji sektora ubezpieczeniowego i rozwijało funkcjonalności swojej platformy wspierającej digitalizację dokumentów i procesów ubezpieczeniowych – Asseco Digital Insurance Platform.
+
+Dodatkowo ACE prowadziło działania dla instytucji finansowych (np. J&T Finance Group, Slovenská sporiteľňa, Raiffeisen stavební spořitelna, Modrá pyramida stavební spořitelna).
+
+Należąca do ACE spółka **Asseco BERIT** realizuje kontrakt na wdrożenie w Monachium systemu Asseco Strategic Asset Management & Operations (Asseco SAMO).
+
+Asseco SAMO to rozwiązanie do zarządzania zasobami przedsiębiorstwa, integrujące informacje na temat infrastruktury, środków trwałych i procesów utrzymania.
+
+Dokonuje ono analizy i wskazuje stopień zużycia każdego strategicznego elementu jego wyposażenia.
+
+Wdrożenie Asseco SAMO w Monachium pozwoli na efektywne zarządzanie systemem oświetlenia ulicznego w mieście, a także sterowanie w nim ruchem drogowym.
+
+Specjalizująca się w cyfryzacji przemysłu, realizująca koncepcję Przemysłu 4.0, spółka z Grupy ACE – **Asseco CEIT** – kontynuowała w okresie sprawozdawczym projekty dla firm motoryzacyjnych (np. Volkswagen Slovakia, AUDI Hungaria), dotyczące m.in. wymiany floty czy automatyzacji intralogistyki, w tym dostawy systemów AGV (Automated Guided Vehicles).
+
+Bardzo ważnym obszarem aktywności spółki są działania badawczo-rozwojowe, które realizowane są we własnym centrum badawczo-rozwojowym.
+
+Asseco CEIT wykorzystuje prywatną sieć kampusową 5G do rozwoju innowacji technologicznych i procesowych w swoich systemach wspierających branże logistyczną i produkcyjną.
+
+W analizowanym okresie Asseco CEIT pracowało nad rozwojem funkcjonalności swojego oprogramowania do planowania i optymalizacji procesów produkcyjnych, logistycznych i magazynowych – Twiserion Design Manager, a także nad rozbudową floty pojazdów AGV.
+
+Dobre wyniki sprzedażowe wypracowała w I kwartale 2025 roku, funkcjonująca w ramach Grupy ACE i będąca centrum kompetencyjnym w zakresie rozwiązań ERP, **Grupa Asseco Enterprise Solutions (Grupa AES)** .
+
+Grupa AES odnotowała wzrost sprzedaży własnego oprogramowania i usług z nim związanych, które w analizowanym okresie stanowiły 93% jej przychodów.
+
+Jest to efektem trendu zwiększania przez przedsiębiorstwa nakładów na rozwiązania klasy ERP obserwowanego na wszystkich głównych rynkach, na których operuje Grupa AES przy równoczesnym rozwoju oferty produktowej tej Grupy.
+
+Z produktów Grupy AES korzysta obecnie ponad 70 tys. klientów (ponad 700 tys. aktywnych użytkowników).
+
+Działające w obszarze ERP spółki Asseco konsekwentnie realizują strategię uzupełniania swoich rozwiązań o wyspecjalizowane funkcje sztucznej inteligencji.
+
+W I kwartale 2025 roku o 8% wyższe przychody w stosunku do analogicznego okresu ubiegłego roku wypracowało **Asseco Business Solutions (ABS)** .
+
+Kompleksowa oferta spółki obejmuje systemy klasy ERP wspomagające procesy biznesowe w średnich oraz dużych przedsiębiorstwach, komplet aplikacji do zarządzania małą firmą, programy wspierające pracę w obszarze HR, popularne w całej Europie aplikacje mobilne klasy SFA pozwalające na zarządzanie siecią przedstawicieli handlowych, platformy wymiany danych oraz programy do obsługi transakcji faktoringowych.
+
+Sprzedaż spółki na rynku krajowym wzrosła w I kwartale 2025 roku o 7%.
+
+Systemy ABS wspierają biznes w kilkudziesięciu krajach na całym świecie.
+
+W raportowanym okresie największy udział w sprzedaży zagranicznej, odpowiadającej za 13% całościowych przychodów, stanowiły takie kraje jak: Austria, Szwajcaria, Niemcy, Francja, Niemcy, Holandia, Rumunia i Wielka Brytania, które łącznie odpowiadały za 87% przychodów z rynków zagranicznych.
+
+ABS realizuje wspólną, jednolitą strategię dla wszystkich trzech linii produktowych z obszaru ERP, która opiera się na trzech filarach:
+- Anywhere (prowadź swój biznes, gdziekolwiek jesteś),
+- Genius (z inteligentnym systemem ERP),
+- Paperless (realizując ideę paperless).
+
+Coraz większa liczba oferowanych przez ABS produktów i usług (zarówno z obszaru ERP, jak i SFA) dostępna jest w modelu
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 89
+chmurowym.
+
+Systematycznie wzrasta liczba projektów realizowanych w modelu pełnego outsourcingu, dzięki czemu spółka przejmuje odpowiedzialność nie tylko za samo oprogramowanie, ale także za tak istotne elementy rozwiązań jak infrastruktura systemowa, komunikacyjna, nadzór nad działaniem procesów integracyjnych.
+
+Takie podejście do realizacji projektów możliwe jest dzięki posiadaniu przez ABS dwóch własnych Data Center, których parametry eksploatacyjne spełniają najwyższe wymagania w zakresie bezpieczeństwa, niezawodności i efektywności pracy systemów.
+
+W przypadku rozwiązań wdrażanych poza Polską firma wykorzystuje także infrastrukturę dostawców chmur publicznych, korzystając obecnie z lokalizacji w Europie, Ameryce Północnej i Azji.
+
+Partnerami technologicznymi oraz biznesowymi Asseco Business Solutions są ponadto największe światowe koncerny, m.in.: Oracle, Microsoft, HP, IBM, Citrix.
+
+W omawianym okresie ABS kontynuowało prace nad implementacją w oferowanych przez siebie produktach i usługach algorytmów sztucznej inteligencji, opartych na autorskim silniku Genius by Asseco.
+
+Rozwiązania te w coraz większym stopniu wspomagają szereg kluczowych procesów.
+
+Na bazie zgromadzonych danych generują rekomendacje i powiadomienia biznesowe, umożliwiając adaptację systemu do stylu pracy użytkowników, automatyzując czynności powtarzalne i oferując inteligentne analizy z elementami predykcji.
+
+Poszerzeniu ulega też oferta w zakresie usług cyfrowego rozpoznawania obrazu, adresowana przede wszystkim do klientów z branży FMCG oraz farmacji (Image Recognition), umożliwiających badanie i raportowanie standardu ekspozycji produktów w punktach sprzedaży detalicznej (sklepy i apteki).
+
+ABS koncentrowało się również na rozwoju produktów i powiązanych z nimi usług w związku z planowanym wdrożeniem KSeF (Krajowego Systemu e-Faktur).
+
+Produkty ERP ABS zapewniają obsługę KSeF, utrzymując pełną zgodność z systemem, co wpływa na usprawnienie procesów.
+
+Spółka oferuje ekosystem narzędzi oraz usług wspierających obsługę KSeF:
+- systemy ERP dostosowane do obsługi KSeF,
+- platformę wymiany dokumentów Businesslink,
+- system do elektronicznego obiegu dokumentów,
+- Businesscheck – kontrolę e-Faktur,
+- podpis elektroniczny SimplySign.
+
+ABS wdrożyło szereg funkcjonalności umożliwiających praktyczną realizację idei „paperless”.
+
+Produkty i usługi spółki realizują ją w dwóch kluczowych obszarach:
+- relacji wewnętrznych – komunikacja i obsługa pracowników,
+- relacji zewnętrznych oraz wymiany dokumentów z kontrahentami i urzędami (w tym obsługa wymagań związanych z KSeF).
+
+W okresie sprawozdawczym Asseco Business Solutions przejęło spółkę Tax Order z siedzibą w Białymstoku, specjalizującą się w tworzeniu oprogramowania dla biur rachunkowych oraz świadczeniu kompleksowych usług szkoleniowych w obszarze księgowości.
+
+Działające na rynkach niemieckim, austriackim, szwajcarskim oraz włoskim **Asseco Solutions AG** w I kwartale 2025 roku rozszerzało współpracę z obecnymi partnerami i pozyskało nowych klientów.
+
+Dedykowany sektorowi produkcyjnemu system klasy ERP tej spółki – APplus – jest obecnie wykorzystywany przez ponad 80 tys. użytkowników w ponad tysiącu firm w 25 krajach.
+
+Najnowsza wersja systemu APplus jest dostosowana do rosnących wymagań ze strony klientów biznesowych w zakresie innowacyjności, efektywności, możliwości szybkiej adaptacji oraz łatwości obsługi.
+
+Wprowadzone w niej zostały pulpity AI, dzięki którym użytkownicy mogą skonfigurować własne, indywidualne centrum sterowania.

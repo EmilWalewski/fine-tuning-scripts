@@ -1,0 +1,57 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 1. Podstawowe informacje | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 2.1. Podstawa sporządzenia | Grupa Kapitałowa Asseco | Śródroczne skonsolidowane sprawozdanie ze zmian w skonsolidowanym kapitale własnym Grupa Kapitałowa Asseco
+
+## Śródroczne skonsolidowane sprawozdanie ze zmian w skonsolidowanym kapitale własnym Grupa Kapitałowa Asseco
+| **Różnice kursowe** **Nota** **przedsięwzięć** | **Kapitał** **podstawowy** | **Nadwyżka ze** **sprzedaży akcji** **powyżej ich** **wartości** **nominalnej** | **Akcje własne** |  | **Transakcje na** **udziałach** **niekontrolujących** |  | **z przeliczenia** **jednostek** **zależnych,** **stowarzyszonych** **oraz wspólnych** | **Zyski** **zatrzymane** **i pozostałe** **kapitały** |  | **Kapitał własny** **Jednostki** **Dominującej** | **Udziały** **niekontrolujące** | **Kapitał własny** **ogółem** |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **mln PLN** | **mln PLN** | **mln PLN** |  | **mln PLN** |  | **mln PLN** | **mln PLN** |  | **mln PLN** | **mln PLN** | **mln PLN** |  |  |
+| **Na dzień 1 stycznia 2025 roku** |  | **83,0** | **4 180,1** | **(1 186,2)** |  | **(268,8)** |  | **(40,9)** | **2 729,1** |  | **5 496,3** | **4 152,7** | **9 649,0** |
+| Zysk za okres sprawozdawczy |  | - | - |  | - |  | - | - | 136,2 |  | **136,2** | 213,9 | **350,1** |
+| Pozostałe dochody całkowite za okres sprawozdawczy |  | - | - |  | - |  | - | (98,4) | (3,2) |  | **(101,6)** | (230,9) | **(332,5)** |
+| **Suma dochodów całkowitych za** **okres sprawozdawczy** |  | **-** | **-** |  | **-** |  | **-** | **(98,4)** | **133,0** |  | **34,6** | **(17,0)** | **17,6** |
+| Dywidenda za rok 2024 | 5.7 | - | - |  | - |  | - | - |  | - | **-** | (196,3) | **(196,3)** |
+| Transakcje płatności na bazie akcji rozliczane w formie instrumentów kapitałowych |  | - | - |  | - |  | - | - |  | - | **-** | 17,1 | **17,1** |
+| Transakcje na udziałach niekontrolujących (w tym rozliczenie warunkowego zobowiązania finansowego wobec udziałowców niekontrolujących(opcjeput)) |  | - | - |  | - |  | (0,6) | - |  | - | **(0,6)** | (30,9) | **(31,5)** |
+| Objęcie kontroli nad spółkami zależnymi |  | - | - |  | - |  | - | - |  | - | **-** | 1,3 | **1,3** |
+| **Na dzień 31 marca 2025 roku** |  | **83,0** | **4 180,1** | **(1 186,2)** |  | **(269,4)** |  | **(139,3)** | **2 862,1** |  | **5 530,3** | **3 926,9** | **9 457,2** |
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 10  
+| **Nota** **mln PLN** **mln PLN** **mln PLN** **mln PLN** **mln PLN** **mln PLN** **mln PLN** **mln PLN** **mln PLN** | **Kapitał** **podstawowy** **Nadwyżka ze** **sprzedaży akcji** **powyżej ich** **wartości** **nominalnej** **Akcje własne** **Transakcje na** **udziałach** **niekontrolujących** **Różnice kursowe** **z przeliczenia** **jednostek** **zależnych,** **stowarzyszonych oraz** **wspólnych** **przedsięwzięć ** **Zysk zatrzymane** **i pozostałe** **kapitały** **Kapitał własny** **Jednostki** **Dominującej** **Udziały** **niekontrolujące** **Kapitał własny** **ogółem** |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Na dzień 1 stycznia 2024 roku** | **83,0** | **4 180,1** | **(1 186,2)** | **(195,1)** | **(33,3)** | **2 454,3** | **5 302,8** | **3 771,6** | **9 074,4** |
+| Pozostałe dochody całkowite za okres sprawozdawczy | - | - | - | - | (21,8) | 5,2 | **(16,6)** | 22,6 | **6,0** |
+| **Suma dochodów całkowitych za** **okres sprawozdawczy** | **-** | **-** | **-** | **-** | **(21,8)** | **130,3** | **108,5** | **210,0** | **318,5** |
+| Transakcje płatności na bazie akcji rozliczane w formie instrumentów kapitałowych | - - - - - - **-** 17,3 **17,3** |  |  |  |  |  |  |  |  |
+| Utrata kontroli nad spółkami zależnymi | - - - - - - **-** 0,2 **0,2** |  |  |  |  |  |  |  |  |
+| **Na dzień 31 marca 2024 roku** **_(przekształcone)_** | **83,0** | **4 180,1** | **(1 186,2)** | **(197,0)** | **(55,1)** | **2 584,6** | **5 409,4** | **3 833,8** | **9 243,2** |
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 11
+
+## Grupa Kapitałowa Asseco
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 12  
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 13
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+Grupa Asseco  
+I 14  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych)
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 1. Podstawowe informacje
+Grupa Kapitałowa Asseco („Grupa Asseco”, „Grupa”) to grupa kapitałowa, której Jednostką Dominującą jest Asseco Poland S.A. („Jednostka Dominująca”, „Spółka”, „Emitent”).  
+| **Podstawowe informacje o Jednostce Dominującej** **Nazwa** | Asseco Poland S.A. |
+| --- | --- |
+| **Siedziba** | Rzeszów, ul. Olchowa 14 |
+| **Regon** | 010334578 |
+| **Podstawowy przedmiot działalności** | Produkcja oprogramowania |
+Jednostka Dominująca została utworzona w dniu 18 stycznia 1989 roku. W dniu 4 stycznia 2007 roku Emitent dokonał zmiany nazwy z Softbank Spółka Akcyjna na Asseco Poland Spółka Akcyjna.  
+Czas trwania Spółki jest nieograniczony.  
+Od 1998 roku akcje Spółki notowane są na rynku podstawowym Giełdy Papierów Wartościowych w Warszawie S.A.  
+Asseco Poland S.A. stoi na czele międzynarodowej Grupy Kapitałowej Asseco, obecnej, dzięki swoim spółkom zależnym, w 62 krajach na całym świecie, głównie w krajach europejskich, w Izraelu oraz w USA. Grupa Asseco jest jednym z czołowych producentów oprogramowania w Europie oraz największym dostawcą nowoczesnych rozwiązań informatycznych w Europie Środkowo-Wschodniej.  
+Asseco Poland S.A. jako lider Grupy prowadzi działalność akwizycyjną na rynku krajowym i zagranicznym dążąc do wzmocnienia swojej pozycji w Europie i na świecie. Spółka poszerza spektrum inwestycyjne o spółki informatyczne, mające wzbogacić Asseco Poland o znajomość lokalnych rynków i klientów, jak również dostęp do nowych, unikatowych rozwiązań informatycznych.  
+Oferta Grupy jest skierowana do sektora finansowego, instytucji publicznych oraz przemysłu, handlu i usług. Grupa posiada bogaty portfel własnych produktów, unikatowe doświadczenie w realizacji najbardziej złożonych projektów informatycznych oraz szeroką bazę klientów, wśród których znaleźć można największe instytucje finansowe, czołowe przedsiębiorstwa, a także jednostki administracji publicznej.  
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 15  
+2. Podstawa sporządzenia śródrocznego skróconego skonsolidowanego sprawozdania finansowego
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 2.1. Podstawa sporządzenia
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe zostało sporządzone zgodnie z zasadą kosztu historycznego, z wyjątkiem aktywów finansowych wycenianych w wartościach godziwych przez wynik finansowy lub pozostałe dochody całkowite, zobowiązań finansowych wycenianych w wartościach godziwych przez wynik finansowy oraz nieruchomości inwestycyjnych, które są wyceniane według wartości godziwej. Dodatkowo jednostki zależne działające w gospodarce uznanej za hiperinflacyjną (Turcja) dokonały przekształcenia danych finansowych z uwzględnieniem zmiany siły nabywczej pieniądza w oparciu o ogólny indeks cen tak, aby były wyrażone w jednostkach miary obowiązujących na koniec okresu sprawozdawczego. Wpływ hiperinflacji na śródroczne skrócone skonsolidowane sprawozdanie finansowe został opisany w nocie 2.11.  
+Niniejsze śródroczne skrócone skonsolidowane sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności gospodarczej przez Grupę przez okres nie krótszy niż 12 miesięcy od dnia 31 marca 2025 roku. Na dzień sporządzenia niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego nie stwierdza się istnienia okoliczności wskazujących na zagrożenie kontynuowania działalności przez Grupę.  
+Śródroczne skrócone skonsolidowane sprawozdanie finansowe nie obejmuje wszystkich informacji oraz ujawnień wymaganych w rocznym skonsolidowanym sprawozdaniu finansowym, dlatego należy je czytać łącznie ze skonsolidowanym sprawozdaniem finansowym Grupy za rok zakończony dnia 31 grudnia 2024 roku przekazanym do publicznej wiadomości w dniu 27 marca 2025 roku.

@@ -1,0 +1,105 @@
+DOKUMENT SEKCJA: Grupa Kapitałowa Asseco
+
+## Grupa Kapitałowa Asseco
+
+W poniższej tabeli zaprezentowano wybrane dane finansowe Grupy Kapitałowej Asseco.
+
+| **3 miesiące do** | **3 miesiące do** | **3 miesiące do** | **3 miesiące do** |  |
+| --- | --- | --- | --- | --- |
+| **31 marca 2025** | **31 marca 2024** | **31 marca 2025** | **31 marca 2024** |  |
+| **_(przekształcone)_** |  | **_(przekształcone)_** |  |  |
+| **mln PLN** | **mln PLN** | **mln EUR** | **mln EUR** |  |
+| Przychody operacyjne | 4 576,9 | 4 249,6 | 1 093,7 | 983,5 |
+| Zysk z działalności operacyjnej | 470,1 | 420,2 | 112,3 | 97,2 |
+| Zysk przed opodatkowaniem i udziałem w wynikach jednostek stowarzyszonych i wspólnychprzedsięwzięć | 442,5 | 395,4 | 105,7 | 91,5 |
+| Zysk netto za okres sprawozdawczy | 350,1 | 312,5 | 83,7 | 72,3 |
+| **Zysk netto przypadający Akcjonariuszom Jednostki** **Dominującej** | **136,2** | **125,1** | **32,5** | **29,0** |
+| Środki pieniężne netto z działalności operacyjnej | 417,3 | 343,6 | 99,7 | 79,5 |
+| Środki pieniężne netto wykorzystane w działalności inwestycyjnej | (266,8) | (54,9) | (63,8) | (12,7) |
+| Środki pieniężne netto wykorzystane w działalności finansowej | (266,7) | (325,9) | (63,7) | (75,4) |
+| Środki pieniężne i depozyty (okresem porównywalnym jest stan na 31grudnia 2024 roku) | 3 075,3 | 3 299,3 | 735,0 | 772,1 |
+| Zysk netto na jedną akcję zwykłą przypisany Akcjonariuszom Jednostki Dominującej (w PLN/EUR) | 2,00 | 1,83 | 0,48 | 0,42 |
+| Rozwodniony zysk netto na jedną akcję zwykłą przypisany Akcjonariuszom Jednostki Dominującej (w PLN/EUR) | 2,00 | 1,83 | 0,48 | 0,42 |
+
+Wybrane dane finansowe prezentowane w śródrocznym skróconym skonsolidowanym sprawozdaniu finansowym przeliczono na walutę EUR w następujący sposób:
+- Pozycje dotyczące śródrocznego skróconego skonsolidowanego rachunku zysków i strat oraz śródrocznego skróconego skonsolidowanego rachunku przepływów pieniężnych przeliczono według kursu stanowiącego średnią arytmetyczną średnich kursów ogłaszanych przez NBP obowiązujących na ostatni dzień każdego miesiąca. Kursy te wynosiły odpowiednio:
+- w okresie od 1 stycznia 2025 roku do 31 marca 2025 roku 1 EUR = 4,1848 PLN,
+- w okresie od 1 stycznia 2024 roku do 31 marca 2024 roku 1 EUR = 4,3211 PLN.
+- Stan środków pieniężnych Grupy na koniec bieżącego okresu sprawozdawczego oraz w okresie porównawczym przeliczono według średnich kursów dziennych ogłoszonych przez NBP. Kursy te wynosiły odpowiednio:
+- kurs obowiązujący w dniu 31 marca 2025 roku 1 EUR = 4,1839 PLN,
+- kurs obowiązujący w dniu 31 grudnia 2024 roku 1 EUR = 4,2730 PLN.
+Wszystkie kwoty w raporcie wyrażono w milionach złotych (PLN), chyba że stwierdzono inaczej.
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 5
+**A.Śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy Asseco za okres 3 miesięcy zakończony dnia 31 marca 2025 roku**
+**A. Śródroczne skrócone skonsolidowane sprawozdanie finansowe Grupy Asseco za okres 3 miesięcy zakończony dnia 31 marca 2025 roku**
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 6
+
+| **3 miesiące do** | **3 miesiące do** |  |  |
+| --- | --- | --- | --- |
+| **RACHUNEK ZYSKÓW I STRAT** **_(przekształcone*)_** | **Noty** | **31 marca 2025** | **31 marca 2024** |
+| **mln PLN** | **_mln PLN_** |  |  |
+| Przychody operacyjne | 5.1 | 4 576,9 | 4 249,6 |
+| Koszt własny sprzedaży | 5.2 | (3 533,7) | (3 338,8) |
+| **Zysk brutto ze sprzedaży** |  | **1 043,2** | **910,8** |
+| Koszty sprzedaży | 5.2 | (253,9) | (225,3) |
+| Koszty ogólnego zarządu | 5.2 | (302,7) | (274,1) |
+| **Zysk netto ze sprzedaży** |  | **486,6** | **411,4** |
+| Pozostałe przychody operacyjne | 5.3 | 12,8 | 28,0 |
+| Pozostałe koszty operacyjne | 5.3 | (29,3) | (19,2) |
+| **Zysk z działalności operacyjnej** |  | **470,1** | **420,2** |
+| Przychody finansowe | 5.4 | 67,1 | 49,0 |
+| Koszty finansowe **Zysk przed opodatkowaniem i udziałem** | 5.4 | (94,7) | (73,8) |
+| **w wynikach jednostek stowarzyszonych** **i wspólnychprzedsięwzięć ** |  | **442,5** | **395,4** |
+| Podatek dochodowy | 5.5 | (96,8) | (85,4) |
+| Udział w wynikach jednostek stowarzyszonych i wspólnych przedsięwzięć (po uwzględnieniupodatku) |  | 4,4 | 2,5 |
+| **Zysk za okres sprawozdawczy** _Przypadający:_ |  | **350,1** | **312,5** |
+| **Akcjonariuszom Jednostki Dominującej** |  | **136,2** | **125,1** |
+| Udziałowcom niekontrolującym | 6.3 | 213,9 | 187,4 |
+| Podstawowy i rozwodniony zysk na jedną akcję (w PLN) ze skonsolidowanego zysku za okres sprawozdawczy przypadający akcjonariuszom Jednostki Dominującej **POZOSTAŁE DOCHODY CAŁKOWITE** | 5.6 | 2,00 | 1,83 |
+| **Zysk za okres sprawozdawczy** **_Elementy, które mogą podlegać przeklasyfikowaniu do rachunku zysków_** **_i strat_** |  | **350,1** | **312,5** |
+| Odwrócenie wpływu hiperinflacji w związku ze sprzedażą jednostki zależnej** |  | (2,2) | - |
+| Zyski/(straty) z wyceny instrumentów finansowych zabezpieczających przepływy pieniężne |  | (0,3) | 0,1 |
+| Różnice kursowe z przeliczenia jednostek zależnych, stowarzyszonych oraz wspólnychprzedsięwzięć **_Elementy, które nie podlegają przeklasyfikowaniu do rachunku zysków_** **_i strat_** |  | (326,2) | (15,7) |
+| Zysk/(strata) z tytułu wyceny/sprzedaży aktywów finansowych |  | (3,9) | 23,7 |
+| Zyski/(straty) aktuarialne |  | 0,3 | 2,3 |
+| Podatek dochodowy dotyczący pozostałych dochodów całkowitych niepodlegającychprzeklasyfikowaniu |  | (0,5) | (0,2) |
+| Inne zmiany w kapitałach jednostki konsolidowanej metodą praw własności |  | 0,3 | (4,2) |
+| **Razem pozostałe dochody całkowite:** |  | **(332,5)** | **6,0** |
+| **SUMA DOCHODÓW CAŁKOWITYCH przypadająca:** |  | **17,6** | **318,5** |
+| **Akcjonariuszom Jednostki Dominującej** |  | **34,6** | **108,5** |
+| Udziałowcom niekontrolującym |  | (17,0) | 210,0 |
+
+_* Szczegóły dotyczące przekształcenia zostały zaprezentowane w punkcie 2.10 Dodatkowych objaśnień do niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego._
+_** Odwrócenie przekształcenia aktywów niepieniężnych na dzień 1 stycznia 2022, wynikającego z wpływu hiperinflacji i dotyczącego sprzedanej jednostki zależnej._
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 7
+
+| **_(przekształcone*)_** **mln PLN** **mln PLN** **Aktywa trwałe** Rzeczowe aktywa trwałe | 907,7 | 920,9 |
+| --- | --- | --- |
+| Wartości niematerialne 6.1 | 1 945,8 | 2 022,0 |
+| Aktywa z tytułu prawa do użytkowania | 912,3 | 956,8 |
+| Wartość firmy 6.2 | 6 194,3 | 6 224,9 |
+| Inwestycje wyceniane metodą praw własności | 169,0 | 178,8 |
+| Pozostałe należności i należności z tytułu dostaw i usług 6.4 | 107,3 | 94,5 |
+| Aktywa z tytułu odroczonego podatku dochodowego | 197,6 | 199,2 |
+| Rozliczenia międzyokresowe | 130,9 | 107,0 |
+| Pozostałe aktywa 6.5 | 126,9 | 157,1 |
+| **10 691,8** **Aktywa obrotowe** | **10 861,2** |  |
+| Zapasy 6.6 | 406,2 | 374,6 |
+| Rozliczenia międzyokresowe | 429,1 | 389,1 |
+| Należności z tytułu dostaw i usług 6.4 | 4 094,8 | 4 256,1 |
+| Aktywa z tytułu umów z klientami 6.4 | 557,5 | 554,6 |
+| Należności z tytułu podatku dochodowego od osób prawnych 6.4 | 94,6 | 135,2 |
+| Należności budżetowe oraz pozostałe należności 6.4 | 211,1 | 172,7 |
+| Pozostałe aktywa 6.5 | 273,9 | 249,8 |
+| Środki pieniężne i depozyty 6.7 | 3 075,3 | 3 299,3 |
+| **9 142,5** | **9 431,4** |  |
+| Aktywa trwałe przeznaczone do sprzedaży | 18,1 | 33,9 |
+| **Suma aktywów obrotowych i aktywów trwałych przeznaczonych do** **sprzedaży** | **9 160,6** | **9 465,3** |
+| **SUMA AKTYWÓW** | **19 852,4** | **20 326,5** |
+
+_*Szczegóły dotyczące przekształcenia zostały zaprezentowane w punkcie 2.10. Dodatkowych objaśnień do niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego._
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 8

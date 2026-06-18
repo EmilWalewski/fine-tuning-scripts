@@ -1,0 +1,66 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **1.2. Skład Grupy Kapitałowej** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **1.3. Skład Zarządu Jednostki dominującej** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **2.1. Oświadczenie o zgodności** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **2.2. Waluta pomiaru i waluta sprawozdań finansowych** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **2.3. Założenie kontynuacji działalności** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **2.4. Porównywalność danych i spójność zastosowanych zasad**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **1.2. Skład Grupy Kapitałowej**
+W skład Grupy Kapitałowej XTB S.A. wchodzi XTB S.A. jako Jednostka dominująca oraz następujące spółki zależne:  
+| **NAZWA JEDNOSTKI** **METODA** **KONSOLIDACJI** **KRAJ** **SIEDZIBY** **PRZEDMIOT** **DZIAŁALNOŚCI** | **UDZIAŁ** **W KAPITALE** |  |
+| --- | --- | --- |
+| XTB Limited (UK) pełna Wielka Brytania Działalność maklerska | 100% | 100% |
+| XTB Limited (CY) pełna Cypr Działalność maklerska | 100% | 100% |
+| XTB International Limited pełna Belize Działalność maklerska | 100% | 100% |
+| XTB MENA Limited pełna ZEA Działalność maklerska | 100% | 100% |
+| PT XTB Indonesia Berjangka pełna Indonezja Działalność maklerska | 90% | 90% |
+| XTB Financial Services L.L.C pełna ZEA Działalność maklerska | 100% | 100% |
+| XTB Agente de Valores SpA pełna Chile Działalność maklerska | 100% | 100% |
+| XTB Services Limited pełna Cypr Pozyskiwanie, utrzymywanie relacji oraz negocjowanie i zawieranie umów z partnerami | 100% | 100% |
+| X Open Hub Sp. z o.o. pełna Polska Oferowanie aplikacji elektronicznych oraz technologii transakcyjnej | 100% | 100% |
+| XTB S.C. Limited pełna Seszele Spółka nie rozpoczęła jeszcze działalności operacyjnej | 100% | 100% |
+| XTB Africa (PTY) Ltd. pełna RPA Spółka nie rozpoczęła jeszcze działalności operacyjnej | 100% | 100% |
+| Tasfiye Halinde XTB Yönetim Danışmanlığı A.Ş. pełna Turcja Spółka nie prowadzi działalności operacyjnej (wtrakcielikwidacji) | 100% | 100% |
+Szczegółowy opis działalności poszczególnych spółek zależnych wchodzących w skład Grupy został ujęty w rozdziale „Struktura organizacyjna Grupy kapitałowej XTB” w Sprawozdaniu Zarządu z działalności Grupy i Spółki.  
+W dniu 15 września 2020 roku rozpoczął się proces likwidacji spółki w Turcji Tasfiye Halinde XTB Yönetim Danışmanlığı A.Ş. Na dzień 31 grudnia 2025 roku kwota ujemnych różnic kursowych z przeliczenia sald w walucie obcej spółki zależnej w Turcji wynosiła (3 580) tys. PLN, a na dzień 31 grudnia 2024 roku (3 627) tys. PLN (patrz nota 25). Różnice kursowe wynikające z przeliczenia kapitału tureckiej spółki zostaną rozpoznane w skonsolidowanym wyniku z chwilą likwidacji tej spółki.  
+W dniu 11 lutego 2025 roku spółka XTB Agente de Valores SpA z siedzibą w Chile otrzymała od CMF (spa. La Comisión para el Mercado Financiero) licencję nr 216 na prowadzenie działalności maklerskiej w Chile. Licencja przyznana przez Chilijską Komisję Rynku Finansowego znacząco wzmacnia obecność XTB w jednym z najdynamiczniej rozwijających się regionów świata. Oznacza to, że spółka stała się pełnoprawnym i nadzorowanym uczestnikiem lokalnego rynku finansowego i może intensywniej rozwijać ofertę dostosowaną do chilijskiego rynku, co prowadzi do wzrostu pozyskiwanych klientów i osiąganych wyników w tym regionie.  
+9  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+W dniu 30 lipca 2025 roku Jednostka dominująca przeznaczyła 1 557 tys. USD na podwyższenie kapitału zakładowego w spółce zależnej PT XTB Indonesia Berjangka, utrzymując 90% udział w jej kapitale.  
+W dnu 23 września 2025 r. został zakończony proces likwidacji spółki XTB Digital Ltd. z siedzibą na Cyprze ze skutkiem na wskazany dzień.  
+W dniu 18 grudnia 2025 roku spółka zależna XTB Financial Consultation L.L.C zmieniła nazwę na XTB Financial Services L.L.C. Dodatkowo, Jednostka dominująca przeznaczyła 24 500 tys. AED na podwyższenie kapitału zakładowego w tej spółce.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **1.3. Skład Zarządu Jednostki dominującej**
+Skład osobowy Zarządu Jednostki dominującej na dzień 31 grudnia 2025 r. oraz na dzień zatwierdzenia niniejszego sprawozdania był następujący:  
+| **IMIĘ I** **NAZWISKO** | **FUNKCJA** | **DATA** **PIERWSZEGO** **POWOŁANIA** | **OKRES KADENCJI** |
+| --- | --- | --- | --- |
+| Kadencja trwająca od dnia 1 lipca 2022 roku Omar Arnaout lipca 2028 roku. | Prezes Zarządu | 23.03.2017 | wygasła w dniu 1 lipca 2025 roku. Od dnia 2 lipca 2025 roku powołany na nową kadencję do dnia 2 |
+| Kadencja trwająca od dnia 1 lipca 2022 roku Paweł Szejko lipca 2028 roku. | Członek Zarządu | 28.01.2015 | wygasła w dniu 1 lipca 2025 roku. Od dnia 2 lipca 2025 roku powołany na nową kadencję do dnia 2 |
+| Kadencja trwająca od dnia 1 lipca 2022 roku Filip Kaczmarzyk lipca 2028 roku. | Członek Zarządu | 10.01.2017 | wygasła w dniu 1 lipca 2025 roku. Od dnia 2 lipca 2025 roku powołany na nową kadencję do dnia 2 |
+| Kadencja trwająca od dnia 1 lipca 2022 roku Jakub Kubacki lipca 2028 roku. | Członek Zarządu | 10.07.2018 | wygasła w dniu 1 lipca 2025 roku. Od dnia 2 lipca 2025 roku powołany na nową kadencję do dnia 2 |
+| Bartosz Osiński | Członek Zarządu | 01.12.2025 | Od dnia 1 grudnia 2025 roku powołany na kadencję do dnia 2 lipca 2028 roku. |
+Pan Andrzej Przybylski pełnił funkcję Członka Zarządu w kadencji trwającej od dnia 1 lipca 2022 roku, która wygasła w dniu 1 lipca 2025 roku. Po jej upływie nie ubiegał się o powołanie na kolejną kadencję.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **2.1. Oświadczenie o zgodności**
+Niniejsze skonsolidowane sprawozdanie finansowe sporządzono zgodnie z Międzynarodowymi Standardami Sprawozdawczości Finansowej („MSSF”) zatwierdzonymi przez Unię Europejską.  
+Skonsolidowane sprawozdanie finansowe Grupy Kapitałowej XTB S.A., sporządzone za okres od 1 stycznia 2025 roku do 31 grudnia 2025 roku z danymi porównywalnymi za okres od 1 stycznia 2024 roku do 31 grudnia 2024 roku, obejmuje dane finansowe Jednostki dominującej oraz dane finansowe spółek zależnych, stanowiących „Grupę”.  
+Niniejsze skonsolidowane sprawozdanie finansowe zostało sporządzone zgodnie z zasadą kosztu historycznego, z wyjątkiem aktywów finansowych wycenianych w wartości godziwej oraz innych aktywów i zobowiązań, których metody wyceny opisano w polityce rachunkowości. Aktywa Grupy zostały zaprezentowane w bilansie według stopnia płynności, natomiast zobowiązania według terminu wymagalności.  
+Przyjęte zasady rachunkowości są spójne z zasadami poprzedniego roku obrotowego, z wyjątkiem nowych standardów obowiązujących od 1 stycznia 2025 roku.  
+10  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Spółki Grupy prowadzą swoje księgi rachunkowe zgodnie z zasadami rachunkowości obowiązującymi w krajach, w których spółki te mają siedziby. skonsolidowane sprawozdanie finansowe zawiera korekty wprowadzone w celu doprowadzenia sprawozdań finansowych tych jednostek do zgodności z zasadami rachunkowości stosowanymi przez Grupę.  
+Skonsolidowane sprawozdanie finansowe zostało podpisane przez Zarząd Jednostki dominującej w dniu 19 marca 2026 roku.  
+Sporządzając niniejsze skonsolidowane sprawozdanie finansowe Jednostka dominująca podjęła decyzję, iż żaden ze Standardów nie będzie wcześniej zastosowany.  
+MSSF obejmują standardy i interpretacje zaakceptowane przez Radę Międzynarodowych Standardów Rachunkowości („RMSR”) oraz Komitet ds. Interpretacji Międzynarodowej Sprawozdawczości Finansowej („KIMSF”).
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **2.2. Waluta pomiaru i waluta sprawozdań finansowych**
+Walutą pomiaru i walutą sprawozdawczą niniejszego skonsolidowanego sprawozdania finansowego jest złoty polski („zł”, „PLN”), a wszystkie wartości, o ile nie wskazano inaczej, podane są w tysiącach złotych.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **2.3. Założenie kontynuacji działalności**
+Skonsolidowane sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności gospodarczej przez Grupę w dającej się przewidzieć przyszłości. Na dzień sporządzenia skonsolidowanego sprawozdania finansowego Zarząd XTB S.A. nie stwierdza istnienia okoliczności wskazujących na zagrożenie kontynuowania działalności przez spółki wchodzące w skład Grupy w okresie co najmniej 12 miesięcy od dnia podpisania niniejszego sprawozdania, z wyjątkiem spółki zależnej Tasfiye Halinde XTB Yönetim Danışmanlığı A.Ş. w Turcji opisanej w nocie 1.2.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **2.4. Porównywalność danych i spójność zastosowanych zasad**
+Dane zaprezentowane w skonsolidowanym sprawozdaniu finansowym są porównywalne oraz sporządzone według spójnych zasad we wszystkich okresach objętych skonsolidowanym sprawozdaniem finansowym z wyjątkiem nowych standardów opisanych poniżej.

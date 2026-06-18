@@ -1,0 +1,58 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.3. Jednostki z istotnymi udziałami niekontrolującymi
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 6.3. Jednostki z istotnymi udziałami niekontrolującymi
+W punkcie 3. niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego zaprezentowano informacje dotyczące jednostek, w których Grupa posiada mniej niż 100% udziału w kapitale podstawowym, wraz ze wskazaniem nazw tych jednostek, kraju, w którym są one zarejestrowane oraz informacją o udziale Grupy w ich kapitale podstawowym oraz głosach na walnym zgromadzeniu.  
+W ocenie Zarządu, jednostkami z indywidualnie istotnymi udziałami niekontrolującymi są: Grupa Matrix IT Ltd, Grupa Magic Software Enterprises Ltd, Grupa Sapiens International Corp. NV, Grupa Asseco South Eastern Europe S.A. oraz Grupa Asseco Central Europe, w skład której wchodzi m.in. Asseco Business Solutions. W przypadku pozostałych jednostek z udziałami niekontrolującymi, wartość indywidualnego udziału niekontrolującego nie przekraczała 4% wartości salda udziałów niekontrolujących, tym samym nie zostały one uznane za jednostki z istotnymi udziałami niekontrolującymi.  
+W poniższych tabelach zaprezentowano wybrane dane finansowe za okres 3 miesięcy zakończony dnia 31 marca 2025 roku oraz na dzień 31 marca 2025 roku i odpowiednie okresy porównywalne dotyczące jednostek, w których występuje indywidualnie istotny udział niekontrolujący. Dane te zaprezentowane są przed korektami konsolidacyjnymi, w tym wyłączeniami wzajemnymi.  
+| **Udział procentowy udziałów niekontrolujących** | **31 marca 2025** | **31 grudnia 2024** |
+| --- | --- | --- |
+| Matrix IT Ltd * | 87,57% | 87,55% |
+| Magic Software Enterprises Ltd * | 87,94% | 87,94% |
+| Sapiens International Corp. NV * | 88,77% | 88,77% |
+| Grupa ASEE | 49,11% | 49,11% |
+| Grupa ACE | 7,67% | 7,67% |
+_*Udział procentowy udziałów niekontrolujących uwzględniający udziały bezpośrednie w spółce Formula Systems (1985) Ltd oraz udziały pośrednie, odpowiednio w spółce Matrix IT Ltd, Magic Software Enterprises Ltd oraz Sapiens International Corp. NV._  
+| **Wartość bilansowa udziałów niekontrolujących*** | **Wartość bilansowa udziałów niekontrolujących*** |  |
+| --- | --- | --- |
+| **Nazwa Grupy** | **31 marca 2025** | **31 grudnia 2024** |
+| Grupa Formula** | 3 105,0 | 3 341,7 |
+| Grupa ASEE | 534,4 | 538,3 |
+| Grupa ACE (w tym ABS) | 279,4 | 265,4 |
+| Pozostałe indywidualnie nieistotne | 8,1 | 7,3 |
+| **Razem** | **3 926,9** | **4 152,7** |
+_*Wartości bilansowe udziałów niekontrolujących przedstawiają wartość skorygowaną o przyznane opcje PUT udzielone akcjonariuszom/udziałowcom mniejszościowym._  
+_** Wartość udziałów niekontrolujących Grupy Formula zawiera między innymi wartość udziałów niekontrolujących Grupy Matrix IT Ltd, Magic Software Enteprises Ltd oraz Sapiens International Corp. NV._  
+| **Wynik przynależny dla udziałów** | **Wynik przynależny dla udziałów** | **Wynik przynależny dla udziałów** | **Dywidendy wypłacone do udziałów** | **Dywidendy wypłacone do udziałów** |  |
+| --- | --- | --- | --- | --- | --- |
+| **niekontrolujących** |  |  | **niekontrolujących** |  |  |
+| **za okres 3** | **miesięcy do** |  | **w okresie 3** | **miesięcy do** |  |
+| **Nazwa Grupy** | **31 marca 2025** |  | **31 marca 2024** | **31 marca 2025** | **31 marca 2024** |
+| Matrix IT Ltd | 74,3 |  | 65,5 | (28,0) | (2,3) |
+| Magic Software Enterprises Ltd | 37,7 |  | 31,4 | (38,6) | (8,3) |
+| Sapiens International Corp. NV | 62,6 |  | 55,1 | - | - |
+| Grupa ASEE | 20,0 |  | 24,7 | (0,6) | (4,1) |
+| Grupa ACE (w tym ABS) | 17,6 |  | 14,5 | (1,5) | (2,3) |
+| Pozostałe indywidualnie nieistotne | 1,7 |  | (3,8) | (10,7) | (2,6) |
+| **Razem** | **213,9** |  | **187,4** | **(79,4)** | **(19,6)** |
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 47  
+| **Nazwa Grupy** **31 marca 2025** | **Matrix IT Ltd** | **Magic Software** **Enterprises Ltd** | **Sapiens** **International** **Corp. NV** | **Grupa ASEE** | **Grupa ACE** |
+| --- | --- | --- | --- | --- | --- |
+| Aktywa trwałe | 1 768,9 | 1 034,3 | 1 467,2 | 1 359,7 | 945,7 |
+| Aktywa obrotowe | 3 043,3 | 1 034,7 | 1 380,7 | 905,0 | 903,8 |
+| _w tym środki pieniężne_ | _623,6_ | _404,1_ | _554,0_ | _304,6_ | _454,8_ |
+| Zobowiązania długoterminowe | 838,1 | 251,6 | 179,5 | 558,5 | 183,8 |
+| Zobowiązania krótkoterminowe **31 grudnia 2024** | 2 758,8 | 685,1 | 886,6 | 629,6 | 613,9 |
+| Aktywa trwałe | 1 807,4 | 1 100,1 | 1 435,0 | 1 376,2 | 946,4 |
+| Aktywa obrotowe | 3 230,1 | 1 114,3 | 1 519,9 | 938,6 | 835,2 |
+| _w tym środki pieniężne_ | _751,7_ | _462,5_ | _671,4_ | _271,1_ | _378,6_ |
+| Zobowiązania długoterminowe | 773,7 | 292,8 | 216,7 | 557,9 | 177,0 |
+| Zobowiązania krótkoterminowe | 2 977,0 | 686,9 | 787,3 | 671,1 | 544,7 |
+| **Nazwa Grupy** **Okres 3 miesięcy zakończony dnia** **31 marca 2025** | **Matrix IT Ltd** | **Magic Software** **Enterprises Ltd** | **Sapiens** **International** **Corp. NV** | **Grupa ASEE** | **Grupa ACE** |
+| Środki pieniężne netto z działalności operacyjnej | 51,7 | 74,7 | 117,1 | 73,0 | 121,3 |
+| Środki pieniężne netto z działalności inwestycyjnej | (81,5) | (18,5) | (106,8) | (26,2) | (18,7) |
+| Środki pieniężne netto z działalności finansowej **Okres 3 miesięcy zakończony dnia** **31 marca 2024** | (35,1) | (81,5) | (87,2) | (4,0) | (5,7) |
+| Środki pieniężne netto z działalności operacyjnej | 58,6 | 128,6 | 102,6 | 4,7 | 105,8 |
+| Środki pieniężne netto z działalności inwestycyjnej | (9,5) | (6,2) | (20,6) | (13,6) | (16,1) |
+| Środki pieniężne netto z działalności finansowej | (99,9) | (29,2) | (99,8) | (32,0) | (45,4) |

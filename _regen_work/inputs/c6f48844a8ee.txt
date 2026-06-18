@@ -1,0 +1,87 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco**
+
+# **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco**
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych)  
+I 65  
+1. Podsumowanie wyników Grupy Kapitałowej Asseco za okres 3 miesięcy zakończony dnia 31 marca 2025 roku  
+Skonsolidowane wyniki finansowe za okres I kwartału 2025 roku  
+Dla oceny sytuacji finansowej i rozwoju działalności biznesowej Grupy Asseco ważną informację stanowią podstawowe dane publikowane w ujęciu non-IFRS. Są one uzupełnieniem dla danych raportowanych zgodnie ze standardem IFRS.  
+Ujęcie non-IFRS obejmuje korekty o koszt amortyzacji wartości niematerialnych rozpoznanych w ramach rozliczenia połączenia (PPA), o koszty transakcji z pracownikami rozliczane w formie instrumentów kapitałowych (SBP) oraz o przychody i koszty związane z transakcjami nabycia / sprzedaży spółek (M&A) i wpływ hiperinflacji (ASEE) oraz związane z nimi efekty podatkowe.  
+| **mln PLN** **Q1 2025** | **Q1 2024** **_(przekształcone)_** | **Zmiana** **Q1'25 / Q1'24** |
+| --- | --- | --- |
+| **Przychody ze sprzedaży** **4 576,9** | **4 249,6** | **7,7%** |
+| Oprogramowanie i usługi własne 3 617,6 | 3 298,1 | 9,7% |
+| **Zysk brutto na sprzedaży** **1 043,2** | **910,8** | **14,5%** |
+| Koszty sprzedaży (253,9) | (225,3) | 12,7% |
+| Koszty ogólnego zarządu (302,7) | (274,1) | 10,4% |
+| Pozostała działalność operacyjna (16,5) | 8,8 | (287,5%) |
+| **EBIT** **470,1** | **420,2** | **11,9%** |
+| PPA & SBP M&A & zdarzenia jednorazowe 94,5 | 81,1 | 16,5% |
+| **EBIT non-IFRS** **564,6** | **501,3** | **12,6%** |
+| **EBITDA** **682,9** | **626,0** | **9,1%** |
+| **EBITDA non-IFRS** **711,7** | **645,4** | **10,3%** |
+| Saldo działalności finansowej **(27,6)** | **(24,8)** | **11,3%** |
+| **Zysk brutto** **442,5** | **395,4** | **11,9%** |
+| Podatek (96,8) | (85,4) | 13,3% |
+| _Efektywna stawka podatkowa_ _21,9%_ | _21,6%_ | _+0,3 p.p._ |
+| Udział w zysku/stracie jednostek stowarzyszonych 4,4 | 2,5 | 76,0% |
+| **Zysk netto przypadający akcjonariuszom jednostki dominującej** **136,2** | **125,1** | **8,9%** |
+| PPA & SBP & M&A & hiperinflacja **19,6** | **11,4** | **72,1%** |
+| **Zysk netto non-IFRS dla akcjonariuszy jednostki dominującej** **155,9** | **136,5** | **14,2%** |
+_EBIT = zysk z działalności operacyjnej. EBIT non-IFRS = EBIT skorygowany o koszt amortyzacji wartości niematerialnych rozpoznanych w ramach rozliczenia połączenia (PPA), o koszty transakcji z pracownikami rozliczane w formie instrumentów kapitałowych (SBP) oraz o przychody i koszty związane z transakcjami nabycia / sprzedaży spółek. EBITDA = EBIT + amortyzacja. EBITDA non-IFRS = EBITDA + SBP + M&A._  
+Należy zwrócić uwagę, że na wyniki I kwartału 2025 roku wpływ miała strata rozpoznana ze sprzedaży udziałów w tureckiej jednostce zależnej Mobven należącej do Grupy ASEE, która obciążyła skonsolidowany zysk operacyjny kwotą 6,5 mln PLN oraz skonsolidowany zysk netto przypisany akcjonariuszom jednostki dominującej Grupy Asseco Poland kwotą 3,3 mln PLN oraz przeliczenie pozycji bilansowych z tytułu hiperinflacji dotyczące tureckich spółek zależnych w Grupie ASEE – Grupa Asseco rozpoznała 7,0 mln PLN wyniku w przychodach finansowych, co przełożyło się na zwiększenie skonsolidowanego zysku netto przypisanego akcjonariuszom jednostki dominującej Grupy Asseco Poland o 3,6 mln PLN.  
+Natomiast w I kwartale 2024 roku nastąpiła sprzedaż nieruchomości przez Asseco Poland, której wpływ na skonsolidowany zysk operacyjny wyniósł 14,0 mln PLN, natomiast na skonsolidowany zysk netto przypisany akcjonariuszom jednostki dominującej Grupy Asseco Poland 11,3 mln PLN. Dodatkowo, w związku z przeliczeniem pozycji bilansowych z tytułu hiperinflacji dotyczące tureckich spółek zależnych w Grupie ASEE, Grupa Asseco rozpoznała 10,2 mln PLN wyniku w przychodach finansowych, co przełożyło się na zwiększenie skonsolidowanego zysku netto przypisanego akcjonariuszom jednostki dominującej Grupy Asseco Poland o 5,2 mln PLN.  
+Grupa Asseco Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 66  
+Poniższa tabela prezentuje wybrane dane finansowe dla segmentów operacyjnych za okres 3 miesięcy zakończony 31 marca 2025 roku.  
+| **Q1 2025** | **Segment** | **Segment** | **Segment** |
+| --- | --- | --- | --- |
+| **(mln PLN)** | **Asseco Poland** | **Asseco International** | **Formula Systems** |
+| **Przychody ze sprzedaży*** | **544,1** | **1 058,3** | **2 990,3** |
+| **EBIT** | **104,0** | **101,3** | **270,5** |
+| _Marża EBIT_ | _19,1%_ | _9,6%_ | _9,0%_ |
+| **EBIT non-IFRS** | **107,5** | **119,2** | **343,5** |
+| _Marża EBIT non-IFRS_ | _19,8%_ | _11,3%_ | _11,5%_ |
+| **EBITDA** | **130,3** | **152,3** | **406,7** |
+| _Marża EBITDA_ | _23,9%_ | _14,4%_ | _13,6%_ |
+| CFO BT | 97,5 | 159,8 | 259,8 |
+| CAPEX | (20,9) | (36,6) | (26,5) |
+| Wydatki z tytułu leasingu | (4,5) | (14,9) | (42,7) |
+| FCF | 72,1 | 108,3 | 190,6 |
+| Wskaźnik konwersji gotówki | 67% | 91% | 55% |
+| Środki pieniężne (stan na 31 grudnia 2024 roku) | 443,2 | 850,2 | 1 781,9 |
+| Dług odsetkowy (stan na 31 grudnia 2024 roku)** | (787,7) | (518,0) | (2 416,4) |
+| _w tym kredyty, pożyczki i wyemitowane obligacje_ | _(709,2)_ | _(266,5)_ | _(1 799,2)_ |
+| _w tym leasing_ | _(78,5)_ | _(251,5)_ | _(617,2)_ |
+_* Przychody ze sprzedaży na rzecz klientów zewnętrznych segmentu oraz sprzedaż pomiędzy segmentami._  
+_** Zadłużenie na rzecz podmiotów spoza Grupy. EBIT = zysk z działalności operacyjnej. EBIT non-IFRS = EBIT skorygowany o koszt amortyzacji wartości niematerialnych rozpoznanych w ramach rozliczenia połączenia (PPA), o koszty transakcji z pracownikami rozliczane w formie instrumentów kapitałowych (SBP) oraz o przychody i koszty związane z transakcjami nabycia / sprzedaży spółek. EBITDA = EBIT + amortyzacja._  
+_CFO BT = środki pieniężne netto z działalności operacyjnej przed zapłaconym podatkiem dochodowym. CAPEX = wydatki na aktywa trwałe segmentu. FCF = |CFO BT|-|CAPEX|-|wydatki z tytułu leasingu|. Wskaźnik konwersji gotówki = (FCF) / (EBIT non-IFRS)._  
+Poniższa tabela prezentuje wybrane dane finansowe dla segmentów operacyjnych za okres 3 miesięcy zakończony 31 marca 2024 roku.  
+| **Q1 2024** **(mln PLN)** **_(przekształcone)_** | **Segment** **Asseco Poland** | **Segment** **Asseco International** | **Segment** **Formula Systems** |
+| --- | --- | --- | --- |
+| **Przychody ze sprzedaży*** | **508,7** | **955,1** | **2 801,6** |
+| **EBIT** | **86,0** | **102,1** | **236,6** |
+| _Marża EBIT_ | _16,9%_ | _10,7%_ | _8,4%_ |
+| **EBIT non-IFRS** | **89,9** | **108,4** | **307,5** |
+| _Marża EBIT non-IFRS_ | _17,7%_ | _11,3%_ | _11,0%_ |
+| **EBITDA** | **110,8** | **151,6** | **368,9** |
+| _Marża EBITDA_ | _21,8%_ | _15,9%_ | _13,2%_ |
+| CFO BT | 28,5 | 107,6 | 307,9 |
+| CAPEX | (12,1) | (28,1) | (28,6) |
+| Wydatki z tytułu leasingu | (4,0) | (13,5) | (50,6) |
+| FCF | 12,4 | 66,0 | 228,7 |
+| Wskaźnik konwersji gotówki | 16% | 61% | 74% |
+| Środki pieniężne (stan na koniec okresu) | 322,3 | 895 | 2 082,0 |
+| Dług odsetkowy (stan na koniec okresu)** | (798,2) | (484,2) | (2 641,0) |
+| _w tym kredyty, pożyczki i wyemitowane obligacje_ | _(728,8)_ | _(242,0)_ | _(1 965,0)_ |
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 67  
+_(69,4)_  
+_(242,2)_  
+_(676,0)_  
+_w tym leasing_  
+_* Przychody ze sprzedaży na rzecz klientów zewnętrznych segmentu oraz sprzedaż pomiędzy segmentami._  
+_** Zadłużenie na rzecz podmiotów spoza Grupy._  
+_EBIT = zysk z działalności operacyjnej._  
+_EBIT non-IFRS = EBIT skorygowany o koszt amortyzacji wartości niematerialnych rozpoznanych w ramach rozliczenia połączenia (PPA), o koszty transakcji z pracownikami rozliczane w formie instrumentów kapitałowych (SBP) oraz o przychody i koszty związane z transakcjami nabycia / sprzedaży spółek. EBITDA = EBIT + amortyzacja._  
+_CFO BT = środki pieniężne netto z działalności operacyjnej przed zapłaconym podatkiem dochodowym. CAPEX = wydatki na aktywa trwałe segmentu. FCF = |CFO BT|-|CAPEX|-|wydatki z tytułu leasingu|. Wskaźnik konwersji gotówki = (FCF) / (EBIT non-IFRS - wpływy ze sprzedaży nieruchomości)._

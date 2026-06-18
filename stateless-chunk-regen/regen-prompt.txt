@@ -1,0 +1,33 @@
+Pracujesz w katalogu:
+fine-tuning-scripts
+
+Najpierw przeczytaj:
+./stateless-chunk-regen/README.md
+./stateless-chunk-regen/SKILL.md
+
+Zadanie: kontynuuj istniejące generowanie outputów przy użyciu lokalnego skilla
+stateless-chunk-regen. Nie zaczynaj od zera i nie wymyślaj własnego procesu -
+wykonaj workflow wznowienia opisany w README.md i SKILL.md.
+
+Dane do użycia:
+- window: 5120 tokens
+- path-profile: auto
+- finalny plik po scaleniu: dataset.jsonl
+
+Wymagania:
+- nie przebudowuj manifestu, chyba że użytkownik wyraźnie o to poprosi
+- nie usuwaj i nie regeneruj gotowych, niepustych outputów
+- kontynuuj od wyniku remaining.py
+- generuj outputy bezstanowo: jeden chunk = jedno niezależne zadanie
+- każde zadanie może czytać tylko RULES.md i swój pojedynczy INPUT
+- traktuj remaining.py jako źródło prawdy
+- respektuj BUDGET=N, jeśli remaining.py go zwraca
+- po dojściu do remaining 0 wykonaj QA opisane w README.md
+- jeśli QA jest poprawne, scal finalny JSONL przez merge_to_jsonl.py
+
+Na koniec podaj:
+- liczbę gotowych rekordów
+- czy remaining pokazuje 0
+- wynik measure_tokens
+- wynik leak_qa
+- ścieżkę finalnego pliku

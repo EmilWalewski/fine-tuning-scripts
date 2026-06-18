@@ -38,7 +38,8 @@ def prepare_dataset(input_dir, output_file):
 
 # --- TUTAJ WPISUJESZ SWOJE ŚCIEŻKI ---
 if __name__ == "__main__":
-    MOJ_FOLDER_Z_DANYMI = "./dataset-analyzed-reports"
-    MOJ_PLIK_WYNIKOWY = "./dataset.jsonl"
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    MOJ_FOLDER_Z_DANYMI = os.path.join(BASE_DIR, "_extract_out")
+    MOJ_PLIK_WYNIKOWY = os.path.join(BASE_DIR, "dataset.jsonl")
 
     prepare_dataset(MOJ_FOLDER_Z_DANYMI, MOJ_PLIK_WYNIKOWY)

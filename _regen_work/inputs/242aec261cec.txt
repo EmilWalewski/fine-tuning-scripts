@@ -1,0 +1,56 @@
+DOKUMENT SEKCJA: **I. Skonsolidowane sprawozdanie z sytuacji finansowej**
+
+## **I. Skonsolidowane sprawozdanie z sytuacji finansowej**
+| _w tysiącach złotych_ **_Nota_** **Aktywa** | _w tysiącach złotych_ **_Nota_** | **31.12.2025** **niebadane** **30.09.2025** **niebadane** **dane** **przekształcone** **31.12.2024** **dane** **przekształcone** |  |
+| --- | --- | --- | --- |
+| Środki pieniężne i ich ekwiwalenty _10.18_ | 212 629 | 314 226 | 214 790 |
+| Instrumenty zabezpieczające _10.11_ | 137 354 | 109 547 | 114 326 |
+| Należności z tytułu dostaw i usług _10.17_ | 14 600 | 13 798 | 19 619 |
+| Pozostałe należności _10.17_ | 60 367 | 60 055 | 52 496 |
+| Należności z tytułu podatku dochodowego | 9 946 | 22 939 | 3 684 |
+| Zapasy _10.16_ | 9 355 | 9 733 | 12 556 |
+| Udzielone pożyczki _4, 9_ | 612 315 | 588 488 | 502 905 |
+| Aktywa z tytułu odroczonego podatku dochodowego _10.9_ | 56 107 | 53 506 | 44 429 |
+| Rzeczowe aktywa trwałe _10.15_ | 116 041 | 123 775 | 89 572 |
+| Wartość firmy _10.14_ | 7 823 | 7 906 | 7 928 |
+| Inne wartości niematerialne _10.15_ | 143 580 | 122 031 | 69 341 |
+| Pozostałe aktywa **Kapitały i zobowiązania** **Zobowiązania** | 19 347 | 17 368 | 16 955 |
+| Zobowiązania z tytułu dostaw i usług oraz pozostałe _10.20_ | 213 018 | 202 412 | 231 823 |
+| Instrumenty pochodne | 58 | - | 105 |
+| Instrumenty zabezpieczające _10.11_ | 23 145 | 38 229 | 36 742 |
+| Zobowiązania z tytułu świadczeń pracowniczych _10.19_ | 77 669 | 73 699 | 85 775 |
+| Zobowiązania z tytułu podatku dochodowego | 21 347 | 6 988 | 5 493 |
+| Zobowiązania z tytułu kredytów i pożyczek _4, 10.10_ | 3 662 722 | 3 505 989 | 3 458 610 |
+| Zobowiązania z tytułu dłużnych papierów wartościowych _4, 10.10_ | 3 460 890 | 3 467 530 | 3 109 702 |
+| Zobowiązania z tytułu leasingu _4, 10.10_ | 103 398 | 109 357 | 58 239 |
+| Rezerwy _10.21_ | 20 265 | 28 230 | 19 896 |
+| Rezerwa z tytułu odroczonegopodatku dochodowego _10.9_ **Kapitał własny** | 123 197 | 113 434 | 113 837 |
+| Kapitał akcyjny | 19 492 | 19 403 | 19 382 |
+| Kapitał z emisji akcji powyżej ich wartości nominalnej | 401 539 | 379 365 | 374 097 |
+| Pozostałe kapitały rezerwowe | 212 689 | 208 555 | 188 654 |
+| Zyski zatrzymane | 4 745 190 | 4 536 802 | 4 009 434 |
+| **Udziały niekontrolujące** |  | 324 | 232 (329) |
+Skonsolidowane sprawozdanie z sytuacji finansowej należy analizować łącznie z notami objaśniającymi do skróconego śródrocznego skonsolidowanego sprawozdania finansowego, które stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+6<br>01.01.2024- 01.10.2024-<br>## **II. Skonsolidowane sprawozdanie z zysków lub strat**  
+Skonsolidowane sprawozdanie z zysków lub strat należy analizować łącznie z notami objaśniającymi do skróconego śródrocznego skonsolidowanego sprawozdania finansowego, które stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+7<br>## **III. Skonsolidowane sprawozdanie z całkowitych dochodów**  
+w tysiącach złotych Nota w tysiącach złotych Nota 01.01.2025- 31.12.2025 niebadane 01.10.2025- 31.12.2025 niebadane 01.01.2024- 31.12.2024 01.10.2024- 31.12.2024 niebadane
+Zysk netto za okres sprawozdawczy 1 085 641 208 486 1 074 278 115 197
+Inne całkowite dochody
+Pozycje, które mogą w przyszłości zostać przekwalifikowane do wyniku finansowego
+Różnice kursowe z przeliczenia jednostek działających za granicą (37 922) (31 090) (34 827) (3 446)
+Instrumenty zabezpieczające przepływy pieniężne oraz inwestycje w aktywach netto w jednostce zagranicznej 55 476 45 217 17 817 6 812
+Pozycje, które w przyszłości nie zostaną
+przekwalifikowane do wyniku finansowego
+Programyokreślonych świadczeń 1 768 1 642 43 43
+Inne całkowite dochody brutto za okres sprawozdawczy 19 322 15 769 (16 967) 3 409
+Pozycje,które mogą w przyszłości zostać przekwalifikowane do wyniku finansowego Podatek dochodowy od instrumentów zabezpieczających przepływy pieniężne oraz
+inwestycje w aktywach netto w jednostce zagranicznej (9 491) (8 046) (4 081) (1 227)
+Inne całkowite dochody netto za okres sprawozdawczy 9 831 7 723 (21 048) 2 182
+Całkowite dochody ogółem za okres sprawozdawczy 1 095 472 216 209 1 053 230 117 379
+Całkowite dochody ogółem przypadające na:
+Akcjonariuszy jednostki dominującej 1 094 819 216 117 1 052 870 117 384
+Udziałyniekontrolujące 653 92 360 (5)  
+Skonsolidowane sprawozdanie z całkowitych dochodów należy analizować łącznie z notami objaśniającymi do skróconego śródrocznego skonsolidowanego sprawozdania finansowego, które stanowią integralną część skróconego śródrocznego skonsolidowanego sprawozdania finansowego.

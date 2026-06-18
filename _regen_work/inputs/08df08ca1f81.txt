@@ -1,0 +1,114 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **DANE W UJĘCIU PROPORCJONALNYM**
+
+# **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco**
+
+## **DANE W UJĘCIU PROPORCJONALNYM**
+
+| **Q1 2025** | **Segment** | **Segment** | **Segment** |
+| --- | --- | --- | --- |
+| **mln PLN** | **Asseco Poland** | **Asseco International** | **Formula Systems** |
+| **Przychody ze sprzedaży*** | **534,0** | **740,6** | **356,0** |
+| **EBIT** | **101,8** | **61,5** | **29,7** |
+| _Marża EBIT_ | _19,1%_ | _8,3%_ | _8,4%_ |
+| **EBIT non-IFRS** | **105,3** | **70,8** | **40,9** |
+| _Marża EBIT non-IFRS_ | _19,7%_ | _9,6%_ | _11,5%_ |
+| **EBITDA** | **127,9** | **92,4** | **48,0** |
+| _Marża EBITDA_ | _24,0%_ | _12,5%_ | _13,5%_ |
+| CFO BT | 93,5 | 95,1 | 32,7 |
+| CAPEX | (20,4) | (21,5) | (3,5) |
+| Wydatki z tytułu leasingu | (4,5) | (10,0) | (5,5) |
+| FCF | 68,6 | 63,6 | 23,7 |
+| Wskaźnik konwersji gotówki | 65% | 90% | 58% |
+| Środki pieniężne (stan na koniec okresu) | 431,2 | 629,4 | 239,3 |
+| Dług odsetkowy (stan na koniec okresu)** | (787,5) | (336,5) | (386,2) |
+| _w tym kredyty, pożyczki i wyemitowane obligacje_ | _(717,3)_ | _(188,6)_ | _(363,8)_ |
+| _w tym leasing_ | _(70,2)_ | _(147,9)_ | _(22,4)_ |
+
+_Ujęcie proporcjonalne zawiera przeliczenie danych spółek należących do Grupy Asseco procentem odzwierciedlającym efektywne udziały posiadane przez Asseco Poland w tych spółkach._
+_* Przychody ze sprzedaży na rzecz klientów zewnętrznych segmentu oraz sprzedaż pomiędzy segmentami._
+_** Zadłużenie na rzecz podmiotów spoza Grupy._
+_EBIT = zysk z działalności operacyjnej._
+_EBIT non-IFRS = EBIT skorygowany o koszt amortyzacji wartości niematerialnych rozpoznanych w ramach rozliczenia połączenia (PPA), o koszty transakcji z pracownikami rozliczane w formie instrumentów kapitałowych (SBP) oraz o przychody i koszty związane z transakcjami nabycia / sprzedaży spółek. EBITDA = EBIT + amortyzacja._
+_CFO BT = środki pieniężne netto z działalności operacyjnej przed zapłaconym podatkiem dochodowym. CAPEX = wydatki na aktywa trwałe segmentu. FCF = |CFO BT|-|CAPEX|-|wydatki z tytułu leasingu|. Wskaźnik konwersji gotówki = (FCF) / (EBIT non-IFRS)._
+Poniższa tabela prezentuje wybrane dane finansowe w ujęciu proporcjonalnym dla segmentów operacyjnych za okres 3 miesięcy zakończony 31 marca 2024 roku.
+
+| **Q1 2024** **mln PLN** **_(przekształcone)_** | **Segment** **Asseco Poland** | **Segment** **Asseco International** | **Segment** **Formula Systems** |
+| --- | --- | --- | --- |
+| **Przychody ze sprzedaży*** | **498,2** | **663,4** | **341,3** |
+| **EBIT** | **83,9** | **60,6** | **25,8** |
+| _Marża EBIT_ | _16,8%_ | _9,1%_ | _7,5%_ |
+| **EBIT non-IFRS** | **87,8** | **64,2** | **36,1** |
+
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 73
+
+| _Marża EBIT non-IFRS_ | _17,6%_ | _9,7%_ | _10,6%_ |
+| --- | --- | --- | --- |
+| **EBITDA** | **108,5** | **91,3** | **43,1** |
+| _Marża EBITDA_ | _21,8%_ | _13,8%_ | _12,6%_ |
+| CFO BT | 25,5 | 80,4 | 38,9 |
+| CAPEX | (11,8) | (17,2) | (4,1) |
+| Wydatki z tytułu leasingu | (4,0) | (9,0) | (6,5) |
+| FCF | 9,7 | 54,2 | 28,3 |
+| Wskaźnik konwersji gotówki | 11% | 84% | 78% |
+| Środki pieniężne (stan na koniec okresu) | 311,8 | 709,0 | 274,6 |
+| Dług odsetkowy (stan na koniec okresu)** | (797,2) | (321,2) | (420,3) |
+| _w tym kredyty, pożyczki i wyemitowane obligacje_ | _(735,1)_ | _(179,8)_ | _(390,1)_ |
+| _w tym leasing_ | _(62,1)_ | _(141,4)_ | _(30,2)_ |
+
+_Ujęcie proporcjonalne zawiera przeliczenie danych spółek należących do Grupy Asseco procentem odzwierciedlającym efektywne udziały posiadane przez Asseco Poland w tych spółkach._
+_* Przychody ze sprzedaży na rzecz klientów zewnętrznych segmentu oraz sprzedaż pomiędzy segmentami._
+_** Zadłużenie na rzecz podmiotów spoza Grupy. EBIT = zysk z działalności operacyjnej. EBIT non-IFRS = EBIT skorygowany o koszt amortyzacji wartości niematerialnych rozpoznanych w ramach rozliczenia połączenia (PPA), o koszty transakcji z pracownikami rozliczane w formie instrumentów kapitałowych (SBP) oraz o przychody i koszty związane z transakcjami nabycia / sprzedaży spółek. EBITDA = EBIT + amortyzacja._
+_CFO BT = środki pieniężne netto z działalności operacyjnej przed zapłaconym podatkiem dochodowym. CAPEX = wydatki na aktywa trwałe segmentu. FCF = |CFO BT|-|CAPEX|-|wydatki z tytułu leasingu|. Wskaźnik konwersji gotówki = (FCF) / (EBIT non-IFRS - wpływy ze sprzedaży nieruchomości)._
+Poniższa tabela przedstawia skonsolidowane przychody w ujęciu proporcjonalnym za okres 3 miesięcy zakończony 31 marca 2025 roku oraz w okresie porównywalnym w podziale na rodzaje.
+
+| **Przychody ze sprzedaży według rodzaju** **mln PLN** | **Q1 2025** | **Q1 2024** | **Zmiana** **Q1'25 / Q1'24** |
+| --- | --- | --- | --- |
+| Oprogramowanie i usługi własne | 1 258,2 | 1 161,9 | 8,3% |
+| Oprogramowanie i usługi obce | 161,3 | 166,5 | (3,1%) |
+| Sprzęt i infrastruktura | 195,2 | 158,7 | 23,0% |
+| **Razem** | **1 614,7** | **1 487,1** | **8,6%** |
+
+_Ujęcie proporcjonalne zawiera przeliczenie danych spółek należących do Grupy Asseco procentem odzwierciedlającym efektywne udziały posiadane przez Asseco Poland w tych spółkach._
+Poniższa tabela przedstawia skonsolidowane przychody w ujęciu proporcjonalnym za okres 3 miesięcy zakończony 31 marca 2025 roku oraz w okresie porównywalnym w podziale na grupy produktów.
+
+| **Przychody ze sprzedaży według rodzaju** **mln PLN** | **Q1 2025** | **Q1 2024** | **Zmiana** **Q1'25 / Q1'24** | **Zmiana** **Q1'25 / Q1'24** |
+| --- | --- | --- | --- | --- |
+| Rozwiązania dla finansów | 451,5 | 419,4 |  | 7,7% |
+| Rozwiązania dla instytucji publicznych | 440,0 | 376,8 |  | 16,8% |
+| Rozwiązania ERP | 206,7 | 196,4 |  | 5,3% |
+| Pozostałe rozwiązania IT | 137,9 | 139,8 |  | (1,3%) |
+| Infrastruktura | 342,0 | 317,6 |  | 7,7% |
+| Pozostałe (inne niż IT) | 36,5 | 37,3 |  | (2,0%) |
+| **Razem** | **1 614,7** | **1 487,1** |  | **8,6%** |
+
+_Ujęcie proporcjonalne zawiera przeliczenie danych spółek należących do Grupy Asseco procentem odzwierciedlającym efektywne udziały posiadane przez Asseco Poland w tych spółkach._
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 74
+Szczegółowe dane w zakresie skonsolidowanych przychodów w ujęciu proporcjonalnym z uwzględnieniem segmentów operacyjnych są dostępne w pliku excel na stronie internetowej Asseco: https://inwestor.asseco.com/informacje-finansowe/wybrane-dane-finansowe/.
+
+| **mln PLN** | **Q1 2025** | **Q1 2024** |
+| --- | --- | --- |
+| CFO BT | 221,3 | 144,8 |
+| Zapłacony podatek | (51,1) | (30,0) |
+| CFI | (76,7) | (3,7) |
+| CAPEX | (45,4) | (33,1) |
+| CFF | (82,0) | (102,1) |
+| Wypłata dywidendy | - | - |
+| Zmiana stanu środków pieniężnych | 11,4 | 9,1 |
+
+_Ujęcie proporcjonalne zawiera przeliczenie danych spółek należących do Grupy Asseco procentem odzwierciedlającym efektywne udziały posiadane przez Asseco Poland w tych spółkach._
+_CFO BT, tj. środki pieniężne z działalności operacyjnej przed zapłaconym podatkiem dochodowym. CFI, tj. środki pieniężne netto wygenerowane (wykorzystane) z (w) działalności inwestycyjnej. CAPEX obejmuje wydatki na nabycie aktywów trwałych i wartości niematerialnych, wydatki z tytułu prowadzonych projektów badawczo-rozwojowych oraz pomniejszenie z tytułu otrzymanych dotacji. CFF, tj. środki pieniężne netto z działalności finansowej._
+Poniższa tabela przedstawia wybrane dane bilansowe na dzień 31 marca 2025 roku.
+
+| **DANE W UJĘCIU** | **PROPORCJONALNYM** |  |  |  |
+| --- | --- | --- | --- | --- |
+| **31 marca 2025** **mln PLN** **Grupa Asseco** | **Segment** **Formula Systems** **Segment** **Asseco** **International** **Segment** **Asseco Poland** **Eliminacje** |  |  |  |
+| **Środki pieniężne** **1 299,9** | **239,3** | **629,4** | **431,2** | **-** |
+| **Zobowiązania odsetkowe (KT)** **(437,1)** | **(165,2)** | **(154,0)** | **(117,9)** | **1,1** |
+| _Zobowiązania z tytułu kredytów i pożyczek (KT)_ _(361,8)_ | _(143,2)_ | _(117,1)_ | _(101,5)_ | _-_ |
+| _Leasing (KT)_ _(75,3)_ | _(22,0)_ | _(36,9)_ | _(16,4)_ | _1,1_ |
+| **Gotówka netto (KT)** **862,8** | **74,1** | **475,4** | **313,3** | **1,1** |
+| **Zapasy + należności KT - zobowiązania KT*** **240,7** | **53,9** | **42,9** | **150,4** | **(6,5)** |
+| **Aktywa operacyjne netto (KT)** **1 103,5** | **128,0** | **518,3** | **463,7** | **(5,4)** |
+| **Gotówka netto (KT + DT)** **(208,1)** | **(147,0)** | **290,6** | **(356,3)** | **4,6** |

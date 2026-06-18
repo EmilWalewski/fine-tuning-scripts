@@ -1,0 +1,60 @@
+DOKUMENT SEKCJA: **6. WYNIKI FINANSOWE I OPERACYJNE** | **6.1. Zmiany warunków prowadzenia działalności i sytuacji gospodarczej, które mają wpływ na wartość godziwą aktywów finansowych i zobowiązań finansowych** | **9.1. Przychody ze sprzedaży** | **Opis segmentów i głównych rodzajów działalności**
+
+## **6. WYNIKI FINANSOWE I OPERACYJNE**
+Przychody Spółki za okres 9 miesięcy zakończony 30 września 2025 roku wyniosły 95,1 mln PLN i były wyższe o 72,1 mln PLN w porównaniu z analogicznym okresem roku poprzedniego. Wzrost przychodów wynikał z postępów realizacji projektu „Mikroglob”.  
+Koszty działalności operacyjnej łącznie zwiększyły się o 59,7 mln PLN do poziomu 99,8 mln PLN porównując okres 9 miesięcy.  
+Największy wpływ na poziom kosztów operacyjnych miało zwiększenie kosztów usług obcych (+43,9 mln PLN), w głównej mierze wynikający z kosztów usług podwykonawców w projekcie „Mikroglob” oraz zwiększenie kosztów wynagrodzeń i ubezpieczeń społecznych (+9,8 mln PLN), co miało związek głównie ze wzrostem skali działalności Spółki.  
+Spółka zidentyfikowała szereg pozycji, które są istotne ze względu na swój charakter lub kwotę. Są one podane w tabeli poniżej, aby zapewnić lepsze zrozumienie wyników finansowych Spółki:  
+| **ISTOTNE POZYCJE ZYSKÓW I STRAT** | **01.01.2025** | **30.09.2025** | **01.01.2024** | **30.09.2024** |
+| --- | --- | --- | --- | --- |
+| Przychody ze sprzedaży produktów | 84 608 | 15 497 |  |  |
+| Przychody z tytułu dotacji | 10 462 | 7 464 |  |  |
+| Zużycie materiałów i energii | 6 742 | 6 182 |  |  |
+| Usługi obce | 50 397 | 6 515 |  |  |
+| Wynagrodzenia i ubezpieczenia społeczne oraz inne świadczenia | 31 400 | 21 562 |  |  |
+| Amortyzacja | 10 596 | 5 976 |  |  |
+| **Strata netto z działalności kontynuowanej** | **-3 043** | **-14 549** |  |  |
+Suma aktywów Spółki na dzień 30 września 2025 roku wyniosła 317,0 mln PLN i była wyższa o 154,6 mln PLN w porównaniu ze stanem z dnia 31 grudnia 2024 roku.  
+Wartość aktywów trwałych na 30 września 2025 roku wyniosła 120,2 mln PLN i była wyższa o 12,7 mln PLN w porównaniu z końcem poprzedniego roku, przede wszystkim z tytułu zwiększenia wartości niematerialnych i prawnych o 6,5 mln PLN, głównie w związku ze zwiększeniem skapitalizowanych nakładów na prace rozwojowe.  
+Wartość aktywów obrotowych na dzień 30 września 2025 zwiększyła się o 141,9 mln PLN w porównaniu z końcem poprzedniego roku, przede wszystkim w efekcie zwiększenia salda aktywów z tytułu umów o 47,5 mln PLN oraz zwiększenia salda środków pieniężnych o 75,7 mln PLN z tytułu wpływu środków z emisji akcji serii K oraz otrzymanych zaliczek w projekcie „Camila” i „Mikroglob”.  
+Kapitał własny na dzień 30 września 2025 roku wyniósł 140,7 mln PLN i był wyższy o 69,8 mln PLN w porównaniu ze stanem z końca 2024 roku z powodu otrzymania środków w emisji serii K.  
+Wartość zobowiązań z tytułu dostaw i usług oraz pozostałych zobowiązań zwiększyła się o 71,9 mln PLN w porównaniu ze stanem z końca 2024 roku w związku z rozpoczęciem kluczowych zakupów na potrzeby realizacji projektów „Mikroglob” i „Camila” oraz otrzymanymi zaliczkami w tych projektach.
+
+## **6.1. Zmiany warunków prowadzenia działalności i sytuacji gospodarczej, które mają wpływ na wartość godziwą aktywów finansowych i zobowiązań finansowych**
+W okresie objętym niniejszym śródrocznym skróconym sprawozdaniem finansowym zakończonym w dniu 30 września 2025 roku nie wystąpiły zmiany warunków prowadzenia działalności i sytuacji gospodarczej, które mają wpływ na wartość godziwą aktywów finansowych i zobowiązań finansowych Spółki.  
+14  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **Opis segmentów i głównych rodzajów działalności**
+Spółka zajmuje się przede wszystkim rozwojem technologii kosmicznych, aparatury naukowej, kontrolnopomiarowej i technologii kwantowych. Działalność produkcyjna na potrzeby zleceniodawców stanowi dodatkowe źródło przychodu.  
+Zarząd Creotech Instruments Spółka Akcyjna ustalił segmenty operacyjne na podstawie raportów, których używa do podejmowania decyzji strategicznych.  
+Sprawozdawczość dotycząca segmentów jest zgodna ze sprawozdawczością wewnętrzną, przedstawianą osobom zarządzającym Spółką i podejmującym decyzje na poziomie operacyjnym.  
+Podstawowym podziałem na segmenty działalności jest podział według podstawowych grup asortymentu sprzedaży Spółki, czyli tytułów, z których osiąga lub planuje osiągać ona przychody ze sprzedaży. W związku z powyższym Zarząd wyodrębnił cztery segmenty:  
+- **Projekty kosmiczne** (Space) - projektowanie, produkcja oraz sprzedaż podsystemów i systemów wykorzystywanych w przemyśle kosmicznych, w tym satelitów,  
+- **Dane satelitarne i technologie UAV** (Geospatial) - projektowanie, produkcja oraz sprzedaż podsystemów i systemów do zarządzania operacjami dronowymi oraz do generowania, przetwarzania lub udostępniania danych satelitarnych i dronowych,  
+- **Systemy kwantowe** (Quantum Systems) - projektowanie, produkcja oraz sprzedaż podsystemów i systemów wykorzystywanych w komputerach kwantowych, kryptografii kwantowej, systemach synchronizacji czasu oraz pozostałych podsystemów lub systemów wykorzystywanych w działalności naukowej,  
+- **Produkcja elektroniki** (Manufacturing) - usługowe wytwarzanie elektroniki przemysłowej na zamówienie klientów.  
+Segmenty operacyjne nie są łączone.  
+Spółka nie prezentuje:  
+- aktywów i zobowiązań,  
+- pozostałych przychodów i kosztów operacyjnych,  
+- przychodów i kosztów finansowych  
+dla każdego segmentu sprawozdawczego, ponieważ kwoty nie są regularnie przedstawiane głównemu organowi odpowiedzialnemu za podejmowanie decyzji operacyjnych.  
+15  
+Raport Creotech Instruments Spółka Akcyjna za okres 9 miesięcy zakończony 30 września 2025 r. zawierający skrócone śródroczne sprawozdanie finansowe (wszystkie kwoty w tys. PLN, o ile nie podano inaczej)
+
+## **9.1. Przychody ze sprzedaży**
+Na przychody ze sprzedaży w okresach 9 miesięcy zakończonych 30 września 2025 oraz 30 września 2024 roku składały się następujące pozycje:  
+| **Udział %** **WYSZCZEGÓLNIENIE** | **01.01.2025** | **01.01.2024** | **01.01.2025** | **01.01.2024** |
+| --- | --- | --- | --- | --- |
+| **30.09.2025** | **30.09.2024** | **30.09.2025** | **30.09.2024** |  |
+| **Przychody ze sprzedaży produktów i** **usług, w tym:** | **83 923** | **15 493** | **99,19%** | **99,98%** |
+| Przychody z tytułu umów z klientami | 83 923 | 15 493 | 99,19% | 99,98% |
+| Wyłączone z zakresu MSSF 15 | - | - | 0,00% | 0,00% |
+| **Przychody ze sprzedaży towarów i** **materiałów w tym:** | **686** | **4** | **0,81%** | **0,02%** |
+| Przychody z tytułu umów z klientami | 686 | 4 | 0,81% | 0,02% |
+| Wyłączone z zakresu MSSF 15 | - | - | 0,00% | 0,00% |
+| **Przychody ze sprzedaży, w tym:** | **84 608** | **15 497** | **100,00%** | **100,00%** |
+| Przychodyz tytułu umów z klientami | 84 608 | 15 497 | 100,00% | 100,00% |
+**Podział przychodów na kategorie uwzględniający istotne czynniki ekonomiczne mające wpływ na ich rozpoznanie:**  
+Podział przychodów według asortymentu i według regionu geograficznego przedstawionych w notach 9.2 i 9.3.

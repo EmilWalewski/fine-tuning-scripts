@@ -1,0 +1,51 @@
+DOKUMENT SEKCJA: **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E3 -1 POLITYKI ZWIĄZANE Z WODĄ I ZASOBAMI MORSKIMI** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E3-2 DZIAŁANIA I ZASOBY ZWIĄZANE Z WODĄ I ZASOBAMI MORSKIMI** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E3-3 CELE ZWIĄZANE Z WODĄ I ZASOBAMI MORSKIMI** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **Zasady raportowania emisji gazów cieplarnianych**
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **Zasady raportowania emisji gazów cieplarnianych**
+1. Rokiem bazowym jest rok 2021.  
+2. Emisje raportowane są dla całej Grupy Kapitałowej.  
+3. Emisje gazów cieplarnianych w Zakresie 1 zostały obliczone z wykorzystaniem metodologii The GHG Protocol Corporate Accounting and Reporting Standard.  
+- Wskaźnik emisyjności dla gazu ziemnego, gazu LPG oraz oleju napędowego z benzyny przyjęto z wykorzystaniem danych DEFRA.  
+- − Wskaźniki emisyjności benzyny oraz oleju opałowego przyjęto na podstawie danych ogłoszonych przez Krajowy Ośrodek Bilansowania i Zarządzania Emisjami. Wartości opałowe benzyny oraz oleju napędowego przeliczono na podstawie karty charakterystyki paliwa udostępnionej przez PKN Orlen.  
+- 4. Wykorzystane wskaźniki zostały opublikowane przez wiarygodne instytucje i mają zastosowanie w odniesieniu do działalności całej Grupy.  
+5. Emisje gazów cieplarnianych w Zakresie 2 zostały obliczone z wykorzystaniem metodologii „The GHG Protocol Corporate Accounting and Reporting Standard. Do kalkulacji emisji gazów cieplarnianych w Zakresie 2 zostały wykorzystane następujące wskaźniki intensywności emisyjnej:  
+− Location based: dla energii elektrycznej w Polsce: 524,94  
+kgCO2/MWh na podstawie danych KOBiZE  
+- Market based: na podstawie danych dostawców energii elektrycznej: EON Polska S.A., Polenergia Sp. z o.o., Tauron S.A. i ENERGA S.A. oraz wydanych gwarancji pochodzenia energii. Dzięki gwarancjom pochodzenia emisje (obliczone metodą market-based) zostały obniżone o 55%.  
+- − W 2025 r. spółki z Grupy zakupiły 12 385 MWh energii z odnawialnych źródeł energii, co potwierdzają podpisane umowy. Przejęto założenie, że 100% zakontraktowanych gwarancji zostanie umorzonych przez spółki Grupy.  
+- dla energii cieplnej: na podstawie danych URE za 2024 rok  
+6. W obliczeniach zastosowano współczynnik globalnego ocieplenia, który został opublikowany przez IPCC na podstawie 100-letniej perspektywy czasowej w celu obliczenia emisji ekwiwalentu dwutlenku węgla gazów innych niż CO2.  
+7. Zaraportowane zostały zużycia zmierzone na podstawie fizycznych odczytów liczników lub zaksięgowanych faktur.  
+8. Podczas obliczeń nie było konieczności zgłoszenia i konsolidacji emisji gazów cieplarnianych wspólnych przedsięwzięć, ponieważ nie są one podmiotami powiązanymi.
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E3 -1 POLITYKI ZWIĄZANE Z WODĄ I ZASOBAMI MORSKIMI**
+Grupa nie posiada odrębnej polityki związanej z zarządzaniem zasobami wodnymi, w tym dotyczącej zrównoważonego rozwoju  
+oceanów i mórz. Opracowanie odrębnej polityki zaplanowano nie wcześniej niż na rok 2030. W celu ustalenia czy spółki z Grupy działają na obszarach, na których występuje wysoki deficyt  
+13 zgodnie z notą 7.34 SSF  
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+123  
+wody, Grupa skorzystała z publicznie dostępnego i bezpłatnego narzędzia - Aqueduct Water Risk Atlas. Żadna z inwestycji nie znajduje się na obszarze wysokiego lub bardzo wysokiego stresu wodnego.  
+Spółki z Grupy nie kupują wody z obszarów objętych wysokim i bardzo wysokim stresem wodnym oraz nie prowadzą działalności na takich terenach.[14] .
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E3-2 DZIAŁANIA I ZASOBY ZWIĄZANE Z WODĄ I ZASOBAMI MORSKIMI**
+W działalności spółki wykorzystują wodę przede wszystkim do prowadzenia prac budowlanych (takich jak wiązanie mieszanki w procesach betonowania, murowania i tynkowania czy pielęgnacji betonu w okresie letnim). Inwestycje zasilane są w wodę na cele bytowo-gospodarcze i ochrony przeciwpożarowej. Woda wykorzystywana jest także przy pracach rozbiórkowych (by zapobiegać nadmiernemu pyleniu). Zakupiona woda pochodzi przede wszystkim z miejskich sieci wodociągowych miast, w których spółki prowadzą działalność. Spółki nie pobierają wody z wód powierzchniowych, w tym morskich. Instalacje kanalizacyjne (sanitarne) odprowadzają ścieki do miejskich systemów kanalizacyjnych, a następnie do miejskich oczyszczalni ścieków. Spółki nie odprowadzają ścieków bezpośrednio do środowiska. Zgodnie z obowiązującymi przepisami prawa woda deszczowa zagospodarowywana jest w obrębie inwestycji lub odprowadzana do miejskich systemów kanalizacyjnych. Zagospodarowanie wody w obrębie inwestycji może być realizowane na dwa sposoby (w zależności od uwarunkowań gruntowych i wodnych na danym terenie):  
+− technicznie: zbiorniki retencyjne (w tym rurowe) lub skrzynki rozsączające,  
+zapewniające stopniowy odpływ deszczówki i rozprowadzenie jej w gruncie; − naturalnie: poprzez realizację ogrodów deszczowych, które mają pozytywny wpływ na rozwój różnorodności biologicznej[15] i/lub dachów zielonych umożliwiających retencję wód opadowych. Ścieki z posadzek garaży podlegają dodatkowemu oczyszczaniu w separatorach substancji ropopochodnych. Zmiany zużycia wody w działalności Grupy związane są z fazami realizacji prowadzonych inwestycji.  
+Podjęte działania w zakresie gospodarowania zasobami wodnymi są działaniami ciągłymi związanymi z realizacją projektów deweloperskich. W związku z tym Grupa nie przyjęła konkretnych perspektyw czasowych oraz nie opracowała planu działań wymagającego znacznych wydatków operacyjnych lub nakładów inwestycyjnych. W związku z brakiem prowadzenia działalności na obszarach narażonych na ryzyko związane z wodą, w tym obszarów o znacznym deficycie wody, Grupa nie realizuje działań w tym zakresie. Grupa nie realizuje działań zbiorowych na rzecz wody i zasobów morskich.
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E3-3 CELE ZWIĄZANE Z WODĄ I ZASOBAMI MORSKIMI**
+Grupa nie wyznaczyła wymiernych, zorientowanych na rezultaty celów w zakresie gospodarki wodnej. Grupa świadomie podjęła tę decyzję, gdyż prowadzi działalność, w której jednym z kluczowych procesów podejmowanych podczas realizacji inwestycji jest wodochłonny proces  
+pielęgnacji betonu, wymagający odpowiedniej hydratacji cementu. Bez procesu pielęgnacji betonu realizacja inwestycji – a tym samym działalność biznesowa Grupy - nie byłyby możliwe. Grupa wyznaczy cele w zakresie gospodarowania wodą nie wcześniej niż w 2030 r.  
+> 14 Sytuacja, w której ilość wody o odpowiedniej jakości jest niewystarczająca do zaspokojenia potrzeb ludzi i środowiska [w:] Water resources across Europe — confronting water stress: an updated assessment. EEA Report 12/2021 15 Ogrody deszczowe:  
+- w której ilość wody o odpowiedniej jakości jest − przyczyniają się do zwiększania ilości wody w  
+- niewystarczająca do zaspokojenia potrzeb ludzi i środowiska [w:] środowisku, resources across Europe — confronting water stress: an − zapobiegają obniżaniu poziomu wód gruntowych i  
+- updated assessment. EEA Report 12/2021 lokalnym podtopieniom w trakcie opadów nawalnych,  
+- − ograniczają konieczność podlewania roślin w pobliżu, − tworzą mikroklimat i przyciągają owady oraz drobne zmniejszając zużycie wody z sieci, zwierzęta,  
+- − obniżają temperaturę najbliższego otoczenia w − poprzez odpowiednio dobrane rośliny oczyszczają okresie letnim, wodę i glebę.  
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+124

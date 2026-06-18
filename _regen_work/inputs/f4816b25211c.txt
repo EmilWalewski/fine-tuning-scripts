@@ -1,0 +1,82 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.11. Zobowiązania z tytułu dostaw i usług, zobowiązania budżetowe oraz pozostałe zobowiązania | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.12. Zobowiązania z tytułu umów z klientami | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.13. Rezerwy | **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 6.14. Rozliczenia międzyokresowe kosztów i przychodów
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 6.11. Zobowiązania z tytułu dostaw i usług, zobowiązania budżetowe oraz pozostałe zobowiązania
+Struktura zobowiązań Grupy na dzień 31 marca 2025 roku oraz 31 grudnia 2024 roku została przedstawiona w tabeli poniżej:  
+| **31 marca 2025** | **31 marca 2025** | **31 grudnia 2024** | **31 grudnia 2024** |  |
+| --- | --- | --- | --- | --- |
+| **Długoterminowe** | **Krótkoterminowe** | **Długoterminowe** | **Krótkoterminowe** |  |
+| **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** |  |
+| **Zobowiązania z tytułu dostaw i usług oraz kar** **umownych, w tym:** | **5,6** | **1 721,9** | **7,0** | **1 868,0** |
+| **Zobowiązania zafakturowane** | **4,2** | **1 091,5** | **5,3** | **1 241,0** |
+| od jednostek powiązanych | - | 2,2 | - | 2,0 |
+| od jednostek pozostałych | 4,2 | 1 089,3 | 5,3 | 1 239,0 |
+| **Zobowiązania niezafakturowane** | **1,4** | **620,0** | **1,7** | **615,6** |
+| od jednostek powiązanych | - | 2,5 | - | 2,5 |
+| od jednostek pozostałych | 1,4 | 617,5 | 1,7 | 613,1 |
+| **Zobowiązania z tytułu kar umownych** | **-** | **10,4** | **-** | **11,4** |
+| **Zobowiązania z tytułu podatku dochodowego od** **osóbprawnych** | **-** | **142,1** | **-** | **180,2** |
+| **Zobowiązania budżetowe** | **-** | **277,4** | **-** | **409,4** |
+| Podatek od wartości dodanej (VAT) | - | 120,2 | - | 241,9 |
+| Podatek dochodowy od osób fizycznych (PIT) | - | 67,0 | - | 78,6 |
+| Ubezpieczenia społeczne | - | 80,8 | - | 80,3 |
+| Podatek u źródła | - | 5,6 | - | 7,0 |
+| Pozostałe | - | 3,8 | - | 1,6 |
+| **Pozostałe zobowiązania** | **13,0** | **762,7** | **11,1** | **670,4** |
+| Zobowiązania wobec pracowników (w tym z tytułu wynagrodzeń) | - | 624,2 | - | 564,9 |
+| Inne zobowiązania | 13,0 | 138,5 | 11,1 | 105,5 |
+| **Razem** | **18,6** | **2 904,1** | **18,1** | **3 128,0** |
+Zobowiązania z tytułu dostaw i usług są nieoprocentowane. Transakcje z podmiotami powiązanymi przedstawione są w punkcie 6.15 not objaśniających do niniejszego śródrocznego skróconego skonsolidowanego sprawozdania finansowego.
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 6.12. Zobowiązania z tytułu umów z klientami
+Struktura zobowiązań z tytułu umów z klientami Grupy na dzień 31 marca 2025 roku oraz 31 grudnia 2024 roku została przedstawiona w tabeli poniżej:  
+| **31 marca 2025** | **31 marca 2025** | **31 grudnia 2024** | **31 grudnia 2024** |  |
+| --- | --- | --- | --- | --- |
+| **Długoterminowe** | **Krótkoterminowe** | **Długoterminowe** | **Krótkoterminowe** |  |
+| **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** |  |
+| **Zobowiązania z tytułu wyceny kontraktów IT,** **w tym:** | **-** | **93,2** | **-** | **109,2** |
+| od jednostek pozostałych | - | 93,2 | - | 109,2 |
+| **Zobowiązania z tytułu umów z klientami, w tym:** | **168,2** | **1 284,1** | **124,3** | **1 226,6** |
+| Usługi serwisowe i opłaty licencyjne | 164,3 | 1 105,0 | 118,3 | 1 047,8 |
+| Wdrożenia | 0,6 | 99,0 | 1,9 | 104,3 |
+| Zobowiązania do dostawy sprzętu | - | 34,7 | - | 37,1 |
+| Pozostałe przedpłacone usługi | 3,3 | 45,4 | 4,1 | 37,4 |
+| **Razem zobowiązania z tytułu umów z klientami** | **168,2** | **1 377,3** | **124,3** | **1 335,8** |
+Grupa Asseco  
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 57
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 6.13. Rezerwy
+Zmiany stanu rezerw w okresie 3 miesięcy zakończonym dnia 31 marca 2025 roku oraz w okresie porównywalnym zostały przedstawione w tabeli poniżej:  
+| **3 miesiące do** | **3 miesiące do** |  |
+| --- | --- | --- |
+| **mln PLN** | **mln PLN** |  |
+| **Na dzień 1 stycznia** | **123,5** | **104,9** |
+| Objęcia kontroli nad podmiotami zależnymi | 2,5 | - |
+| Utworzone w trakcie okresu sprawozdawczego | 9,0 | 4,2 |
+| Zmiana dyskonta i zyski/straty aktuarialne | (0,3) | (1,1) |
+| Wykorzystane w trakcie okresu sprawozdawczego | (8,4) | (2,3) |
+| Rozwiązane w trakcie okresu sprawozdawczego | (7,6) | (5,5) |
+| Zmiana prezentacji | 0,3 | (2,5) |
+| Różnice kursowe z przeliczenia jednostek zagranicznych | (5,0) | (0,1) |
+| **Na koniec okresu sprawozdawczego, w tym:** | **114,0** | **97,6** |
+| **Krótkoterminowe** | **45,5** | **35,5** |
+| **Długoterminowe** | **68,5** | **62,1** |
+
+# **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco**
+## 6.14. Rozliczenia międzyokresowe kosztów i przychodów
+Na dzień 31 marca 2025 roku oraz na dzień 31 grudnia 2024 roku na saldo biernych rozliczeń międzyokresowych kosztów oraz rozliczeń międzyokresowych przychodów składały się następujące pozycje:  
+| **31 marca 2025** | **31 marca 2025** | **31 grudnia 2024** | **31 grudnia 2024** |
+| --- | --- | --- | --- |
+| **Długoterminowe** | **Krótkoterminowe** | **Długoterminowe** | **Krótkoterminowe** |
+| **mln PLN** **Rozliczenia międzyokresowe kosztów, w tym:** | **mln PLN** | **mln PLN** | **mln PLN** |
+| Rezerwa na niewykorzystane urlopy | - | 312,9 | - 290,1 |
+| Rezerwa na premie dla pracowników i zarządu | 1,5 | 227,3 | 1,4 332,5 |
+| **1,5** **Rozliczenia międzyokresowe przychodów,** **w tym:** | **540,2** | **1,4** | **622,6** |
+| Dotacje do budowy aktywów | 47,3 | 5,3 | 49,5 4,6 |
+| Pozostałe | 1,5 | 1,6 | 1,3 1,8 |
+| **48,8** | **6,9** | **50,8** | **6,4** |
+| **Razem rozliczenia międzyokresowe** **przychodów i kosztów** | **50,3** | **547,1** | **52,2** **629,0** |
+Na saldo biernych rozliczeń międzyokresowych kosztów składają się rezerwy na niewykorzystane urlopy oraz rezerwy na wynagrodzenia danego okresu, a przeznaczone do wypłaty w okresach następnych, wynikające z zasad systemów premiowych obowiązujących w Grupie.  
+Saldo rozliczeń międzyokresowych przychodów dotyczy głównie dotacji do budowy aktywów. Dotacje do budowy aktywów to dotacje otrzymane przez Grupę w związku z realizacją projektów rozwojowych lub projektów związanych z tworzeniem centrów kompetencyjnych IT.

@@ -1,0 +1,117 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 >
+
+parametru rynkowego.
+
+Ze względu na zmienność wartości pozycji w portfelu handlowym XTB tego typu testy przeprowadzane są w każdym dniu roboczym.
+
+Przeprowadzane są również testy warunków skrajnych w zakresie ryzyka rynkowego, które uwzględniają szokowe zmiany większej liczby czynników ryzyka.
+
+Są to zarówno scenariusze hipotetyczne, w których zestaw zmian cen instrumentów został określony metodą ekspercką, jak i scenariusze historyczne, które wskazują jaki wpływ na sytuację finansową i wartość posiadanych instrumentów
+finansowych przez XTB, miałoby powtórzenie kryzysów występujących w przeszłości.
+
+Otrzymane rezultaty testów warunków skrajnych mają wiele zastosowań w systemie zarządzania ryzykiem XTB.
+
+Po pierwsze służą jako kryterium uznawania poszczególnych rodzajów ryzyka za istotne w działalności Spółki.
+
+Jeżeli wynik testu warunków skrajnych wskaże na możliwość wystąpienia istotnego poziomu straty w rezultacie danego testu, powiązany z nim rodzaj ryzyka zostaje uznany za istotny, co powoduje zwiększenie
+intensywności działań w zakresie zarządzania ryzykiem, w tym w zakresie monitorowania oraz pomiaru ryzyka.
+
+Ponadto wyniki testów warunków skrajnych są uwzględniane przy ocenie, czy wszystkie czynniki ryzyka występujące w Spółce zostały odpowiednio ujęte w procesach ICAAP i ILAAP.
+
+XTB dąży do pełnego pokrycia kapitałami i aktywami płynnymi rodzajów ryzyka występujących w działalności Spółki i Grupy i w przypadku gdy przeprowadzone testy
+warunków skrajnych wskazują na możliwość niedoszacowania występującego poziomu ryzyka, kapitał wewnętrzny i zapotrzebowanie na aktywa płynne może ulec przeglądowi.
+
+Ponadto wyniki testów warunków skrajnych mogą służyć również przeglądowi poziomu limitów ograniczających poszczególne rodzaje ryzyka.
+
+Rachunkowość zabezpieczeń XTB nie stosuje rachunkowości zabezpieczeń.
+
+W celu zachowania większego poziomu bezpieczeństwa ustalono poziomy limitów ostrzegawczych dla ilościowych elementów określonych w deklaracji akceptowalnego poziomu ryzyk na poziomie bezpieczniejszym niż w tej deklaracji.
+
+W przypadku przekroczenia takich limitów uruchamiane są działania określone w awaryjnych planach kapitałowych oraz awaryjnych planach płynności.
+
+Podjęcie tych działań ma na celu zmniejszenie ekspozycji na ryzyko oraz polepszenie sytuacji kapitałowej i płynnościowej zanim jeszcze poziom ryzyka
+przekroczy apetyt na ryzyko.
+
+W przypadku przekroczenia apetytu na ryzyko działania te zostają zintensyfikowane, a o każdym przekroczeniu akceptowalnego poziomu ryzyka niezwłocznie informowana jest Rada Nadzorcza.
+
+Testy warunków skrajnych Testy warunków skrajnych stanowią istotne narzędzie stosowane w systemie zarządzania ryzykiem.
+
+Ich celem jest zbadanie wpływu jakie miałaby realizacja scenariuszy o bardzo
+niskim prawdopodobieństwie wystąpienia i dużym negatywnym efekcie na prowadzoną przez Spółkę działalność.
+
+Testy weryfikują skutki różnorodnych zdarzeń, zarówno wynikających zagrożeń pochodzących z wewnątrz organizacji, jak i z czynników zewnętrznych obejmujących skutki problemów i awarii u partnerów i kontrahentów, a także możliwości nałożenia kar przez organy administracji nadzorujące działalność XTB w różnych obszarach.
+
+Wszystkie testy warunków skrajnych są przeprowadzane z częstotliwością co najmniej raz
+w roku.
+
+Na wyróżnienie zasługują testy warunków skrajnych określające wpływ wystąpienia nieoczekiwanych i dotkliwych zmian warunków rynkowych w krótkim okresie czasu.
+
+Ze względu na specyfikę prowadzonej działalności oraz utrzymywanie istotnych poziomów otwartej pozycji uzależnionej od poszczególnych czynników ryzyka rynkowego XTB w sposób szczególny zwraca uwagę na testy warunków skrajnych w tym zakresie.
+
+Przeprowadzane są zarówno jednoczynnikowe testy warunków skrajnych, których celem określenie jest wpływu na Spółkę sytuacji, w której występuje skokowa istotna zmiana ceny jednego konkretnego
+zależnych przez spółkę dominującą.
+
+Procedura przewiduje także możliwość odstępstw od jej stosowania, zgodę na taki tryb postępowania musi wydać co najmniej dwóch członków Zarządu Jednostki dominującej.
+
+Informacja o odstępstwach przekazywana jest do Działu Kontroli Ryzyka Jednostki dominującej.
+
+W Jednostce dominującej wdrożone zostały także awaryjne plany utrzymania płynności, które nie zostały wykorzystane w okresie objętym sprawozdaniem finansowym oraz w okresie porównawczym, ze względu na fakt, że wysokość aktywów najbardziej płynnych (własne środki pieniężne) znacznie przekracza zobowiązania. nie zostały wykorzystane w okresie objętym sprawozdaniem finansowym oraz w okresie porównawczym, ze względu na fakt, że wysokość aktywów najbardziej płynnych (własne środki pieniężne) znacznie przekracza zobowiązania.
+
+W ramach bieżących procesów działalności oraz wykonywanych zadań w związku z procesem zarządzania ryzykiem płynności, osoby kierujące właściwymi jednostkami organizacyjnymi Jednostki dominującej prowadzą bieżący nadzór nad stanem środków pieniężnych zdeponowanych na rachunku w kontekście planowanych potrzeb płynnościowych związanych z prowadzeniem działalności operacyjnej Jednostki dominującej.
+
+W analizie płynności brane są pod uwagę bieżące możliwości uzyskiwania środków płynnych, przyszłe potrzeby, scenariusze alternatywne i plany awaryjne w zakresie utrzymania
+płynności płatniczej.
+
+Nadzór i czynności kontrolne nad stanem rachunków pieniężnych prowadzi także codziennie Dział Kontroli Ryzyka.
+
+Umowne terminy płatności aktywów i zobowiązań finansowych zostały zaprezentowane w notach 36.3 oraz 37.3, odpowiednio do skonsolidowanego oraz jednostkowego sprawozdania finansowego.
+
+Dla poszczególnych terminów zapadalności została podana cząstkowa i skumulowana kontraktowa luka płynności, obliczona jako różnica pomiędzy
+aktywami razem a pasywami razem, wyliczana dla każdego przedziału zapadalności (wymagalności).
+
+Grupa zarządza zasobami finansowymi poprzez bieżący monitoring zdolności finansowania aktywów i terminowego wywiązywania się z zobowiązań w toku normalnej działalności lub w innych warunkach, które można przewidzieć, bez konieczności poniesienia straty.
+
+W analizie płynności brane są pod uwagę bieżące możliwości uzyskiwania środków płynnych, przyszłe potrzeby, scenariusze alternatywne i plany awaryjne w zakresie utrzymania płynności płatniczej.
+
+Celem zarządzania płynnością finansową w XTB jest utrzymanie na właściwych rachunkach bankowych takiej ilości środków pieniężnych, która zapewni pokrycie wszystkich operacji koniecznych do przeprowadzenia na tych rachunkach.
+
+W celu zarządzania płynnością finansową w odniesieniu do niektórych rachunków bankowych, związanych z operacjami na instrumentach finansowych, Jednostka dominująca wykorzystuje model płynnościowy, którego istotą jest wyznaczenie bezpiecznego obszaru stanu wolnych środków pieniężnych, który nie wymaga podejmowania działań korygujących.
+
+W przypadku osiągnięcia górnego limitu Jednostka dominująca dokonuje przelewu na odpowiedni rachunek bieżący w wysokości nadwyżki ponad poziom optymalny.
+
+Podobnie, jeśli stan gotówki na rachunku spadnie do poziomu dolnego limitu Jednostka dominująca dokonuje przelewu środków z rachunku bieżącego na właściwy rachunek w celu
+doprowadzenia stanu gotówki do optymalnego poziomu.
+
+Czynności operacyjne związane z zarządzaniem płynnością wykonywane są także przez Dział Tradingu oraz Dział Finansów i Księgowości.
+
+Spółki zależne zarządzają płynnością analizując oczekiwane przepływy pieniężne i dostosowując terminy zapadalności aktywów do terminów wymagalności pasywów.
+
+Spółki zależne nie stosują w zarządzaniu płynnością modeli.
+
+Zarządzanie płynnością oparte na analizie luki płynności jest skuteczne i wystarczające: w spółkach zależnych nie wystąpiły
+incydenty związane z brakiem płynności i niemożliwością wykonania zobowiązań
+Sprawozdanie Zarządu z działalności Grupy Kapitałowej XTB i spółki XTB S.A. w 2025 roku / Ład korporacyjny<br>Ład korporacyjny<br>174<br>
+Dobre Praktyki Spółek Notowanych na GPW W 2025 roku XTB S.A. stosowała się do zasad ładu korporacyjnego wyrażonych w dokumencie „Dobre Praktyki Spółek Notowanych na GPW 2021” przyjętym przez Radę Giełdy Uchwałą Nr 13/1834/2021 z dnia 29 marca 2021 roku.
+
+Aktualna treść dostępna jest na stronie internetowej poświęconej zasadom ładu korporacyjnego spółek notowanych na GPW pod adresem: https://www.gpw.pl/dobre-
+praktyki2021.
+
+W serwisie internetowym Relacji inwestorskich XTB S.A. (https://ir.xtb.com/), w sekcji Ład korporacyjny, zamieszczona jest Informacja na temat stanu stosowania przez Spółkę zasad zawartych w Zbiorze Dobre Praktyki Spółek Notowanych na GPW 2021 (DPSN 2021).
+
+Link do strony znajduje się tutaj: https://ir.xtb.com/lad-korporacyjny/oswiadczenie-o-stosowaniu- do strony znajduje się tutaj: https://ir.xtb.com/lad-korporacyjny/oswiadczenie-o-stosowaniu-
+zasad-ladu-korporacyjnego/ zasad-ladu-korporacyjnego/ Poniżej znajduje się opis wdrożenia wybranych zasad DPSN 2021, które mają największe znaczenie ze względu na cele strategiczne i wartości, którymi Grupa i Spółka kierują się w swojej działalności, a które są istotne dla ich akcjonariuszy i klientów.
+
+Rozdział 1.
+
+POLITYKA INFORMACYJNA I KOMUNIKACJA Z INWESTORAMI
+W swojej polityce i kulturze komunikacyjnej z interesariuszami Spółka kieruje się zasadami rzetelności i równego dostępu do informacji w przypadku inwestorów i akcjonariuszy.
+
+Spółka prowadzi i regularnie aktualizuje strony internetowe: - korporacyjną:http://www.xtb.com/ - relacji inwestorskich:https://ir.xtb.com/ - relacji inwestorskich:https://ir.xtb.com/ - zrównoważonego rozwoju:https://esg.xtb.com/ - zrównoważonego rozwoju:https://esg.xtb.com/
+Podstawy prawne regulujące ład korporacyjny XTB S.A.
+
+XTB S.A. stosuje się do zbioru najlepszych praktyk dla spółek oraz nieustannie dąży do doskonalenia ładu korporacyjnego prowadzonej działalności opierając się o zasady przejrzystości, odpowiedzialności i długofalowego podejścia wspierających wzrost, stabilność i długoterminowość inwestycji.
+
+Ład korporacyjny XTB S.A. znajduje swoją podstawę w przepisach obowiązującego prawa
+(Rozporządzenie Ministra Finansów z dnia 6 czerwca 2025 r. w sprawie informacji bieżących i okresowych przekazywanych przez emitentów papierów wartościowych oraz warunków uznawania za równoważne informacji wymaganych przepisami prawa państwa niebędącego państwem członkowskim (Dz.U.
+
+2025, poz.

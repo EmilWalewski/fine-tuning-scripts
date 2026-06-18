@@ -1,0 +1,22 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > **DANE W UJĘCIU PROPORCJONALNYM**
+
+_Ujęcie proporcjonalne zawiera przeliczenie danych spółek należących do Grupy Asseco procentem odzwierciedlającym efektywne udziały posiadane przez Asseco Poland w tych spółkach._
+_* Zapasy + należności krótkoterminowe + rozliczenia międzyokresowe krótkoterminowe - zobowiązania krótkoterminowe z wyłączeniem kredytów i leasingu._
+Poniższa tabela przedstawia wybrane dane bilansowe na koniec 2024 roku:
+
+| **DANE W UJĘCIU** | **PROPORCJONALNYM** |  |  |  |
+| --- | --- | --- | --- | --- |
+| **31 grudnia 2024** **mln PLN** **Grupa Asseco** | **Segment** **Formula Systems** **Segment** **Asseco** **International** **Segment** **Asseco Poland** **Eliminacje** |  |  |  |
+| **Środki pieniężne** **1 295,4** | **274,6** | **709,0** | **311,8** | **-** |
+| **Zobowiązania odsetkowe (KT)** **(418,6)** | **(171,8)** | **(134,0)** | **(113,9)** | **1,1** |
+| _Zobowiązania z tytułu kredytów i pożyczek (KT)_ _(344,1)_ | _(147,9)_ | _(98,9)_ | _(97,3)_ | _-_ |
+| _Leasing (KT)_ _(74,5)_ | _(23,9)_ | _(35,1)_ | _(16,6)_ | _1,1_ |
+| **Gotówka netto (KT)** **876,8** | **102,8** | **575,0** | **197,9** | **1,1** |
+| **Zapasy + należności KT - zobowiązania KT*** **196,1** | **53,7** | **40,7** | **105,2** | **(3,5)** |
+| **Aktywa operacyjne netto (KT)** **1 072,9** | **156,5** | **615,7** | **303,1** | **(2,4)** |
+| **Gotówka netto (KT + DT)** **(239,7)** | **(145,6)** | **387,7** | **(486,5)** | **4,7** |
+
+_Ujęcie proporcjonalne zawiera przeliczenie danych spółek należących do Grupy Asseco procentem odzwierciedlającym efektywne udziały posiadane przez Asseco Poland w tych spółkach._
+_* Zapasy + należności krótkoterminowe + rozliczenia międzyokresowe krótkoterminowe - zobowiązania krótkoterminowe z wyłączeniem kredytów i leasingu._
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 75

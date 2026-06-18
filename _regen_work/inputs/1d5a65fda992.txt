@@ -1,0 +1,135 @@
+DOKUMENT SEKCJA: **10.13. Podział pozycji sprawozdania z sytuacji finansowej na krótkoterminowe oraz długoterminowe** | **10.14. Wartość firmy** | **10.15. Rzeczowe aktywa trwałe i inne wartości niematerialne** | **10.18. Środki pieniężne i ich ekwiwalenty** | **10.19. Zobowiązania z tytułu świadczeń pracowniczych** | **10.20. Zobowiązania z tytułu dostaw i usług oraz pozostałe** | **Należności z tytułu dostaw i usług**
+
+## **10.13. Podział pozycji sprawozdania z sytuacji finansowej na krótkoterminowe oraz długoterminowe**
+| _w tysiącach złotych_ **Aktywa** **Aktywa długoterminowe** | _w tysiącach złotych_ | **31.12.2025** **niebadane** **30.09.2025** **niebadane** **dane** **przekształcone** **31.12.2024** **dane** **przekształcone** |  |
+| --- | --- | --- | --- |
+| Rzeczowe aktywa trwałe | 116 041 | 123 775 | 89 572 |
+| Inne wartości niematerialne | 143 580 | 122 031 | 69 341 |
+| Wartość firmy | 7 823 | 7 906 | 7 928 |
+| Udzielone pożyczki | 219 060 | 203 008 |  |
+| Instrumenty zabezpieczające | 101 372 | 82 653 | 101 285 |
+| Aktywa z tytułu odroczonegopodatku dochodowego **Aktywa krótkoterminowe** | 56 107 | 53 506 | 44 429 |
+| Zapasy | 9 355 | 9 733 | 12 556 |
+| Udzielone pożyczki | 393 255 | 385 480 |  |
+| Należności z tytułu dostaw i usług | 14 600 | 13 798 | 19 619 |
+| Pozostałe należności | 60 367 | 60 055 | 52 496 |
+| Należności z tytułu podatku dochodowego | 9 946 | 22 939 | 3 684 |
+| Instrumenty zabezpieczające | 35 982 | 26 894 | 13 041 |
+| Pozostałe aktywa | 19 347 | 17 368 | 16 955 |
+| Środkipieniężne i ich ekwiwalenty **Kapitały i zobowiązania** **Kapitał własny** | 212 629 | 314 226 | 214 790 |
+| Kapitał akcyjny | 19 492 | 19 403 | 19 382 |
+| Kapitał z emisji akcji powyżej ich wartości nominalnej | 401 539 | 379 365 | 374 097 |
+| Kapitał rezerwowy z wyceny instrumentów zabezpieczających | 110 764 | 73 593 | 64 779 |
+| Kapitał rezerwowy z wycen programów określonych świadczeń | 5 142 | 3 500 | 3 374 |
+| Różnice kursowe z przeliczenia jednostek działających za granicą | (168 676) | (137 592) | (130 734) |
+| Pozostałe kapitały rezerwowe | 212 689 | 208 555 | 188 654 |
+| Zyski zatrzymane | 4 745 190 | 4 536 802 | 4 009 434 |
+| **Udziały niekontrolujące** **Zobowiązania długoterminowe** |  | 324 | 232 (329) |
+| Zobowiązania z tytułu kredytów i pożyczek Zobowiązania z tytułu dłużnych papierów wartościowych Zobowiązania z tytułu leasingu Rezerwa z tytułu odroczonego podatku dochodowego | 3 619 895 | 3 461 012 | 3 423 881 |
+| 3 228 255 | 3 283 522 | 2 892 970 |  |
+| 78 637 | 83 972 | 35 155 |  |
+| 123 197 | 113 434 | 113 837 |  |
+| Rezerwy | 2 670 | 1 897 | 1 897 |
+| Instrumentyzabezpieczające | 23 145 | 38 229 | 36 742 |
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+| **Zobowiązania krótkoterminowe** | **Zobowiązania krótkoterminowe** |  |  |
+| --- | --- | --- | --- |
+| Zobowiązania z tytułu kredytów i pożyczek Zobowiązania z tytułu dłużnych papierów wartościowych Zobowiązania z tytułu leasingu Instrumenty pochodne | 42 827 | 44 977 | 34 729 |
+| 232 635 | 184 008 | 216 732 |  |
+| 24 761 | 25 385 | 23 084 |  |
+| 58 | - | 105 |  |
+| Zobowiązania z tytułu dostaw i usług oraz pozostałe | 213 018 | 202 412 | 231 823 |
+| Zobowiązania z tytułu dywidendy | - - - |  |  |
+| Zobowiązania z tytułu podatku dochodowego | 21 347 | 6 988 | 5 493 |
+| Zobowiązania z tytułu świadczeń pracowniczych | 77 669 | 73 699 | 85 775 |
+| Rezerwy | 17 595 | 26 333 | 17 999 |
+Powyższy podział pozycji ze sprawozdania z sytuacji finansowej na krótkoterminowe i długoterminowe prezentowany jest według przepływów spodziewanych na koniec okresu sprawozdawczego.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **10.14. Wartość firmy**
+| _w tysiącach złotych_ | **Kancelaria** **Prawna** **RAVEN** **KRUK** **Espana S.L.** **Ogółem** |  |  |
+| --- | --- | --- | --- |
+| **Wartość brutto na dzień 1 stycznia 2024 r.** | 299 | 48 101 | 48 400 |
+| Zwiększenia | - - - |  |  |
+| Zmniejszenia | - - - |  |  |
+| Różnice kursowe zprzeliczenia | - | (156) | (156) |
+| **Wartość brutto na dzień 31grudnia 2024 r.** | 299 | 47 945 | 48 244 |
+| **Wartość brutto na dzień 1 stycznia 2025 r.** | 299 | 47 945 | 48 244 |
+| Zwiększenia | - - - |  |  |
+| Zmniejszenia | - - - |  |  |
+| Różnice kursowe zprzeliczenia | - | (105) | (105) |
+| **Wartość brutto na dzień 31grudnia 2025 r.** **Odpisy z tytułu utraty wartości** | 299 | 47 840 | 48 139 |
+| **Odpis z tytułu utraty wartości na dzień 1 stycznia 2024 r.** | - | (40 316) | (40 316) |
+| Zwiększenia | - - - |  |  |
+| Zmniejszenia | - - - |  |  |
+| **Odpis z tytułu utraty wartości na dzień 31grudnia 2024 r.** | - | (40 316) | (40 316) |
+| **Odpis z tytułu utraty wartości na dzień 1 stycznia 2025 r.** | - | (40 316) | (40 316) |
+| Zwiększenia | - - - |  |  |
+| Zmniejszenia | - - - |  |  |
+| **Odpis z tytułu utraty wartości na dzień 31grudnia 2025 r.** **Wartość netto** | - | (40 316) | (40 316) |
+| Na dzień 1 stycznia 2024 r. | 299 | 7 785 | 8 084 |
+| Na dzień 31grudnia 2024 r. | 299 | 7 629 | 7 928 |
+| Na dzień 1 stycznia 2025 r. | 299 | 7 629 | 7 928 |
+| Na dzień 31 grudnia 2025 r. | 299 | 7 524 | 7 823 |
+Na dzień 31 grudnia 2025 r. nie stwierdzono przesłanek do dokonania odpisu na wartości firmy.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **10.15. Rzeczowe aktywa trwałe i inne wartości niematerialne**
+| _w tysiącach złotych_ **Rzeczowe aktywa trwałe** | **31.12.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Budynki i budowle | 57 463 | 47 087 |  |
+| Maszyny i urządzenia | 37 150 | 28 733 |  |
+| Środki transportu | 15 386 | 10 935 |  |
+| Inne rzeczowe aktywa trwałe | 1 925 | 2 371 |  |
+| Rzeczowe aktywa trwałe w budowie | 4 117 | 446 |  |
+| 116 041 | 89 572 |  |  |
+| _w tysiącach złotych_ **Inne wartości niematerialne** | **31.12.2025** | **niebadane** | **31.12.2024** |
+| Oprogramowanie komputerowe, koncesje, licencje | 76 008 | 32 986 |  |
+| Koszty zakończonych prac rozwojowych | 21 130 | 19 800 |  |
+| Wartości niematerialne w budowie | 46 442 | 16 555 |  |
+| 143 580 | 69 341 |  |  |
+Wzrost Rzeczowych aktywów trwałych w budowie (Maszyny i urządzenia) oraz Wartości niematerialnych w budowie (Prace rozwojowe) związany jest z transformacją cyfrową, przez którą przechodzi Grupa KRUK.  
+Wzrost wartości Budynków i budowli wynika ze zwiększenia prawa do użytkowania na skutek zawarcia umowy najmu nowej siedziby Jednostki Dominującej.  
+Wzrost wartości oprogramowania komputerowego, koncesji i licencji wynika ze zwiększenia prawa do użytkowania na skutek zawarcia nowej umowy leasingu oprogramowania.  
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **Należności z tytułu dostaw i usług**
+| _w tysiącach złotych_ | **31.12.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Należności z tytułu dostaw i usług- krótkoterminowe | 14 600 | 19 619 |  |
+| 14 600 **Pozostałe należności** | 19 619 |  |  |
+| _w tysiącach złotych_ | **31.12.2025** | **niebadane** | **31.12.2024** |
+| Należności z tytułu podatków innych niż podatek dochodowy | 32 906 | 18 723 |  |
+| Należności z tytułu kwot zwindykowanych oraz opłat sądowych | 20 456 | 26 583 |  |
+| Należności z tytułu kaucji i wadiów | 6 700 | 6 922 |  |
+| Inne należności | 305 | 268 |  |
+| 60 367 | 52 496 |  |  |
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_
+
+## **10.18. Środki pieniężne i ich ekwiwalenty**
+| _w tysiącach złotych_ | **31.12.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Środki pieniężne w kasie | 109 | 115 |  |
+| Środkipieniężne na rachunkach bieżących | 212 520 | 214 675 |  |
+| 212 629 | 214 790 |  |  |
+
+## **10.19. Zobowiązania z tytułu świadczeń pracowniczych**
+| _w tysiącach złotych_ | **31.12.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Zobowiązania z tytułu wynagrodzeń | 26 618 | 40 045 |  |
+| Zobowiązania z tytułu świadczeń socjalnych | 26 329 | 23 913 |  |
+| Rezerwy z tytułu niewykorzystanych urlopów | 16 548 | 14 993 |  |
+| Zobowiązania z tytułu PIT | 6 607 | 5 733 |  |
+| Fundusze specjalne | 1 567 | 1 091 |  |
+| 77 669 | 85 775 |  |  |
+
+## **10.20. Zobowiązania z tytułu dostaw i usług oraz pozostałe**
+| _w tysiącach złotych_ | **31.12.2025** | **niebadane** | **31.12.2024** |
+| --- | --- | --- | --- |
+| Zobowiązania z tytułu dostaw i usług | 139 839 | 167 396 |  |
+| Inne zobowiązania | 59 715 | 49 537 |  |
+| Przychody przyszłych okresów | 5 296 | 5 296 |  |
+| Rozliczenia międzyokresowe kosztów bierne | 3 148 | 5 050 |  |
+| Zobowiązania z tytułupodatków i ceł | 5 020 | 4 544 |  |
+| 213 018 | 231 823 |  |  |
+_Raport kwartalny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_

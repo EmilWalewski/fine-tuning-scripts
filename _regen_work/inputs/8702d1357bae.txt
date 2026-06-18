@@ -1,0 +1,60 @@
+DOKUMENT SEKCJA: **Zmiany w otoczeniu regulacyjnym spółki** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE** | ▪ **Rozporządzenie Ministra Finansów z dnia 20 września 2024 roku w sprawie przekazywania Komisji Nadzoru Finansowego informacji przez firmy inwestycyjne, banki państwowe prowadzące działalność maklerską, banki, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, i banki powiernicze** | ▪ **Rozporządzenie Parlamentu Europejskiego i Rady w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniające rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014 oraz (UE) nr 909/2014 (Digital Operational Resilience Act „DORA”)** | ▪ **Ustawa o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego z dnia 25 czerwca 2025 roku** | ▪ **Ustawa z dnia 17 października 2025 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej** | ▪ **Ustawa z dnia 26 kwietnia 2024 roku o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze** | ▪ **Ustawa z dnia 26 września 2025 r. o rynku kryptoaktywów** | ▪ **Ustawa z dnia 6 grudnia 2024 roku o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw**
+
+## **Zmiany w otoczeniu regulacyjnym spółki**
+Poniżej opisane zostały najistotniejsze, z punktu widzenia Spółki, zmiany wymogów regulacyjnych zaistniałych w ostatnim czasie oraz zmiany, które wejdą w życie w nadchodzących okresach.
+
+## ▪ **Rozporządzenie Parlamentu Europejskiego i Rady w sprawie operacyjnej odporności cyfrowej sektora finansowego i zmieniające rozporządzenia (WE) nr 1060/2009, (UE) nr 648/2012, (UE) nr 600/2014 oraz (UE) nr 909/2014 (Digital Operational Resilience Act „DORA”)**
+W dniu 27 grudnia 2022 roku w Dzienniku Urzędowym UE opublikowane zostało rozporządzenie, którego przepisy mają na celu zapewnienie odporności podmiotów sektora finansowego na zagrożenia związane z wykorzystaniem technologii cyfrowych i informacyjno-komunikacyjnych (ICT). Do kluczowych kwestii rozporządzenia należą:  
+- zasady zarządzania ryzykiem związanym z ICT, w tym korzystania z usług zewnętrznych dostawców technologii;  
+- zobowiązania do okresowego przeprowadzania testów odporności cyfrowej systemów;  
+- wymóg szczegółowego klasyfikowania i zgłaszania incydentów;  
+- wprowadzenie systemów wymiany informacji między podmiotami finansowymi dotyczących metod i technik skutecznej obrony przed zagrożeniami związanymi z ICT.  
+Rozporządzenie weszło w życie 16 stycznia 2023 roku. Podmioty sektora finansowego musiały dostosować się do jego wymogów najpóźniej do dnia 17 stycznia 2025 roku. Spółka dołożyła należytej staranności w celu przygotowania i dostosowania się do obowiązków wynikających z rozporządzenia.
+
+## ▪ **Ustawa o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego z dnia 25 czerwca 2025 roku**
+W dniu 18 kwietnia 2024 roku na stronie Rządowego Centrum Legislacji opublikowano projekt ustawy o zmianie niektórych ustaw w związku z zapewnieniem operacyjnej odporności cyfrowej sektora finansowego. Projekt ma na celu wdrożenie do polskiego systemu prawnego oraz zapewnienie stosowania rozporządzenia DORA.  
+105  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Do kluczowych kwestii ustawy należą:  
+- potwierdzenie funkcji i kompetencji KNF jako organu właściwego do nadzoru w zakresie zapewnienia operacyjnej odporności cyfrowej sektora finansowego;  
+- konieczność przekazania KNF informacji na temat umów dotyczących ICT do 31 stycznia każdego roku;  
+- zmiany w zakresie outsourcingu bankowego (m.in. rozszerzony katalog podstaw powierzenia, dodatkowe obowiązki banku i przedsiębiorcy w odniesieniu do systemów ICT) oraz uprawnienia do badania przez KNF wyników testów operacyjnej odporności;  
+- w przypadku naruszeń – kary dla podmiotów finansowych do ok. 21 mln PLN (lub 10% przychodu), kary dla osób odpowiedzialnych za naruszenia do ok. 3 mln PLN czy zakaz pełnienia funkcji członka zarządu, rady nadzorczej lub innej funkcji kierowniczej do 1 roku.  
+Ustawa została uchwalona na posiedzeniu w dniu 25 czerwca 2025 r. i podpisana przez Prezydenta RP w dniu 31 lipca 2025 r. Ustawa weszła w życie w dniu 7 sierpnia 2025 r.
+
+## ▪ **Rozporządzenie Ministra Finansów z dnia 20 września 2024 roku w sprawie przekazywania Komisji Nadzoru Finansowego informacji przez firmy inwestycyjne, banki państwowe prowadzące działalność maklerską, banki, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, i banki powiernicze**
+W dniu 28 września 2024 roku weszło w życie Rozporządzenie Ministra Finansów z dnia 20 września 2024 roku w sprawie przekazywania Komisji Nadzoru Finansowego informacji przez firmy inwestycyjne, banki państwowe prowadzące działalność maklerską, banki, o których mowa w art. 70 ust. 2 ustawy o obrocie instrumentami finansowymi, i banki powiernicze. Nowe przepisy rozporządzenia są bardziej szczegółowe i wymagają bardziej kompleksowego raportowania, uwzględniając współczesne standardy i wymogi UE. W stosunku do poprzedniego brzmienia rozporządzenia wprowadzono nowe definicje, rozszerzone wymagania dotyczące zarządzania ryzykiem, bardziej rygorystyczne zasady raportowania, a także zgodności z przepisami dotyczącymi odporności cyfrowej (DORA), co ma na celu zwiększenie bezpieczeństwa i stabilności finansowej rynku inwestycyjnego.
+
+## ▪ **Ustawa z dnia 6 grudnia 2024 roku o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym oraz niektórych innych ustaw**
+W dniu 19 kwietnia 2024 roku na stronie Rządowego Centrum Legislacji opublikowano projekt ustawy o zmianie ustawy o rachunkowości, ustawy o biegłych rewidentach, firmach audytorskich oraz nadzorcze publicznym oraz niektórych innych ustaw. Celem nowelizacji jest implementacja do krajowego porządku prawnego dyrektywy Parlamentu Europejskiego i Rady (UE) 2022/2464 z dnia 14 grudnia 2022 roku w sprawie zmiany rozporządzenia (UE) nr 537/2014, dyrektywy 2004/109/WE, dyrektywy 2006/43/WE oraz dyrektywy 2013/34/UE w odniesieniu do sprawozdawczości przedsiębiorstw w zakresie zrównoważonego rozwoju oraz dyrektywy delegowanej Komisji (UE) 2023/2775 z dnia 17 października 2023 roku zmieniającej dyrektywę Parlamentu Europejskiego i Rady 2013/34/UE w odniesieniu do dostosowania kryteriów wielkości przedsiębiorstwa dla mikro-, małych, średnich i dużych jednostek lub grup.  
+106  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.  
+Kluczowym celem dyrektywy 2022/2464 jest zapewnienie, aby większa grupa przedsiębiorstw sprawozdawała istotne, porównywalne i wiarygodne informacje na temat zrównoważonego rozwoju – w większym stopniu użyteczne dla inwestorów i innych interesariuszy.  
+Do kluczowych kwestii ustawy należą:  
+- ułatwienia dla małych i mikrojednostek w zakresie prowadzenia księgowości;  
+- wprowadzenie obowiązku sprawozdawczości zrównoważonego rozwoju dotyczącego dużych jednostek, jednostek notowanych na giełdzie oraz niektórych instytucji finansowych oraz obowiązku atestacji tego rodzaju sprawozdawczości;  
+- uproszczenie sprawozdawczości w grupach kapitałowych.  
+Ustawa z dnia 6 grudnia 2024 roku, podpisana przez Prezydenta RP 12 grudnia 2024 roku weszła po upływie 14 dni od ogłoszenia, zmiany dotyczące progów przychodów i kryteriów wielkości przedsiębiorstw weszły w życie 1 stycznia 2025 roku, zaś wejście w życie przepisów dotyczących sprawozdawczości zrównoważonego rozwoju zostało rozbite i przepisy te wejdą w życie stopniowo w latach 2024 – 2027.
+
+## ▪ **Ustawa z dnia 26 kwietnia 2024 roku o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze**
+W dniu 26 kwietnia 2024 roku na posiedzeniu Sejmu przyjęto ustawę o zapewnianiu spełniania wymagań dostępności niektórych produktów i usług przez podmioty gospodarcze. Stanowi ona implementację Dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/882 z 17 kwietnia 2019 roku w sprawie wymogów dostępności produktów i usług. Ustawa ma na celu zapewnienie, że wszystkie strony internetowe, aplikacje mobilne oraz inne usługi cyfrowe są dostępne dla osób z różnymi rodzajami niepełnosprawności poprzez dostosowanie treści cyfrowych do standardów dostępności. Ustawa weszła w życie z dniem 28 czerwca 2025 roku Jednocześnie umowy o oferowanie lub świadczenie usług zawarte przed dniem wejścia w życie ustawy mogą nadal obowiązywać w niezmienionej treści do dnia ich wygaśnięcia, jednak nie dłużej niż do dnia 28 czerwca 2030 roku, jak również usługodawca może do dnia 28 czerwca 2030 roku oferować lub świadczyć usługi przy wykorzystaniu produktów niespełniających wymagań dostępności, które wykorzystywał w celu oferowania lub świadczenia usług tego samego rodzaju przed dniem wejścia w życie ustawy.
+
+## ▪ **Ustawa z dnia 17 października 2025 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej**
+W dniu 2 lipca 2025 r. do Sejmu trafił rządowy projekt ustawy o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej. Projekt dotyczy wprowadzenia obowiązku przyjmowania reklamacji drogą elektroniczną przez wszystkie podmioty rynku finansowego, co zwiększy dostępność tej formy dla klientów oraz usprawni przebieg komunikacji i rozpatrywania reklamacji. Ponadto zgodnie z projektowaną ustawą, jeśli reklamacja zostanie złożona elektronicznie, odpowiedź w tej formie będzie podstawową formą kontaktu bez potrzeby dodatkowego wniosku klienta. Jednocześnie klient zachowuje prawo do otrzymania odpowiedzi na piśmie, o ile wniósł o jej dostarczenie w tej formie. Zgodnie z projektem, ustawa ma wejść w życie po upływie 3 miesięcy od dnia ogłoszenia.  
+12 września 2025 r. ustawa została uchwalona przez Sejm. 17 października 2025 r. Sejm przyjął poprawki Senatu do ustawy, a następnie ustawę przekazano do podpisu Prezydentowi RP.  
+107  
+xtb.com  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.
+
+## ▪ **Ustawa z dnia 26 września 2025 r. o rynku kryptoaktywów**
+26 czerwca 2025 r. do Sejmu trafił rządowy projekt ustawy o rynku kryptoaktywów. Projekt dotyczy wprowadzenia nowych rozwiązań w obszarze sektora rynku kryptoaktywów, mających na celu realizację zadań wynikających z rozporządzenia 2023/1114, w szczególności w zakresie skutecznego nadzoru i ochrony inwestorów. Zgodnie z uzasadnieniem do projektu, podjęcie działań zmierzających do realizacji wspomnianych celów zapewni rozwój rynku w perspektywie wieloletniej oraz bezpieczeństwo przez rozszerzenie kompetencji nadzorczych. Ustawa została uchwalona na posiedzeniu w dniu 26 września 2025 r. i została przekazana do Prezydenta RP i Senatu. W dniu 16 października 2025 r. Senat rozpatrzył projekt ustawy, zgłosił do niego 81 poprawek i skierował do Komisji Finansów Publicznych, która w dniu 6 listopada br. część poprawek przyjęła, przekazując ponownie projekt ustawy do Sejmu.  
+108  
+xtb.com  
+**Raport za III kwartał 2025**  
+Grupy Kapitałowej XTB S.A.
+
+## **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE FINANSOWE**
+xtb.com<br>109<br>  
+**Raport za III kwartał 2025** Grupy Kapitałowej XTB S.A.

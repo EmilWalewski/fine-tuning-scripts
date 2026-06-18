@@ -1,0 +1,79 @@
+DOKUMENT SEKCJA: **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **IRO – 2 WYMOGI DOTYCZĄCE UJAWNIANIA INFORMACJI W RAMACH ESRS OBJĘTE SPRAWOZDANIEM JEDNOSTKI DOTYCZĄCYM ZRÓWNOWAŻONEGO ROZWOJU**
+
+Informacje wymagające ujawnienia informacji w odniesieniu do istotnej kwestii w związku z istotnymi wpływami, ryzykami zrównoważonego rozwoju oraz i szansami zostały ustalone w oparciu o kryteria przydatność informacji dla użytkowników jakościowe, w tym w szczególności znaczenie sprawozdania zrównoważonego rozwoju.
+
+Wymogi
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A.
+
+I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**
+107
+ESRS dotyczące ujawnień objętych skonsolidowaną sprawozdawczością zrównoważonego rozwoju Grupy, wraz z odniesieniem do odpowiednich klauzul ESRS oraz podaniem numerów stron zostały przedstawione w tabeli poniżej.
+
+Przegląd analizy istotności potwierdził ocenę z 2024 r. dotyczącą braku istotnego wpływu na zagadnienia ESRS E2.
+
+Spółki z Grupy nie wytwarzają, nie wykorzystują i nie nabywają:
+- substancji powodujących zanieczyszczenia organizmów żywych i zasobów żywnościowych w postaci emisji, produktów lub ich produktów lub usług
+- − substancji wzbudzających szczególnie duże obawy w postaci emisji, produktów lub ich produktów lub usług,
+- mikrodrobin plastiku w postaci emisji, produktów lub ich produktów lub usług.
+
+Wykluczenie ww. tematów nastąpiło po przeprowadzeniu analizy modelu biznesowego, strategii biznesowej i łańcucha wartości na wstępnym etapie badania przez osoby odpowiedzialne za obszar ESG.
+
+Tematy związane z zanieczyszczeniami powietrza, wody i gleb występują podczas realizacji prac związanych z budową nowych inwestycji i/lub pracami rozbiórkowymi, mają jednak charakter lokalny i ograniczony czasowo.
+
+Uciążliwości związane z procesem budowlanym wskazane zostały w ujawnieniu specyficznym w ESRS S3.
+
+Nr ujawnienia Nazwa ujawnienia Strona w sprawozd aniu Odniesienie do innych przepisów UE Wymóg dotyczący ujawniania informacji i powiązany punkt danych Strona w sprawozd aniu Nr ujawnienia Nazwa ujawnienia Strona w sprawozd aniu Odniesienie do innych przepisów UE Wymóg dotyczący ujawniania informacji i powiązany punkt danych Strona w sprawozd aniu
+ESRS 2 Ogólne ujawnienie informacji
+BP-1 Ogólna podstawa sporządzenia sprawozdania zrównoważonego rozwoju Strona 49
+BP-2 Ujawnianie informacji w odniesieniu do szczególnych okoliczności Strony 50-52
+GOV-1 Rola organów administrujących, zarządzających i nadzorczych Strony 52-56 Załącznik II do rozporządzenia delegowanego Komisji(UE)2020/1816 ESRS GOV-1, pkt. 21 lit. d) Strona 53
+Wskaźnik nr 13 w tabeli 1 w załączniku I w Rozporządzeniu w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usługfinansowych ESRS GOV-1, pkt. 21 lit. d) Strona 53
+Załącznik II do rozporządzenia delegowanego Komisji(UE)2020/1816 ESRS GOV-1, pkt. 21 lit. e) Nie dotyczy
+GOV-2 Informacje przekazywane organom administrującym, zarządzającym i nadzorczym jednostki oraz podejmowane przez nie kwestie związane ze zrównoważonym rozwojem Strony 56-58
+GOV-3 Uwzględnianie wyników związanych ze zrównoważonym rozwojem w systemach zachęt.
+
+Strona 59
+GOV-4 Oświadczenie dotyczące należytej staranności Strona 59 Wskaźnik nr 10 w tabeli 3 w załączniku I w Rozporządzeniu w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usługfinansowych ESRS GOV-4, pkt. 30 Strona 59
+GOV-5 Zarządzanie ryzykiem i kontrole wewnętrzne nad sprawozdawczością w zakresie zrównoważonego rozwoju Strony 59-61
+SBM-1 Strategia, model biznesowy i łańcuch wartości Strony 61-66 Wskaźnik nr 4 w tabeli 3 w załączniku I w Rozporządzeniu w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usługfinansowych ESRS 2 SBM- 1, pkt. 40 lit. d) ppkt (i) Nie dotyczy
+Załącznik II do rozporządzenia delegowanego Komisji (UE) 2020/1816 ESRS 2 SBM- 1, pkt. 40 lit. d) ppkt(i) Nie dotyczy
+SBM-2 Interesy i opinie interesariuszy Strony 67-75
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A.
+
+I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**
+108
+SBM-3 Istotne wpływy, ryzyka i szanse oraz ich wzajemne związki ze strategią i z modelem biznesowym Strony 75-93
+IRO-1 Opis procesów służących do identyfikacji i oceny istotnych wpływów, istotnych ryzyk i istotnych szans Strony 94-107
+IRO-2 Wymogi dotyczące ujawniania informacji w ramach ESRS objęte sprawozdaniem jednostki dotyczącym zrównoważonego rozwoju Strony 107-117
+ESRS E1 Zmiana klimatu
+E1-1 Plan transformacji na potrzeby łagodzenia zmiany klimatu Strona 118 art. 2 ust. 1 rozporządzenia (UE) 2021/1119 ESRS E1-1, pkt. 14 Strona 118
+art. 12 ust. 1 lit. d) -g) oraz art. 12 ust. 2 rozporządzenia delegowanego (UE) 2020/1818 ESRS E1-1, pkt. 16 lit. g) Nie dotyczy
+ESRS 2 GOV-3 Uwzględnianie wyników związanych ze zrównoważonym rozwojem w systemach zachęt Strona 59
+ESRS 2 SBM-3 Istotne oddziaływania, ryzyko i możliwości oraz ich wzajemne związki ze strategią i z modelem biznesowym Strony 75-93
+ESRS 2 IRO-1 Opis procesów identyfikacji i oceny związanych z klimatem istotnych oddziaływań, ryzyka i możliwości Strony 94-107
+E1-2 Polityki związane z łagodzeniem zmiany klimatu i przystosowaniem siądo niej Strona 118
+E1-3 Działania i zasoby w odniesieniu dopolityki klimatycznej Strony 118--119
+E1-4 Cele związane z łagodzeniem zmiany klimatu i przystosowaniem się do niej Strona 120 art. 6 rozporządzenia delegowanego (UE) 2020/1818 ESRS E1-4, pkt. 34 Strona 120
+Wskaźnik nr 4 w tabeli 2 w załączniku I w Rozporządzeniu w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usługfinansowych ESRS E1-4, pkt. 34 Strona 120
+E1-5 Zużycie energii i koszyk energetyczny Strony 120-121 wskaźnik nr 5 w tabeli 1 w załączniku I w Rozporządzeniu w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usługfinansowych ESRS E1-5, pkt. 37 Strony 120-121 wskaźnik nr 6 w tabeli 1 w załączniku I w Rozporządzeniu w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usługfinansowych ESRS E1-5, pkt. 40-43 Strony 120-121 wskaźnik nr 5 w tabeli 1 i wskaźnik nr 5 w tabeli 2 w załączniku I w Rozporządzeniu w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usługfinansowych ESRS E1-5, pkt. 38 Strony 120-121
+E1-6 Emisje gazów cieplarnianych zakresów 1, 2 i 3 brutto oraz całkowite emisje gazów cieplarnianych Strony 122-123 art. 5 ust. 1, art. 6 i art. 8 ust. 1 rozporządzenia delegowanego (UE) 2020/1818 ESRS E1-6, pkt. 44 Strony 122-123
+Wskaźniki nr 1 i 2 w tabeli w załączniku I w Rozporządzeniu w sprawie ujawniania informacji związanych ze ESRS E1-6, pkt. 44 Strony 122-123
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A.
+
+I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**
+109
+zrównoważonym rozwojem w sektorze usług finansowych
+zrównoważonym rozwojem w sektorze usług finansowych
+Wskaźnik nr 3 w tabeli 1 w załączniku I w Rozporządzeniu w sprawie ujawniania informacji związanych ze zrównoważonym rozwojem w sektorze usług finansowych ESRS E1-6, pkt. 53- 55 Strony 122-123
+art. 8 ust. 1 rozporządzenia delegowanego (UE) 2020/1818 ESRS E1-6, pkt. 53- 55 Strony 122-123
+E1-7 Usuwanie gazów cieplarnianych i jednostki emisji dwutlenku węgla Nie dotyczy art. 2 ust. 1 rozporządzenia (UE) 2021/1119 ESRS E1-7, pkt. 56 Brak
+E1-8 Wewnętrzne ustalanie opłat za emisję gazów cieplarnianych Nie dotyczy
+E1-9 Antycypowane skutki finansowe wynikające z istotnych ryzyk fizycznych i ryzyk przejścia oraz możliwości związanych z klimatem zwolnieni e zgodnie z Quick Fix Załącznik II do rozporządzenia delegowanego (UE) 2020/1818, załącznik II do rozporządzenia delegowanego (UE) 2020/1816 ESRS E1-9, pkt. 66 Brak
+art. 449a rozporządzenia (UE) nr 575/2013; pkt 46 i 47 rozporządzenia wykonawczego Komisji (UE) 2022/2453; wzór 5: Portfel bankowy – Ryzyko fizyczne związane ze zmianami klimatu: ekspozycje podlegające ryzyku fizycznemu ESRS E1-9, pkt. 66 lit. a) Brak
+art. 449a rozporządzenia (UE) nr 575/2013; pkt 46 i 47 rozporządzenia wykonawczego Komisji (UE) 2022/2453; wzór 5: Portfel bankowy – Ryzyko fizyczne związane ze zmianami klimatu: ekspozycje podlegające ryzyku fizycznemu ESRS E1-9, pkt. 67 lit. c) Brak
+art. 449a rozporządzenia (UE) nr 575/2013; pkt 34 rozporządzenia wykonawczego Komisji (UE) 2022/2453; wzór 2: Portfel bankowy – Ryzyko przejścia związane ze zmianami klimatu: kredyty zabezpieczone nieruchomościami – efektywność energetyczna zabezpieczeń ESRS E1-9, pkt. 67 lit. c) Brak
+Załącznik II do rozporządzenia delegowanego (UE) 2020/1818 ESRS E1-9, pkt. 69 Brak
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A.

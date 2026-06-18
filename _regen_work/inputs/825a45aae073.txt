@@ -1,0 +1,65 @@
+DOKUMENT SEKCJA: **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E1-5 ZUŻYCIE ENERGII I KOSZYK ENERGETYCZNY** | **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU** > **E1-6 EMISJE GAZÓW CIEPLARNIANYCH ZAKRESÓW 1, 2 I 3 BRUTTO ORAZ CAŁKOWITE EMISJE GAZÓW CIEPLARNIANYCH**
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E1-5 ZUŻYCIE ENERGII I KOSZYK ENERGETYCZNY**
+Grupa prowadzi działalność w sektorze o znacznym oddziaływaniu na klimat. Z uwagi na obowiązujący model biznesowy oraz działania realizowane przez Grupę, całość przychodów zakwalifikowano jako uzyskiwane w sektorach o znacznym oddziaływaniu na klimat.  
+Zapotrzebowanie na energię w Grupie wynika głównie z:  
+- zakupu energii elektrycznej i ciepła podczas realizowania prac budowlanych,  
+- działalności administracyjnej,  
+- wykorzystania pojazdów służbowych.  
+> 10 Zakres 1 - Emisje bezpośrednie powstałe w wyniku spalania paliw w instalacjach stacjonarnych oraz spalania paliw w samochodach należących do floty organizacji. Zakres 2 - Emisje pośrednie powstałe w wyniku wytwarzania energii elektrycznej i cieplnej dostarczanej do przedsiębiorstwa przez dostawcę energii.  
+> 11 Rok 2021 wybrano uwzględniając czynniki zewnętrzne (przyszłe zmiany prawne) i wewnętrzne (zmiana skali działalności oraz zmiany w podejściu do kwestii ESG). Wartość bazowa została poddana niezależnej weryfikacji.  
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+120  
+Dane dotyczące zużycia paliw i energii pochodzą z faktur rozliczeniowych wskazujących konkretne zużycia. Podczas przeliczania zużycia energii na megawatogodziny (MWh) wykorzystano poniższe współczynniki przeliczeniowe:  
+- 1 MWh = 1 000 kWh;  
+- 1 MWh = 3,6 GJ;  
+- − 1 MWh = 0,086 toe.  
+| **Struktura i zużycie energii** | **2025** | **2024** |
+| --- | --- | --- |
+| Zużycie paliwa z węgla i produktów węglowych (MWh) | 0,00 | 0,00 |
+| Zużycie paliwa z ropy naftowej i produktów naftowych (MWh) | 3 129,56 | 3 096,26 |
+| Zużycie paliwa z gazu ziemnego (MWh) | 1 869,54 | 291,35 |
+| Zużycie paliwa z innych źródeł kopalnych (MWh) | 0,00 | 0,00 |
+| Zużycie zakupionej lub nabytej energii elektrycznej, ciepła, paryi chłodu ze źródeł nieodnawialnych(MWh) | 13 562,95 | 22 066,20 |
+| **Całkowite zużycie energii ze źródeł kopalnych(MWh)** | **18 562,05** | **25 453,81** |
+| Udział źródeł nieodnawialnych w całkowitym zużyciu energii (%) | 61% | 82% |
+| Zużycie energii ze źródeł jądrowych (MWh) | 0,00 | 0,00 |
+| Udział zużycia energii ze źródeł jądrowych w całkowitym zużyciu energii (%) | 0,00 | 0,00 |
+| Zużycie paliwa w przypadku źródeł odnawialnych, w tym biomasy (obejmujących również odpady przemysłowe i komunalne pochodzenia biologicznego, biogaz, wodór odnawialny itp.) (MWh) | 0,00 | 0,00 |
+| Zużycie zakupionych lub pozyskanych energii elektrycznej, ciepła, pary wodnej i chłodzenia ze źródeł odnawialnych (MWh) | 12 060,00 | 5 599,00 |
+| Zużycie energii odnawialnej produkowanej samodzielnie bez użyciapaliwa(MWh) | 0,00 | 0,00 |
+| **Całkowite zużycie energii odnawialnej i niskoemisyjnej** **(MWh)** | **12 060,00** | **5 599,00** |
+| Udział źródeł odnawialnych w całkowitym zużyciu energii(%) | 39% | 18% |
+| **Całkowite zużycie energii(MWh)** | **30 622,05** | **31 052,81** |
+| **Energochłonność** (MWh/liczba lokali w budowie) | **4,27** | **4,06** |
+| **Energochłonność** (MWh/mln zł)12 | **9,41** | **9,80** |
+_1. Do określenia energochłonności Grupa bierze pod uwagę zużycie energii ze swojej działalności, tj. sektorów: M.68.11 Buying and selling of own real estate, F.41.00 Construction of residential and non-residential buildings, L.66.19 Other activities auxiliary to financial services, except insurance and pension funding, M.68.20 Rental and operating of own or leased real estate._  
+W 2025 r. w Grupie nastąpił nieznaczny spadek łącznej konsumpcji energii względem roku 2024. Wskazywany spadek wiązał się w sposób bezpośredni z minimalnym spadkiem produkcji Grupy. W 2025 roku zanotowano wzrost ilości zakupionej w Grupie energii z OZE na poziomie 39% w stosunku do roku ubiegłego (18%). Potwierdzają to otrzymane przez Grupę gwarancje pochodzenia. Udział źródeł odnawialnych w całkowitym zużyciu energii w całym miksie energetycznym jest  
+nieznaczny, jednak będzie on w kolejnych latach sukcesywnie wzrastał.  
+Już teraz spółki z Grupy wdrażają działania na rzecz ograniczania zużycia energii i tym samym zmniejszenia emisyjności m.in. poprzez:  
+- zakup energii pochodzącej ze źródeł odnawialnych,  
+- sukcesywną wymianę floty na pojazdy mniej emisyjne.  
+12 Liczona jako całkowite zużycie energii na przychody ze sprzedaży wskazane w nocie 7.34 SSF  
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+121
+
+# **3 SKONSOLIDOWANA SPRAWOZDAWCZOŚĆ ZRÓWNOWAŻONEGO ROZWOJU**
+## **E1-6 EMISJE GAZÓW CIEPLARNIANYCH ZAKRESÓW 1, 2 I 3 BRUTTO ORAZ CAŁKOWITE EMISJE GAZÓW CIEPLARNIANYCH**
+Emisje zakresu 1 to bezpośrednie emisje ze źródeł i działań będących własnością lub kontrolowanych przez Grupę. Emisje te obejmują następujące źródła:  
+- energia wykorzystywana w spalaniu stacjonarnym, np. gaz ziemny i olej opałowy;  
+- − paliwo stosowane w urządzeniach mobilnych i generatorach, np. olej napędowy;  
+- − flota pojazdów, np. olej napędowy, benzyna;  
+- − źródła ulotne, np. wycieki z klimatyzatorów.  
+W Grupie zidentyfikowano biogeniczne emisje CO2 wynikające ze spalania paliw. W zakresie 1 wyniosły one 43,969 tCO2. Grupa nie uwzględnia żadnych zakupionych, sprzedanych lub przeniesionych jednostek emisji dwutlenku węgla ani uprawnień do emisji gazów cieplarnianych w obliczeniach emisji gazów cieplarnianych z zakresu 1.  
+Emisje z zakresu 2 to pośrednie emisje gazów cieplarnianych, które są konsekwencją działalności Grupy. Protokół GHG klasyfikuje je jako emisje z zakupionej energii elektrycznej, ciepła, pary i chłodu. Tak, jak w poprzednich latach, Grupa raportuje emisje według dwóch metodologii obliczania emisji gazów cieplarnianych: rynkowej (market-based) i opartej na lokalizacji (locationbased). Metoda oparta na lokalizacji pozwala na ilościowe określenie emisji gazów cieplarnianych zakresu 2 na podstawie średnich współczynników  
+emisji z produkcji energii w przypadku określonych lokalizacji, w tym granic lokalnych. Metoda rynkowa ujmuje ilościowo emisje gazów cieplarnianych zakresu 2 na podstawie emisji gazów cieplarnianych emitowanych przez wytwórców, od których jednostka sprawozdawcza dokonuje umownych zakupów energii elektrycznej w połączeniu z instrumentami (takimi jak gwarancje pochodzenia lub certyfikaty energii odnawialnej). W Grupie nie występują biogeniczne emisje CO2 wynikające ze spalania lub biodegradacji biomasy, emisje procesowe i emisje niezorganizowane z zakresu 2. Obecnie niedostępne są wskaźniki umożliwiające obliczenie emisji biogenicznych z zakupionej energii elektrycznej i cieplnej. Grupa nie uwzględnia pochłaniania ani wszelkich zakupionych, sprzedanych lub przeniesionych jednostek emisji dwutlenku węgla ani uprawnień do emisji gazów cieplarnianych w obliczeniach emisji gazów cieplarnianych zakresu 2.  
+Emisje zakresu 3 to inne pośrednie emisje gazów cieplarnianych, które są konsekwencją działalności Grupy, ale pochodzą ze źródeł niebędących własnością lub niekontrolowanych przez Grupę.  
+W 2025 r. nie wystąpiły znaczące zmiany w definicji tego, co stanowi jednostkę sprawozdającą i jej łańcuch wartości na wyższym i niższym szczeblu, które mogłyby wpływać na porównywalność rok do roku emisji gazów cieplarnianych (tj. wpływ na porównywalność emisji gazów cieplarnianych w bieżącym i poprzednim okresie sprawozdawczym).  
+**SPRAWOZDANIE ZARZĄDU Z DZIAŁALNOŚCI DOM DEVELOPMENT S.A. I JEJ GRUPY KAPITAŁOWEJ W 2025 ROKU**  
+**GRUPA KAPITAŁOWA DOM DEVELOPMENT S.A.**  
+122  
+**Intensywność (emisje GHG location-based z zakresu 1+2/ przychód netto)[13] Intensywność (emisje GHG market-based z zakresu 1+2/ przychód netto)[13]**  
+3,98 tCO2e/mln zł 4,12 tCO2e/mln zł 8,36 tCO2e/mln zł 1,93 tCO2e/mln zł 2,98 tCO2e/mln zł 8,51 tCO2e/mln zł

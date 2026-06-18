@@ -1,0 +1,23 @@
+DOKUMENT SEKCJA: **Dodatkowe objaśnienia do śródrocznego skróconego skonsolidowanego sprawozdania finansowego Grupy Asseco** > 4. Informacje dotyczące segmentów działalności
+
+_1) Przychody odsetkowe od udzielonych pożyczek, nabytych papierów dłużnych, leasingu, należności handlowych oraz depozytów bankowych 2) Koszty odsetkowe od kredytów, pożyczek, wyemitowanych papierów dłużnych, leasingu oraz zobowiązań handlowych 3) Środki pieniężne z działalności operacyjnej przed zapłaconym podatkiem dochodowym_
+Wybrane dane dotyczące pozycji bilansowych na dzień 31 grudnia 2024 roku w podziale na segmenty operacyjne:
+
+| **31 grudnia 2024** **_(przekształcone)_** | **Segment Asseco** **Poland** | **Segment Asseco** **International** | **Segment Formula** **Systems** | **Eliminacje** | **Razem** |
+| --- | --- | --- | --- | --- | --- |
+| **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** | **mln PLN** |  |
+| **Aktywa trwałe** | **3 180,6** | **2 713,8** | **4 978,0** | **(11,2)** | **10 861,2** |
+| w tym wartość firmy | 2 262,5 | 1 871,5 | 2 090,9 | - | 6 224,9 |
+| **Aktywa obrotowe i aktywa trwałe** **przeznaczone do sprzedaży** _w tym m.in.:_ | **967,1** | **2 284,8** | **6 228,4** | **(15,0)** | **9 465,3** |
+| należności z tytułu dostaw i usług oraz aktywa z tytułu umów z klientami | 570,6 | 821,3 | 3 432,0 | (13,2) | 4 810,7 |
+| środki pieniężne | 322,3 | 895,0 | 2 082,0 | - | 3 299,3 |
+| **Zobowiązania długoterminowe** _w tym m.in.:_ | **830,6** | **774,1** | **2 109,5** | **(10,2)** | **3 704,0** |
+| kredyty bankowe, pożyczki i dłużne papierywartościowe | 630,5 | 98,7 | 1 019,0 | - | 1 748,2 |
+| zobowiązania z tytułu leasingu | 53,9 | 190,3 | 490,5 | (8,2) | 726,5 |
+| **Zobowiązania krótkoterminowe** _w tym m.in.:_ | **654,8** | **1 494,1** | **4 834,8** | **(10,2)** | **6 973,5** |
+| kredyty bankowe, pożyczki i dłużne papierywartościowe | 98,3 | 143,3 | 946,0 | - | 1 187,6 |
+| zobowiązania z tytułu leasingu | 15,5 | 51,9 | 185,5 | (2,4) | 250,5 |
+| zobowiązania z tytułu dostaw i usług oraz umów z klientami | 276,1 | 777,3 | 2 157,6 | (7,2) | 3 203,8 |
+
+Grupa Asseco
+Raport kwartalny za okres 3 miesięcy zakończony dnia 31 marca 2025 roku (w milionach złotych) I 34

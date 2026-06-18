@@ -1,0 +1,76 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **3.3. Wycena wartości godziwej** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **3.4. Inne wartości szacunkowe** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.1. Zasady konsolidacji** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.1.1. Połączenia jednostek gospodarczych** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.1.2. Inwestycje w spółki zależne** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.2. Waluta funkcjonalna i waluta sprawozdawcza** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.3. Środki pieniężne i ich ekwiwalenty** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **4.4. Aktywa i zobowiązania finansowe**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **3.3. Wycena wartości godziwej**
+Informacje o szacunkach związanych z wyceną wartości godziwej zostały zamieszczone w nocie 35 - Zarządzanie ryzykiem. W ramach wyceny do wartości godziwej stosowane są techniki wyceny, które są odpowiednie do okoliczności i w przypadku, których są dostępne dostateczne dane do wyceny wartości godziwej, przy maksymalnym wykorzystaniu odpowiednich obserwowalnych danych wejściowych i minimalnym wykorzystaniu nieobserwowalnych danych wejściowych. Wypracowana przez Grupę metodologia ustalania wartości godziwej zakłada dostosowanie modelu wyceny do wartości godziwej do charakterystyki wycenianego aktywa finansowego.  
+13  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **3.4. Inne wartości szacunkowe**
+Rezerwa na zobowiązania związane z odprawami emerytalnymi, rentowymi i pośmiertnymi wyliczana jest metodą aktuarialną przez niezależnego aktuariusza jako wartość obecna przyszłych zobowiązań Grupy wobec pracowników według stanu zatrudnienia i płac na dzień bilansowy. Wyliczenie rezerw jest oparte na szeregu założeń, zarówno co do warunków makroekonomicznych jak i założeń dotyczących rotacji pracowników, ryzyka śmierci i innych.  
+Rezerwa na niewykorzystane urlopy jest wyliczana w oparciu o szacowaną wypłatę świadczenia urlopowego na podstawie ilości dni niewykorzystanego urlopu i wynagrodzenia na dzień bilansowy.  
+Rezerwa na ryzyko prawne ustalana jest indywidualnie w oparciu o okoliczności danej sprawy spornej. Grupa dokonuje oceny szans na wygranie danej sprawy, a w konsekwencji ocenia potrzebę ustanowienia rezerwy na wypadek przegranej, w odniesieniu do wszystkich spraw sądowych.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.1. Zasady konsolidacji**
+Skonsolidowane sprawozdanie finansowe obejmuje dane finansowe Jednostki dominującej oraz dane finansowe spółek zależnych (dalej: jednostki zależne) na dzień 31 grudnia 2025 roku oraz 31 grudnia 2024 roku. Sprawozdania finansowe jednostek zależnych po uwzględnieniu korekt doprowadzających do zgodności z MSSF sporządzane są za ten sam okres sprawozdawczy co sprawozdanie jednostki dominującej, przy wykorzystaniu spójnych zasad rachunkowości, w oparciu o jednolite zasady rachunkowości zastosowane dla transakcji i zdarzeń gospodarczych o podobnym charakterze. W celu eliminacji jakichkolwiek rozbieżności w stosowanych zasadach rachunkowości wprowadza się korekty.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.1.1. Połączenia jednostek gospodarczych**
+Przejęcia jednostek i wyodrębnionych części działalności rozlicza się metodą nabycia. Każdorazowo płatność przekazana w wyniku połączenia jednostek wyceniana jest w zagregowanej wartości godziwej (na dzień dokonania zapłaty) przekazanych aktywów, poniesionych lub przejętych zobowiązań oraz instrumentów kapitałowych wyemitowanych w zamian za przejęcie kontroli nad jednostką przejmowaną. Koszty bezpośrednio związane z połączeniem jednostek gospodarczych ujmowane są w wyniku finansowym w momencie ich poniesienia.  
+Dające się zidentyfikować aktywa, zobowiązania i zobowiązania warunkowe jednostki przejmowanej spełniające warunki ujęcia zgodnie z MSSF 3 „Połączenia jednostek gospodarczych” ujmuje się w wartości godziwej na dzień przejęcia, z uwzględnieniem wyjątków zawartych w MSSF 3.  
+Dla rozliczenia transakcji pod wspólną kontrolą Grupa stosuje metodę nabycia.  
+W razie nabycia kontroli w następstwie kilku następujących po sobie transakcji, udziały będące w posiadaniu na dzień objęcia kontroli są wyceniane w wartości godziwej z odniesieniem skutków w przychody lub koszty okresu. Kwoty narosłe z tytułu udziałów w tej jednostce odniesione uprzednio do innych składników całkowitych dochodów są przenoszone do przychodów lub kosztów okresu.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.1.2. Inwestycje w spółki zależne**
+Przez spółki zależne rozumie się jednostki kontrolowane przez jednostkę dominującą (co obejmuje także jednostki specjalnego przeznaczenia). Uznaje się, że Grupa sprawuje kontrolę nad jednostką, w której dokonano inwestycji, w przypadku, gdy z tytułu swojego zaangażowania w tę jednostkę, podlega ekspozycji na zmienne wyniki finansowe lub gdy ma prawa do zmiennych wyników finansowych i możliwość wywierania wpływu na wysokość tych wyników finansowych poprzez sprawowanie władzy nad tą jednostką.  
+Wyniki finansowe jednostek zależnych nabytych lub sprzedanych w ciągu roku ujmuje się w skonsolidowanym sprawozdaniu finansowym od/do momentu objęcia lub utraty kontroli.  
+14  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Wszelkie transakcje, salda, przychody i koszty zachodzące między podmiotami konsolidowanymi w ramach Grupy podlegają pełnej eliminacji konsolidacyjnej.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.2. Waluta funkcjonalna i waluta sprawozdawcza**
+Transakcje przeprowadzane w walucie innej niż waluta funkcjonalna wykazuje się po kursie waluty obowiązującym na dzień transakcji. Na dzień bilansowy aktywa i zobowiązania pieniężne denominowane w walutach obcych są przeliczane według średniego kursu NBP ogłoszonego na ten dzień. Pozycje niepieniężne wyceniane są według kosztu historycznego.  
+Walutą funkcjonalną Jednostki dominującej jest polski złoty, który jest również walutą sprawozdawczą niniejszego skonsolidowanego sprawozdania finansowego.  
+Różnice kursowe ujmuje się w przychodach lub kosztach w okresie, w którym powstają.  
+Następujące kursy zostały przyjęte dla potrzeb wyceny aktywów i zobowiązań na dzień bilansowy oraz przeliczenia pozycji sprawozdań z całkowitych dochodów:  
+| **WALUTA** | **SKONSOLIDOWANE SPRAWOZDANIE** **Z SYTUACJI FINANSOWEJ** **SKONSOLIDOWANE SPRAWOZDANIE** **Z CAŁKOWITYCH DOCHODÓW** |  |  |  |
+| --- | --- | --- | --- | --- |
+| **31.12.2025** | **31.12.2024** | **31.12.2025** | **31.12.2024** |  |
+| USD | 3,6016 | 4,1012 | 3,7504 | 3,9853 |
+| EUR | 4,2267 | 4,2730 | 4,2372 | 4,3042 |
+| CZK | 0,1746 | 0,1699 | 0,1719 | 0,1712 |
+| RON | 0,8291 | 0,8589 | 0,8397 | 0,8652 |
+| HUF | 0,0110 | 0,0104 | - | - |
+| GBP | 4,8399 | 5,1488 | 4,9476 | 5,0960 |
+| TRY | 0,0837 | 0,1161 | 0,0944 | 0,1207 |
+| CLP | 0,0040 | 0,0041 | 0,0040 | 0,0042 |
+| IDR | 0,0002 | 0,0003 | 0,0002 | 0,0003 |
+| AED | 0,9818 | 1,1167 | 1,0190 | 1,0846 |
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.3. Środki pieniężne i ich ekwiwalenty**
+Środki pieniężne składają się z depozytów bankowych płatnych na żądanie. Grupa zalicza do ekwiwalentów pieniężnych inwestycje, jeżeli są łatwo wymienialne na określoną kwotę środków pieniężnych, są narażone na nieznaczne ryzyko zmiany wartości oraz posiadają trzymiesięczny lub krótszy termin płatności, licząc od daty ich nabycia.  
+Grupa wykazuje przepływy pieniężne, posługując się metodą pośrednią.  
+Przychody z tytułu odsetek otrzymanych od środków pieniężnych i ich ekwiwalentów oraz koszty z tytułu odsetek zapłaconych klientom są klasyfikowane w działalności operacyjnej, natomiast koszty z tytułu odsetek zapłaconych z tytułu leasingu finansowego są klasyfikowane w działalności finansowej.  
+Środki pieniężne obejmują środki pieniężne własne Grupy oraz środki pieniężne klientów. Środki pieniężne klientów są deponowane na rachunkach bankowych odrębnie od środków pieniężnych Grupy. Środki pieniężne klientów nie są uwzględniane w sprawozdaniu z przepływów pieniężnych Grupy.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **4.4. Aktywa i zobowiązania finansowe**
+Inwestycje ujmuje się w dniu zakupu i wyłącza ze sprawozdania finansowego w dniu sprzedaży (transakcje ujmowane są na dzień zawarcia), jeśli umowa wymaga dostarczania ich w terminie wyznaczonym przez odpowiedni rynek, a ich wartość początkową wycenia się w wartości godziwej. Koszty transakcyjne dotyczące nabycia aktywów i zobowiązań finansowych wycenianych w wartości godziwej przez wynik finansowy są ujmowane w kosztach okresu, natomiast koszty transakcyjne dotyczące pozostałych kategorii aktywów i zobowiązań finansowych są uwzględniane w wartości początkowej tych aktywów i zobowiązań.  
+15  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.  
+Aktywa finansowe klasyfikuje się jako:  
+- aktywa finansowe wyceniane w zamortyzowanym koszcie,  
+- aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy (w tym aktywa finansowe przeznaczone do obrotu),  
+- aktywa finansowe wyceniane w wartości godziwej przez inne całkowite dochody.  
+Zobowiązania finansowe klasyfikuje się jako:  
+- zobowiązania finansowe wyceniane w zamortyzowanym koszcie,  
+- zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy (w tym zobowiązania finansowe przeznaczone do obrotu).  
+Grupa klasyfikuje składnik aktywów finansowych na podstawie modelu biznesowego jednostki w zakresie zarządzania aktywami finansowymi oraz charakterystyki wynikających z umowy przepływów pieniężnych dla składnika aktywów finansowych (tzw. „kryterium SPPI”). Grupa dokonuje reklasyfikacji inwestycji w instrumenty dłużne wtedy i tylko wtedy, gdy zmianie ulega model zarządzania tymi aktywami.

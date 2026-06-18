@@ -1,0 +1,86 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **15. Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **16. Aktywa finansowe wyceniane w zamortyzowanym koszcie** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **17. Rozliczenia międzyokresowe** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **21. Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Aktywa trwałe w podziale na obszary geograficzne** | **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 > **Ruchy w pozycji odpisy aktualizujące należności**
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **15. Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy**
+| **(w tys. PLN)** **Instrumenty pochodne kontrakty na różnice (CFD)** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| CFD na towary | 286 036 | 190 466 |
+| CFD na indeksy | 139 893 | 98 168 |
+| CFD na waluty | 217 881 | 130 087 |
+| CFD na akcje i ETF | 114 597 | 102 670 |
+| CFD na obligacje | 41 | 401 |
+| **Instrumenty dłużne (obligacje skarbowe)** | **5 598** | **419 633** |
+| **Instrumenty dłużne (obligacje korporacyjne)** | **-** | **10 015** |
+| **Akcje i ETF** | **242 927** | **172 483** |
+| **Aktywa finansowe wyceniane w wartości godziwej przez wynik finansowy** **razem** | **1 006 973** | **1 123 923** |
+Informacja na temat oszacowanej wartości godziwej instrumentów znajduje się w nocie 35.1.1.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **16. Aktywa finansowe wyceniane w zamortyzowanym koszcie**
+| **(w tys. PLN)** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Należności handlowe | 41 392 | 22 151 |
+| Należności od KDPW | 52 152 | 24 004 |
+| Należności od klientów | 24 576 | 12 665 |
+| Kaucje i depozyty | 6 983 | 6 276 |
+| Należności publiczno-prawne | 1 975 | 1 184 |
+| **Należności pozostałe brutto** | **127 078** | **66 280** |
+| Odpisy aktualizujące wartość należności pozostałych | (2 155) | (1 083) |
+| Odpisy aktualizujące wartość należności od klientów | (17 162) | (10 171) |
+| **Należności pozostałe netto razem** | **107 761** | **55 026** |
+31  
+xtb.com  
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Ruchy w pozycji odpisy aktualizujące należności**
+| **(w tys. PLN)** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| **Odpisy aktualizujące wartość należności na początek okresu** **sprawozdawczego** | **(11 254)** | **(8 843)** |
+| utworzenie odpisów | (8 463) | (3 599) |
+| rozwiązanie odpisów | 400 | 1 188 |
+| wykorzystanie odpisów | - | - |
+| **Odpisy aktualizujące wartość należności na koniec okresu sprawozdawczego** | **(19 317)** | **(11 254)** |
+Odpisy aktualizujące należności utworzone w 2025 roku oraz 2024 roku są wynikiem powstałych w tych okresach debetów klientów.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **17. Rozliczenia międzyokresowe**
+| **17.** **Rozliczenia międzyokresowe** **(w tys. PLN)** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| CRM - obsługa klientów i sprzedaży | 6 264 | 5 274 |
+| Licencje i serwisy informacyjne | 11 739 | 6 862 |
+| Obsługa baz danych | 1 449 | 1 595 |
+| Reklama | 3 705 | 1 514 |
+| Czynsz przedpłacony | 567 | 352 |
+| Ubezpieczenia | 740 | 536 |
+| Pozostałe | 4 573 | 3 553 |
+| **Razem rozliczenia międzyokresowe** | **29 037** | **19 686** |
+**Skonsolidowane sprawozdanie finansowe za rok zakończony 31 grudnia 2025 roku** Grupa Kapitałowa XTB S.A.
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **Aktywa trwałe w podziale na obszary geograficzne**
+| **(w tys. PLN)** **Aktywa trwałe** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| Europa Środkowo-Wschodnia | 42 054 | 42 396 |
+| _- w tym Polska_ | _36 686_ | _36 692_ |
+| Europa Zachodnia | 13 244 | 12 425 |
+| Ameryka Łacińska | 448 | 1 343 |
+| Bliski Wschód | 7 725 | 10 163 |
+| Azja | 1 334 | 1 016 |
+| **Razem aktywa trwałe** **20.** **Zobowiązania wobec klientów** | **64 805** | **67 343** |
+| **(w tys. PLN)** | **31.12.2025** | **31.12.2024** |
+| Zobowiązania wobec klientów detalicznych | 6 428 875 | 4 082 840 |
+| Zobowiązania wobec klientów instytucjonalnych | 99 348 | 82 055 |
+| **Zobowiązania wobec klientów** | **6 528 223** | **4 164 895** |
+Zobowiązania wobec klientów wynikają z transakcji zawieranych przez klientów (w tym środków pieniężnych zdeponowanych na rachunkach klientów).
+
+# **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025
+## **21. Zobowiązania finansowe wyceniane w wartości godziwej przez wynik finansowy**
+| **finansowy** **(w tys. PLN)** **Instrumenty pochodne kontrakty na różnice (CFD)** | **31.12.2025** | **31.12.2024** |
+| --- | --- | --- |
+| CFD na akcje i ETF | 81 815 | 62 210 |
+| CFD na towary | 117 012 | 23 390 |
+| CFD na waluty | 51 015 | 106 327 |
+| CFD na indeksy | 21 313 | 16 128 |
+| CFD na obligacje | 4 | 138 |
+| **Zobowiązania finansowe wyceniane w wartości godziwej przez wynik** **finansowy razem** | **271 159** | **208 193** |

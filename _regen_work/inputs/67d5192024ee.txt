@@ -1,0 +1,26 @@
+DOKUMENT SEKCJA: **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco** > 3.3 Segment Formula Systems
+
+# **B. Komentarz oraz informacje dodatkowe do raportu kwartalnego Grupy Asseco**
+
+## 3.3 Segment Formula Systems
+
+Przychody<br>6,7%<br>2 801,6  2 990,3<br>Q1 2024 Q1 2025<br>EBITDA<br>10,2%<br>406,7<br>368,9<br>Q1 2024 Q1 2025<br>Poniższa tabela prezentuje wybrane dane finansowe dla segmentu Formula Systems za okres 3 miesięcy zakończony 31 marca 2025 roku oraz okres porównywalny:
+
+| **mln PLN** | **Q1 2025** | **Q1 2024** **_(przekształcone)_** | **Zmiana** **Q1'25 / Q1'24** |
+| --- | --- | --- | --- |
+| **Przychody ze sprzedaży*** | **2 990,3** | **2 801,6** | **6,7%** |
+| **EBIT** | **270,5** | **236,6** | **14,3%** |
+| _Marża EBIT_ | _9,0%_ | _8,4%_ | _+0,6 p.p._ |
+| **EBIT non-IFRS** | **343,5** | **307,5** | **11,7%** |
+| _Marża EBIT non-IFRS_ | _11,5%_ | _11,0%_ | _+0,5 p.p._ |
+| **EBITDA** | **406,7** | **368,9** | **10,2%** |
+| _Marża EBITDA_ | _13,6%_ | _13,2%_ | _+0,4 p.p._ |
+| CFO BT | 259,8 | 307,9 | (15,6%) |
+| CAPEX | (26,5) | (28,6) | (7,3%) |
+| Wydatki z tytułu leasingu | (42,7) | (50,6) | (15,6%) |
+| FCF | 190,6 | 228,7 | (16,7%) |
+| Wskaźnik konwersji gotówki | 55% | 74% | (19,0) p.p. |
+| Środki pieniężne (okres porównywalny – 31 grudnia 2024) | 1 781,9 | 2 082,0 | (14,4%) |
+| Dług odsetkowy (okres porównywalny – 31 grudnia 2024)** | (2 416,4) | (2 641,0) | (8,5%) |
+| _w tym kredyty, pożyczki i wyemitowane obligacje_ | _(1 799,2)_ | _(1 965,0)_ | _(8,4%)_ |
+| _w tym leasing_ | _(617,2)_ | _(676,0)_ | _(8,7%)_ |

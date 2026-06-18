@@ -1,0 +1,92 @@
+DOKUMENT SEKCJA: **Ryzyko płynności** | _**Ekspozycja na ryzyko kredytowe – Inwestycje w pakiety wierzytelności**_ | _**Ekspozycja na ryzyko płynności**_
+
+## _**Ekspozycja na ryzyko kredytowe – Inwestycje w pakiety wierzytelności**_
+| _w tysiącach złotych_ | **30.06.2025** | **niebadane** | **31.12.2024** | **30.06.2024** | **niebadane** |
+| --- | --- | --- | --- | --- | --- |
+| Portfele detaliczne niezabezpieczone | 9 724 660 | 9 375 242 | 8 145 811 |  |  |
+| Portfele detaliczne zabezpieczone | 229 804 | 255 418 | 257 908 |  |  |
+| Portfele korporacyjne niezabezpieczone | 294 002 | 299 321 | 217 783 |  |  |
+| Portfele korporacyjne zabezpieczone | 548 864 | 570 297 | 521 503 |  |  |
+| 10 797 330 | 10 500 278 | 9 143 005 |  |  |  |
+_**Ekspozycja na ryzyko kredytowe – Udzielone pożyczki**_  
+**Wartość na dzień 30.06.2025**  
+w tysiącach złotych  
+| **Klasyfikacja ryzyka** | **Koszyk 1** **Koszyk 2** **Koszyk 3** **POCI** **Razem** |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Wartości brutto udzielonych pożyczek wycenianych** |  | **wg zamortyzowanego kosztu** |  |  |  |  |
+| niskie |  | 308 105 | 96 619 | 289 368 | - | 694 092 |
+| średnie |  | 55 724 | 21 761 | 86 218 | 304 | 164 007 |
+| wysokie |  | 1 724 | 940 | 18 645 | 704 | 22 013 |
+| bez klasyfikacji |  | 308 | 178 | 44 192 | 544 | 45 222 |
+| 365 861 **Odpisy na oczekiwane straty kredytowe** | 119 498 | 438 423 | 1 552 | 925 334 |  |  |
+| niskie |  | 17 073 | 14 893 | 206 275 | - | 238 241 |
+| średnie |  | 4 661 | 5 943 | 62 052 | - | 72 656 |
+| wysokie |  | 289 | 314 | 15 004 | - | 15 607 |
+| bez klasyfikacji |  | 22 | 12 | 40 026 | - | 40 060 |
+| 22 045 **Wartość netto** | 21 162 | 323 357 | - | 366 564 |  |  |
+| niskie |  | 291 032 | 81 726 | 83 093 | - | 455 851 |
+| średnie |  | 51 063 | 15 818 | 24 166 | 304 | 91 351 |
+| wysokie |  | 1 435 | 626 | 3 641 | 704 | 6 406 |
+| bez klasyfikacji |  | 286 | 166 | 4 166 | 544 | 5 162 |
+| 343 816 | 98 336 | 115 066 | 1 552 | 558 770 |  |  |
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+| niskie | 290 615 | 88 190 | 254 622 | - | 633 427 |
+| --- | --- | --- | --- | --- | --- |
+| średnie | 44 535 | 25 826 | 75 491 | 387 | 146 239 |
+| wysokie | 1 410 | 683 | 18 907 | 508 | 21 508 |
+| bez klasyfikacji | 266 | 169 | 44 325 | 604 | 45 364 |
+| 336 826 **Odpis na oczekiwane straty kredytowe** | 114 868 | 393 345 | 1 499 | 846 538 |  |
+| niskie | 22 069 | 17 627 | 185 224 | - | 224 920 |
+| średnie | 4 550 | 7 605 | 55 137 | - | 67 292 |
+| wysokie | 220 | 206 | 14 896 | - | 15 322 |
+| bez klasyfikacji | 30 | 21 | 39 349 | - | 39 400 |
+| 26 869 **Wartość netto** | 25 459 | 294 606 | - | 346 934 |  |
+| niskie | 268 546 | 70 563 | 69 398 | - | 408 507 |
+| średnie | 39 985 | 18 221 | 20 354 | 387 | 78 947 |
+| wysokie | 1 190 | 477 | 4 011 | 508 | 6 186 |
+| bez klasyfikacji | 236 | 148 | 4 976 | 604 | 5 964 |
+| 309 957 | 89 409 | 98 739 | 1 499 | 499 604 |  |
+Klasyfikacja ze względu na segment ryzyka dokonywana jest na moment udzielenia pożyczki.  
+Kryterium klasyfikacji do poszczególnych grup ryzyka jest opóźnienie w spłatach rat kapitałowych:  
+- pożyczki w niskiej grupie ryzyka – udział opóźnionych pożyczek w spłacie kapitału oscyluje na poziomie 5%,  
+- pożyczki w średniej grupie ryzyka – udział opóźnionych pożyczek w spłacie kapitału oscyluje na poziomie 10%,  
+- pożyczki w wysokiej grupie ryzyka – grupa podwyższonego ryzyka, dla której poziom opóźnienia w spłacie kapitału wynosi ok. 20%.  
+W trakcie okresu życia pożyczki następuje jej klasyfikacja według koszyków.
+
+## **Ryzyko płynności**
+Ryzyko utraty płynności to ryzyko wystąpienia sytuacji, w której Grupa nie jest w stanie terminowo regulować swoich zobowiązań.  
+Zarządzanie ryzykiem płynności polega na zapewnieniu zdolności Grupy do regulowania zobowiązań finansowych bez narażania na ewentualne straty lub podważenie reputacji Grupy. Główne cele zarządzania płynnością to:  
+- zabezpieczenie Grupy Kruk przed utratą zdolności do regulowania zobowiązań,  
+- zapewnienie finansowania dla bieżącej działalności i dla rozwoju Grupy,  
+- efektywne zarządzanie dostępnymi źródłami finansowania.  
+Grupa posiada opracowane zasady zarządzania płynnością finansową, które regulują m.in. zasady zaciągania finansowania dłużnego, przeprowadzania analiz i prognoz dotyczących płynności Grupy, monitorowanie wypełniania zobowiązań wynikających z zawartych umów kredytowych.  
+Bezpieczeństwo płynności Grupy analizowane jest cyklicznie poprzez analizę wrażliwości w odniesieniu do zmiany prognozowanego poziomu wpłat z portfeli wierzytelności.  
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+Zgodnie z zasadami zarządzania płynnością, którymi kieruje się Grupa, aby nowe zadłużenie finansowe mogło być zaciągnięte przez podmiot z Grupy, muszą być spełnione następujące warunki:  
+- spłata zadłużenia jest możliwa z posiadanych własnych aktywów Grupy,  
+- zadłużenie jest zaciągane z uwzględnieniem możliwości oraz czasu i kosztów transferu środków pomiędzy spółkami,  
+- zaciągnięcie długu nie spowoduje przekroczenia wskaźników finansowych ustalonych w umowach kredytowych i w warunkach emisji obligacji.
+
+## _**Ekspozycja na ryzyko płynności**_
+| Inwestycje w pakiety wierzytelności | 10 797 330 | 23 892 657 | 1 674 607 | 1 741 472 | 3 150 741 | 6 914 635 | 10 411 202 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Udzielone pożyczki | 561 413 | 881 988 | 271 094 | 191 291 | 236 553 | 91 501 | 91 549 |
+| Zabezpieczone kredyty i pożyczki | (3 083 411) | (3 742 179) | (124 628) | (155 759) | (292 407) | (3 169 385) | - |
+| Niezabezpieczone wyemitowane obligacje | (3 387 014) | (4 461 896) | (169 275) | (282 825) | (866 553) | (2 408 336) | (734 907) |
+| Zobowiązania z tytułu leasingu | (71 024) | (85 861) | (10 426) | (8 254) | (16 695) | (36 161) | (14 325) |
+| 4 951 255 | 16 618 670 | 1 775 333 | 1 485 925 | 2 211 639 | 1 392 254 | 9 753 519 |  |
+_*Przepływy pieniężne pozycji wynikają z szacunków_  
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+| Inwestycje w pakiety wierzytelności | 10 500 278 | 23 147 233 | 1 692 715 | 1 611 937 | 3 091 801 | 6 798 541 | 9 952 238 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Udzielone pożyczki | 502 905 | 691 074 | 206 554 | 154 075 | 173 654 | 82 780 | 74 011 |
+| Zabezpieczone kredyty i pożyczki | (3 458 610) | (4 509 115) | (151 206) | (153 456) | (362 199) | (3 842 254) | - |
+| Niezabezpieczone wyemitowane obligacje | (3 109 702) | (4 079 737) | (355 339) | (156 497) | (513 148) | (2 918 690) | (136 063) |
+| Zobowiązania z tytułu leasingu | (58 239) | (70 299) | (13 073) | (12 710) | (13 025) | (28 174) | (3 317) |
+| 4 427 881 | 15 230 405 | 1 430 900 | 1 443 349 | 2 377 083 | 92 203 | 9 886 869 |  |
+_*Przepływy pieniężne pozycji wynikają z szacunków_  
+Powyższe dane nie uwzględniają wydatków na i wpływów z nabytych w przyszłości portfeli wierzytelności oraz przyszłych kosztów działalności operacyjnej, które są niezbędne do uzyskania wpływów z aktywów finansowych.  
+Przepływy pieniężne wynikające z umowy zostały ustalone w oparciu o stopy procentowe obowiązujące odpowiednio na dzień 30 czerwca 2025 r. i 31 grudnia 2024 r.  
+Grupa nie oczekuje, że spodziewane przepływy pieniężne, zawarte w analizie terminów wymagalności, mogą wystąpić znacząco wcześniej lub w znacząco innych kwotach.  
+_Raport półroczny – Skrócone śródroczne skonsolidowane sprawozdanie finansowe_  
+Grupa posiada na dzień 30 czerwca 2025 r. dostępny niewykorzystany limit kredytu odnawialnego w wysokości 1 182 877 tys. zł (31.12.2024 r.: 475 189 tys. zł). Niewykorzystany limit dostępny jest do 31 grudnia 2029 r.

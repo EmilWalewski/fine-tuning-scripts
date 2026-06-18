@@ -1,0 +1,49 @@
+DOKUMENT SEKCJA: **SKONSOLIDOWANY RAPORT ROCZNY GRUPY KAPITAŁOWEJ XTB S.A.** 2025 >
+
+| Mobilna aplikacja inwestycyjna XTB umożliwia autoryzację za pomocą hasła, oferuje | zabezpieczenie dostępu przy użyciu kodu lub biometrii. W aplikacji inwestycyjnej XTB klienci | od 2025 roku logują z pomocą tzw. 2FA, czyli uwierzytelniania dwuskładnikowe. | Nasz zespół odpowiada za nadzór oraz zapewnienie zgodności procesów z obowiązującymi normami, ze szczególnym uwzględnieniem normy ISO 27001 dotyczącej systemu | zarządzania bezpieczeństwem informacji. Zespół ten monitoruje wdrożenie oraz utrzymanie | procedur (również zachowania ciągłości działania), prowadzi regularne przeglądy | wewnętrzne, identyfikuje obszary wymagające doskonalenia oraz koordynuje działania | niezbędne do zachowania zgodności z wymaganiami normy, co pozwala na skuteczne |  | zarządzanie ryzykiem i ochronę zasobów informacyjnych. |  | Cyklicznie oraz w zależności od potrzeb przeprowadzamy przeglądy dokumentacji, | procesów, procedur i systemów w odniesieniu do wymagań norm (m.in. ISO 9001, ISO 27001 | czy ISO 22301) oraz obowiązującego nas rozporządzenia DORA przez zewnętrznych | audytorów. W ramach takich testów/ audytów potwierdzamy zgodność z międzynarodowymi standardami, skuteczność wdrożonych polityk, procedur i mechanizmów kontrolnych, dojrzałość systemu zarządzania, gotowość na sytuacje awaryjne i ryzyka, dbałość o jakość, | bezpieczeństwo informacji, środowisko itd. | **Dostępność w XTB** |  | Zgodnie z wdrożonym na terenie UE w połowie 2025 roku aktem prawnym dotyczącym | dostępności, tzw. European Accessibility Act (EAA), rozszerzającym obowiązki dostępności | na wiele przedsiębiorstw prywatnych, oferujących usługi cyfrowe, podjęliśmy działania celem | dostosowania do nowych wymagań. Oprócz szkoleń zewnętrznych dla projektantów, | deweloperów oraz testerów, przeprowadziliśmy również wewnętrzne szkolenia dla testerów, | struktur administracyjnych oraz sprzedażowych z wdrażania, testowania dostępności oraz | z zakresu asysty i obsługi osób ze szczególnymi potrzebami. W 2026 roku szkoleniami | zostaną objęte kolejne grupy pracowników XTB. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+• Inne (w tym wnioski i pełnomocnictwa)
+• Oprócz tego klienci XTB mają dostęp do dokumentów tj.:
+• Strategia Zarządzania Skargami XTB S.A.
+• Instrukcja Dotycząca Składania Skarg
+• W badanym okresie sprawozdawczym nie odnotowano przypadków nieprzestrzegania
+• Wytycznych ONZ dotyczących biznesu i praw człowieka, Deklaracji Międzynarodowej
+• Organizacji Pracy dotyczącej podstawowych zasad i praw w pracy lub Wytycznych OECD
+• dla przedsiębiorstw międzynarodowych, które dotyczą konsumentów lub użytkowników
+• końcowych.
+• 3.2.3. Kanały zgłoszeń i działania naprawcze
+• **S4-1 / S4-3** Grupa XTB wdrożyła kompleksowy proces zarządzania reklamacjami, który ma ułatwiać zgłaszanie reklamacji, szybką analizę zgłoszeń oraz skuteczne naprawianie
+• wszelkich negatywnych wpływów na konsumentów i użytkowników końcowych.
+• Główne zasady tego procesu to:
+• Transparentność: klienci otrzymują precyzyjną informację co do sposobów zgłaszania skarg, informację o etapie procesu oraz o decyzji, wraz z uzasadnieniem. Szybkość: reklamacje są przyjmowane i rozpatrywane niezwłocznie, zgodnie
+• z ustalonymi standardami czasowymi, aby jak najszybciej zrekompensować
+• klientom ewentualne straty lub niedogodności.
+• Skuteczność: proces reklamacyjny jest opracowany tak, aby przebiegał w sposób
+• efektywny oraz nie tylko brał pod uwagę skutki, lecz również przyczyny powstania
+• problemów, co pozwala na zapobieganie ich powtarzaniu się w przyszłości.
+• rozpatrywania skarg oraz zgłaszania nieprawidłowości,
+• kontroli wewnętrznej i audytu, etyki, konfliktów interesów, przeciwdziałania korupcji i przekupstwu oraz praniu
+• pieniędzy.
+• Nie wdrożyliśmy jednolitej polityki adresującej wszystkie istotne kwestie zrównoważonego
+• rozwoju w obszarze konsumenckim, jednakże każdy istotny temat jest pokryty niezależną
+• procedurą. Kwestie dotyczące praw człowieka, mogące być istotne z perspektywy klientów
+• stanowią natomiast podstawę Strategii ESG na lata 2024-2027 oraz Kodeksu Etyki XTB S.A.
+• Jako podmiot rynku finansowego jesteśmy zobligowani dostarczać naszym klientom niezbędnych informacji przedstawiających transparentnie zasady współpracy z XTB.
+• Na naszej stronie internetowej znajdują się regulaminy oraz dokumenty, których znajomość
+• jest niezbędna przy podpisywaniu umowy o otwarcie rachunku inwestycyjnego z XTB, m.in.:
+• Regulamin świadczenia usług wykonywania zleceń nabycia lub zbycia praw
+• majątkowych i papierów wartościowych, prowadzenia rachunków papierów
+• wartościowych i praw majątkowych i rachunków pieniężnych przez XTB S.A.
+• (Warunki Ogólne)
+• Polityka Realizacji Zleceń (kluczowe założenia zgodne z wymogami dyrektyw Unii Europejskiej w sprawie rynków instrumentów finansowych, wymogów organizacyjnych i warunków prowadzenia działalności przez przedsiębiorstwa inwestycyjne oraz pojęć zdefiniowanych na potrzeby tych dyrektyw)
+• Regulamin sporządzania rekomendacji ogólnych przez XTB S.A. (Regulamin
+• Rekomendacji)
+• Umowa Świadczenia Usług przez XTB S.A. wraz z załącznikami
+• Umowa IKE
+• Deklaracja Świadomości Ryzyka
+• Kwestionariusz MiFID
+• Podstawowe informacje na temat XTB S.A.
+
+| i nierównego traktowania wobec naszych klientów, którzy zgłosili reklamację, skargę | lub zażalenie. |  | Proces reklamacyjny stanowi dla XTB cenne źródło informacji, dlatego też rozpatrzenie | reklamacji nie jest końcem procesu. W systematycznych cyklach sporządzane są raporty | i analizy dotyczące otrzymanych od klientów zgłoszeń. Dzięki temu firma jest w stanie określić | przyczyny zgłoszeń oraz określić i wdrożyć adekwatne działania naprawcze. | Dzięki dzieleniu się wiedzą co do powodów zgłoszeń, firma jest w stanie wprowadzać | w sposób szybki i efektywny środki naprawcze. Po ich wdrożeniu dokonywana jest ocena | skuteczności, proces reklamacyjny jest monitorowany, aby upewnić się, że problem został | całkowicie rozwiązany i nie wystąpią już podobne sytuacje. |  |  | Klienci XTB mogą zgłaszać drogą reklamacji/ skargi swoje wątpliwości oraz wszelkie | nieprawidłowości, które zidentyfikowali. W 2025 roku otrzymaliśmy łącznie 9 565 reklamacji | od konsumentów i użytkowników końcowych Grupy XTB względem 6 816 reklamacji w 2024 | roku (+40% r/r). Wzrost można powiązać ze wzrostem liczby klientów (+59% r/r). Ilość | reklamacji otrzymanaw 2025 roku stanowi 0,4% całkowitej ilości 2 164 867 klientów na dzień | 31.12.2025 (-0,1 p.p. r/r). Podobnie jak przed rokiem, w 2025 roku najczęściej zgłaszane były | reklamacje dotyczące m.in. problemów technicznych dotyczących korzystania z aplikacji | czy zleceń składanych przez naszych klientów. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

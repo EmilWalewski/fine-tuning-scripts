@@ -1,0 +1,85 @@
+DOKUMENT SEKCJA: **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ** | **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM**
+
+## **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE Z CAŁKOWITYCH DOCHODÓW**
+za okres 9 miesięcy zakończony dnia 31 października 2025 roku  
+| Narastająco | III kwartał | III kwartał |  |  |
+| --- | --- | --- | --- | --- |
+| **dochodów (w mln PLN)** **Działalność kontynuowana** | **31.10.2025** | **31.10.2024** | **31.10.2025** | **31.10.2024** |
+| Przychody ze sprzedaży | 13 734 | 12 001 | 5 244 | 4 349 |
+| Koszt własny sprzedaży | 7 686 | 6 964 | 2 830 | 2 529 |
+| **Zysk (strata) brutto na sprzedaży** | **6 048** | **5 037** | **2 414** | **1 820** |
+| Koszty sklepów i dystrybucji | 3 421 | 3 096 | 1 203 | 1 102 |
+| Koszty ogólne | 657 | 614 | 234 | 211 |
+| Pozostałe przychody operacyjne | 314 | 25 | 15 | -3 |
+| Pozostałe koszty operacyjne | 1 182 | 7 | 809 | 13 |
+| **Zysk (strata) z działalności operacyjnej** | **1 102** | **1 305** | **183** | **491** |
+| Przychody fnansowe | 406 | 340 | 87 | 46 |
+| Koszty fnansowe | 194 | 76 | 81 | 1 |
+| **Zysk (strata) brutto** | **1 314** | **1 569** | **189** | **536** |
+| Podatek dochodowy | 374 | 260 | 212 | 104 |
+| **Zysk (strata) netto z działalności** **kontynuowanej** | **940** | **1 309** | **-23** | **432** |
+| **Całkowite dochody ogółem** | **940** | **1 309** | **-23** | **432** |
+| Inne całkowite dochody **Całkowite dochody ogółem** | **940** | **1 309** | **-23** | **432** |
+| **Zysk (strata) netto na jedną akcję** **(w PLN)** | **506,50** | **705,55** | **-12,39** | **232,85** |
+| **Rozwodniony zysk (strata) netto na** **jedną akcję (w PLN)** | **506,09** | **705,32** | **-12,38** | **232,77** |
+
+## **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE Z SYTUACJI FINANSOWEJ**
+na dzień 31 października 2025 roku  
+Stan na dzień Sprawozdanie z sytuacji fnansowej (w mln PLN) 31.10.2025 31.01.2025 31.10.2024 AKTYWA
+Aktywa trwałe 6 553 5 860 5 793 1. Rzeczowe aktywa trwałe 1 496
+1 432 1 334 2. Aktywa z tytułu prawa do użytkowania 1 352 1 257 1 237
+3. Aktywa niematerialne 428 347 306 4. Wartość frmy 180
+180 180 5. Znak towarowy 78 78 78
+6. Inwestycje w jednostkach zależnych 1 790 1 767 1 720 7. Należności długoterminowe 0
+148 273 8. Aktywa z tytułu podatku odroczonego 91 123 129
+9. Rozliczenia międzyokresowe 3 3 3 10. Pozostałe aktywa fnansowe 1 135
+525 533 Aktywa obrotowe 7 752 7 639 7 270
+1. Zapasy 3 634 3 894 3 192 2. Należności z tytułu dostaw i usług 2 619
+2 114 2 222 3. Należności krótkoterminowe 293 178 105
+4. Należności z tytułu podatku dochodowego 0 0 0 5. Pozostałe aktywa niefnansowe 2
+12 18 6. Rozliczenia międzyokresowe 33 31 32
+7. Pozostałe aktywa fnansowe 120 66 120 8. Depozyty i fundusze inwestycyjne 849
+865 845 9. Środki pieniężne i ich ekwiwalenty 202 479 736
+Aktywa RAZEM 14 305 13 499 13 063 Stan na dzień Sprawozdanie z sytuacji fnansowej (w mln PLN)
+31.10.2025 31.01.2025 31.10.2024
+KAPITAŁ WŁASNY I ZOBOWIĄZANIA Kapitał własny 5 035 5 303 4 974 1. Kapitał podstawowy
+4 4 4 2. Kapitał ze sprzedaży akcji powyżej ich wartości nominalnej 364
+364 364 3. Pozostałe kapitały 3 391 2 957 2 961
+4. Zyski zatrzymane 1 276 1 978 1 645
+Zobowiązania długoterminowe 1 531 1 694 1 669 1. Kredyty bankowe i pożyczki 377
+619 571 2. Zobowiązania z tytułu leasingu 1 139 1 063 1 085
+3. Zobowiązania z tytułu świadczeń pracowniczych 2 2 1 4. Rozliczenia międzyokresowe 13
+10 12
+Zobowiązania krótkoterminowe 7 739 6 502 6 420 1. Zobowiązania z tytułu dostaw i usług oraz pozostałe zobowiązania
+5 264 5 174 5 241 2. Zobowiązania z tytułu dywidendy 0 0
+0 3. Zobowiązania kontraktowe 21 26 17 4. Zobowiązania do zwrotu zapłaty
+92 59 74 5. Kredyty bankowe i pożyczki 1 680 550
+476 6. Zobowiązania z tytułu leasingu 460 441 429 7. Zobowiązania z tytułu świadczeń pracowniczych
+17 50 21 8. Zobowiązania z tytułu podatku dochodowego 143 148
+122 9. Rozliczenia międzyokresowe 62 54 40
+Kapitał własny i zobowiązania RAZEM 14 305 13 499 13 063
+
+## **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE Z PRZEPŁYWÓW PIENIĘŻNYCH**
+za okres 9 miesięcy zakończony dnia 31 października 2025 roku
+
+## **ŚRÓDROCZNE SKRÓCONE JEDNOSTKOWE SPRAWOZDANIE ZE ZMIAN W KAPITALE WŁASNYM**
+za okres 9 miesięcy zakończony dnia 31 października 2025 roku  
+Sprawozdanie ze zmian w kapitale własnym  Kapitał ze sprzedaży akcji Kapitał podstawowy Pozostałe kapitały Zyski zatrzymane Kapitał własny RAZEM (w mln PLN) powyżej ich wartości |**Stan na 1 lutego 2025 roku**|**4**|**364**|**2 957**|**1 978**|**5 303**|
+| Wynagrodzenie płatne akcjami | 0 | 0 | 17 | 0 | 17 |
+| --- | --- | --- | --- | --- | --- |
+| Podział wyniku za 2024 rok | 0 | 0 | 417 | -417 | 0 |
+| Wypłata dywidendy | 0 | 0 | 0 | -1 225 | -1 225 |
+| **Transakcje z właścicielami** | **0** | **0** | **434** | **-1 642** | **-1 208** |
+| Zysk netto za 9 m-cy do 31 października 2025 roku | 0 | 0 | 0 | 940 | 940 |
+| **Całkowite dochody ogółem** | **0** | **0** | **0** | **940** | **940** |
+| **Stan na 31 października 2025 roku** | **4** | **364** | **3 391** | **1 276** | **5 035** |
+| **Stan na 1 lutego 2024 roku** | **4** | **364** | **2 460** | **1 962** | **4 790** |
+| Wynagrodzenie płatne akcjami | 0 | 0 | 7 | 0 | 7 |
+| Podział wyniku za 2023 rok | 0 | 0 | 494 | -494 | 0 |
+| Wypłata dywidendy | 0 | 0 | 0 | -1 132 | -1 132 |
+| **Transakcje z właścicielami** | **0** | **0** | **501** | **-1 626** | **-1 125** |
+| Zysk netto za 9 m-cy do 31 października 2024 roku | 0 | 0 | 0 | 1 309 | 1 309 |
+| **Całkowite dochody ogółem** | **0** | **0** | **0** | **1 309** | **1 309** |
+| **Stan na 31 października 2024 roku** | **4** | **364** | **2 961** | **1 645** | **4 974** |
+WWW.LPP.COM  
+**discoverlpp company/lpp-sa discoverlpp discoverlpp**
